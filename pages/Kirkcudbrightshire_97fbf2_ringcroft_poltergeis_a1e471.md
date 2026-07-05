@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:22'
 parent_title: Haunted Kirkcudbrightshire
 parent_permalink: /where-do-kirkcudbrightshires-ghost/
 parent_nav_short_title: Haunted Kirkcudbrightshire
@@ -239,7 +240,6 @@ next_link:
   permalink: /town-haunts/
   short_title: Town Haunts
   heading_title: How Did Kirkcudbright Become a Haunted Town?
-date: '2026-07-05 13:02:22 '
 header:
   og_image: /assets/images/Kirkcudbrightshire_97fbf2_ringcroft_poltergeis_a1e471-overview-social.jpg
   preview_image: /assets/images/Kirkcudbrightshire_97fbf2_ringcroft_poltergeis_a1e471-overview.webp

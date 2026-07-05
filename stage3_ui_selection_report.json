@@ -34,7 +34,6 @@
     "long_title_branch_count": 0,
     "single_root_tree": false,
     "topic_labels": [
-      "Why Is Yorkshire So Full of Ghosts?",
       "Where Bedfordshire's Ghost Stories Gather",
       "Where Berkshire's Ghost Stories Still Linger",
       "Where Buckinghamshire's Ghost Stories Still Gather",
@@ -73,6 +72,7 @@
       "Where Does Haunted Westmorland Really Begin?",
       "Why Does Wiltshire Feel So Haunted?",
       "Where Does Worcestershire Keep Its Ghosts?",
+      "Why Is Yorkshire So Full of Ghosts?",
       "Where Aberdeenshire's Ghost Stories Still Gather",
       "Why Angus Haunts Its Old Places",
       "Why Does Argyllshire Feel So Haunted?",
@@ -134,7 +134,7 @@
     "home_layout_mode": "vertical",
     "auto_home_layout_mode": "catalog",
     "hierarchy_viz_mode": "hybrid",
-    "palette": "verdant-field",
+    "palette": "signal-cobalt",
     "motif": "constellation"
   },
   "candidates": []

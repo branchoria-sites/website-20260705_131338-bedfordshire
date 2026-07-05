@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:18'
 parent_title: Haunted Mearns
 parent_permalink: /why-do-kincardineshires-castles-feel/
 parent_nav_short_title: Haunted Mearns
@@ -213,12 +214,12 @@ breadcrumb_links:
   short_title: Haunted Mearns
 sibling_links:
 - basename: Kincardineshire_6f0ed9_crathes_green_lady_cb8442
-  title: Crathes | Why Do Kincardineshire's Castles Feel...
+  title: Crathes | Why Do Kincardineshire's Castles Feel Haunted?
   permalink: /crathes/
   short_title: Crathes
   heading_title: Who Is the Green Lady of Crathes?
 - basename: Kincardineshire_6f0ed9_dunnottar_haunted_va_a2870a
-  title: Dunnottar | Why Do Kincardineshire's Castles Feel...
+  title: Dunnottar | Why Do Kincardineshire's Castles Feel Haunted?
   permalink: /dunnottar/
   short_title: Dunnottar
   heading_title: Why Dunnottar Castle Became So Haunted
@@ -229,11 +230,10 @@ up_link:
   short_title: Haunted Mearns
 prev_link:
   basename: Kincardineshire_6f0ed9_dunnottar_haunted_va_a2870a
-  title: Dunnottar | Why Do Kincardineshire's Castles Feel...
+  title: Dunnottar | Why Do Kincardineshire's Castles Feel Haunted?
   permalink: /dunnottar/
   short_title: Dunnottar
   heading_title: Why Dunnottar Castle Became So Haunted
-date: '2026-07-05 13:02:18 '
 header:
   og_image: /assets/images/Kincardineshire_6f0ed9_muchalls_tunnel_lege_614884-overview-social.jpg
   preview_image: /assets/images/Kincardineshire_6f0ed9_muchalls_tunnel_lege_614884-overview.webp
@@ -491,11 +491,11 @@ For readers tracing haunted Kincardineshire, the value of Muchalls is not that i
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+souvenir+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle souvenir mug" data-ebay-reference="muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crescent Castle Dover Mug C1880 - Antique English Porcelain Souvenir Ware"><img src="{{ '/assets/images/marketplace-covers/02b84fdb3c656794a89c.jpg' | relative_url }}" alt="Listing image for Crescent Castle Dover Mug C1880 - Antique English Porcelain Souvenir Ware" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+souvenir+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle souvenir mug" data-ebay-reference="muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TINTAGEL CASTLE CORNWALL ~ SOUVENIR MUG VINTAGE KILNCRAFT ENGLISH HERITAGE"><img src="{{ '/assets/images/marketplace-covers/f527f97480f0d7c17ef0.jpg' | relative_url }}" alt="Listing image for TINTAGEL CASTLE CORNWALL ~ SOUVENIR MUG VINTAGE KILNCRAFT ENGLISH HERITAGE" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+souvenir+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle souvenir mug" data-ebay-reference="muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug" target="_blank" rel="sponsored noopener noreferrer">Crescent Castle Dover Mug C1880 - Antique English Porcelain Souvenir Ware</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+souvenir+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle souvenir mug" data-ebay-reference="muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug" target="_blank" rel="sponsored noopener noreferrer">TINTAGEL CASTLE CORNWALL ~ SOUVENIR MUG VINTAGE KILNCRAFT ENGLISH HERITAGE</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+souvenir+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle souvenir mug" data-ebay-reference="muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for castle souvenir mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: castle souvenir mug</a>
 <div class="fr-book-actions">
@@ -507,11 +507,11 @@ For readers tracing haunted Kincardineshire, the value of Muchalls is not that i
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+souvenir+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle souvenir mug" data-ebay-reference="muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TINTAGEL CASTLE CORNWALL ~ SOUVENIR MUG VINTAGE KILNCRAFT ENGLISH HERITAGE"><img src="{{ '/assets/images/marketplace-covers/f527f97480f0d7c17ef0.jpg' | relative_url }}" alt="Listing image for TINTAGEL CASTLE CORNWALL ~ SOUVENIR MUG VINTAGE KILNCRAFT ENGLISH HERITAGE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+souvenir+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle souvenir mug" data-ebay-reference="muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Crescent Castle Dover Mug C1880 - Antique English Porcelain Souvenir Ware"><img src="{{ '/assets/images/marketplace-covers/02b84fdb3c656794a89c.jpg' | relative_url }}" alt="Listing image for Crescent Castle Dover Mug C1880 - Antique English Porcelain Souvenir Ware" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+souvenir+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle souvenir mug" data-ebay-reference="muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug" target="_blank" rel="sponsored noopener noreferrer">TINTAGEL CASTLE CORNWALL ~ SOUVENIR MUG VINTAGE KILNCRAFT ENGLISH HERITAGE</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+souvenir+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle souvenir mug" data-ebay-reference="muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug" target="_blank" rel="sponsored noopener noreferrer">Crescent Castle Dover Mug C1880 - Antique English Porcelain Souvenir Ware</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+souvenir+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle souvenir mug" data-ebay-reference="muchalls-the-drowned-girl-beneath-muchalls-castle-kincardineshire-castle-souvenir-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for castle souvenir mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: castle souvenir mug</a>
 <div class="fr-book-actions">

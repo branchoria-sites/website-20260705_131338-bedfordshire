@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:48'
 parent_title: Haunted West Lothian
 parent_permalink: /where-west-lothians-ghost-stories-take/
 parent_nav_short_title: Haunted West Lothian
@@ -233,7 +234,6 @@ next_link:
   permalink: /linlithgow/
   short_title: Linlithgow
   heading_title: Who Haunts Linlithgow Palace Beside the Loch?
-date: '2026-07-05 13:02:48 '
 header:
   og_image: /assets/images/West_Lothian_1c9504_blackness_castle_pha_35f763-overview-social.jpg
   preview_image: /assets/images/West_Lothian_1c9504_blackness_castle_pha_35f763-overview.webp
@@ -442,6 +442,22 @@ The phantom knight endures because he is simple enough to remember and specific 
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle wall art" data-ebay-reference="blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disney Castle Fireworks Cartoon Film Large Wall Art Framed Canvas Picture 20x30&quot;"><img src="{{ '/assets/images/marketplace-covers/bc3c4b3df188e4b81c87.jpg' | relative_url }}" alt="Listing image for Disney Castle Fireworks Cartoon Film Large Wall Art Framed Canvas Picture 20x30&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle wall art" data-ebay-reference="blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Disney Castle Fireworks Cartoon Film Large Wall Art Framed Canvas Picture 20x30&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle wall art" data-ebay-reference="blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for castle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: castle wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle wall art" data-ebay-reference="blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle wall art" data-ebay-reference="blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DISNEY PRINCESS CASTLE GIRL CANVAS WALL ART PRINT ARTWORK PAINTING DEEP FRAMED"><img src="{{ '/assets/images/marketplace-covers/6d0568c6c8efac47ef10.jpg' | relative_url }}" alt="Listing image for DISNEY PRINCESS CASTLE GIRL CANVAS WALL ART PRINT ARTWORK PAINTING DEEP FRAMED" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -479,22 +495,6 @@ The phantom knight endures because he is simple enough to remember and specific 
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
 <a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle wall art" data-ebay-reference="blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Disney Princess Castle Wall Art Bedroom Nursery Decor Colour Vinyl Sticker Decal</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle wall art" data-ebay-reference="blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for castle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: castle wall art</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle wall art" data-ebay-reference="blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle wall art" data-ebay-reference="blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bamburgh Castle, England Travel Poster. Wall Art Print"><img src="{{ '/assets/images/marketplace-covers/b82d3f55675070b48fd5.jpg' | relative_url }}" alt="Listing image for Bamburgh Castle, England Travel Poster. Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle wall art" data-ebay-reference="blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Bamburgh Castle, England Travel Poster. Wall Art Print</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle wall art" data-ebay-reference="blackness-why-does-blackness-castle-feel-so-haunted-west-lothian-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for castle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: castle wall art</a>
 <div class="fr-book-actions">

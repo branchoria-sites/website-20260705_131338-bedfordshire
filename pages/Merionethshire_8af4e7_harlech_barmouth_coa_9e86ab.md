@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:03:06'
 parent_title: Haunted Meirionnydd
 parent_permalink: /where-merionethshires-haunted-landscape/
 parent_nav_short_title: Haunted Meirionnydd
@@ -213,12 +214,12 @@ breadcrumb_links:
   short_title: Haunted Meirionnydd
 sibling_links:
 - basename: Merionethshire_8af4e7_cader_idris_folklore_ca9221
-  title: Cader Idris | Where Merionethshire's Haunted Landscape Begins
+  title: Cader Idris | Where Merionethshire's Haunted Landscape...
   permalink: /cader-idris/
   short_title: Cader Idris
   heading_title: Would You Sleep Alone on Cader Idris?
 - basename: Merionethshire_8af4e7_nannau_haunted_oak_53f0d5
-  title: Nannau Oak | Where Merionethshire's Haunted Landscape Begins
+  title: Nannau Oak | Where Merionethshire's Haunted Landscape...
   permalink: /nannau-oak/
   short_title: Nannau Oak
   heading_title: Why Nannau's Haunted Oak Still Matters
@@ -229,17 +230,16 @@ up_link:
   short_title: Haunted Meirionnydd
 prev_link:
   basename: Merionethshire_8af4e7_cader_idris_folklore_ca9221
-  title: Cader Idris | Where Merionethshire's Haunted Landscape Begins
+  title: Cader Idris | Where Merionethshire's Haunted Landscape...
   permalink: /cader-idris/
   short_title: Cader Idris
   heading_title: Would You Sleep Alone on Cader Idris?
 next_link:
   basename: Merionethshire_8af4e7_nannau_haunted_oak_53f0d5
-  title: Nannau Oak | Where Merionethshire's Haunted Landscape Begins
+  title: Nannau Oak | Where Merionethshire's Haunted Landscape...
   permalink: /nannau-oak/
   short_title: Nannau Oak
   heading_title: Why Nannau's Haunted Oak Still Matters
-date: '2026-07-05 13:03:06 '
 header:
   og_image: /assets/images/Merionethshire_8af4e7_harlech_barmouth_coa_9e86ab-overview-social.jpg
   preview_image: /assets/images/Merionethshire_8af4e7_harlech_barmouth_coa_9e86ab-overview.webp
@@ -490,15 +490,15 @@ That is the real haunted edge of Merionethshire’s coast. Harlech and Barmouth 
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HAUNTED MANSION CASTLE GHOST ART WALL STICKER ROOM OFFICE DECOR DECAL MURAL ZK1"><img src="{{ '/assets/images/marketplace-covers/2015539f403e3c87bc29.jpg' | relative_url }}" alt="Listing image for HAUNTED MANSION CASTLE GHOST ART WALL STICKER ROOM OFFICE DECOR DECAL MURAL ZK1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for How To Sell A haunted House Signed Special edition Hardback"><img src="{{ '/assets/images/marketplace-covers/2194b6d0f0cda7539d56.jpg' | relative_url }}" alt="Listing image for How To Sell A haunted House Signed Special edition Hardback" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer">HAUNTED MANSION CASTLE GHOST ART WALL STICKER ROOM OFFICE DECOR DECAL MURAL ZK1</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">How To Sell A haunted House Signed Special edition Hardback</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle wall art</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -506,15 +506,15 @@ That is the real haunted edge of Merionethshire’s coast. Harlech and Barmouth 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0365224ff7c15ce6c633.jpg' | relative_url }}" alt="Listing image for Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign"><img src="{{ '/assets/images/marketplace-covers/6a9ab4b993248f2965ff.jpg' | relative_url }}" alt="Listing image for Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle wall art</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -522,31 +522,15 @@ That is the real haunted edge of Merionethshire’s coast. Harlech and Barmouth 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted Castle Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/10bfeb0002692b175263.jpg' | relative_url }}" alt="Listing image for Haunted Castle Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)"><img src="{{ '/assets/images/marketplace-covers/a88d1c5ea93ea798e1ff.jpg' | relative_url }}" alt="Listing image for HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Haunted Castle Framed Wall Art Poster Canvas Print Picture</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle wall art</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted Gothic Castle Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/10c0fe7f7f2a647af9a5.jpg' | relative_url }}" alt="Listing image for Haunted Gothic Castle Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Haunted Gothic Castle Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle wall art</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -554,7 +538,7 @@ That is the real haunted edge of Merionethshire’s coast. Harlech and Barmouth 
 </article>
 </div>
 <div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="coast-legends-what-haunts-merionethshire-s-coast-merionethshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>

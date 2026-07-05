@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:03:20'
 parent_title: Haunted Tyrone
 parent_permalink: /where-tyrones-ghost-stories-still-gather/
 parent_nav_short_title: Haunted Tyrone
@@ -239,7 +240,6 @@ next_link:
   permalink: /white-lady/
   short_title: White Lady
   heading_title: Why Did Mullaghmoyle Road Draw Ghost Hunters?
-date: '2026-07-05 13:03:20 '
 header:
   og_image: /assets/images/Tyrone_619a59_knock_na_moe_hotel_65232b-overview-social.jpg
   preview_image: /assets/images/Tyrone_619a59_knock_na_moe_hotel_65232b-overview.webp
@@ -484,11 +484,11 @@ That is why Knock-na-Moe belongs in Tyrone’s haunted landscape even though the
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted Castle Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/10bfeb0002692b175263.jpg' | relative_url }}" alt="Listing image for Haunted Castle Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted Gothic Castle Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/10c0fe7f7f2a647af9a5.jpg' | relative_url }}" alt="Listing image for Haunted Gothic Castle Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">Haunted Castle Framed Wall Art Poster Canvas Print Picture</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">Haunted Gothic Castle Framed Wall Art Poster Canvas Print Picture</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle poster</a>
 <div class="fr-book-actions">
@@ -500,11 +500,11 @@ That is why Knock-na-Moe belongs in Tyrone’s haunted landscape even though the
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted Gothic Castle Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/10c0fe7f7f2a647af9a5.jpg' | relative_url }}" alt="Listing image for Haunted Gothic Castle Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/65b7e9db9c6837207e5d.jpg' | relative_url }}" alt="Listing image for Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">Haunted Gothic Castle Framed Wall Art Poster Canvas Print Picture</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="knock-na-moe-why-do-old-hotels-keep-their-ghosts-tyrone-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle poster</a>
 <div class="fr-book-actions">

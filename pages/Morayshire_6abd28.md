@@ -283,6 +283,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:26'
 sibling_links:
 - basename: Clackmannanshire_a9d2bc
   title: Haunted Clackmannanshire
@@ -674,7 +675,6 @@ next_link:
   title: Haunted Middlesex
   permalink: /where-old-middlesex-still-feels-haunted/
   short_title: Haunted Middlesex
-date: '2026-07-05 13:02:26 '
 header:
   og_image: /assets/images/Morayshire_6abd28-overview-social.jpg
   preview_image: /assets/images/Morayshire_6abd28-overview.webp
@@ -950,6 +950,22 @@ The most rewarding approach is to ask two questions at each place: what is the s
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Neon Sign Light LED Wall Lights Visual USB Bar Lamp Kids Room Night Light Decor"><img src="{{ '/assets/images/marketplace-covers/4124ce38bb89cb700d99.jpg' | relative_url }}" alt="Listing image for Neon Sign Light LED Wall Lights Visual USB Bar Lamp Kids Room Night Light Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Neon Sign Light LED Wall Lights Visual USB Bar Lamp Kids Room Night Light Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost decor sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost decor sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LED Neon Sign Light LED Wall Lights Visual USB Bar Lamp Night Light Party Decor"><img src="{{ '/assets/images/marketplace-covers/3570152027b35d2a21be.jpg' | relative_url }}" alt="Listing image for LED Neon Sign Light LED Wall Lights Visual USB Bar Lamp Night Light Party Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -966,43 +982,27 @@ The most rewarding approach is to ask two questions at each place: what is the s
 </article>
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halloween Ghost Wall Art Decoration, Gothic Mirror Sign, Spooky Party Gift"><img src="{{ '/assets/images/marketplace-covers/9c44fe728fcfad40fb64.jpg' | relative_url }}" alt="Listing image for Halloween Ghost Wall Art Decoration, Gothic Mirror Sign, Spooky Party Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Halloween Ghost Wall Art Decoration, Gothic Mirror Sign, Spooky Party Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost decor sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost decor sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Summerween Hot Ghoul Summer Sign Halloween Ghost Decor Hanging Ornament Plaque"><img src="{{ '/assets/images/marketplace-covers/b67eae2b44f161622935.jpg' | relative_url }}" alt="Listing image for Summerween Hot Ghoul Summer Sign Halloween Ghost Decor Hanging Ornament Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
 <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Summerween Hot Ghoul Summer Sign Halloween Ghost Decor Hanging Ornament Plaque</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost decor sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost decor sign</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Halloween Neon Sign LED Ghost Hanging Plaque for House Party Decor"><img src="{{ '/assets/images/marketplace-covers/f71bb2ae45d36fc7d8e2.jpg' | relative_url }}" alt="Listing image for Personalised Halloween Neon Sign LED Ghost Hanging Plaque for House Party Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Personalised Halloween Neon Sign LED Ghost Hanging Plaque for House Party Decor</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost decor sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost decor sign</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beware Of The Ghost Sign Halloween Plaque Cast Iron 17cm Gate Door Wall Mount"><img src="{{ '/assets/images/marketplace-covers/f8ef3a33aec76ee0eaa6.jpg' | relative_url }}" alt="Listing image for Beware Of The Ghost Sign Halloween Plaque Cast Iron 17cm Gate Door Wall Mount" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Beware Of The Ghost Sign Halloween Plaque Cast Iron 17cm Gate Door Wall Mount</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="where-morayshires-ghost-stories-still-where-morayshire-s-ghost-stories-still-gather-morayshire-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost decor sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost decor sign</a>
 <div class="fr-book-actions">

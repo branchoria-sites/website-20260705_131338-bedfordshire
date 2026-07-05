@@ -214,12 +214,12 @@ breadcrumb_links:
   short_title: Haunted Clackmannanshire
 sibling_links:
 - basename: Clackmannanshire_a9d2bc_alloa_tower_ghosts_93c15b
-  title: Alloa Tower | Clackmannanshire
+  title: Alloa Tower | What Haunts Scotland's Wee County?
   permalink: /alloa-tower/
   short_title: Alloa Tower
   heading_title: Why Is Alloa Tower Called Haunted?
 - basename: Clackmannanshire_a9d2bc_sauchie_poltergeist_9b2e2f
-  title: Sauchie Case | Clackmannanshire
+  title: Sauchie Case | What Haunts Scotland's Wee County?
   permalink: /sauchie-case/
   short_title: Sauchie Case
   heading_title: What Really Happened in Sauchie?
@@ -230,13 +230,13 @@ up_link:
   short_title: Haunted Clackmannanshire
 prev_link:
   basename: Clackmannanshire_a9d2bc_alloa_tower_ghosts_93c15b
-  title: Alloa Tower | Clackmannanshire
+  title: Alloa Tower | What Haunts Scotland's Wee County?
   permalink: /alloa-tower/
   short_title: Alloa Tower
   heading_title: Why Is Alloa Tower Called Haunted?
 next_link:
   basename: Clackmannanshire_a9d2bc_sauchie_poltergeist_9b2e2f
-  title: Sauchie Case | Clackmannanshire
+  title: Sauchie Case | What Haunts Scotland's Wee County?
   permalink: /sauchie-case/
   short_title: Sauchie Case
   heading_title: What Really Happened in Sauchie?
@@ -458,15 +458,15 @@ That uncertainty is part of the appeal. Dollar Glen’s folklore works because i
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Haunted Palace 1963 Vincent Price Film - Restored 27.2&quot; x 41&quot; US One Sheet"><img src="{{ '/assets/images/marketplace-covers/571889a3a532534c6ad9.jpg' | relative_url }}" alt="Listing image for The Haunted Palace 1963 Vincent Price Film - Restored 27.2&quot; x 41&quot; US One Sheet" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for How To Sell A haunted House Signed Special edition Hardback"><img src="{{ '/assets/images/marketplace-covers/2194b6d0f0cda7539d56.jpg' | relative_url }}" alt="Listing image for How To Sell A haunted House Signed Special edition Hardback" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">The Haunted Palace 1963 Vincent Price Film - Restored 27.2&quot; x 41&quot; US One Sheet</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">How To Sell A haunted House Signed Special edition Hardback</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle poster</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -474,15 +474,15 @@ That uncertainty is part of the appeal. Dollar Glen’s folklore works because i
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Schloß Vogelöd (The Haunted Castle) - 1921 German Silent Horror 50&quot; x 35&quot;"><img src="{{ '/assets/images/marketplace-covers/e3fb2991f8bb83f207b5.jpg' | relative_url }}" alt="Listing image for Schloß Vogelöd (The Haunted Castle) - 1921 German Silent Horror 50&quot; x 35&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)"><img src="{{ '/assets/images/marketplace-covers/a88d1c5ea93ea798e1ff.jpg' | relative_url }}" alt="Listing image for HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">Schloß Vogelöd (The Haunted Castle) - 1921 German Silent Horror 50&quot; x 35&quot;</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle poster</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -490,31 +490,15 @@ That uncertainty is part of the appeal. Dollar Glen’s folklore works because i
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted Gothic Castle Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/10c0fe7f7f2a647af9a5.jpg' | relative_url }}" alt="Listing image for Haunted Gothic Castle Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign"><img src="{{ '/assets/images/marketplace-covers/6a9ab4b993248f2965ff.jpg' | relative_url }}" alt="Listing image for Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">Haunted Gothic Castle Framed Wall Art Poster Canvas Print Picture</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle poster</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted Castle Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/10bfeb0002692b175263.jpg' | relative_url }}" alt="Listing image for Haunted Castle Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">Haunted Castle Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -522,7 +506,7 @@ That uncertainty is part of the appeal. Dollar Glen’s folklore works because i
 </article>
 </div>
 <div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="dollar-glen-why-does-dollar-glen-feel-so-uncanny-clackmannanshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>

@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:28'
 parent_title: Haunted Nairnshire
 parent_permalink: /where-do-nairnshires-ghost-stories-begin/
 parent_nav_short_title: Haunted Nairnshire
@@ -239,7 +240,6 @@ next_link:
   permalink: /rait-castle/
   short_title: Rait Castle
   heading_title: Why Is Rait Castle Said To Be Haunted?
-date: '2026-07-05 13:02:28 '
 header:
   og_image: /assets/images/Nairnshire_82a7a8_cawdor_castle_macbet_44cad4-overview-social.jpg
   preview_image: /assets/images/Nairnshire_82a7a8_cawdor_castle_macbet_44cad4-overview.webp

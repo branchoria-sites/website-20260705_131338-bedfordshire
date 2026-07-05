@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:27'
 parent_title: Haunted Morayshire
 parent_permalink: /where-morayshires-ghost-stories-still/
 parent_nav_short_title: Haunted Morayshire
@@ -233,7 +234,6 @@ next_link:
   permalink: /forres-legends/
   short_title: Forres Legends
   heading_title: Why Forres Feels So Deeply Supernatural
-date: '2026-07-05 13:02:27 '
 header:
   og_image: /assets/images/Morayshire_6abd28_brodie_castle_ghosts_38f6f9-overview-social.jpg
   preview_image: /assets/images/Morayshire_6abd28_brodie_castle_ghosts_38f6f9-overview.webp

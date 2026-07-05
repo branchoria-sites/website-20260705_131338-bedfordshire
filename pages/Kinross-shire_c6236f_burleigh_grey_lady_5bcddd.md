@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:20'
 parent_title: Haunted Kinross shire
 parent_permalink: /why-does-kinross-shire-feel-so-haunted/
 parent_nav_short_title: Haunted Kinross shire
@@ -233,7 +234,6 @@ next_link:
   permalink: /lochleven/
   short_title: Lochleven
   heading_title: Is Mary Still Haunting Lochleven Castle?
-date: '2026-07-05 13:02:20 '
 header:
   og_image: /assets/images/Kinross-shire_c6236f_burleigh_grey_lady_5bcddd-overview-social.jpg
   preview_image: /assets/images/Kinross-shire_c6236f_burleigh_grey_lady_5bcddd-overview.webp

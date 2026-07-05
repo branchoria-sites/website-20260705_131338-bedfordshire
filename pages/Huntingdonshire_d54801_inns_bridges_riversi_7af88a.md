@@ -478,22 +478,6 @@ Together, they show how Huntingdonshire’s quieter ghost folklore travels. It m
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for House On Haunted Hill Vincent Price Movie/Film Poster Art PICTURE/PRINT 12&quot;x 9.5"><img src="{{ '/assets/images/marketplace-covers/0da628ee43fda0aceecd.jpg' | relative_url }}" alt="Listing image for House On Haunted Hill Vincent Price Movie/Film Poster Art PICTURE/PRINT 12&quot;x 9.5" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer">House On Haunted Hill Vincent Price Movie/Film Poster Art PICTURE/PRINT 12&quot;x 9.5</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted House Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/5093b9dd3a2e677a9cc7.jpg' | relative_url }}" alt="Listing image for Haunted House Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -531,6 +515,22 @@ Together, they show how Huntingdonshire’s quieter ghost folklore travels. It m
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
 <a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer">Haunted House Night Scene Wall Art Poster Premium Quality Home Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for House On Haunted Hill Vincent Price Movie/Film Poster Art PICTURE/PRINT 12&quot;x 9.5"><img src="{{ '/assets/images/marketplace-covers/0da628ee43fda0aceecd.jpg' | relative_url }}" alt="Listing image for House On Haunted Hill Vincent Price Movie/Film Poster Art PICTURE/PRINT 12&quot;x 9.5" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer">House On Haunted Hill Vincent Price Movie/Film Poster Art PICTURE/PRINT 12&quot;x 9.5</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="roads-rivers-where-roads-and-rivers-remember-ghosts-huntingdonshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house poster</a>
 <div class="fr-book-actions">

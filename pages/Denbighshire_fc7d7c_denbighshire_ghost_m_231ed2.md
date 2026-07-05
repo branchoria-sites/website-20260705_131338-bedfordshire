@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:03:00'
 parent_title: Haunted Denbighshire
 parent_permalink: /where-does-haunted-denbighshire-begin/
 parent_nav_short_title: Haunted Denbighshire
@@ -233,7 +234,6 @@ next_link:
   permalink: /grey-lady-0a5700/
   short_title: Grey Lady
   heading_title: Who Was Ruthin Castle's Grey Lady?
-date: '2026-07-05 13:03:00 '
 header:
   og_image: /assets/images/Denbighshire_fc7d7c_denbighshire_ghost_m_231ed2-overview-social.jpg
   preview_image: /assets/images/Denbighshire_fc7d7c_denbighshire_ghost_m_231ed2-overview.webp
@@ -442,38 +442,6 @@ For readers planning an atmospheric route, the most coherent Denbighshire sequen
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map Tartan Regions Framed Wall Art Print 9X7"><img src="{{ '/assets/images/marketplace-covers/c703189d0d29447eb191.jpg' | relative_url }}" alt="Listing image for Scotland Map Tartan Regions Framed Wall Art Print 9X7" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map Tartan Regions Framed Wall Art Print 9X7</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland"><img src="{{ '/assets/images/marketplace-covers/70b9cd94361376603c39.jpg' | relative_url }}" alt="Listing image for Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map 1892 Print 19th Century Scottish Fine Art Heavyweight Poster"><img src="{{ '/assets/images/marketplace-covers/6e09750f89e5cbb62f69.jpg' | relative_url }}" alt="Listing image for Scotland Map 1892 Print 19th Century Scottish Fine Art Heavyweight Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -495,6 +463,38 @@ For readers planning an atmospheric route, the most coherent Denbighshire sequen
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
 <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map Tartan Regions Large Wall Art Print 18X24 In</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map Tartan Regions Framed Wall Art Print 9X7"><img src="{{ '/assets/images/marketplace-covers/c703189d0d29447eb191.jpg' | relative_url }}" alt="Listing image for Scotland Map Tartan Regions Framed Wall Art Print 9X7" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map Tartan Regions Framed Wall Art Print 9X7</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland"><img src="{{ '/assets/images/marketplace-covers/70b9cd94361376603c39.jpg' | relative_url }}" alt="Listing image for Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="ghost-map-026783-how-do-denbighshire-s-ghost-stories-travel-denbighshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
 <div class="fr-book-actions">

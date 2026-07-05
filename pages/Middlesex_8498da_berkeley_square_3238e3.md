@@ -440,22 +440,6 @@ For visitors and readers, the most honest way to approach 50 Berkeley Square is 
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+pub+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted pub sign" data-ebay-reference="berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for haunted garage ideas Tales from the Crypt horror movie poster metal tin sign"><img src="{{ '/assets/images/marketplace-covers/0450d5c04006d59cf0a2.jpg' | relative_url }}" alt="Listing image for haunted garage ideas Tales from the Crypt horror movie poster metal tin sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+pub+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted pub sign" data-ebay-reference="berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign" target="_blank" rel="sponsored noopener noreferrer">haunted garage ideas Tales from the Crypt horror movie poster metal tin sign</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+pub+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted pub sign" data-ebay-reference="berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted pub sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted pub sign</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+pub+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted pub sign" data-ebay-reference="berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+pub+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted pub sign" data-ebay-reference="berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Fully Intend To Haunt People Vintage Look Metal Sign plaque, bar mancave pub"><img src="{{ '/assets/images/marketplace-covers/892dbc253a5a14a280b3.jpg' | relative_url }}" alt="Listing image for I Fully Intend To Haunt People Vintage Look Metal Sign plaque, bar mancave pub" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -488,11 +472,27 @@ For visitors and readers, the most honest way to approach 50 Berkeley Square is 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+pub+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted pub sign" data-ebay-reference="berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tin Sign 1970 Horror Comic Haunted Harvest Scarecrow pub walls"><img src="{{ '/assets/images/marketplace-covers/deb868fa2d3a64131d37.jpg' | relative_url }}" alt="Listing image for Tin Sign 1970 Horror Comic Haunted Harvest Scarecrow pub walls" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+pub+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted pub sign" data-ebay-reference="berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for haunted garage ideas Tales from the Crypt horror movie poster metal tin sign"><img src="{{ '/assets/images/marketplace-covers/0450d5c04006d59cf0a2.jpg' | relative_url }}" alt="Listing image for haunted garage ideas Tales from the Crypt horror movie poster metal tin sign" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+pub+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted pub sign" data-ebay-reference="berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign" target="_blank" rel="sponsored noopener noreferrer">Tin Sign 1970 Horror Comic Haunted Harvest Scarecrow pub walls</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+pub+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted pub sign" data-ebay-reference="berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign" target="_blank" rel="sponsored noopener noreferrer">haunted garage ideas Tales from the Crypt horror movie poster metal tin sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+pub+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted pub sign" data-ebay-reference="berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted pub sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted pub sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+pub+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted pub sign" data-ebay-reference="berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+pub+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted pub sign" data-ebay-reference="berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Horror Movie Signs Metal Plaques Man Cave Home Décor Bar Pub Tiki Shed Sign Gift"><img src="{{ '/assets/images/marketplace-covers/eba1da0cad18efa62968.jpg' | relative_url }}" alt="Listing image for Horror Movie Signs Metal Plaques Man Cave Home Décor Bar Pub Tiki Shed Sign Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+pub+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted pub sign" data-ebay-reference="berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign" target="_blank" rel="sponsored noopener noreferrer">Horror Movie Signs Metal Plaques Man Cave Home Décor Bar Pub Tiki Shed Sign Gift</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+pub+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted pub sign" data-ebay-reference="berkeley-square-was-berkeley-square-really-haunted-middlesex-haunted-pub-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted pub sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted pub sign</a>
 <div class="fr-book-actions">

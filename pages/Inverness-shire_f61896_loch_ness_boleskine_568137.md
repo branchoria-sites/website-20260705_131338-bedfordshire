@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:16'
 parent_title: Haunted Inverness shire
 parent_permalink: /why-does-inverness-shire-feel-so-haunted/
 parent_nav_short_title: Haunted Inverness shire
@@ -233,7 +234,6 @@ prev_link:
   permalink: /inverness/
   short_title: Inverness
   heading_title: Where Does Inverness Remember Its Restless Dead?
-date: '2026-07-05 13:02:16 '
 header:
   og_image: /assets/images/Inverness-shire_f61896_loch_ness_boleskine_568137-overview-social.jpg
   preview_image: /assets/images/Inverness-shire_f61896_loch_ness_boleskine_568137-overview.webp
@@ -469,38 +469,6 @@ That layered reading keeps the page inside Inverness-shire’s haunted-history f
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Haunted Palace 1963 Vincent Price Film - Restored 27.2&quot; x 41&quot; US One Sheet"><img src="{{ '/assets/images/marketplace-covers/571889a3a532534c6ad9.jpg' | relative_url }}" alt="Listing image for The Haunted Palace 1963 Vincent Price Film - Restored 27.2&quot; x 41&quot; US One Sheet" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">The Haunted Palace 1963 Vincent Price Film - Restored 27.2&quot; x 41&quot; US One Sheet</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/65b7e9db9c6837207e5d.jpg' | relative_url }}" alt="Listing image for Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Haunted Palace 1963 Vincent Price Gothic Horror Film Poster Wall Art"><img src="{{ '/assets/images/marketplace-covers/bdb106083090d69e2d37.jpg' | relative_url }}" alt="Listing image for The Haunted Palace 1963 Vincent Price Gothic Horror Film Poster Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -517,11 +485,43 @@ That layered reading keeps the page inside Inverness-shire’s haunted-history f
 </article>
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Haunted Palace 1963 Vincent Price Film - Restored 27.2&quot; x 41&quot; US One Sheet"><img src="{{ '/assets/images/marketplace-covers/571889a3a532534c6ad9.jpg' | relative_url }}" alt="Listing image for The Haunted Palace 1963 Vincent Price Film - Restored 27.2&quot; x 41&quot; US One Sheet" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">The Haunted Palace 1963 Vincent Price Film - Restored 27.2&quot; x 41&quot; US One Sheet</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Schloß Vogelöd (The Haunted Castle) - 1921 German Silent Horror 50&quot; x 35&quot;"><img src="{{ '/assets/images/marketplace-covers/e3fb2991f8bb83f207b5.jpg' | relative_url }}" alt="Listing image for Schloß Vogelöd (The Haunted Castle) - 1921 German Silent Horror 50&quot; x 35&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
 <a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">Schloß Vogelöd (The Haunted Castle) - 1921 German Silent Horror 50&quot; x 35&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted Gothic Castle Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/10c0fe7f7f2a647af9a5.jpg' | relative_url }}" alt="Listing image for Haunted Gothic Castle Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">Haunted Gothic Castle Framed Wall Art Poster Canvas Print Picture</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="loch-ness-what-haunts-the-dark-water-of-loch-ness-inverness-shire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle poster</a>
 <div class="fr-book-actions">

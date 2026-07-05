@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:22'
 parent_title: Haunted Lanarkshire
 parent_permalink: /why-does-lanarkshire-feel-so-haunted/
 parent_nav_short_title: Haunted Lanarkshire
@@ -233,7 +234,6 @@ next_link:
   permalink: /dalzell-ladies/
   short_title: Dalzell Ladies
   heading_title: Who Are Dalzell House's Three Ladies?
-date: '2026-07-05 13:02:22 '
 header:
   og_image: /assets/images/Lanarkshire_60db75_bothwell_castle_ghos_d733fb-overview-social.jpg
   preview_image: /assets/images/Lanarkshire_60db75_bothwell_castle_ghos_d733fb-overview.webp

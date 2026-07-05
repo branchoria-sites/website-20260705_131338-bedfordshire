@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:38'
 parent_title: Haunted Roxburghshire
 parent_permalink: /why-does-roxburghshire-feel-so-haunted/
 parent_nav_short_title: Haunted Roxburghshire
@@ -233,7 +234,6 @@ next_link:
   permalink: /jedburgh/
   short_title: Jedburgh
   heading_title: What Haunts Old Jedburgh?
-date: '2026-07-05 13:02:38 '
 header:
   og_image: /assets/images/Roxburghshire_8333b2_hermitage_castle_hau_383884-overview-social.jpg
   preview_image: /assets/images/Roxburghshire_8333b2_hermitage_castle_hau_383884-overview.webp
@@ -474,22 +474,6 @@ Hermitage Castle is therefore eerie in a very Border way. Its hauntings are not 
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MiniArt 1:72 Scale Medieval Castle Plastic Model Kit"><img src="{{ '/assets/images/marketplace-covers/5378c50034ae0929d01e.jpg' | relative_url }}" alt="Listing image for MiniArt 1:72 Scale Medieval Castle Plastic Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer">MiniArt 1:72 Scale Medieval Castle Plastic Model Kit</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medieval castle model">Search<span data-ebay-domain-label>eBay.co.uk</span>: medieval castle model</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medieval Castle Toy Playset Knights Soldiers DIY Assembled Castle Model Kit"><img src="{{ '/assets/images/marketplace-covers/444e6c31dc10a372ea60.jpg' | relative_url }}" alt="Listing image for Medieval Castle Toy Playset Knights Soldiers DIY Assembled Castle Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -506,11 +490,11 @@ Hermitage Castle is therefore eerie in a very Border way. Its hauntings are not 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MOC-152895 Medieval Green Dragon Fortress Castle Model 6721 Pieces for Aged 18+"><img src="{{ '/assets/images/marketplace-covers/b025b7f3cd3581430bb8.jpg' | relative_url }}" alt="Listing image for MOC-152895 Medieval Green Dragon Fortress Castle Model 6721 Pieces for Aged 18+" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Custom MOC Medieval Tournament Grounds Model for Castle Collection 3186 Bricks"><img src="{{ '/assets/images/marketplace-covers/db6e19b39ebc8ab00f6c.jpg' | relative_url }}" alt="Listing image for Custom MOC Medieval Tournament Grounds Model for Castle Collection 3186 Bricks" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer">MOC-152895 Medieval Green Dragon Fortress Castle Model 6721 Pieces for Aged 18+</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer">Custom MOC Medieval Tournament Grounds Model for Castle Collection 3186 Bricks</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medieval castle model">Search<span data-ebay-domain-label>eBay.co.uk</span>: medieval castle model</a>
 <div class="fr-book-actions">
@@ -522,11 +506,27 @@ Hermitage Castle is therefore eerie in a very Border way. Its hauntings are not 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniart 72005 Medieval Castle 1/72nd scale model kit"><img src="{{ '/assets/images/marketplace-covers/aedce0d3ee1c283b8ebd.jpg' | relative_url }}" alt="Listing image for Miniart 72005 Medieval Castle 1/72nd scale model kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MiniArt 1:72 Scale Medieval Castle Plastic Model Kit"><img src="{{ '/assets/images/marketplace-covers/5378c50034ae0929d01e.jpg' | relative_url }}" alt="Listing image for MiniArt 1:72 Scale Medieval Castle Plastic Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer">Miniart 72005 Medieval Castle 1/72nd scale model kit</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer">MiniArt 1:72 Scale Medieval Castle Plastic Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medieval castle model">Search<span data-ebay-domain-label>eBay.co.uk</span>: medieval castle model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MOC-152895 Medieval Green Dragon Fortress Castle Model 6721 Pieces for Aged 18+"><img src="{{ '/assets/images/marketplace-covers/b025b7f3cd3581430bb8.jpg' | relative_url }}" alt="Listing image for MOC-152895 Medieval Green Dragon Fortress Castle Model 6721 Pieces for Aged 18+" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer">MOC-152895 Medieval Green Dragon Fortress Castle Model 6721 Pieces for Aged 18+</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="hermitage-why-is-hermitage-castle-so-eerie-roxburghshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medieval castle model">Search<span data-ebay-domain-label>eBay.co.uk</span>: medieval castle model</a>
 <div class="fr-book-actions">

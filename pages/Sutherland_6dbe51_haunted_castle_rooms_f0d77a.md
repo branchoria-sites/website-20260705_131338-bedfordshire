@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:46'
 parent_title: Haunted Sutherland
 parent_permalink: /why-does-sutherland-feel-so-haunted/
 parent_nav_short_title: Haunted Sutherland
@@ -239,7 +240,6 @@ next_link:
   permalink: /lonely-coast/
   short_title: Lonely Coast
   heading_title: Why Do Sutherland's Coasts Breed Ghost Stories?
-date: '2026-07-05 13:02:46 '
 header:
   og_image: /assets/images/Sutherland_6dbe51_haunted_castle_rooms_f0d77a-overview-social.jpg
   preview_image: /assets/images/Sutherland_6dbe51_haunted_castle_rooms_f0d77a-overview.webp

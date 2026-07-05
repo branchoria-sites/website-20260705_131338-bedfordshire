@@ -171,7 +171,7 @@ map_view:
   items: 92
   map: /assets/maps/uk-historic-counties.svg
   data: /assets/maps/uk-counties.json
-site_image_description: A misty street in old York with medieval buildings, a shadowed abbey arch and distant moorland rising behind the rooftops.
+site_image_description: A ruined church on a windswept Bedfordshire ridge with old gravestones, distant fields and a low evening sky.
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>

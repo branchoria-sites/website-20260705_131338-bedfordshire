@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:56'
 parent_title: Haunted Caernarfonshire
 parent_permalink: /where-do-caernarfonshires-ghost-stories/
 parent_nav_short_title: Haunted Caernarfonshire
@@ -213,12 +214,12 @@ breadcrumb_links:
   short_title: Haunted Caernarfonshire
 sibling_links:
 - basename: Caernarfonshire_667de6_beddgelert_landlord_a96680
-  title: Beddgelert | Where Do Caernarfonshire's Ghost Stories...
+  title: Beddgelert | Where Do Caernarfonshire's Ghost Stories Gather?
   permalink: /beddgelert/
   short_title: Beddgelert
   heading_title: Did Beddgelert's Most Famous Legend Create a Ghost?
 - basename: Caernarfonshire_667de6_caernarfon_haunted_i_19f77e
-  title: Haunted Inns | Where Do Caernarfonshire's Ghost Stories...
+  title: Haunted Inns | Where Do Caernarfonshire's Ghost Stories Gather?
   permalink: /haunted-inns-ce1d80/
   short_title: Haunted Inns
   heading_title: Why Are Caernarfon's Old Inns So Haunted?
@@ -229,17 +230,16 @@ up_link:
   short_title: Haunted Caernarfonshire
 prev_link:
   basename: Caernarfonshire_667de6_beddgelert_landlord_a96680
-  title: Beddgelert | Where Do Caernarfonshire's Ghost Stories...
+  title: Beddgelert | Where Do Caernarfonshire's Ghost Stories Gather?
   permalink: /beddgelert/
   short_title: Beddgelert
   heading_title: Did Beddgelert's Most Famous Legend Create a Ghost?
 next_link:
   basename: Caernarfonshire_667de6_caernarfon_haunted_i_19f77e
-  title: Haunted Inns | Where Do Caernarfonshire's Ghost Stories...
+  title: Haunted Inns | Where Do Caernarfonshire's Ghost Stories Gather?
   permalink: /haunted-inns-ce1d80/
   short_title: Haunted Inns
   heading_title: Why Are Caernarfon's Old Inns So Haunted?
-date: '2026-07-05 13:02:56 '
 header:
   og_image: /assets/images/Caernarfonshire_667de6_caernarfon_castle_fl_db1671-overview-social.jpg
   preview_image: /assets/images/Caernarfonshire_667de6_caernarfon_castle_fl_db1671-overview.webp
@@ -493,6 +493,22 @@ The Floating Lady’s anonymity is the key. She is not a securely identified que
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish castle poster" data-ebay-reference="castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eilean Donan Castle Travel Poster Print - Scottish Highlands Coastal Wall Art"><img src="{{ '/assets/images/marketplace-covers/a6949e26602100415d93.jpg' | relative_url }}" alt="Listing image for Eilean Donan Castle Travel Poster Print - Scottish Highlands Coastal Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish castle poster" data-ebay-reference="castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster" target="_blank" rel="sponsored noopener noreferrer">Eilean Donan Castle Travel Poster Print - Scottish Highlands Coastal Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish castle poster" data-ebay-reference="castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scottish castle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scottish castle poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish castle poster" data-ebay-reference="castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish castle poster" data-ebay-reference="castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MAN CAVE SCOTTISH BANNER- Scottish Castle &amp; Tartan Traditional DANCERS"><img src="{{ '/assets/images/marketplace-covers/87e6ff032a6c1b464d50.jpg' | relative_url }}" alt="Listing image for MAN CAVE SCOTTISH BANNER- Scottish Castle &amp; Tartan Traditional DANCERS" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -530,22 +546,6 @@ The Floating Lady’s anonymity is the key. She is not a securely identified que
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
 <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish castle poster" data-ebay-reference="castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster" target="_blank" rel="sponsored noopener noreferrer">Dunnottar Castle Travel Print Dunnottar Castle Poster Scottish Art Print</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish castle poster" data-ebay-reference="castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scottish castle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scottish castle poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish castle poster" data-ebay-reference="castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish castle poster" data-ebay-reference="castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scottish Castle 1 Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0de9a2a15292fc425a05.jpg' | relative_url }}" alt="Listing image for Scottish Castle 1 Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish castle poster" data-ebay-reference="castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster" target="_blank" rel="sponsored noopener noreferrer">Scottish Castle 1 Art Print Framed Wall Art Poster Canvas Print Picture</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish castle poster" data-ebay-reference="castle-ghosts-ba5ae2-who-is-caernarfon-castle-s-floating-lady-caernarfonshire-scottish-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scottish castle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scottish castle poster</a>
 <div class="fr-book-actions">

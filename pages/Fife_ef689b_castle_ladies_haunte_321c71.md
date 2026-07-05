@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:14'
 parent_title: Haunted Fife
 parent_permalink: /why-does-fife-feel-so-haunted/
 parent_nav_short_title: Haunted Fife
@@ -233,7 +234,6 @@ next_link:
   permalink: /falkland/
   short_title: Falkland
   heading_title: Who Haunts Falkland Palace's Royal Rooms?
-date: '2026-07-05 13:02:14 '
 header:
   og_image: /assets/images/Fife_ef689b_castle_ladies_haunte_321c71-overview-social.jpg
   preview_image: /assets/images/Fife_ef689b_castle_ladies_haunte_321c71-overview.webp

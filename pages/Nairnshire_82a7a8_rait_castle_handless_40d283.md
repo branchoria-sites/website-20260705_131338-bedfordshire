@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:29'
 parent_title: Haunted Nairnshire
 parent_permalink: /where-do-nairnshires-ghost-stories-begin/
 parent_nav_short_title: Haunted Nairnshire
@@ -233,7 +234,6 @@ prev_link:
   permalink: /cawdor-castle/
   short_title: Cawdor Castle
   heading_title: Is Cawdor Castle Haunted By Macbeth's Shadow?
-date: '2026-07-05 13:02:29 '
 header:
   og_image: /assets/images/Nairnshire_82a7a8_rait_castle_handless_40d283-overview-social.jpg
   preview_image: /assets/images/Nairnshire_82a7a8_rait_castle_handless_40d283-overview.webp

@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:51'
 parent_title: Haunted Wigtownshire
 parent_permalink: /where-does-wigtownshire-feel-most/
 parent_nav_short_title: Haunted Wigtownshire
@@ -233,7 +234,6 @@ prev_link:
   permalink: /dunskey-piper/
   short_title: Dunskey Piper
   heading_title: Can You Still Hear Dunskey's Lost Piper?
-date: '2026-07-05 13:02:51 '
 header:
   og_image: /assets/images/Wigtownshire_1186ed_haunted_geography_so_6ebb67-overview-social.jpg
   preview_image: /assets/images/Wigtownshire_1186ed_haunted_geography_so_6ebb67-overview.webp
@@ -452,6 +452,38 @@ A good Wigtownshire ghost map therefore looks less like a pinboard of scares and
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Poster United Kingdom MAP England Great Britain Wales Laminated Poster"><img src="{{ '/assets/images/marketplace-covers/8d80ffbabdd350351496.jpg' | relative_url }}" alt="Listing image for UK Map Poster United Kingdom MAP England Great Britain Wales Laminated Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" target="_blank" rel="sponsored noopener noreferrer">UK Map Poster United Kingdom MAP England Great Britain Wales Laminated Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Wales map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Wales map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wales Map Poster Print A5, A4, A3, A2, A1, A0"><img src="{{ '/assets/images/marketplace-covers/eeb6d57e9876c47ef334.jpg' | relative_url }}" alt="Listing image for Wales Map Poster Print A5, A4, A3, A2, A1, A0" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" target="_blank" rel="sponsored noopener noreferrer">Wales Map Poster Print A5, A4, A3, A2, A1, A0</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Wales map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Wales map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hondius 1633 Welsh Latin Early Map Wales Cymru Wall Art Print Framed 12x16"><img src="{{ '/assets/images/marketplace-covers/4aa4788f86b7709384b9.jpg' | relative_url }}" alt="Listing image for Hondius 1633 Welsh Latin Early Map Wales Cymru Wall Art Print Framed 12x16" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -473,38 +505,6 @@ A good Wigtownshire ghost map therefore looks less like a pinboard of scares and
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
 <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" target="_blank" rel="sponsored noopener noreferrer">UK Map of England, Wales, Political Educational Poster,Canvas or Framed Wall Art</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Wales map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Wales map print</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UK Map Poster United Kingdom MAP England Great Britain Wales Laminated Poster"><img src="{{ '/assets/images/marketplace-covers/8d80ffbabdd350351496.jpg' | relative_url }}" alt="Listing image for UK Map Poster United Kingdom MAP England Great Britain Wales Laminated Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" target="_blank" rel="sponsored noopener noreferrer">UK Map Poster United Kingdom MAP England Great Britain Wales Laminated Poster</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Wales map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Wales map print</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Map of North Wales, 1793. Vintage Old British Map Repro Print/Poster"><img src="{{ '/assets/images/marketplace-covers/2f12b68621f83f871f91.jpg' | relative_url }}" alt="Listing image for Map of North Wales, 1793. Vintage Old British Map Repro Print/Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" target="_blank" rel="sponsored noopener noreferrer">Map of North Wales, 1793. Vintage Old British Map Repro Print/Poster</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Wales+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Wales map print" data-ebay-reference="ghost-map-c9c604-how-did-wigtownshire-s-landscape-shape-its-ghosts-wigtownshire-wales-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Wales map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Wales map print</a>
 <div class="fr-book-actions">

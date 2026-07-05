@@ -283,6 +283,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:54'
 sibling_links:
 - basename: Clackmannanshire_a9d2bc
   title: Haunted Clackmannanshire
@@ -674,7 +675,6 @@ next_link:
   title: Haunted Buckinghamshire
   permalink: /where-buckinghamshires-ghost-stories/
   short_title: Haunted Buckinghamshire
-date: '2026-07-05 13:02:54 '
 header:
   og_image: /assets/images/Brecknockshire_d4a3d4-overview-social.jpg
   preview_image: /assets/images/Brecknockshire_d4a3d4-overview.webp
@@ -917,38 +917,6 @@ For visitors, the most rewarding approach is to treat Brecknockshire’s hauntin
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall of Brambles - Sorcery: Contested Realm - Arthurian Legends - Foil"><img src="{{ '/assets/images/marketplace-covers/206003f87f92b63ff618.jpg' | relative_url }}" alt="Listing image for Wall of Brambles - Sorcery: Contested Realm - Arthurian Legends - Foil" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" target="_blank" rel="sponsored noopener noreferrer">Wall of Brambles - Sorcery: Contested Realm - Arthurian Legends - Foil</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Arthurian wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: Arthurian wall art</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for King Arthur N. C. Wyeth Circa 1922 Arthurian Legend Art Print to Frame"><img src="{{ '/assets/images/marketplace-covers/f62da2904171ad6f0e12.jpg' | relative_url }}" alt="Listing image for King Arthur N. C. Wyeth Circa 1922 Arthurian Legend Art Print to Frame" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" target="_blank" rel="sponsored noopener noreferrer">King Arthur N. C. Wyeth Circa 1922 Arthurian Legend Art Print to Frame</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Arthurian wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: Arthurian wall art</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Sword in the Stone – Arthurian Legend Fantasy Wall Art"><img src="{{ '/assets/images/marketplace-covers/e9065249d13e3c172ac8.jpg' | relative_url }}" alt="Listing image for The Sword in the Stone – Arthurian Legend Fantasy Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -970,6 +938,38 @@ For visitors, the most rewarding approach is to treat Brecknockshire’s hauntin
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
 <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" target="_blank" rel="sponsored noopener noreferrer">Mermaid and Knight Romantic Fantasy Winter Love Arthurian Wall Art Print AE16</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Arthurian wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: Arthurian wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Looking at Lancelot by John William Waterhouse Framed Wall Art Poster Print"><img src="{{ '/assets/images/marketplace-covers/59b0e123eb90be8f0e74.jpg' | relative_url }}" alt="Listing image for Looking at Lancelot by John William Waterhouse Framed Wall Art Poster Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" target="_blank" rel="sponsored noopener noreferrer">Looking at Lancelot by John William Waterhouse Framed Wall Art Poster Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Arthurian wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: Arthurian wall art</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Wall of Brambles - Sorcery: Contested Realm - Arthurian Legends - Foil"><img src="{{ '/assets/images/marketplace-covers/206003f87f92b63ff618.jpg' | relative_url }}" alt="Listing image for Wall of Brambles - Sorcery: Contested Realm - Arthurian Legends - Foil" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" target="_blank" rel="sponsored noopener noreferrer">Wall of Brambles - Sorcery: Contested Realm - Arthurian Legends - Foil</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Arthurian+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Arthurian wall art" data-ebay-reference="where-brecknockshires-quiet-hauntings-where-brecknockshire-s-quiet-hauntings-begin-brecknockshir-arthurian-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Arthurian wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: Arthurian wall art</a>
 <div class="fr-book-actions">

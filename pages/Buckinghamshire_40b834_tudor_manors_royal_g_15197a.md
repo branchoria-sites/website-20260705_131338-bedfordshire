@@ -214,12 +214,12 @@ breadcrumb_links:
   short_title: Haunted Buckinghamshire
 sibling_links:
 - basename: Buckinghamshire_40b834_haunted_coaching_inn_f13bf1
-  title: Haunted Inns | Where Buckinghamshire's Ghost Stories Still Gather
+  title: Haunted Inns | Where Buckinghamshire's Ghost Stories Still...
   permalink: /haunted-inns/
   short_title: Haunted Inns
   heading_title: Why Are Buckinghamshire's Old Inns So Ghostly?
 - basename: Buckinghamshire_40b834_hellfire_caves_west_686dc4
-  title: Hellfire Caves | Where Buckinghamshire's Ghost Stories Still Gather
+  title: Hellfire Caves | Where Buckinghamshire's Ghost Stories Still...
   permalink: /hellfire-caves/
   short_title: Hellfire Caves
   heading_title: Why Do the Hellfire Caves Feel Haunted?
@@ -230,7 +230,7 @@ up_link:
   short_title: Haunted Buckinghamshire
 prev_link:
   basename: Buckinghamshire_40b834_hellfire_caves_west_686dc4
-  title: Hellfire Caves | Where Buckinghamshire's Ghost Stories Still Gather
+  title: Hellfire Caves | Where Buckinghamshire's Ghost Stories Still...
   permalink: /hellfire-caves/
   short_title: Hellfire Caves
   heading_title: Why Do the Hellfire Caves Feel Haunted?
@@ -444,6 +444,38 @@ For visitors and readers, Chenies is most rewarding when approached as a place w
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halloween Haunted House Full Moon Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b6e214b0cd539e73e0a3.jpg' | relative_url }}" alt="Listing image for Halloween Haunted House Full Moon Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer">Halloween Haunted House Full Moon Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted House Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/5093b9dd3a2e677a9cc7.jpg' | relative_url }}" alt="Listing image for Haunted House Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer">Haunted House Poster 18x24in</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted House Poster 18x24in"><img src="{{ '/assets/images/marketplace-covers/0acb7c2b830351c89c42.jpg' | relative_url }}" alt="Listing image for Haunted House Poster 18x24in" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -465,38 +497,6 @@ For visitors and readers, Chenies is most rewarding when approached as a place w
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
 <a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer">Haunted House Poster 18x24in</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted House Night Scene Wall Art Poster Premium Quality Home Decor"><img src="{{ '/assets/images/marketplace-covers/9ba2bc39f1ae40c6d9a8.jpg' | relative_url }}" alt="Listing image for Haunted House Night Scene Wall Art Poster Premium Quality Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer">Haunted House Night Scene Wall Art Poster Premium Quality Home Decor</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halloween Haunted House Full Moon Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b6e214b0cd539e73e0a3.jpg' | relative_url }}" alt="Listing image for Halloween Haunted House Full Moon Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer">Halloween Haunted House Full Moon Framed Wall Art Poster Canvas Print Picture</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house poster" data-ebay-reference="tudor-manors-do-tudor-houses-invite-royal-ghost-stories-buckinghamshire-haunted-house-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house poster</a>
 <div class="fr-book-actions">

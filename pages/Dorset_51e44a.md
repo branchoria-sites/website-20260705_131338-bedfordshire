@@ -946,38 +946,6 @@ Dorset’s ghosts are most convincing as cultural presences: figures that walk t
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poseable Skeleton Full Size 165CM Giant Halloween Party Prop Haunted House Decor"><img src="{{ '/assets/images/marketplace-covers/e1eacac7a4ea089b0ba6.jpg' | relative_url }}" alt="Listing image for Poseable Skeleton Full Size 165CM Giant Halloween Party Prop Haunted House Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" target="_blank" rel="sponsored noopener noreferrer">Poseable Skeleton Full Size 165CM Giant Halloween Party Prop Haunted House Decor</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house decor</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halloween Lantern Decoration Light Up Sounds Effects Haunted House Accessory"><img src="{{ '/assets/images/marketplace-covers/58ab18faff185f6eb66a.jpg' | relative_url }}" alt="Listing image for Halloween Lantern Decoration Light Up Sounds Effects Haunted House Accessory" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" target="_blank" rel="sponsored noopener noreferrer">Halloween Lantern Decoration Light Up Sounds Effects Haunted House Accessory</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house decor</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1 Set Halloween Ghost Campfire Decor Spooky Outdoor Party Haunted House Props"><img src="{{ '/assets/images/marketplace-covers/0b438bac65afcb4a605d.jpg' | relative_url }}" alt="Listing image for 1 Set Halloween Ghost Campfire Decor Spooky Outdoor Party Haunted House Props" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -999,6 +967,38 @@ Dorset’s ghosts are most convincing as cultural presences: figures that walk t
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
 <a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" target="_blank" rel="sponsored noopener noreferrer">165CM Skeleton Full Size Poseable Human Halloween Party Prop Haunted House Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Poseable Skeleton Full Size 165CM Giant Halloween Party Prop Haunted House Decor"><img src="{{ '/assets/images/marketplace-covers/e1eacac7a4ea089b0ba6.jpg' | relative_url }}" alt="Listing image for Poseable Skeleton Full Size 165CM Giant Halloween Party Prop Haunted House Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" target="_blank" rel="sponsored noopener noreferrer">Poseable Skeleton Full Size 165CM Giant Halloween Party Prop Haunted House Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house decor</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halloween Lantern Decoration Light Up Sounds Effects Haunted House Accessory"><img src="{{ '/assets/images/marketplace-covers/58ab18faff185f6eb66a.jpg' | relative_url }}" alt="Listing image for Halloween Lantern Decoration Light Up Sounds Effects Haunted House Accessory" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" target="_blank" rel="sponsored noopener noreferrer">Halloween Lantern Decoration Light Up Sounds Effects Haunted House Accessory</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-dorset-feels-so-haunted-dorset-haunted-house-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house decor" data-ebay-reference="why-dorset-feels-so-haunted-dorset-haunted-house-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house decor">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house decor</a>
 <div class="fr-book-actions">

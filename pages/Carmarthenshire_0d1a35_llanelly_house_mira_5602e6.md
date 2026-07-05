@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:58'
 parent_title: Haunted Carmarthenshire
 parent_permalink: /what-haunts-carmarthenshires-oldest/
 parent_nav_short_title: Haunted Carmarthenshire
@@ -239,7 +240,6 @@ next_link:
   permalink: /newton-house/
   short_title: Newton House
   heading_title: Why Is Newton House So Haunted?
-date: '2026-07-05 13:02:58 '
 header:
   og_image: /assets/images/Carmarthenshire_0d1a35_llanelly_house_mira_5602e6-overview-social.jpg
   preview_image: /assets/images/Carmarthenshire_0d1a35_llanelly_house_mira_5602e6-overview.webp
@@ -474,15 +474,15 @@ That is why Llanelly House remains one of Carmarthenshire’s most memorable hau
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f331193f6e4047315e4f.jpg' | relative_url }}" alt="Listing image for Ghost Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lynx Scottish Pine Forest Ghost T-Shirt Unisex Cotton Tee UK"><img src="{{ '/assets/images/marketplace-covers/fee6d02d667986efcae1.jpg' | relative_url }}" alt="Listing image for Lynx Scottish Pine Forest Ghost T-Shirt Unisex Cotton Tee UK" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">Ghost Art Print Framed Wall Art Poster Canvas Print Picture</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Lynx Scottish Pine Forest Ghost T-Shirt Unisex Cotton Tee UK</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost art print</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scottish ghost t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scottish ghost t shirt</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -490,47 +490,15 @@ That is why Llanelly House remains one of Carmarthenshire’s most memorable hau
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A Ghost Story 2017 0 Movie Poster Art Print Legendary AestheticRoom Cinema Popul"><img src="{{ '/assets/images/marketplace-covers/552c06969c8304d05fd2.jpg' | relative_url }}" alt="Listing image for A Ghost Story 2017 0 Movie Poster Art Print Legendary AestheticRoom Cinema Popul" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Croatia Flag Proud Scottish Croatian Roots T-Shirt S-3XL"><img src="{{ '/assets/images/marketplace-covers/e05d4327324d7ba957bc.jpg' | relative_url }}" alt="Listing image for Scotland Croatia Flag Proud Scottish Croatian Roots T-Shirt S-3XL" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">A Ghost Story 2017 0 Movie Poster Art Print Legendary AestheticRoom Cinema Popul</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Scotland Croatia Flag Proud Scottish Croatian Roots T-Shirt S-3XL</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost art print</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scottish ghost t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scottish ghost t shirt</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Native American Ghost Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0f29b506e44bb9de1311.jpg' | relative_url }}" alt="Listing image for Native American Ghost Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">Native American Ghost Art Print Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost art print</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;The Ghost&#x27; Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/16d9e4d10a22478c22ea.jpg' | relative_url }}" alt="Listing image for &#x27;The Ghost&#x27; Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">&#x27;The Ghost&#x27; Art Print Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost art print</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -538,7 +506,7 @@ That is why Llanelly House remains one of Carmarthenshire’s most memorable hau
 </article>
 </div>
 <div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="llanelly-house-what-does-mira-turner-s-ghost-remember-carmarthenshire-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>

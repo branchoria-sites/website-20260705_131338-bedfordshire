@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:03:21'
 parent_title: Haunted Tyrone
 parent_permalink: /where-tyrones-ghost-stories-still-gather/
 parent_nav_short_title: Haunted Tyrone
@@ -233,7 +234,6 @@ prev_link:
   permalink: /knock-na-moe/
   short_title: Knock na Moe
   heading_title: Why Do Old Hotels Keep Their Ghosts?
-date: '2026-07-05 13:03:21 '
 header:
   og_image: /assets/images/Tyrone_619a59_mullaghmoyle_white_l_982b0c-overview-social.jpg
   preview_image: /assets/images/Tyrone_619a59_mullaghmoyle_white_l_982b0c-overview.webp
@@ -491,15 +491,15 @@ For readers interested in haunted Tyrone, that uncertainty is not a flaw to hide
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Flying Ghost Autumn Fall Castl Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b3d585e61987c4c04c58.jpg' | relative_url }}" alt="Listing image for Cute Flying Ghost Autumn Fall Castl Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lynx Scottish Pine Forest Ghost T-Shirt Unisex Cotton Tee UK"><img src="{{ '/assets/images/marketplace-covers/fee6d02d667986efcae1.jpg' | relative_url }}" alt="Listing image for Lynx Scottish Pine Forest Ghost T-Shirt Unisex Cotton Tee UK" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">Cute Flying Ghost Autumn Fall Castl Framed Wall Art Poster Canvas Print Picture</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Lynx Scottish Pine Forest Ghost T-Shirt Unisex Cotton Tee UK</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for castle ghost art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: castle ghost art print</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scottish ghost t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scottish ghost t shirt</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -507,47 +507,15 @@ For readers interested in haunted Tyrone, that uncertainty is not a flaw to hide
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Ghost Autumn Fall Castle Lands Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/26a9354d3b33ef46f87f.jpg' | relative_url }}" alt="Listing image for Cute Ghost Autumn Fall Castle Lands Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Croatia Flag Proud Scottish Croatian Roots T-Shirt S-3XL"><img src="{{ '/assets/images/marketplace-covers/e05d4327324d7ba957bc.jpg' | relative_url }}" alt="Listing image for Scotland Croatia Flag Proud Scottish Croatian Roots T-Shirt S-3XL" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">Cute Ghost Autumn Fall Castle Lands Framed Wall Art Poster Canvas Print Picture</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Scotland Croatia Flag Proud Scottish Croatian Roots T-Shirt S-3XL</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for castle ghost art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: castle ghost art print</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scottish ghost t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scottish ghost t shirt</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Ghost Autumn Fall Castle Lands Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/52ab1a036b6ee0116c8a.jpg' | relative_url }}" alt="Listing image for Cute Ghost Autumn Fall Castle Lands Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">Cute Ghost Autumn Fall Castle Lands Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for castle ghost art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: castle ghost art print</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost In A Castle Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/3dddb6e0eb91b66f1b6f.jpg' | relative_url }}" alt="Listing image for Ghost In A Castle Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">Ghost In A Castle Art Print Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for castle ghost art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: castle ghost art print</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -555,7 +523,7 @@ For readers interested in haunted Tyrone, that uncertainty is not a flaw to hide
 </article>
 </div>
 <div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="white-lady-why-did-mullaghmoyle-road-draw-ghost-hunters-tyrone-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>

@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:03:10'
 parent_title: Haunted Pembrokeshire
 parent_permalink: /where-pembrokeshires-ghost-stories-still/
 parent_nav_short_title: Haunted Pembrokeshire
@@ -233,7 +234,6 @@ prev_link:
   permalink: /st-govan-s/
   short_title: St Govan s
   heading_title: Why Does St Govan's Chapel Feel Haunted?
-date: '2026-07-05 13:03:10 '
 header:
   og_image: /assets/images/Pembrokeshire_b220ff_waterston_lady_175eca-overview-social.jpg
   preview_image: /assets/images/Pembrokeshire_b220ff_waterston_lady_175eca-overview.webp
@@ -459,38 +459,6 @@ That is why the Waterston Lady remains more than a throwaway ghost-list entry. H
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chinese Girl. The Green Lady Print, 20x16 inches, Vladimir Tretchikoff art print"><img src="{{ '/assets/images/marketplace-covers/6870279a1aefc76aa2b9.jpg' | relative_url }}" alt="Listing image for Chinese Girl. The Green Lady Print, 20x16 inches, Vladimir Tretchikoff art print" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer">Chinese Girl. The Green Lady Print, 20x16 inches, Vladimir Tretchikoff art print</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Green Lady art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Green Lady art print</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Lady Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/72518b9af79baba1a7c6.jpg' | relative_url }}" alt="Listing image for Green Lady Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer">Green Lady Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Green Lady art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Green Lady art print</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Lady print"><img src="{{ '/assets/images/marketplace-covers/147d89e40a5183727149.jpg' | relative_url }}" alt="Listing image for Green Lady print" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -512,6 +480,38 @@ That is why the Waterston Lady remains more than a throwaway ghost-list entry. H
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
 <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer">Green Lady Art Print 2020 Frank Kozik Pearl Jam Soundgarden</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Green Lady art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Green Lady art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pre Raphaelite Art Print A fashionable lady Emma Sandys in gold green frame"><img src="{{ '/assets/images/marketplace-covers/82957509529d0e7f5a1b.jpg' | relative_url }}" alt="Listing image for Pre Raphaelite Art Print A fashionable lady Emma Sandys in gold green frame" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer">Pre Raphaelite Art Print A fashionable lady Emma Sandys in gold green frame</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Green Lady art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Green Lady art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for August Macke Lady in a Green Jacket Vintage Art Print Poster Wall Decor Visual F"><img src="{{ '/assets/images/marketplace-covers/78d52a0551546edb92ef.jpg' | relative_url }}" alt="Listing image for August Macke Lady in a Green Jacket Vintage Art Print Poster Wall Decor Visual F" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer">August Macke Lady in a Green Jacket Vintage Art Print Poster Wall Decor Visual F</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="waterston-lady-who-is-the-blue-lady-of-waterston-road-pembrokeshire-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Green Lady art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Green Lady art print</a>
 <div class="fr-book-actions">

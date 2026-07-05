@@ -283,6 +283,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:21'
 sibling_links:
 - basename: Clackmannanshire_a9d2bc
   title: Haunted Clackmannanshire
@@ -674,7 +675,6 @@ next_link:
   title: Haunted Lincolnshire
   permalink: /where-do-lincolnshires-ghost-stories/
   short_title: Haunted Lincolnshire
-date: '2026-07-05 13:02:21 '
 header:
   og_image: /assets/images/Kirkcudbrightshire_97fbf2-overview-social.jpg
   preview_image: /assets/images/Kirkcudbrightshire_97fbf2-overview.webp

@@ -473,38 +473,6 @@ The sources are uneven, and many accounts survive through later antiquarian coll
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Alarm The Celtic Folklore Tour 1987 Mini Poster Type Concert Ad Promo Advert"><img src="{{ '/assets/images/marketplace-covers/a284216d6427af42b546.jpg' | relative_url }}" alt="Listing image for The Alarm The Celtic Folklore Tour 1987 Mini Poster Type Concert Ad Promo Advert" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" target="_blank" rel="sponsored noopener noreferrer">The Alarm The Celtic Folklore Tour 1987 Mini Poster Type Concert Ad Promo Advert</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Celtic folklore poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Celtic folklore poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celtic Priestess Lore Keeper Druid Storyteller Mysterious Giclée 8X10 Print"><img src="{{ '/assets/images/marketplace-covers/be0d6b63784025b69618.jpg' | relative_url }}" alt="Listing image for Celtic Priestess Lore Keeper Druid Storyteller Mysterious Giclée 8X10 Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" target="_blank" rel="sponsored noopener noreferrer">Celtic Priestess Lore Keeper Druid Storyteller Mysterious Giclée 8X10 Print</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Celtic folklore poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Celtic folklore poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOSTON CELTICS Basketball NBA Fantasy Wall Art Fan Gift Poster Canvas Home Decor"><img src="{{ '/assets/images/marketplace-covers/871e58d0de40b8a1ea80.jpg' | relative_url }}" alt="Listing image for BOSTON CELTICS Basketball NBA Fantasy Wall Art Fan Gift Poster Canvas Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -521,11 +489,43 @@ The sources are uneven, and many accounts survive through later antiquarian coll
 </article>
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Alarm The Celtic Folklore Tour 1987 Mini Poster Type Concert Ad Promo Advert"><img src="{{ '/assets/images/marketplace-covers/a284216d6427af42b546.jpg' | relative_url }}" alt="Listing image for The Alarm The Celtic Folklore Tour 1987 Mini Poster Type Concert Ad Promo Advert" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" target="_blank" rel="sponsored noopener noreferrer">The Alarm The Celtic Folklore Tour 1987 Mini Poster Type Concert Ad Promo Advert</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Celtic folklore poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Celtic folklore poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celtic Priestess Lore Keeper Druid Storyteller Mysterious Giclée 8.5X11 Print"><img src="{{ '/assets/images/marketplace-covers/15dfdeb1ddfb19a441f5.jpg' | relative_url }}" alt="Listing image for Celtic Priestess Lore Keeper Druid Storyteller Mysterious Giclée 8.5X11 Print" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
 <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" target="_blank" rel="sponsored noopener noreferrer">Celtic Priestess Lore Keeper Druid Storyteller Mysterious Giclée 8.5X11 Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Celtic folklore poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Celtic folklore poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Goddess Diana The High Priestess Tarot Card Poster Celtic Witch Wall Art"><img src="{{ '/assets/images/marketplace-covers/91117e4b30b0e2cc1c1f.jpg' | relative_url }}" alt="Listing image for The Goddess Diana The High Priestess Tarot Card Poster Celtic Witch Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" target="_blank" rel="sponsored noopener noreferrer">The Goddess Diana The High Priestess Tarot Card Poster Celtic Witch Wall Art</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Celtic+folklore+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Celtic folklore poster" data-ebay-reference="island-folklore-what-else-haunted-buteshire-s-islands-buteshire-celtic-folklore-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Celtic folklore poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Celtic folklore poster</a>
 <div class="fr-book-actions">

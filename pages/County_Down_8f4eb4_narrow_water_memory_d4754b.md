@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:03:15'
 parent_title: Haunted Down
 parent_permalink: /where-county-down-keeps-its-ghosts/
 parent_nav_short_title: Haunted Down
@@ -239,7 +240,6 @@ next_link:
   permalink: /road-omens/
   short_title: Road Omens
   heading_title: What Haunts the Roads Through the Mournes?
-date: '2026-07-05 13:03:15 '
 header:
   og_image: /assets/images/County_Down_8f4eb4_narrow_water_memory_d4754b-overview-social.jpg
   preview_image: /assets/images/County_Down_8f4eb4_narrow_water_memory_d4754b-overview.webp
@@ -467,15 +467,15 @@ That is why this County Down haunting needs a gentler handling than a simple spo
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lynx Scottish Pine Forest Ghost T-Shirt Unisex Cotton Tee UK"><img src="{{ '/assets/images/marketplace-covers/fee6d02d667986efcae1.jpg' | relative_url }}" alt="Listing image for Lynx Scottish Pine Forest Ghost T-Shirt Unisex Cotton Tee UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+folklore+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost folklore mug" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scream 7 Ghostface Synthwave Art Style Cup Mug Tumbler 20oz"><img src="{{ '/assets/images/marketplace-covers/db5d7f463c4fc3101ec6.jpg' | relative_url }}" alt="Listing image for Scream 7 Ghostface Synthwave Art Style Cup Mug Tumbler 20oz" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Lynx Scottish Pine Forest Ghost T-Shirt Unisex Cotton Tee UK</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+folklore+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost folklore mug" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug" target="_blank" rel="sponsored noopener noreferrer">Scream 7 Ghostface Synthwave Art Style Cup Mug Tumbler 20oz</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scottish ghost t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scottish ghost t shirt</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+folklore+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost folklore mug" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost folklore mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost folklore mug</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+folklore+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost folklore mug" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -483,15 +483,47 @@ That is why this County Down haunting needs a gentler handling than a simple spo
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Croatia Flag Proud Scottish Croatian Roots T-Shirt S-3XL"><img src="{{ '/assets/images/marketplace-covers/e05d4327324d7ba957bc.jpg' | relative_url }}" alt="Listing image for Scotland Croatia Flag Proud Scottish Croatian Roots T-Shirt S-3XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+folklore+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost folklore mug" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zero Ghost Dog Nightmare Before Christmas Jack and Sally Cup Mug Tumbler"><img src="{{ '/assets/images/marketplace-covers/cef89b67af26d92438c5.jpg' | relative_url }}" alt="Listing image for Zero Ghost Dog Nightmare Before Christmas Jack and Sally Cup Mug Tumbler" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Scotland Croatia Flag Proud Scottish Croatian Roots T-Shirt S-3XL</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+folklore+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost folklore mug" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug" target="_blank" rel="sponsored noopener noreferrer">Zero Ghost Dog Nightmare Before Christmas Jack and Sally Cup Mug Tumbler</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scottish ghost t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scottish ghost t shirt</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+folklore+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost folklore mug" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost folklore mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost folklore mug</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+folklore+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost folklore mug" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+folklore+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost folklore mug" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow in the Dark Zero Ghost Dog Nightmare Before Christmas Cup Mug Tumbler"><img src="{{ '/assets/images/marketplace-covers/a79eb2ed3c9b27d50503.jpg' | relative_url }}" alt="Listing image for Glow in the Dark Zero Ghost Dog Nightmare Before Christmas Cup Mug Tumbler" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+folklore+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost folklore mug" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug" target="_blank" rel="sponsored noopener noreferrer">Glow in the Dark Zero Ghost Dog Nightmare Before Christmas Cup Mug Tumbler</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+folklore+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost folklore mug" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost folklore mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost folklore mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+folklore+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost folklore mug" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+folklore+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost folklore mug" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 3D Halloween Ghost 20oz Tumbler - Insulated Stainless Steel Mug"><img src="{{ '/assets/images/marketplace-covers/a0090fd7918ee4d5547f.jpg' | relative_url }}" alt="Listing image for 3D Halloween Ghost 20oz Tumbler - Insulated Stainless Steel Mug" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+folklore+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost folklore mug" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug" target="_blank" rel="sponsored noopener noreferrer">3D Halloween Ghost 20oz Tumbler - Insulated Stainless Steel Mug</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+folklore+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost folklore mug" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost folklore mug">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost folklore mug</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+folklore+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost folklore mug" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -499,7 +531,7 @@ That is why this County Down haunting needs a gentler handling than a simple spo
 </article>
 </div>
 <div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost t shirt" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-scottish-ghost-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+folklore+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost folklore mug" data-ebay-reference="narrow-water-why-narrow-water-s-ghost-stories-need-care-county-down-ghost-folklore-mug" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>

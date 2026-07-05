@@ -11,10 +11,10 @@ text_direction: 'ltr'
 direction: 'ltr'
 visual_profile: 'atlas'
 layout_archetype: 'atlas'
-visual_palette: 'verdant-field'
+visual_palette: 'signal-cobalt'
 visual_motif: 'constellation'
-font_heading: 'Sora'
-font_body: 'Public Sans'
+font_heading: 'Outfit'
+font_body: 'Newsreader'
 appearance_menu_enabled: true
 appearance_menu_default_open: false
 appearance_toast_ms: 5000
@@ -36,7 +36,7 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'hybrid'
-ui_bundle_version: 'build-1783253022'
+ui_bundle_version: 'build-1783265444'
 google_site_verification: ''
 draft_noindex: false
 theme: minima

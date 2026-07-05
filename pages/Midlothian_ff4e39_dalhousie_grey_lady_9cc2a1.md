@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:26'
 parent_title: Haunted Midlothian
 parent_permalink: /where-midlothians-ghost-stories-gather/
 parent_nav_short_title: Haunted Midlothian
@@ -233,7 +234,6 @@ next_link:
   permalink: /mary-roslin/
   short_title: Mary & Roslin
   heading_title: When History Starts To Feel Haunted
-date: '2026-07-05 13:02:26 '
 header:
   og_image: /assets/images/Midlothian_ff4e39_dalhousie_grey_lady_9cc2a1-overview-social.jpg
   preview_image: /assets/images/Midlothian_ff4e39_dalhousie_grey_lady_9cc2a1-overview.webp
@@ -462,6 +462,22 @@ That is why the story works even when the evidence is uncertain. Dalhousie’s G
 </article>
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Lady Art Print 2020 Frank Kozik Pearl Jam Soundgarden"><img src="{{ '/assets/images/marketplace-covers/d10e4fac23ba721537f2.jpg' | relative_url }}" alt="Listing image for Green Lady Art Print 2020 Frank Kozik Pearl Jam Soundgarden" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer">Green Lady Art Print 2020 Frank Kozik Pearl Jam Soundgarden</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Green Lady art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Green Lady art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Green Lady print"><img src="{{ '/assets/images/marketplace-covers/147d89e40a5183727149.jpg' | relative_url }}" alt="Listing image for Green Lady print" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -483,22 +499,6 @@ That is why the story works even when the evidence is uncertain. Dalhousie’s G
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
 <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer">Pre Raphaelite Art Print A fashionable lady Emma Sandys in gold green frame</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Green Lady art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Green Lady art print</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Chinese Girl. The Green Lady Print, 20x16 inches, Vladimir Tretchikoff art print"><img src="{{ '/assets/images/marketplace-covers/6870279a1aefc76aa2b9.jpg' | relative_url }}" alt="Listing image for Chinese Girl. The Green Lady Print, 20x16 inches, Vladimir Tretchikoff art print" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer">Chinese Girl. The Green Lady Print, 20x16 inches, Vladimir Tretchikoff art print</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Green+Lady+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Green Lady art print" data-ebay-reference="dalhousie-who-is-dalhousie-s-grey-lady-midlothian-green-lady-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Green Lady art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Green Lady art print</a>
 <div class="fr-book-actions">

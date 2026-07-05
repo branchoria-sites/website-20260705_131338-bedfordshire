@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:03:17'
 parent_title: Haunted Fermanagh
 parent_permalink: /why-do-fermanaghs-ghost-stories-linger/
 parent_nav_short_title: Haunted Fermanagh
@@ -239,7 +240,6 @@ next_link:
   permalink: /tully-castle/
   short_title: Tully Castle
   heading_title: Why Is Tully Castle Linked to Christmas Ghosts?
-date: '2026-07-05 13:03:17 '
 header:
   og_image: /assets/images/Fermanagh_69251a_lough_erne_folklore_492bf0-overview-social.jpg
   preview_image: /assets/images/Fermanagh_69251a_lough_erne_folklore_492bf0-overview.webp

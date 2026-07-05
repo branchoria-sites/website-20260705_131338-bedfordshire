@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:36'
 parent_title: Haunted Ross shire
 parent_permalink: /where-do-ross-shires-ghost-stories/
 parent_nav_short_title: Haunted Ross shire
@@ -233,7 +234,6 @@ prev_link:
   permalink: /carbisdale/
   short_title: Carbisdale
   heading_title: Does Carbisdale's Ghost Belong to the Battlefield?
-date: '2026-07-05 13:02:36 '
 header:
   og_image: /assets/images/Ross-shire_c9caea_tulloch_green_lady_9542f7-overview-social.jpg
   preview_image: /assets/images/Ross-shire_c9caea_tulloch_green_lady_9542f7-overview.webp
@@ -494,11 +494,11 @@ Within the wider Ross-shire branch, Tulloch belongs beside other place-based tra
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tulloch-castle-who-is-tulloch-castle-s-green-lady-ross-shire-scottish-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish castle wall art" data-ebay-reference="tulloch-castle-who-is-tulloch-castle-s-green-lady-ross-shire-scottish-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Eilean Donan Castle Travel Poster Print - Scottish Highlands Coastal Wall Art"><img src="{{ '/assets/images/marketplace-covers/a6949e26602100415d93.jpg' | relative_url }}" alt="Listing image for Eilean Donan Castle Travel Poster Print - Scottish Highlands Coastal Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tulloch-castle-who-is-tulloch-castle-s-green-lady-ross-shire-scottish-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish castle wall art" data-ebay-reference="tulloch-castle-who-is-tulloch-castle-s-green-lady-ross-shire-scottish-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Doune Castle Scottish Saltire Sky Modern Framed Wall Art Picture Print A3"><img src="{{ '/assets/images/marketplace-covers/bd456451fc4effb30895.jpg' | relative_url }}" alt="Listing image for Doune Castle Scottish Saltire Sky Modern Framed Wall Art Picture Print A3" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tulloch-castle-who-is-tulloch-castle-s-green-lady-ross-shire-scottish-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish castle wall art" data-ebay-reference="tulloch-castle-who-is-tulloch-castle-s-green-lady-ross-shire-scottish-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Eilean Donan Castle Travel Poster Print - Scottish Highlands Coastal Wall Art</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tulloch-castle-who-is-tulloch-castle-s-green-lady-ross-shire-scottish-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish castle wall art" data-ebay-reference="tulloch-castle-who-is-tulloch-castle-s-green-lady-ross-shire-scottish-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Doune Castle Scottish Saltire Sky Modern Framed Wall Art Picture Print A3</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tulloch-castle-who-is-tulloch-castle-s-green-lady-ross-shire-scottish-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish castle wall art" data-ebay-reference="tulloch-castle-who-is-tulloch-castle-s-green-lady-ross-shire-scottish-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scottish castle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scottish castle wall art</a>
 <div class="fr-book-actions">

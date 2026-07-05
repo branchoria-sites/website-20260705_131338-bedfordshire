@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:31'
 parent_title: Haunted Orkney
 parent_permalink: /why-does-orkney-feel-so-haunted/
 parent_nav_short_title: Haunted Orkney
@@ -233,7 +234,6 @@ prev_link:
   permalink: /sea-folklore/
   short_title: Sea Folklore
   heading_title: What Makes Orkney's Sea Folklore So Unsettling?
-date: '2026-07-05 13:02:31 '
 header:
   og_image: /assets/images/Orkney_9ae683_skaill_house_hauntin_d753d7-overview-social.jpg
   preview_image: /assets/images/Orkney_9ae683_skaill_house_hauntin_d753d7-overview.webp
@@ -454,11 +454,11 @@ That is why Skaill House deserves its place at the centre of Orkney’s haunted 
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house wall art" data-ebay-reference="skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halloween Spooky Haunted House Scary Pumpkin Canvas Wall Art Decor Framed Print"><img src="{{ '/assets/images/marketplace-covers/3171f968f1cec8f1cd42.jpg' | relative_url }}" alt="Listing image for Halloween Spooky Haunted House Scary Pumpkin Canvas Wall Art Decor Framed Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house wall art" data-ebay-reference="skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spooky Haunted House Wall Art Poster for Halloween Decor Home Decor"><img src="{{ '/assets/images/marketplace-covers/125e48d0cf9c8aea5892.jpg' | relative_url }}" alt="Listing image for Spooky Haunted House Wall Art Poster for Halloween Decor Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house wall art" data-ebay-reference="skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art" target="_blank" rel="sponsored noopener noreferrer">Halloween Spooky Haunted House Scary Pumpkin Canvas Wall Art Decor Framed Print</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house wall art" data-ebay-reference="skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art" target="_blank" rel="sponsored noopener noreferrer">Spooky Haunted House Wall Art Poster for Halloween Decor Home Decor</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house wall art" data-ebay-reference="skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house wall art</a>
 <div class="fr-book-actions">
@@ -470,11 +470,11 @@ That is why Skaill House deserves its place at the centre of Orkney’s haunted 
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house wall art" data-ebay-reference="skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spooky Haunted House Wall Art Poster for Halloween Decor Home Decor"><img src="{{ '/assets/images/marketplace-covers/125e48d0cf9c8aea5892.jpg' | relative_url }}" alt="Listing image for Spooky Haunted House Wall Art Poster for Halloween Decor Home Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house wall art" data-ebay-reference="skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halloween Spooky Haunted House Scary Pumpkin Canvas Wall Art Decor Framed Print"><img src="{{ '/assets/images/marketplace-covers/3171f968f1cec8f1cd42.jpg' | relative_url }}" alt="Listing image for Halloween Spooky Haunted House Scary Pumpkin Canvas Wall Art Decor Framed Print" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house wall art" data-ebay-reference="skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art" target="_blank" rel="sponsored noopener noreferrer">Spooky Haunted House Wall Art Poster for Halloween Decor Home Decor</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house wall art" data-ebay-reference="skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art" target="_blank" rel="sponsored noopener noreferrer">Halloween Spooky Haunted House Scary Pumpkin Canvas Wall Art Decor Framed Print</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house wall art" data-ebay-reference="skaill-house-why-is-skaill-house-orkney-s-haunted-anchor-orkney-haunted-house-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house wall art</a>
 <div class="fr-book-actions">

@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:15'
 parent_title: Haunted Inverness shire
 parent_permalink: /why-does-inverness-shire-feel-so-haunted/
 parent_nav_short_title: Haunted Inverness shire
@@ -233,7 +234,6 @@ next_link:
   permalink: /inverness/
   short_title: Inverness
   heading_title: Where Does Inverness Remember Its Restless Dead?
-date: '2026-07-05 13:02:15 '
 header:
   og_image: /assets/images/Inverness-shire_f61896_culloden_hauntings_fd1ab0-overview-social.jpg
   preview_image: /assets/images/Inverness-shire_f61896_culloden_hauntings_fd1ab0-overview.webp

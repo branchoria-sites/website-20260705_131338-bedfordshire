@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:03:17'
 parent_title: Haunted Fermanagh
 parent_permalink: /why-do-fermanaghs-ghost-stories-linger/
 parent_nav_short_title: Haunted Fermanagh
@@ -233,7 +234,6 @@ next_link:
   permalink: /lough-legends/
   short_title: Lough Legends
   heading_title: Why Do Fermanagh's Ghosts Gather by Water?
-date: '2026-07-05 13:03:17 '
 header:
   og_image: /assets/images/Fermanagh_69251a_cooneen_ghost_8df996-overview-social.jpg
   preview_image: /assets/images/Fermanagh_69251a_cooneen_ghost_8df996-overview.webp

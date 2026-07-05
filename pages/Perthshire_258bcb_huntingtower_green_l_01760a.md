@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:33'
 parent_title: Haunted Perthshire
 parent_permalink: /where-does-haunted-perthshire-really/
 parent_nav_short_title: Haunted Perthshire
@@ -239,7 +240,6 @@ next_link:
   permalink: /killiecrankie/
   short_title: Killiecrankie
   heading_title: Why Is Killiecrankie Said To Be Haunted?
-date: '2026-07-05 13:02:33 '
 header:
   og_image: /assets/images/Perthshire_258bcb_huntingtower_green_l_01760a-overview-social.jpg
   preview_image: /assets/images/Perthshire_258bcb_huntingtower_green_l_01760a-overview.webp

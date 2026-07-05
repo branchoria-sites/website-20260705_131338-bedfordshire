@@ -496,6 +496,22 @@ The most honest answer to “Is the A75 really Scotland’s haunted road?” is 
 </article>
 
 <article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland"><img src="{{ '/assets/images/marketplace-covers/70b9cd94361376603c39.jpg' | relative_url }}" alt="Listing image for Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map Poster Educational School Wall Art A5-A1 Poster Maps Of Scotland</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map Poster Print A5, A4, A3, A2, A1, A0"><img src="{{ '/assets/images/marketplace-covers/93f3cb16b635043d1bb8.jpg' | relative_url }}" alt="Listing image for Scotland Map Poster Print A5, A4, A3, A2, A1, A0" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -517,22 +533,6 @@ The most honest answer to “Is the A75 really Scotland’s haunted road?” is 
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
 <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Inverness Scotland UK City Map Typography Framed Wall Art Print 12x16 In</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scotland Map Tartan Regions Large Wall Art Print 18X24 In"><img src="{{ '/assets/images/marketplace-covers/6dba760dd80fceb0ff83.jpg' | relative_url }}" alt="Listing image for Scotland Map Tartan Regions Large Wall Art Print 18X24 In" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer">Scotland Map Tartan Regions Large Wall Art Print 18X24 In</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scotland+map+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scotland map print" data-ebay-reference="a75-road-is-the-a75-really-scotland-s-haunted-road-dumfriesshire-scotland-map-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scotland map print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scotland map print</a>
 <div class="fr-book-actions">

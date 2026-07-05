@@ -214,12 +214,12 @@ breadcrumb_links:
   short_title: Haunted Durham
 sibling_links:
 - basename: County_Durham_9c5285_durham_ghost_map_c8a33f
-  title: Ghost Map | County Durham
+  title: Ghost Map | Where Durham's Ghost Stories Still Gather
   permalink: /ghost-map/
   short_title: Ghost Map
   heading_title: Why Do Durham's Ghosts Cluster Around Castles?
 - basename: County_Durham_9c5285_lumley_castle_lily_1596b7
-  title: Lily Lumley | County Durham
+  title: Lily Lumley | Where Durham's Ghost Stories Still Gather
   permalink: /lily-lumley/
   short_title: Lily Lumley
   heading_title: Is Lily of Lumley History or Hotel Folklore?
@@ -230,13 +230,13 @@ up_link:
   short_title: Haunted Durham
 prev_link:
   basename: County_Durham_9c5285_durham_ghost_map_c8a33f
-  title: Ghost Map | County Durham
+  title: Ghost Map | Where Durham's Ghost Stories Still Gather
   permalink: /ghost-map/
   short_title: Ghost Map
   heading_title: Why Do Durham's Ghosts Cluster Around Castles?
 next_link:
   basename: County_Durham_9c5285_lumley_castle_lily_1596b7
-  title: Lily Lumley | County Durham
+  title: Lily Lumley | Where Durham's Ghost Stories Still Gather
   permalink: /lily-lumley/
   short_title: Lily Lumley
   heading_title: Is Lily of Lumley History or Hotel Folklore?

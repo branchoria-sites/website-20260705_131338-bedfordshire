@@ -195,6 +195,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:26'
 parent_title: Haunted Midlothian
 parent_permalink: /where-midlothians-ghost-stories-gather/
 parent_nav_short_title: Haunted Midlothian
@@ -237,7 +238,6 @@ next_link:
   permalink: /rosslyn/
   short_title: Rosslyn
   heading_title: Why Does Rosslyn Feel So Haunted?
-date: '2026-07-05 13:02:26 '
 header:
   og_image: /assets/images/Midlothian_ff4e39_mary_roslin_memory_8aad69-overview-social.jpg
   preview_image: /assets/images/Midlothian_ff4e39_mary_roslin_memory_8aad69-overview.webp
@@ -452,11 +452,11 @@ That is what makes Mary and Roslin such a useful pair within Midlothian’s haun
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mary+Queen+of+Scots+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mary Queen of Scots poster" data-ebay-reference="mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MARY QUEEN OF SCOTS - RONAN / MARGOT ROBBIE - ORIGINAL LARGE MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/ffb037579627d50c574e.jpg' | relative_url }}" alt="Listing image for MARY QUEEN OF SCOTS - RONAN / MARGOT ROBBIE - ORIGINAL LARGE MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mary+Queen+of+Scots+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mary Queen of Scots poster" data-ebay-reference="mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mary Queen of Scots Original Quad Movie Cinema Poster Glenda Jackson 1971"><img src="{{ '/assets/images/marketplace-covers/5c38ce6e3b2cebc98098.jpg' | relative_url }}" alt="Listing image for Mary Queen of Scots Original Quad Movie Cinema Poster Glenda Jackson 1971" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mary+Queen+of+Scots+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mary Queen of Scots poster" data-ebay-reference="mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster" target="_blank" rel="sponsored noopener noreferrer">MARY QUEEN OF SCOTS - RONAN / MARGOT ROBBIE - ORIGINAL LARGE MOVIE POSTER</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mary+Queen+of+Scots+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mary Queen of Scots poster" data-ebay-reference="mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster" target="_blank" rel="sponsored noopener noreferrer">Mary Queen of Scots Original Quad Movie Cinema Poster Glenda Jackson 1971</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mary+Queen+of+Scots+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mary Queen of Scots poster" data-ebay-reference="mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mary Queen of Scots poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mary Queen of Scots poster</a>
 <div class="fr-book-actions">
@@ -484,11 +484,11 @@ That is what makes Mary and Roslin such a useful pair within Midlothian’s haun
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mary+Queen+of+Scots+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mary Queen of Scots poster" data-ebay-reference="mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Mary Queen of Scots Original Quad Movie Cinema Poster Glenda Jackson 1971"><img src="{{ '/assets/images/marketplace-covers/5c38ce6e3b2cebc98098.jpg' | relative_url }}" alt="Listing image for Mary Queen of Scots Original Quad Movie Cinema Poster Glenda Jackson 1971" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mary+Queen+of+Scots+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mary Queen of Scots poster" data-ebay-reference="mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MARY QUEEN OF SCOTS - RONAN / MARGOT ROBBIE - ORIGINAL LARGE MOVIE POSTER"><img src="{{ '/assets/images/marketplace-covers/ffb037579627d50c574e.jpg' | relative_url }}" alt="Listing image for MARY QUEEN OF SCOTS - RONAN / MARGOT ROBBIE - ORIGINAL LARGE MOVIE POSTER" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mary+Queen+of+Scots+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mary Queen of Scots poster" data-ebay-reference="mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster" target="_blank" rel="sponsored noopener noreferrer">Mary Queen of Scots Original Quad Movie Cinema Poster Glenda Jackson 1971</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Mary+Queen+of+Scots+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mary Queen of Scots poster" data-ebay-reference="mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster" target="_blank" rel="sponsored noopener noreferrer">MARY QUEEN OF SCOTS - RONAN / MARGOT ROBBIE - ORIGINAL LARGE MOVIE POSTER</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Mary+Queen+of+Scots+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Mary Queen of Scots poster" data-ebay-reference="mary-roslin-when-history-starts-to-feel-haunted-midlothian-mary-queen-of-scots-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Mary Queen of Scots poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Mary Queen of Scots poster</a>
 <div class="fr-book-actions">

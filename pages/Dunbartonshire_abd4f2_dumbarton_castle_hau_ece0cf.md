@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:10'
 parent_title: Haunted Dunbartonshire
 parent_permalink: /where-dunbartonshires-dark-stories/
 parent_nav_short_title: Haunted Dunbartonshire
@@ -233,7 +234,6 @@ next_link:
   permalink: /overtoun-bridge/
   short_title: Overtoun Bridge
   heading_title: What Is Really Strange About Overtoun Bridge?
-date: '2026-07-05 13:02:10 '
 header:
   og_image: /assets/images/Dunbartonshire_abd4f2_dumbarton_castle_hau_ece0cf-overview-social.jpg
   preview_image: /assets/images/Dunbartonshire_abd4f2_dumbarton_castle_hau_ece0cf-overview.webp

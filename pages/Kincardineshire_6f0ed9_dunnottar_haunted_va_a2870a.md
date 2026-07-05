@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:18'
 parent_title: Haunted Mearns
 parent_permalink: /why-do-kincardineshires-castles-feel/
 parent_nav_short_title: Haunted Mearns
@@ -213,12 +214,12 @@ breadcrumb_links:
   short_title: Haunted Mearns
 sibling_links:
 - basename: Kincardineshire_6f0ed9_crathes_green_lady_cb8442
-  title: Crathes | Why Do Kincardineshire's Castles Feel Haunted?
+  title: Crathes | Why Do Kincardineshire's Castles Feel...
   permalink: /crathes/
   short_title: Crathes
   heading_title: Who Is the Green Lady of Crathes?
 - basename: Kincardineshire_6f0ed9_muchalls_tunnel_lege_614884
-  title: Muchalls | Why Do Kincardineshire's Castles Feel Haunted?
+  title: Muchalls | Why Do Kincardineshire's Castles Feel...
   permalink: /muchalls/
   short_title: Muchalls
   heading_title: The Drowned Girl Beneath Muchalls Castle
@@ -229,17 +230,16 @@ up_link:
   short_title: Haunted Mearns
 prev_link:
   basename: Kincardineshire_6f0ed9_crathes_green_lady_cb8442
-  title: Crathes | Why Do Kincardineshire's Castles Feel Haunted?
+  title: Crathes | Why Do Kincardineshire's Castles Feel...
   permalink: /crathes/
   short_title: Crathes
   heading_title: Who Is the Green Lady of Crathes?
 next_link:
   basename: Kincardineshire_6f0ed9_muchalls_tunnel_lege_614884
-  title: Muchalls | Why Do Kincardineshire's Castles Feel Haunted?
+  title: Muchalls | Why Do Kincardineshire's Castles Feel...
   permalink: /muchalls/
   short_title: Muchalls
   heading_title: The Drowned Girl Beneath Muchalls Castle
-date: '2026-07-05 13:02:18 '
 header:
   og_image: /assets/images/Kincardineshire_6f0ed9_dunnottar_haunted_va_a2870a-overview-social.jpg
   preview_image: /assets/images/Kincardineshire_6f0ed9_dunnottar_haunted_va_a2870a-overview.webp
@@ -475,15 +475,15 @@ The Green Lady gives Dunnottar its most memorable ghostly image. The Whigs’ Va
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Dunnottar+Castle+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Dunnottar Castle print -book -books" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Antique Print (1838) - Dunnottar Castle - Stonehaven - WH Bartlett - Scotland"><img src="{{ '/assets/images/marketplace-covers/db1913892e9a0bfac104.jpg' | relative_url }}" alt="Listing image for Antique Print (1838) - Dunnottar Castle - Stonehaven - WH Bartlett - Scotland" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MiniArt 1:72 Scale Medieval Castle Plastic Model Kit"><img src="{{ '/assets/images/marketplace-covers/5378c50034ae0929d01e.jpg' | relative_url }}" alt="Listing image for MiniArt 1:72 Scale Medieval Castle Plastic Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Dunnottar+Castle+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Dunnottar Castle print -book -books" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Antique Print (1838) - Dunnottar Castle - Stonehaven - WH Bartlett - Scotland</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer">MiniArt 1:72 Scale Medieval Castle Plastic Model Kit</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Dunnottar+Castle+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Dunnottar Castle print -book -books" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Dunnottar Castle print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Dunnottar Castle print</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medieval castle model">Search<span data-ebay-domain-label>eBay.co.uk</span>: medieval castle model</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Dunnottar+Castle+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Dunnottar Castle print -book -books" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -491,15 +491,15 @@ The Green Lady gives Dunnottar its most memorable ghostly image. The Whigs’ Va
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Dunnottar+Castle+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Dunnottar Castle print -book -books" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Old Antique Print 1859 Banchory Aberdeen Dunnottar Castle Kincardineshire 19th"><img src="{{ '/assets/images/marketplace-covers/248938c8745fdcbc7fd7.jpg' | relative_url }}" alt="Listing image for Old Antique Print 1859 Banchory Aberdeen Dunnottar Castle Kincardineshire 19th" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Miniart 72005 Medieval Castle 1/72nd scale model kit"><img src="{{ '/assets/images/marketplace-covers/aedce0d3ee1c283b8ebd.jpg' | relative_url }}" alt="Listing image for Miniart 72005 Medieval Castle 1/72nd scale model kit" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Dunnottar+Castle+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Dunnottar Castle print -book -books" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Old Antique Print 1859 Banchory Aberdeen Dunnottar Castle Kincardineshire 19th</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer">Miniart 72005 Medieval Castle 1/72nd scale model kit</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Dunnottar+Castle+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Dunnottar Castle print -book -books" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Dunnottar Castle print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Dunnottar Castle print</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medieval castle model">Search<span data-ebay-domain-label>eBay.co.uk</span>: medieval castle model</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Dunnottar+Castle+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Dunnottar Castle print -book -books" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -507,15 +507,31 @@ The Green Lady gives Dunnottar its most memorable ghostly image. The Whigs’ Va
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Dunnottar+Castle+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Dunnottar Castle print -book -books" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Dunnottar Castle Travel Print Wall Art Dunnottar Castle Wall Hanging Home Décor"><img src="{{ '/assets/images/marketplace-covers/38e66d92d8478a2dae66.jpg' | relative_url }}" alt="Listing image for Dunnottar Castle Travel Print Wall Art Dunnottar Castle Wall Hanging Home Décor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Medieval Castle Toy Playset Knights Soldiers DIY Assembled Castle Model Kit"><img src="{{ '/assets/images/marketplace-covers/444e6c31dc10a372ea60.jpg' | relative_url }}" alt="Listing image for Medieval Castle Toy Playset Knights Soldiers DIY Assembled Castle Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Dunnottar+Castle+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Dunnottar Castle print -book -books" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books" target="_blank" rel="sponsored noopener noreferrer">Dunnottar Castle Travel Print Wall Art Dunnottar Castle Wall Hanging Home Décor</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer">Medieval Castle Toy Playset Knights Soldiers DIY Assembled Castle Model Kit</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Dunnottar+Castle+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Dunnottar Castle print -book -books" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Dunnottar Castle print">Search<span data-ebay-domain-label>eBay.co.uk</span>: Dunnottar Castle print</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medieval castle model">Search<span data-ebay-domain-label>eBay.co.uk</span>: medieval castle model</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Dunnottar+Castle+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Dunnottar Castle print -book -books" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 28 Pcs Medieval Knights Horses Soldiers Model Playset Toy War Castle Game UK"><img src="{{ '/assets/images/marketplace-covers/6be32a00ce15f270f54f.jpg' | relative_url }}" alt="Listing image for 28 Pcs Medieval Knights Horses Soldiers Model Playset Toy War Castle Game UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer">28 Pcs Medieval Knights Horses Soldiers Model Playset Toy War Castle Game UK</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medieval castle model">Search<span data-ebay-domain-label>eBay.co.uk</span>: medieval castle model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -523,7 +539,7 @@ The Green Lady gives Dunnottar its most memorable ghostly image. The Whigs’ Va
 </article>
 </div>
 <div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Dunnottar+Castle+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Dunnottar Castle print -book -books" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-dunnottar-castle-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medieval+castle+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medieval castle model" data-ebay-reference="dunnottar-why-dunnottar-castle-became-so-haunted-kincardineshire-medieval-castle-model" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>

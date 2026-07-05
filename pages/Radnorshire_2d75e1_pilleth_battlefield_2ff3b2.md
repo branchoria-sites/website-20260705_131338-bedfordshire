@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:03:11'
 parent_title: Haunted Radnorshire
 parent_permalink: /where-does-radnorshire-feel-most-haunted/
 parent_nav_short_title: Haunted Radnorshire
@@ -239,7 +240,6 @@ next_link:
   permalink: /ruined-places/
   short_title: Ruined Places
   heading_title: Radnorshire's Haunted Ruins and Lost Places
-date: '2026-07-05 13:03:11 '
 header:
   og_image: /assets/images/Radnorshire_2d75e1_pilleth_battlefield_2ff3b2-overview-social.jpg
   preview_image: /assets/images/Radnorshire_2d75e1_pilleth_battlefield_2ff3b2-overview.webp
@@ -444,15 +444,15 @@ That does not make Pilleth less valuable to a haunted Radnorshire map. In some w
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lynx Scottish Pine Forest Ghost Art A1 Art Wall Art UK Gift Art Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/2806efad1c5b8492ce39.jpg' | relative_url }}" alt="Listing image for Lynx Scottish Pine Forest Ghost Art A1 Art Wall Art UK Gift Art Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Ghost Autumn Fall Castle Lands Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/52ab1a036b6ee0116c8a.jpg' | relative_url }}" alt="Listing image for Cute Ghost Autumn Fall Castle Lands Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Lynx Scottish Pine Forest Ghost Art A1 Art Wall Art UK Gift Art Art Print Poster</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">Cute Ghost Autumn Fall Castle Lands Framed Wall Art Poster Canvas Print Picture</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scottish ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scottish ghost poster</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for castle ghost art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: castle ghost art print</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -460,15 +460,47 @@ That does not make Pilleth less valuable to a haunted Radnorshire map. In some w
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lynx Scottish Pine Forest Ghost Art Wall Art UK Art Print Poster Wall Art UK"><img src="{{ '/assets/images/marketplace-covers/0acaa3043c58d56c5215.jpg' | relative_url }}" alt="Listing image for Lynx Scottish Pine Forest Ghost Art Wall Art UK Art Print Poster Wall Art UK" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Flying Ghost Autumn Fall Castl Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b3d585e61987c4c04c58.jpg' | relative_url }}" alt="Listing image for Cute Flying Ghost Autumn Fall Castl Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Lynx Scottish Pine Forest Ghost Art Wall Art UK Art Print Poster Wall Art UK</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">Cute Flying Ghost Autumn Fall Castl Framed Wall Art Poster Canvas Print Picture</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scottish ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scottish ghost poster</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for castle ghost art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: castle ghost art print</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Cute Ghost Autumn Fall Castle Lands Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/26a9354d3b33ef46f87f.jpg' | relative_url }}" alt="Listing image for Cute Ghost Autumn Fall Castle Lands Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">Cute Ghost Autumn Fall Castle Lands Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for castle ghost art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: castle ghost art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost Autumn Fall Castle Landscape, Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/d1ba6f507c293d59b357.jpg' | relative_url }}" alt="Listing image for Ghost Autumn Fall Castle Landscape, Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">Ghost Autumn Fall Castle Landscape, Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for castle ghost art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: castle ghost art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -476,7 +508,7 @@ That does not make Pilleth less valuable to a haunted Radnorshire map. In some w
 </article>
 </div>
 <div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-scottish-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=castle+ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="castle ghost art print" data-ebay-reference="pilleth-why-pilleth-feels-haunted-without-a-ghost-radnorshire-castle-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>

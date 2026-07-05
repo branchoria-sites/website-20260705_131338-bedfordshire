@@ -283,6 +283,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:03:08'
 sibling_links:
 - basename: Clackmannanshire_a9d2bc
   title: Haunted Clackmannanshire
@@ -674,7 +675,6 @@ next_link:
   title: Haunted Angus
   permalink: /why-angus-haunts-its-old-places/
   short_title: Haunted Angus
-date: '2026-07-05 13:03:08 '
 header:
   og_image: /assets/images/Montgomeryshire_1814c4-overview-social.jpg
   preview_image: /assets/images/Montgomeryshire_1814c4-overview.webp
@@ -926,22 +926,6 @@ The most memorable point for readers is that Montgomeryshire’s ghosts are ofte
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Victorian+prison+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Victorian prison sign" data-ebay-reference="which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DINAH AND HETTY - Victorian Prison Scene Women Praying 1892 Antique Engraving"><img src="{{ '/assets/images/marketplace-covers/318a4f4284d5bac04a49.jpg' | relative_url }}" alt="Listing image for DINAH AND HETTY - Victorian Prison Scene Women Praying 1892 Antique Engraving" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Victorian+prison+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Victorian prison sign" data-ebay-reference="which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign" target="_blank" rel="sponsored noopener noreferrer">DINAH AND HETTY - Victorian Prison Scene Women Praying 1892 Antique Engraving</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Victorian+prison+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Victorian prison sign" data-ebay-reference="which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Victorian prison sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Victorian prison sign</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Victorian+prison+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Victorian prison sign" data-ebay-reference="which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Victorian+prison+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Victorian prison sign" data-ebay-reference="which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW YORK CORRECTION DEPARTMENT prison jail cast iron wall door sign plaque"><img src="{{ '/assets/images/marketplace-covers/f60e078d90490b9f2d69.jpg' | relative_url }}" alt="Listing image for NEW YORK CORRECTION DEPARTMENT prison jail cast iron wall door sign plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -963,6 +947,22 @@ The most memorable point for readers is that Montgomeryshire’s ghosts are ofte
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
 <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Victorian+prison+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Victorian prison sign" data-ebay-reference="which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign" target="_blank" rel="sponsored noopener noreferrer">PRISON reform - 1878 - rare letter - bread and water diet - Victorian punishment</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Victorian+prison+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Victorian prison sign" data-ebay-reference="which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Victorian prison sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Victorian prison sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Victorian+prison+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Victorian prison sign" data-ebay-reference="which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Victorian+prison+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Victorian prison sign" data-ebay-reference="which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for DINAH AND HETTY - Victorian Prison Scene Women Praying 1892 Antique Engraving"><img src="{{ '/assets/images/marketplace-covers/318a4f4284d5bac04a49.jpg' | relative_url }}" alt="Listing image for DINAH AND HETTY - Victorian Prison Scene Women Praying 1892 Antique Engraving" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Victorian+prison+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Victorian prison sign" data-ebay-reference="which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign" target="_blank" rel="sponsored noopener noreferrer">DINAH AND HETTY - Victorian Prison Scene Women Praying 1892 Antique Engraving</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Victorian+prison+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Victorian prison sign" data-ebay-reference="which-montgomeryshire-hauntings-have-the-which-montgomeryshire-hauntings-have-the-strongest-surv-victorian-prison-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Victorian prison sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: Victorian prison sign</a>
 <div class="fr-book-actions">

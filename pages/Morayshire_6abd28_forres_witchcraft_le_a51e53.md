@@ -197,6 +197,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:27'
 parent_title: Haunted Morayshire
 parent_permalink: /where-morayshires-ghost-stories-still/
 parent_nav_short_title: Haunted Morayshire
@@ -213,12 +214,12 @@ breadcrumb_links:
   short_title: Haunted Morayshire
 sibling_links:
 - basename: Morayshire_6abd28_brodie_castle_ghosts_38f6f9
-  title: Brodie Castle | Where Morayshire's Ghost Stories Still Gather
+  title: Brodie Castle | Where Morayshire's Ghost Stories Still...
   permalink: /brodie-castle/
   short_title: Brodie Castle
   heading_title: Why Brodie Castle Became Morayshire's Best Known Haunt
 - basename: Morayshire_6abd28_spynie_elgin_ruins_b40f87
-  title: Spynie and Elgin | Where Morayshire's Ghost Stories Still Gather
+  title: Spynie and Elgin | Where Morayshire's Ghost Stories Still...
   permalink: /spynie-and-elgin/
   short_title: Spynie and Elgin
   heading_title: Do Spynie and Elgin Share One Haunted Landscape?
@@ -229,17 +230,16 @@ up_link:
   short_title: Haunted Morayshire
 prev_link:
   basename: Morayshire_6abd28_brodie_castle_ghosts_38f6f9
-  title: Brodie Castle | Where Morayshire's Ghost Stories Still Gather
+  title: Brodie Castle | Where Morayshire's Ghost Stories Still...
   permalink: /brodie-castle/
   short_title: Brodie Castle
   heading_title: Why Brodie Castle Became Morayshire's Best Known Haunt
 next_link:
   basename: Morayshire_6abd28_spynie_elgin_ruins_b40f87
-  title: Spynie and Elgin | Where Morayshire's Ghost Stories Still Gather
+  title: Spynie and Elgin | Where Morayshire's Ghost Stories Still...
   permalink: /spynie-and-elgin/
   short_title: Spynie and Elgin
   heading_title: Do Spynie and Elgin Share One Haunted Landscape?
-date: '2026-07-05 13:02:27 '
 header:
   og_image: /assets/images/Morayshire_6abd28_forres_witchcraft_le_a51e53-overview-social.jpg
   preview_image: /assets/images/Morayshire_6abd28_forres_witchcraft_le_a51e53-overview.webp
@@ -462,15 +462,15 @@ Forres feels supernatural because its landscape lets different pasts speak at on
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0365224ff7c15ce6c633.jpg' | relative_url }}" alt="Listing image for Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign"><img src="{{ '/assets/images/marketplace-covers/6a9ab4b993248f2965ff.jpg' | relative_url }}" alt="Listing image for Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">Haunted House Halloween Sign “Haunted Highway “Black Metal Hanging Wall Sign</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle wall art</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -478,15 +478,15 @@ Forres feels supernatural because its landscape lets different pasts speak at on
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HAUNTED MANSION CASTLE GHOST ART WALL STICKER ROOM OFFICE DECOR DECAL MURAL ZK1"><img src="{{ '/assets/images/marketplace-covers/2015539f403e3c87bc29.jpg' | relative_url }}" alt="Listing image for HAUNTED MANSION CASTLE GHOST ART WALL STICKER ROOM OFFICE DECOR DECAL MURAL ZK1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for How To Sell A haunted House Signed Special edition Hardback"><img src="{{ '/assets/images/marketplace-covers/2194b6d0f0cda7539d56.jpg' | relative_url }}" alt="Listing image for How To Sell A haunted House Signed Special edition Hardback" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer">HAUNTED MANSION CASTLE GHOST ART WALL STICKER ROOM OFFICE DECOR DECAL MURAL ZK1</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">How To Sell A haunted House Signed Special edition Hardback</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle wall art</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -494,31 +494,15 @@ Forres feels supernatural because its landscape lets different pasts speak at on
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted Castle Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/10bfeb0002692b175263.jpg' | relative_url }}" alt="Listing image for Haunted Castle Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)"><img src="{{ '/assets/images/marketplace-covers/a88d1c5ea93ea798e1ff.jpg' | relative_url }}" alt="Listing image for HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Haunted Castle Framed Wall Art Poster Canvas Print Picture</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">HAUNTED HOUSE - HOUSE DOOR PLAQUE SIGN SHED GATE (Gold or Silver Lettering)</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle wall art</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted house sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted house sign</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/65b7e9db9c6837207e5d.jpg' | relative_url }}" alt="Listing image for Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer">Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle wall art">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle wall art</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -526,7 +510,7 @@ Forres feels supernatural because its landscape lets different pasts speak at on
 </article>
 </div>
 <div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle wall art" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-castle-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+house+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted house sign" data-ebay-reference="forres-legends-why-forres-feels-so-deeply-supernatural-morayshire-haunted-house-sign" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>

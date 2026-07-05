@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-05T13:04:48",
+  "generated_at": "2026-07-05T16:31:51",
   "passed": true,
   "baseline": {
-    "article_pages": 251,
-    "amazon_specific_pages": 197,
-    "amazon_fallback_pages": 0,
-    "ebay_specific_pages": 198,
+    "article_pages": 460,
+    "amazon_specific_pages": 367,
+    "amazon_fallback_pages": 1,
+    "ebay_specific_pages": 367,
     "ebay_fallback_pages": 0,
     "pages": {
       "Aberdeenshire_e04348": {
@@ -36,6 +36,36 @@
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Anglesey_35202a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Anglesey_35202a_beaumaris_castle_hau_5290e5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Anglesey_35202a_beaumaris_gaol_clock_da75f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Anglesey_35202a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Anglesey_35202a_south_stack_lighthou_2c7d5b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Angus_34ab6d": {
@@ -248,6 +278,36 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
+      "Brecknockshire_d4a3d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Brecknockshire_d4a3d4_brecon_castle_face_0d0c01": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Brecknockshire_d4a3d4_corpse_candles_pwca_148eec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Brecknockshire_d4a3d4_craig_y_nos_haunting_426f7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Brecknockshire_d4a3d4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
       "Buckinghamshire_40b834": {
         "amazon_specific": true,
         "amazon_fallback": false,
@@ -308,8 +368,38 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
-      "Caithness_d273a3": {
+      "Caernarfonshire_667de6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caernarfonshire_667de6_beddgelert_landlord_a96680": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caernarfonshire_667de6_caernarfon_castle_fl_db1671": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caernarfonshire_667de6_caernarfon_haunted_i_19f77e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Caernarfonshire_667de6_index": {
         "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Caithness_d273a3": {
+        "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
         "ebay_fallback": false
@@ -368,6 +458,66 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
+      "Cardiganshire_0418d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cardiganshire_0418d7_cardigan_castle_whit_446e84": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cardiganshire_0418d7_devils_bridge_folklo_dce988": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Cardiganshire_0418d7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Cardiganshire_0418d7_nanteos_mansion_omen_230f62": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Carmarthenshire_0d1a35": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Carmarthenshire_0d1a35_carmarthen_ghost_wal_fc5251": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Carmarthenshire_0d1a35_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Carmarthenshire_0d1a35_llanelly_house_mira_5602e6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Carmarthenshire_0d1a35_newton_house_dinefwr_a9b47f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
       "Cheshire_f5f9e8": {
         "amazon_specific": true,
         "amazon_fallback": false,
@@ -399,9 +549,9 @@
         "ebay_fallback": false
       },
       "Clackmannanshire_a9d2bc": {
-        "amazon_specific": false,
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Clackmannanshire_a9d2bc_alloa_tower_ghosts_93c15b": {
@@ -458,6 +608,96 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
+      "County_Antrim_405799": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Antrim_405799_ballygally_lady_isab_c619af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Antrim_405799_crumlin_road_gaol_515d66": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Antrim_405799_dunluce_dark_hedges_7a7ca0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Antrim_405799_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "County_Armagh_f58b12": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Armagh_f58b12_armagh_gaol_woman_wh_a7cd51": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Armagh_f58b12_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "County_Armagh_f58b12_observatory_davenpor_467c93": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Armagh_f58b12_richhill_dolly_munro_5628d0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Down_8f4eb4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Down_8f4eb4_gill_hall_beresford_c8de8c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Down_8f4eb4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "County_Down_8f4eb4_mourne_road_omens_2a639c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Down_8f4eb4_narrow_water_memory_d4754b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
       "County_Durham_9c5285": {
         "amazon_specific": true,
         "amazon_fallback": false,
@@ -483,6 +723,36 @@
         "ebay_fallback": false
       },
       "County_Durham_9c5285_lumley_castle_lily_1596b7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Londonderry_6c8609": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Londonderry_6c8609_derry_threshold_ghos_f366c7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Londonderry_6c8609_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "County_Londonderry_6c8609_springhill_olivia_gh_a95d08": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "County_Londonderry_6c8609_st_columbs_bishop_hi_b80a8b": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
@@ -543,6 +813,36 @@
         "ebay_fallback": false
       },
       "Cumberland_f993d3_muncaster_castle_gho_13050f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Denbighshire_fc7d7c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Denbighshire_fc7d7c_denbighshire_ghost_m_231ed2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Denbighshire_fc7d7c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Denbighshire_fc7d7c_ruthin_castle_grey_l_2f79d4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Denbighshire_fc7d7c_ruthin_gaol_prison_m_30df1e": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
@@ -669,9 +969,63 @@
         "ebay_fallback": false
       },
       "Dunbartonshire_abd4f2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dunbartonshire_abd4f2_dumbarton_castle_hau_ece0cf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dunbartonshire_abd4f2_dumbarton_witchcraft_3044ee": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Dunbartonshire_abd4f2_index": {
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Dunbartonshire_abd4f2_overtoun_bridge_myst_090b97": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "East_Lothian_a7dd3d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "East_Lothian_a7dd3d_goblin_ha_legend_88c572": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "East_Lothian_a7dd3d_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "East_Lothian_a7dd3d_tantallon_ghost_phot_938c67": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "East_Lothian_a7dd3d_witch_trial_memory_350ca3": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Essex_17957d": {
@@ -702,6 +1056,126 @@
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Fermanagh_69251a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Fermanagh_69251a_cooneen_ghost_8df996": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Fermanagh_69251a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Fermanagh_69251a_lough_erne_folklore_492bf0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Fermanagh_69251a_tully_castle_2c8166": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Fife_ef689b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Fife_ef689b_castle_ladies_haunte_321c71": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Fife_ef689b_falkland_palace_appa_ec8836": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Fife_ef689b_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Fife_ef689b_st_andrews_haunted_t_a31576": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Flintshire_823310": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Flintshire_823310_castles_wells_border_f8b60e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Flintshire_823310_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Flintshire_823310_penyffordd_farm_case_a69ae2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Flintshire_823310_plas_teg_roadside_le_648f9f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Glamorgan_7b8978": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Glamorgan_7b8978_folklore_sources_91cac7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Glamorgan_7b8978_haunted_castles_mano_88a9b1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Glamorgan_7b8978_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Glamorgan_7b8978_roadside_apparitions_4c3b89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Gloucestershire_03cc40": {
@@ -854,6 +1328,36 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
+      "Inverness-shire_f61896": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Inverness-shire_f61896_culloden_hauntings_fd1ab0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Inverness-shire_f61896_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Inverness-shire_f61896_inverness_post_cullo_5d1985": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Inverness-shire_f61896_loch_ness_boleskine_568137": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
       "Kent_4e168a": {
         "amazon_specific": true,
         "amazon_fallback": false,
@@ -882,6 +1386,126 @@
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kincardineshire_6f0ed9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kincardineshire_6f0ed9_crathes_green_lady_cb8442": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kincardineshire_6f0ed9_dunnottar_haunted_va_a2870a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kincardineshire_6f0ed9_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kincardineshire_6f0ed9_muchalls_tunnel_lege_614884": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kinross-shire_c6236f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kinross-shire_c6236f_burleigh_grey_lady_5bcddd": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kinross-shire_c6236f_crook_devon_witch_tr_8bd47f": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kinross-shire_c6236f_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kinross-shire_c6236f_lochleven_mary_ghost_c5c760": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kirkcudbrightshire_97fbf2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kirkcudbrightshire_97fbf2_buckland_headless_la_4cf114": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kirkcudbrightshire_97fbf2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Kirkcudbrightshire_97fbf2_kirkcudbright_town_h_bb417d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Kirkcudbrightshire_97fbf2_ringcroft_poltergeis_a1e471": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lanarkshire_60db75": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lanarkshire_60db75_bothwell_castle_ghos_d733fb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lanarkshire_60db75_dalzell_three_ladies_c32d25": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lanarkshire_60db75_hamilton_palace_loss_b1463c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Lanarkshire_60db75_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
         "ebay_fallback": false
       },
       "Lancashire_07656d": {
@@ -974,6 +1598,36 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
+      "Merionethshire_8af4e7": {
+        "amazon_specific": false,
+        "amazon_fallback": true,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Merionethshire_8af4e7_cader_idris_folklore_ca9221": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Merionethshire_8af4e7_harlech_barmouth_coa_9e86ab": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Merionethshire_8af4e7_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Merionethshire_8af4e7_nannau_haunted_oak_53f0d5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
       "Middlesex_8498da": {
         "amazon_specific": true,
         "amazon_fallback": false,
@@ -1002,6 +1656,156 @@
         "amazon_specific": false,
         "amazon_fallback": false,
         "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Midlothian_ff4e39": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Midlothian_ff4e39_dalhousie_grey_lady_9cc2a1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Midlothian_ff4e39_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Midlothian_ff4e39_mary_roslin_memory_8aad69": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Midlothian_ff4e39_rosslyn_folklore_f59014": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Monmouthshire_e09701": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Monmouthshire_e09701_border_castle_ghosts_fc0377": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Monmouthshire_e09701_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Monmouthshire_e09701_monmouth_town_haunti_545a89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Monmouthshire_e09701_skirrid_inn_legends_58a3d6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Montgomeryshire_1814c4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Montgomeryshire_1814c4_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Montgomeryshire_1814c4_llanidloes_death_ome_77b993": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Montgomeryshire_1814c4_montgomeryshire_haun_a13e89": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Montgomeryshire_1814c4_powis_castle_hauntin_ba8d2d": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Morayshire_6abd28": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Morayshire_6abd28_brodie_castle_ghosts_38f6f9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Morayshire_6abd28_forres_witchcraft_le_a51e53": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Morayshire_6abd28_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Morayshire_6abd28_spynie_elgin_ruins_b40f87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nairnshire_82a7a8": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nairnshire_82a7a8_auldearn_witch_trial_8e8d06": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nairnshire_82a7a8_cawdor_castle_macbet_44cad4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Nairnshire_82a7a8_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Nairnshire_82a7a8_rait_castle_handless_40d283": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Norfolk_72ff17": {
@@ -1124,6 +1928,36 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
+      "Orkney_9ae683": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Orkney_9ae683_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Orkney_9ae683_orkney_house_legends_674520": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Orkney_9ae683_orkney_sea_folklore_4bb7a5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Orkney_9ae683_skaill_house_hauntin_d753d7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
       "Oxfordshire_491609": {
         "amazon_specific": true,
         "amazon_fallback": false,
@@ -1154,6 +1988,216 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
+      "Peeblesshire_4beb86": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Peeblesshire_4beb86_drumelzier_merlin_662404": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Peeblesshire_4beb86_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Peeblesshire_4beb86_neidpath_maid_d8b3c6": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Peeblesshire_4beb86_tweed_valley_folklor_b3363e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Pembrokeshire_b220ff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Pembrokeshire_b220ff_carew_castle_ghosts_d8b620": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Pembrokeshire_b220ff_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Pembrokeshire_b220ff_st_govans_chapel_c02fec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Pembrokeshire_b220ff_waterston_lady_175eca": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Perthshire_258bcb": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Perthshire_258bcb_ballechin_house_disp_60c356": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Perthshire_258bcb_huntingtower_green_l_01760a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Perthshire_258bcb_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Perthshire_258bcb_killiecrankie_battle_99f1ec": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Radnorshire_2d75e1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Radnorshire_2d75e1_ghostly_ruins_lost_p_d30d87": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Radnorshire_2d75e1_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Radnorshire_2d75e1_llangunllo_farm_spir_6f2eff": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Radnorshire_2d75e1_pilleth_battlefield_2ff3b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Renfrewshire_6a148e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Renfrewshire_6a148e_glen_cinema_ghost_lo_8367a4": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Renfrewshire_6a148e_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Renfrewshire_6a148e_paisley_abbey_monks_9c1854": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Renfrewshire_6a148e_paisley_witches_curs_396f4c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ross-shire_c9caea": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ross-shire_c9caea_brahan_seer_second_s_a972d1": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ross-shire_c9caea_carbisdale_battle_gh_4d9809": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Ross-shire_c9caea_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Ross-shire_c9caea_tulloch_green_lady_9542f7": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Roxburghshire_8333b2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Roxburghshire_8333b2_hermitage_castle_hau_383884": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Roxburghshire_8333b2_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Roxburghshire_8333b2_jedburgh_prison_roya_c4baf5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Roxburghshire_8333b2_soulis_redcap_ninest_2aef68": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
       "Rutland_424243": {
         "amazon_specific": true,
         "amazon_fallback": false,
@@ -1179,6 +2223,66 @@
         "ebay_fallback": false
       },
       "Rutland_424243_langham_house_ghost_f72142": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Selkirkshire_8fd2aa": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Selkirkshire_8fd2aa_carterhaugh_tam_lin_58f53e": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Selkirkshire_8fd2aa_ettrick_forest_spiri_c08d8a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Selkirkshire_8fd2aa_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Selkirkshire_8fd2aa_newark_philiphaugh_764acf": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shetland_ce055c": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shetland_ce055c_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Shetland_ce055c_shetland_trows_ebdcb9": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shetland_ce055c_shetland_witchcraft_116934": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Shetland_ce055c_windhouse_hauntings_052be1": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
@@ -1274,6 +2378,36 @@
         "ebay_specific": true,
         "ebay_fallback": false
       },
+      "Stirlingshire_47078a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Stirlingshire_47078a_bannockburn_battlefi_b3ac57": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Stirlingshire_47078a_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Stirlingshire_47078a_stirling_castle_gree_b6a190": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Stirlingshire_47078a_stirling_old_town_ha_5d6ba5": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
       "Suffolk_831058": {
         "amazon_specific": true,
         "amazon_fallback": false,
@@ -1305,9 +2439,9 @@
         "ebay_fallback": false
       },
       "Surrey_aeac76": {
-        "amazon_specific": false,
+        "amazon_specific": true,
         "amazon_fallback": false,
-        "ebay_specific": false,
+        "ebay_specific": true,
         "ebay_fallback": false
       },
       "Surrey_aeac76_a3_burpham_crash_b254ce": {
@@ -1359,6 +2493,66 @@
         "ebay_fallback": false
       },
       "Sussex_0f32ec_pevensey_castle_ghos_d722c2": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sutherland_6dbe51": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sutherland_6dbe51_ardvreck_castle_ghos_fb37af": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sutherland_6dbe51_haunted_castle_rooms_f0d77a": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Sutherland_6dbe51_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Sutherland_6dbe51_sandwood_coastal_leg_f53313": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tyrone_619a59": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tyrone_619a59_cookstown_ghost_a82560": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tyrone_619a59_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "Tyrone_619a59_knock_na_moe_hotel_65232b": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Tyrone_619a59_mullaghmoyle_white_l_982b0c": {
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
@@ -1422,6 +2616,66 @@
         "amazon_specific": true,
         "amazon_fallback": false,
         "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "West_Lothian_1c9504": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "West_Lothian_1c9504_blackness_castle_pha_35f763": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "West_Lothian_1c9504_house_binns_bluidy_t_0f3e81": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "West_Lothian_1c9504_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
+        "ebay_fallback": false
+      },
+      "West_Lothian_1c9504_linlithgow_palace_ap_299f29": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wigtownshire_1186ed": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wigtownshire_1186ed_covenanting_ghost_me_e7f153": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wigtownshire_1186ed_dunskey_piper_caves_0e8da0": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wigtownshire_1186ed_haunted_geography_so_6ebb67": {
+        "amazon_specific": true,
+        "amazon_fallback": false,
+        "ebay_specific": true,
+        "ebay_fallback": false
+      },
+      "Wigtownshire_1186ed_index": {
+        "amazon_specific": false,
+        "amazon_fallback": false,
+        "ebay_specific": false,
         "ebay_fallback": false
       },
       "Wiltshire_7b9f94": {
@@ -4285,6 +5539,6 @@
       }
     }
   },
-  "shared_pages_compared": 251,
+  "shared_pages_compared": 460,
   "regressions": []
 }

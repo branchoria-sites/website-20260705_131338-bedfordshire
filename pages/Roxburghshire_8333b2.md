@@ -283,6 +283,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:02:37'
 sibling_links:
 - basename: Clackmannanshire_a9d2bc
   title: Haunted Clackmannanshire
@@ -674,7 +675,6 @@ next_link:
   title: Haunted Selkirkshire
   permalink: /why-does-selkirkshire-feel-so-haunted/
   short_title: Haunted Selkirkshire
-date: '2026-07-05 13:02:37 '
 header:
   og_image: /assets/images/Roxburghshire_8333b2-overview-social.jpg
   preview_image: /assets/images/Roxburghshire_8333b2-overview.webp
@@ -942,22 +942,6 @@ Roxburghshire’s ghosts are best approached as careful folklore: eerie, memorab
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Haunted Palace 1963 Vincent Price Film - Restored 27.2&quot; x 41&quot; US One Sheet"><img src="{{ '/assets/images/marketplace-covers/571889a3a532534c6ad9.jpg' | relative_url }}" alt="Listing image for The Haunted Palace 1963 Vincent Price Film - Restored 27.2&quot; x 41&quot; US One Sheet" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">The Haunted Palace 1963 Vincent Price Film - Restored 27.2&quot; x 41&quot; US One Sheet</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle poster</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted Gothic Castle Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/10c0fe7f7f2a647af9a5.jpg' | relative_url }}" alt="Listing image for Haunted Gothic Castle Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
@@ -974,11 +958,27 @@ Roxburghshire’s ghosts are best approached as careful folklore: eerie, memorab
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Haunted Palace 1963 Vincent Price Gothic Horror Film Poster Wall Art"><img src="{{ '/assets/images/marketplace-covers/bdb106083090d69e2d37.jpg' | relative_url }}" alt="Listing image for The Haunted Palace 1963 Vincent Price Gothic Horror Film Poster Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Haunted Palace 1963 Vincent Price Film - Restored 27.2&quot; x 41&quot; US One Sheet"><img src="{{ '/assets/images/marketplace-covers/571889a3a532534c6ad9.jpg' | relative_url }}" alt="Listing image for The Haunted Palace 1963 Vincent Price Film - Restored 27.2&quot; x 41&quot; US One Sheet" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">The Haunted Palace 1963 Vincent Price Gothic Horror Film Poster Wall Art</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">The Haunted Palace 1963 Vincent Price Film - Restored 27.2&quot; x 41&quot; US One Sheet</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/65b7e9db9c6837207e5d.jpg' | relative_url }}" alt="Listing image for Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer">Haunted Castle with Moonlight Art P Framed Wall Art Poster Canvas Print Picture</a>
 </h4>
 <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=haunted+castle+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="haunted castle poster" data-ebay-reference="why-does-roxburghshire-feel-so-haunted-roxburghshire-haunted-castle-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for haunted castle poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: haunted castle poster</a>
 <div class="fr-book-actions">

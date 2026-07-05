@@ -283,6 +283,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-05 13:03:12'
 sibling_links:
 - basename: Clackmannanshire_a9d2bc
   title: Haunted Clackmannanshire
@@ -674,7 +675,6 @@ next_link:
   title: Haunted Armagh
   permalink: /county-armagh/
   short_title: Haunted Armagh
-date: '2026-07-05 13:03:12 '
 header:
   og_image: /assets/images/County_Antrim_405799-overview-social.jpg
   preview_image: /assets/images/County_Antrim_405799-overview.webp
@@ -941,15 +941,15 @@ For haunted-place visitors, County Antrim rewards a grounded approach. Go for th
 <div class="fr-books-grid">
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Native American Ghost Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/0f29b506e44bb9de1311.jpg' | relative_url }}" alt="Listing image for Native American Ghost Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lynx Scottish Pine Forest Ghost Art Wall Art UK Art Print Poster Wall Art UK"><img src="{{ '/assets/images/marketplace-covers/0acaa3043c58d56c5215.jpg' | relative_url }}" alt="Listing image for Lynx Scottish Pine Forest Ghost Art Wall Art UK Art Print Poster Wall Art UK" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">Native American Ghost Art Print Framed Wall Art Poster Canvas Print Picture</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Lynx Scottish Pine Forest Ghost Art Wall Art UK Art Print Poster Wall Art UK</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost art print</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scottish ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scottish ghost poster</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -957,47 +957,15 @@ For haunted-place visitors, County Antrim rewards a grounded approach. Go for th
 </article>
 
 <article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/f331193f6e4047315e4f.jpg' | relative_url }}" alt="Listing image for Ghost Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lynx Scottish Pine Forest Ghost Art A1 Art Wall Art UK Gift Art Art Print Poster"><img src="{{ '/assets/images/marketplace-covers/2806efad1c5b8492ce39.jpg' | relative_url }}" alt="Listing image for Lynx Scottish Pine Forest Ghost Art A1 Art Wall Art UK Gift Art Art Print Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
 <div class="fr-book-info">
 <p class="fr-book-kicker">Example eBay listing</p>
 <h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">Ghost Art Print Framed Wall Art Poster Canvas Print Picture</a>
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">Lynx Scottish Pine Forest Ghost Art A1 Art Wall Art UK Gift Art Art Print Poster</a>
 </h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost art print</a>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Scottish ghost poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Scottish ghost poster</a>
 <div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ghost Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/b107ce5cfeafd8d42c6a.jpg' | relative_url }}" alt="Listing image for Ghost Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">Ghost Art Print Framed Wall Art Poster Canvas Print Picture</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost art print</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
-</a>
-</div>
-</div>
-</article>
-
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A Ghost Story 2017 0 Movie Poster Art Print Legendary AestheticRoom Cinema Popul"><img src="{{ '/assets/images/marketplace-covers/552c06969c8304d05fd2.jpg' | relative_url }}" alt="Listing image for A Ghost Story 2017 0 Movie Poster Art Print Legendary AestheticRoom Cinema Popul" loading="lazy" decoding="async" fetchpriority="low"></a>
-<div class="fr-book-info">
-<p class="fr-book-kicker">Example eBay listing</p>
-<h4 class="fr-book-title">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">A Ghost Story 2017 0 Movie Poster Art Print Legendary AestheticRoom Cinema Popul</a>
-</h4>
-<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost art print</a>
-<div class="fr-book-actions">
-<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 </div>
@@ -1005,7 +973,7 @@ For haunted-place visitors, County Antrim rewards a grounded approach. Go for th
 </article>
 </div>
 <div class="fr-section-footer">
-<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost art print" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-ghost-art-print" target="_blank" rel="sponsored noopener noreferrer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Scottish+ghost+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Scottish ghost poster" data-ebay-reference="county-antrim-where-antrim-s-ghost-stories-take-hold-scottish-ghost-poster" target="_blank" rel="sponsored noopener noreferrer">
           Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
 </a>
 <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
