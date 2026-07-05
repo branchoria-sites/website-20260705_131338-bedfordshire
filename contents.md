@@ -11,7 +11,7 @@ description: Browse the full structured site index.
 <section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="county" data-map-layout="uk-counties" data-map-item-type="county" data-map-label="UFO and UAP historic UK counties map" data-map-fallback-summary="Open this historic UK county file from the map." data-map-src="{{ 'assets/maps/uk-historic-counties.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/uk-counties.json' | relative_url }}" data-map-fit="linked-bounds" data-map-initial-item="UK-HC-SUFFOLK" data-map-preview-preload="all">
 <div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
 <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
-<img src="{{ '/assets/images/Suffolk_831058-overview.webp' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
+<img src="{{ '/assets/images/Suffolk_831058-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
 <span class="interactive-map-preview-meta uap-world-map-preview-meta">
 <button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="england" data-uap-world-map-region-focus="england" aria-label="Focus map on England">England</button>
 <span class="interactive-map-preview-count uap-world-map-preview-count">4 pages</span>

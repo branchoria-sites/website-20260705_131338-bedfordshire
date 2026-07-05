@@ -1,20 +1,20 @@
-title: 'Research Topic Tree'
-short_title: 'Research Topic Tree'
+title: 'Haunted UK'
+short_title: 'Haunted UK'
 brand_name: 'Branchoria'
 brand_domain: 'branchoria.com'
-description: 'Practical guides organized for fast browsing and comparison.'
-tagline: 'Start with the overview, then follow the sections that match your goal'
+description: 'Practical guides on Haunted UK, organized for fast browsing and comparison.'
+tagline: 'Ghost stories, haunted places and local legends mapped county by county.'
 encoding: utf-8
 lang: 'en'
 locale: 'en'
 text_direction: 'ltr'
 direction: 'ltr'
-visual_profile: 'atlas'
-layout_archetype: 'atlas'
-visual_palette: 'signal-cobalt'
-visual_motif: 'constellation'
-font_heading: 'Outfit'
-font_body: 'Newsreader'
+visual_profile: 'compact'
+layout_archetype: 'compact-grid'
+visual_palette: 'forge-slate'
+visual_motif: 'orbital'
+font_heading: 'Sora'
+font_body: 'Public Sans'
 appearance_menu_enabled: true
 appearance_menu_default_open: false
 appearance_toast_ms: 5000
@@ -24,7 +24,7 @@ appearance_color_default: 'dark'
 mobile_layout_mode: 'article-first'
 mobile_sidebar_mode: 'collapsible'
 mobile_sidebar_default: 'closed'
-endnotes_mode: 'auto'
+endnotes_mode: 'collapsed'
 endnotes_collapse_threshold: 4
 endnotes_initial_visible: 3
 endnotes_show_accessed: false
@@ -36,7 +36,7 @@ homepage_copy_policy: 'polished'
 home_layout_mode: 'vertical'
 auto_home_layout_mode: 'catalog'
 hierarchy_viz_mode: 'hybrid'
-ui_bundle_version: 'build-1783265444'
+ui_bundle_version: 'build-1783275787'
 google_site_verification: ''
 draft_noindex: false
 theme: minima
