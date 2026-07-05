@@ -1,0 +1,904 @@
+---
+level: 2
+basename: Sutherland_6dbe51_sandwood_coastal_leg_f53313
+parent_basename: Sutherland_6dbe51
+child_basenames: []
+sibling_basenames:
+- Sutherland_6dbe51_ardvreck_castle_ghos_fb37af
+- Sutherland_6dbe51_haunted_castle_rooms_f0d77a
+tags:
+- sutherland
+- lonely-coast
+keywords:
+- sutherland
+- lonely-coast
+affiliate_category: sutherland
+show_ads: true
+description: Sandwood Bay's sailor ghosts and mermaid stories belong to a wider north-west coast of shipwreck, remoteness and dangerous weather.
+hero_summary: Sandwood Bay's sailor ghosts and mermaid stories belong to a wider north-west coast of shipwreck, remoteness and dangerous weather.
+layout: default
+permalink: /lonely-coast/
+sidebar_expanded_urls:
+- /why-does-sutherland-feel-so-haunted/
+nav_short_title: Lonely Coast
+title: Why Do Sutherland's Coasts Breed Ghost Stories?
+title_full: Why Do Sutherland's Coasts Breed Ghost Stories?
+display_title_short: Lonely Coast
+display_title: Lonely Coast
+heading_title: Why Do Sutherland's Coasts Breed Ghost Stories?
+page_heading_title: Why Do Sutherland's Coasts Breed Ghost Stories?
+source_count: 76
+infographic_count: 3
+planned_sections:
+- Sandwood Bay's ghosts and mermaids
+- Shipwreck, weather and coastal fear
+- Cape Wrath, Durness and the edge of Britain
+focal_unit_type: mechanism
+topic_lens: mechanism
+topic_granularity: theme_cluster
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+parent_title: Haunted Sutherland
+parent_permalink: /why-does-sutherland-feel-so-haunted/
+parent_nav_short_title: Haunted Sutherland
+parent_heading_title: Why Does Sutherland Feel So Haunted?
+ancestor_links:
+- basename: Sutherland_6dbe51
+  title: Haunted Sutherland
+  permalink: /why-does-sutherland-feel-so-haunted/
+  short_title: Haunted Sutherland
+breadcrumb_links:
+- basename: Sutherland_6dbe51
+  title: Haunted Sutherland
+  permalink: /why-does-sutherland-feel-so-haunted/
+  short_title: Haunted Sutherland
+sibling_links:
+- basename: Sutherland_6dbe51_ardvreck_castle_ghos_fb37af
+  title: Ardvreck | Why Does Sutherland Feel So Haunted?
+  permalink: /ardvreck/
+  short_title: Ardvreck
+  heading_title: Why Is Ardvreck Castle Sutherland's Haunted Ruin?
+- basename: Sutherland_6dbe51_haunted_castle_rooms_f0d77a
+  title: Castle Rooms | Why Does Sutherland Feel So Haunted?
+  permalink: /castle-rooms/
+  short_title: Castle Rooms
+  heading_title: What Haunts Sutherland's Grand Castle Rooms?
+up_link:
+  basename: Sutherland_6dbe51
+  title: Haunted Sutherland
+  permalink: /why-does-sutherland-feel-so-haunted/
+  short_title: Haunted Sutherland
+prev_link:
+  basename: Sutherland_6dbe51_haunted_castle_rooms_f0d77a
+  title: Castle Rooms | Why Does Sutherland Feel So Haunted?
+  permalink: /castle-rooms/
+  short_title: Castle Rooms
+  heading_title: What Haunts Sutherland's Grand Castle Rooms?
+date: '2026-07-05 13:02:47 '
+header:
+  og_image: /assets/images/Sutherland_6dbe51_sandwood_coastal_leg_f53313-overview-social.jpg
+  preview_image: /assets/images/Sutherland_6dbe51_sandwood_coastal_leg_f53313-overview.webp
+image: /assets/images/Sutherland_6dbe51_sandwood_coastal_leg_f53313-overview-social.jpg
+---
+
+## Introduction
+
+Sandwood Bay’s haunted reputation comes from a very [Sutherland]({{ 'why-does-sutherland-feel-so-haunted/' | relative_url }}) kind of loneliness: a mile of pale sand, a freshwater loch behind the dunes, Atlantic weather in front, and Cape Wrath only a few miles to the north. The best-known stories are the ghostly sailor said to knock at the old cottage on stormy nights, the mermaid reportedly seen by Alexander Gunn in 1900, and the older memory of shipwrecks buried under the sand. None of these should be treated as proven supernatural events. They are local legends, traveller accounts and repeated folklore shaped by a coast where wreck, fog, distance and silence are part of the real landscape. Sandwood matters because it shows how Sutherland’s coastal ghost stories work: the sea supplies danger, remoteness supplies imagination, and abandoned buildings give the story somewhere to wait.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnmuirtrust.org/whats-new/news/1639-stories-from-sandwood" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnmuirtrust.org">[John Muir Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnmuirtrust.org</span><span class="citation-popover-title">1639 stories from sandwood</span><span class="citation-popover-snippet">1639 stories from sandwood</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Sutherland_6dbe51_sandwood_coastal_leg_f53313-overview.webp" | relative_url }}" alt="Overview image for Lonely Coast" loading="eager" decoding="sync" fetchpriority="high">
+
+## Sandwood Bay’s Ghosts and Mermaids
+
+Sandwood Bay lies on the far north-west coast of historic Sutherland, near Kinlochbervie and south of Cape Wrath. It is not a roadside attraction. The common walking route starts near Blairmore and crosses about four miles of moorland before the beach appears, backed by dunes and Sandwood Loch and watched by the sea stack Am Buachaille. That physical delay is part of the legend’s force. Visitors arrive after leaving cars, settlements and easy shelter behind; by the time they reach the shore, the place already feels separated from ordinary time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnmuirtrust.org/about-us/where-we-work/sandwood" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnmuirtrust.org">[John Muir Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnmuirtrust.org</span><span class="citation-popover-snippet">Open source on johnmuirtrust.org.</span></span></span>
+
+The most repeated haunting is attached to the old cottage near the bay. John Muir Trust, which manages Sandwood Estate, summarises the tradition as a sailor ghost who appears on stormy nights, rapping at the door and looking through the windows. In one version from the 1940s, two crofters followed the figure and heard him shout that everything on the beach was his and that they should leave. The story is dramatic, but its evidential status is folkloric: it comes to us as a repeated local tale rather than as a named, dated investigation with signed witness statements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnmuirtrust.org/whats-new/news/1639-stories-from-sandwood" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnmuirtrust.org">[John Muir Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnmuirtrust.org</span><span class="citation-popover-title">1639 stories from sandwood</span><span class="citation-popover-snippet">1639 stories from sandwood</span></span></span>
+
+The sailor’s power lies in how neatly he fits the setting. A knocking figure outside a remote cottage is frightening because the question is practical before it is supernatural: who would be outside in such weather, so far from help? The ghost is usually explained as a shipwrecked mariner, which connects the apparition to the bay’s remembered role as a place of wrecks. Whether or not anyone saw such a figure, the story gives a human face to the otherwise anonymous dead imagined beneath the sands.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walkhighlands.co.uk/sutherland/sandwood-bay.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walkhighlands.co.uk">[walkhighlands]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walkhighlands.co.uk</span><span class="citation-popover-snippet">Open source on walkhighlands.co.uk.</span></span></span>
+
+Sandwood’s other famous legend is the mermaid. The usual account says that on 5 January 1900, local crofter or farmer Alexander Gunn was on the shore with his collie when the dog reacted in terror. Gunn then saw a strange figure on a rock ledge above the tide: not simply a seal, according to the story, but a mermaid-like being with reddish-yellow hair, greenish-blue eyes and a body about seven feet long. Later retellings say Gunn maintained the account until his death in 1944, with MacDonald Robertson preserving or repeating the story from a 1939 meeting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sandwood_Bay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sandwood Bay</span><span class="citation-popover-snippet">Sandwood Bay</span></span></span>
+
+As folklore, the mermaid belongs to a wider British and northern coastal tradition in which sea-women can be beautiful, dangerous, prophetic or linked with storms and drowning. At Sandwood, however, the tale is unusually specific: a named witness, a winter date, a dog’s reaction, and a particular ledge by the shore. Those details make it memorable, but they do not turn it into proof. A sceptical reading would note the likelihood of seal misidentification, distance, glare, sea conditions and later embellishment. A folkloric reading would ask why the story endured: because the figure appears exactly where land-based certainty gives way to the unknowable sea.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mermaid" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Sutherland_6dbe51_sandwood_coastal_leg_f53313-Illustration-1-dark.svg" | relative_url }}" alt="Lonely Coast illustration 1" data-theme-src-dark="{{ "/assets/images/Sutherland_6dbe51_sandwood_coastal_leg_f53313-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sutherland_6dbe51_sandwood_coastal_leg_f53313-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## Shipwreck, Weather and Coastal Fear
+
+Sandwood Bay’s ghost stories are hard to separate from shipwreck memory. Walkhighlands describes the bay as exposed to Atlantic breakers and notes that it was the scene of many shipwrecks, with remains now buried under the sand; it also links the improvement in safety to the building of Cape Wrath lighthouse in 1828. The John Muir Trust uses similar language, calling attention to the pre-lighthouse wreck tradition and the beach’s nickname as a “Ship Graveyard”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walkhighlands.co.uk/sutherland/sandwood-bay.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walkhighlands.co.uk">[walkhighlands]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walkhighlands.co.uk</span><span class="citation-popover-snippet">Open source on walkhighlands.co.uk.</span></span></span>
+
+The lighthouse is crucial because it marks the point where a supernatural landscape also becomes an engineered one. Cape Wrath Lighthouse was built by Robert Stevenson in 1828, according to the Northern Lighthouse Board, and stands on one of the most exposed north-western headlands of mainland Britain. Once the light existed, the coast was still dangerous, but it was no longer quite so blind. In ghost-story terms, that matters: the legends look backwards to a darker coast before systematic warning, when wrecks could be imagined as almost inevitable.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nlb.org.uk/lighthouses/cape-wrath/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nlb.org.uk">[Northern Lighthouse Board]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nlb.org.uk</span><span class="citation-popover-title">cape wrath</span><span class="citation-popover-snippet">cape wrath</span></span></span>
+
+A key historical source often cited in Sandwood writing is Seton Gordon’s 1935 book *Highways and Byways in the West Highlands*. Modern summaries and travel-history pages repeat Gordon’s observation that he was struck by the number of wrecks lying in the sand and that some appeared almost buried beyond the highest tide. Undiscovered Scotland also notes an important caution: its own writers had not found traces of the wrecks Gordon described. That tension is useful. It shows how Sandwood’s shipwreck reputation sits between observation, memory, erosion, burial and retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://books.google.com/books/about/Highways_and_Byways_in_the_West_Highland.html?id=sFIGAQAAIAAJ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: books.google.com">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">books.google.com</span><span class="citation-popover-snippet">Open source on google.com.</span></span></span>
+
+This is why the sailor ghost feels more like a mechanism than an isolated anecdote. The story turns several real coastal fears into one figure:
+
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* **Storm exposure:** the bay faces the Atlantic, and bad weather can make a safe-looking beach feel suddenly hostile.
+* **Delayed help:** the four-mile walk in means that shelter, rescue and witnesses are not close at hand.
+* **Buried evidence:** wrecks said to be under the sand create the sense of a hidden history beneath the visitor’s feet.
+* **Abandoned shelter:** the old cottage or ruined buildings give the imagination a stage: windows, doors, footsteps, knocking, and the fear of someone outside.
+
+</div>
+
+The result is not a “haunted beach” in the theatrical sense of a place with scheduled sightings. It is a place where geography does much of the storytelling. Sandwood’s emptiness, rather than undermining the legend, is what allows it to breathe.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TWXZxgU0FDA" title="Sandwood Bay - Sutherland, Scotland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TWXZxgU0FDA" target="_blank" rel="noopener noreferrer">Sandwood Bay - Sutherland, Scotland</a></p><p class="youtube-embed-meta">Channel: Karl Brobakk</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TWXZxgU0FDA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TWXZxgU0FDA">Open on YouTube</a></p></div></div></div>
+
+## Cape Wrath, Durness and the Edge of Britain
+
+Sandwood’s legends belong to the far north-west corner of Sutherland, where Cape Wrath, Durness, Kinlochbervie and the scattered coastal routes form a landscape of edges. Cape Wrath is often described as the north-westernmost point of mainland Britain, and access remains awkward: on foot from the south, or by a combination of ferry and rough road from the Durness side when conditions and access allow. The wider area has also been shaped by crofting, depopulation, military use and difficult travel, all of which reinforce its reputation as a threshold rather than a settled tourist coast.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Cape_Wrath" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cape Wrath</span><span class="citation-popover-snippet">Cape Wrath</span></span></span>
+
+Sandwood Estate itself covers 4,703 hectares of wild and crofted land, according to the John Muir Trust. The Trust’s description stresses awe, scale, wildlife and the way the beach dwarfs visitors. That is important for a haunted-history page because the supernatural here is not attached to a busy inn or a castle corridor. It is attached to scale: a human being feels small against the dune system, the loch, the cliffs, the stack and the open sea.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnmuirtrust.org/about-us/where-we-work/sandwood" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnmuirtrust.org">[John Muir Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnmuirtrust.org</span><span class="citation-popover-snippet">Open source on johnmuirtrust.org.</span></span></span>
+
+The abandoned and semi-abandoned human traces around Sandwood deepen that feeling. Sandwood’s stories often mention old cottages, shepherding landscapes and the sense that earlier lives have retreated from the bay. The wider Sandwood area also contains bothies and remains of past settlement, including Strathchailleach, associated in modern walking culture with the hermit James MacRory-Smith, known as Sandy, who lived there for decades in the later twentieth century. These details do not prove ghost stories, but they do explain why visitors read the landscape as inhabited by memory even when it appears empty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sandwood_Bay" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sandwood Bay</span><span class="citation-popover-snippet">Sandwood Bay</span></span></span>
+
+Durness and Cape Wrath also help place Sandwood within Sutherland’s wider haunted map. This is not the castle-haunting Sutherland of Dunrobin, [Ardvreck]({{ 'ardvreck/' | relative_url }}) or Carbisdale, where stories cling to rooms, towers and family histories. It is coastal Sutherland: more exposed, less theatrical, and more dependent on weather, distance and maritime risk. The ghosts here are not aristocratic women in locked chambers. They are sailors, mermaids, wreck victims and unexplained figures seen at the edge of visibility.
+
+
+
+<img src="{{ "/assets/images/Sutherland_6dbe51_sandwood_coastal_leg_f53313-Illustration-2-dark.svg" | relative_url }}" alt="Lonely Coast illustration 2" data-theme-src-dark="{{ "/assets/images/Sutherland_6dbe51_sandwood_coastal_leg_f53313-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sutherland_6dbe51_sandwood_coastal_leg_f53313-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## Why the Legends Became Locally Famous
+
+Sandwood Bay became famous partly because the stories are simple, vivid and easy to retell. A sailor knocking in a storm is instantly understandable. A mermaid seen by a named local man on a winter day has the shape of an old witness account. Buried wrecks give both tales a dark historical floor. Unlike some haunted places, Sandwood does not need a complex backstory; the setting itself supplies the mood.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnmuirtrust.org/whats-new/news/1639-stories-from-sandwood" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnmuirtrust.org">[johnmuirtrust.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnmuirtrust.org</span><span class="citation-popover-title">1639 stories from sandwood</span><span class="citation-popover-snippet">1639 stories from sandwood</span></span></span>
+
+Modern access has also helped the legends travel. Walking websites, conservation bodies, travel features and folklore blogs all present Sandwood as remote but reachable. That combination is perfect for ghostlore: the place is difficult enough to feel like an achievement, but accessible enough for visitors to carry the stories home. Walkhighlands frames the route as the easiest and most popular way in, while still warning that it is longer and harder than many expect. The result is a beach that feels lonely even when it is well known.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.walkhighlands.co.uk/sutherland/sandwood-bay.shtml" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: walkhighlands.co.uk">[walkhighlands]</a><span class="citation-popover" role="note"><span class="citation-popover-source">walkhighlands.co.uk</span><span class="citation-popover-snippet">Open source on walkhighlands.co.uk.</span></span></span>
+
+There is also a strong contrast between beauty and threat. Sandwood is repeatedly described as one of Scotland’s most beautiful remote beaches, yet the same accounts mention wrecks, hard weather and supernatural stories. That contrast makes the folklore stick. A bleak ruin can look haunted without explanation, but a magnificent beach needs a darker undertow if it is to become part of haunted history. Sandwood’s legends provide that undertow without overwhelming the real appeal of the place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnmuirtrust.org/about-us/where-we-work/sandwood" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnmuirtrust.org">[John Muir Trust]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnmuirtrust.org</span><span class="citation-popover-snippet">Open source on johnmuirtrust.org.</span></span></span>
+
+The stories also survive because they are flexible. A visitor interested in folklore can focus on the mermaid; a walker can notice the lonely cottage; a maritime-history reader can follow the shipwreck thread; a sceptic can see how seals, weather, isolation and expectation might shape perception. Sandwood’s ghostlore does not depend on everyone believing the same thing. It depends on the place making several explanations feel possible at once.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C7DPbSJLPJo" title="Sandwood Bay Scotland&#x27;s Most Haunted Beach | Scotland&#x27;s History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C7DPbSJLPJo" target="_blank" rel="noopener noreferrer">Sandwood Bay Scotland&#x27;s Most Haunted Beach | Scotland&#x27;s History</a></p><p class="youtube-embed-meta">Channel: Scotland&#x27;s History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C7DPbSJLPJo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C7DPbSJLPJo">Open on YouTube</a></p></div></div></div>
+
+## How Credible Are the Sandwood Stories?
+
+The most careful answer is that Sandwood Bay has strong folklore but limited hard evidence for supernatural events. The geography, estate history, lighthouse history and walking access are well supported by official or practical sources. The shipwreck reputation is widely repeated and partly anchored by Seton Gordon’s twentieth-century description, though visible remains are now uncertain or absent to modern visitors. The sailor ghost and mermaid stories are best treated as local legends preserved through retelling rather than as verified apparitions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.johnmuirtrust.org/about-us/where-we-work/sandwood" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: johnmuirtrust.org">[johnmuirtrust.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">johnmuirtrust.org</span><span class="citation-popover-snippet">Open source on johnmuirtrust.org.</span></span></span>
+
+That does not make the stories worthless. For haunted history, credibility is not only a question of whether a ghost can be proven. It is also a question of what the legend preserves. At Sandwood, the stories preserve fear of wreck, respect for weather, unease around abandoned shelter, and the old coastal habit of imagining the sea as alive with beings who may not mean humans well. The mermaid and the sailor are different kinds of figure, but both express the same boundary: land is temporary, the sea is older, and the shore is where the two argue.
+
+Sceptical explanations should be taken seriously. Seals can look uncannily human at a distance. Wind can make knocks, cries and footstep-like sounds around ruined buildings. Isolation can sharpen expectation, especially when a visitor already knows the place is reputedly haunted. Oral tradition can also tidy a vague incident into a better story over time. In Sandwood’s case, the sensible position is not to debunk the legends out of existence, but to recognise that natural conditions help explain why this particular coast produces such persuasive supernatural narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mermaid" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Sutherland_6dbe51_sandwood_coastal_leg_f53313-Illustration-3-dark.svg" | relative_url }}" alt="Lonely Coast illustration 3" data-theme-src-dark="{{ "/assets/images/Sutherland_6dbe51_sandwood_coastal_leg_f53313-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sutherland_6dbe51_sandwood_coastal_leg_f53313-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## What Sandwood Adds to Sutherland’s Haunted Coast
+
+Sandwood Bay gives Sutherland’s haunted geography something its castles cannot: a haunting without walls. Ardvreck and Dunrobin turn history into apparitions through ruins, rooms and family tradition. Sandwood turns exposure itself into folklore. The “haunted place” is not just the cottage, the rocks or the beach, but the whole approach: the walk from Blairmore, the sudden opening of the bay, the loch behind the dunes, the sea stack offshore, and Cape Wrath beyond.
+
+That is why Sandwood sits naturally beside Sutherland’s other lonely coastal legends rather than simply repeating them. It shows how a county’s ghost stories can grow from terrain as much as from buildings. The far north-west coast has all the ingredients: dangerous water, sparse settlement, weather that changes the mood of a place in minutes, and a history in which people travelled, worked, wrecked and disappeared at the margins of recorded detail.
+
+For readers tracing haunted Sutherland, Sandwood Bay is best understood as a coastal legend cluster. Its sailor ghost gives shipwreck memory a voice. Its mermaid gives the sea a face. Its buried wrecks and remote path give both stories a physical setting. Whether approached as folklore, local atmosphere, maritime memory or a sceptical case study in how lonely places generate strange reports, Sandwood remains one of Sutherland’s most evocative haunted landscapes.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y10n3lhjxA0" title="The Ghosts of Sandwood Bay (Original Song) |#Spirit360 #SpiritOfTheHighlands" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y10n3lhjxA0" target="_blank" rel="noopener noreferrer">The Ghosts of Sandwood Bay (Original Song) |#Spirit360 #SpiritOfTheHighlands</a></p><p class="youtube-embed-meta">Channel: Robin MacGregor</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y10n3lhjxA0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y10n3lhjxA0">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Sutherland&#x27;s Coasts Breed Ghost Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Myths and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9323684-M.jpg" alt="Cover for Scottish Myths and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
+</h4>
+<p class="fr-book-author">By Judy Hamilton</p>
+        
+<p class="fr-book-desc">First published 2009. Subjects: Tales, Legends, Folklore, Legends, scotland.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10804655-M.jpg" alt="Cover for Scottish Ghost Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Ghost Stories">Scottish Ghost Stories</a>
+</h4>
+<p class="fr-book-author">By Robertson, James</p>
+        
+<p class="fr-book-desc">First published 1996. Subjects: Ghost stories, Tales, scotland, Ghosts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sea+Kingdoms+Alistair+Moffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sea Kingdoms on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2103-M.jpg" alt="Cover for The Sea Kingdoms" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Sea+Kingdoms+Alistair+Moffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sea Kingdoms">The Sea Kingdoms</a>
+</h4>
+<p class="fr-book-author">By Alistair Moffat</p>
+        
+<p class="fr-book-desc">First published 2001. Subjects: Celtic Antiquities, Celts, History, Great britain, antiquities, Great britain, history, anglo-saxon perio...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Sea+Kingdoms+Alistair+Moffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world&#x27;s most haunted places on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s most haunted places">The world&#x27;s most haunted places</a>
+</h4>
+<p class="fr-book-author">By Jeff Belanger</p>
+        
+<p class="fr-book-desc">First published 2011. Subjects: Haunted places.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Myths and Legends</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Ghost Stories</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sea+Kingdoms&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sea Kingdoms</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halloween Ghost Wall Art Decoration, Gothic Mirror Sign, Spooky Party Gift"><img src="{{ '/assets/images/marketplace-covers/9c44fe728fcfad40fb64.jpg' | relative_url }}" alt="Listing image for Halloween Ghost Wall Art Decoration, Gothic Mirror Sign, Spooky Party Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Halloween Ghost Wall Art Decoration, Gothic Mirror Sign, Spooky Party Gift</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost decor sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost decor sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Beware Of The Ghost Sign Halloween Plaque Cast Iron 17cm Gate Door Wall Mount"><img src="{{ '/assets/images/marketplace-covers/f8ef3a33aec76ee0eaa6.jpg' | relative_url }}" alt="Listing image for Beware Of The Ghost Sign Halloween Plaque Cast Iron 17cm Gate Door Wall Mount" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Beware Of The Ghost Sign Halloween Plaque Cast Iron 17cm Gate Door Wall Mount</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost decor sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost decor sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Personalised Halloween Neon Sign LED Ghost Hanging Plaque for House Party Decor"><img src="{{ '/assets/images/marketplace-covers/f71bb2ae45d36fc7d8e2.jpg' | relative_url }}" alt="Listing image for Personalised Halloween Neon Sign LED Ghost Hanging Plaque for House Party Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Personalised Halloween Neon Sign LED Ghost Hanging Plaque for House Party Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost decor sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost decor sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Summerween Hot Ghoul Summer Sign Halloween Ghost Decor Hanging Ornament Plaque"><img src="{{ '/assets/images/marketplace-covers/b67eae2b44f161622935.jpg' | relative_url }}" alt="Listing image for Summerween Hot Ghoul Summer Sign Halloween Ghost Decor Hanging Ornament Plaque" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer">Summerween Hot Ghoul Summer Sign Halloween Ghost Decor Hanging Ornament Plaque</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ghost decor sign">Search<span data-ebay-domain-label>eBay.co.uk</span>: ghost decor sign</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ghost+decor+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ghost decor sign" data-ebay-reference="lonely-coast-why-do-sutherland-s-coasts-breed-ghost-stories-sutherland-ghost-decor-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i< languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+<script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket)< 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1.<a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: Sandwood Bay  
+   Link:<a href="https://en.wikipedia.org/wiki/Sandwood_Bay" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sandwood_Bay</a>  
+
+2.<a id="endnote-2"></a>
+   Source: Wikipedia  
+   Link:<a href="https://en.wikipedia.org/wiki/Mermaid" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mermaid</a>  
+
+3.<a id="endnote-3"></a>
+   Source: books.google.com  
+   Link:<a href="https://books.google.com/books/about/Highways_and_Byways_in_the_West_Highland.html?id=sFIGAQAAIAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Highways_and_Byways_in_the_West_Highland.html?id=sFIGAQAAIAAJ</a>  
+
+4.<a id="endnote-4"></a>
+   Source: Wikipedia  
+   Title: Cape Wrath  
+   Link:<a href="https://en.wikipedia.org/wiki/Cape_Wrath" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cape_Wrath</a>  
+
+5.<a id="endnote-5"></a>
+   Source: Wikipedia  
+   Title: Cape Wrath Lighthouse  
+   Link:<a href="https://en.wikipedia.org/wiki/Cape_Wrath_Lighthouse" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cape_Wrath_Lighthouse</a>  
+
+6.<a id="endnote-6"></a>
+   Source: Wikipedia  
+   Title: Sandwood Bay  
+   Link:<a href="https://de.wikipedia.org/wiki/Sandwood_Bay" target="_blank" rel="noopener noreferrer nofollow">https://de.wikipedia.org/wiki/Sandwood_Bay</a>  
+
+7.<a id="endnote-7"></a>
+   Source: johnmuirtrust.org  
+   Title: 1639 stories from sandwood  
+   Link:<a href="https://www.johnmuirtrust.org/whats-new/news/1639-stories-from-sandwood" target="_blank" rel="noopener noreferrer nofollow">https://www.johnmuirtrust.org/whats-new/news/1639-stories-from-sandwood</a>  
+
+8.<a id="endnote-8"></a>
+   Source: johnmuirtrust.org  
+   Link:<a href="https://www.johnmuirtrust.org/about-us/where-we-work/sandwood" target="_blank" rel="noopener noreferrer nofollow">https://www.johnmuirtrust.org/about-us/where-we-work/sandwood</a>  
+
+9.<a id="endnote-9"></a>
+   Source: walkhighlands.co.uk  
+   Link:<a href="https://www.walkhighlands.co.uk/sutherland/sandwood-bay.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.walkhighlands.co.uk/sutherland/sandwood-bay.shtml</a>  
+
+10.<a id="endnote-10"></a>
+   Source: nlb.org.uk  
+   Title: cape wrath  
+   Link:<a href="https://www.nlb.org.uk/lighthouses/cape-wrath/" target="_blank" rel="noopener noreferrer nofollow">https://www.nlb.org.uk/lighthouses/cape-wrath/</a>  
+
+11.<a id="endnote-11"></a>
+   Source: walkhighlands.co.uk  
+   Link:<a href="https://www.walkhighlands.co.uk/sutherland/sandwood-bay-cape-wrath.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.walkhighlands.co.uk/sutherland/sandwood-bay-cape-wrath.shtml</a>  
+
+12.<a id="endnote-12"></a>
+   Source: walkhighlands.co.uk  
+   Title: Walk Report  
+   Link:<a href="https://www.walkhighlands.co.uk/Forum/viewtopic.php?f=9&amp;t=90624" target="_blank" rel="noopener noreferrer nofollow">https://www.walkhighlands.co.uk/Forum/viewtopic.php?f=9&amp;t=90624</a>  
+
+13.<a id="endnote-13"></a>
+   Source: walkhighlands.co.uk  
+   Link:<a href="https://www.walkhighlands.co.uk/cape-wrath-trail.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.walkhighlands.co.uk/cape-wrath-trail.shtml</a>  
+
+14.<a id="endnote-14"></a>
+   Source: walkhighlands.co.uk  
+   Link:<a href="https://www.walkhighlands.co.uk/Forum/viewtopic.php?f=9&amp;t=94540" target="_blank" rel="noopener noreferrer nofollow">https://www.walkhighlands.co.uk/Forum/viewtopic.php?f=9&amp;t=94540</a>  
+
+15.<a id="endnote-15"></a>
+   Source: walkhighlands.co.uk  
+   Title: Walk Report  
+   Link:<a href="https://www.walkhighlands.co.uk/Forum/viewtopic.php?f=9&amp;t=20821" target="_blank" rel="noopener noreferrer nofollow">https://www.walkhighlands.co.uk/Forum/viewtopic.php?f=9&amp;t=20821</a>  
+
+16.<a id="endnote-16"></a>
+   Source: walkhighlands.co.uk  
+   Title: Sandwood Bay to Cape Wrath  
+   Link:<a href="https://www.walkhighlands.co.uk/maps/map9_40bd.shtml" target="_blank" rel="noopener noreferrer nofollow">https://www.walkhighlands.co.uk/maps/map9_40bd.shtml</a>  
+
+17.<a id="endnote-17"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/JohnMuirTrust/posts/am-buachaille-meaning-the-shepherd-is-a-breathtaking-sea-stack-guarding-sandwood/1452048633622982/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/JohnMuirTrust/posts/am-buachaille-meaning-the-shepherd-is-a-breathtaking-sea-stack-guarding-sandwood/1452048633622982/</a>  
+
+18.<a id="endnote-18"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/northernlighthouseboard/photos/m-a-r-c-h-l-i-g-h-t-h-o-u-s-e-cape-wrath-lighthouse-is-situated-at-the-most-nort/595437125941313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/northernlighthouseboard/photos/m-a-r-c-h-l-i-g-h-t-h-o-u-s-e-cape-wrath-lighthouse-is-situated-at-the-most-nort/595437125941313/</a>  
+
+19.<a id="endnote-19"></a>
+   Source: trove.scot  
+   Link:<a href="https://www.trove.scot/place/4722" target="_blank" rel="noopener noreferrer nofollow">https://www.trove.scot/place/4722</a>  
+
+20.<a id="endnote-20"></a>
+   Source: youtube.com  
+   Title: Sandwood Bay  
+   Link:<a href="https://www.youtube.com/watch?v=TWXZxgU0FDA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TWXZxgU0FDA</a>  
+
+21.<a id="endnote-21"></a>
+   Source: johnmuirtrust.org  
+   Title: 2033 sandwood bay under threat  
+   Link:<a href="https://www.johnmuirtrust.org/whats-new/news/2033-sandwood-bay-under-threat" target="_blank" rel="noopener noreferrer nofollow">https://www.johnmuirtrust.org/whats-new/news/2033-sandwood-bay-under-threat</a>  
+
+22.<a id="endnote-22"></a>
+   Source: britainexpress.com  
+   Title: cape wrath  
+   Link:<a href="https://www.britainexpress.com/scotland/Highlands/countryside/cape-wrath.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.britainexpress.com/scotland/Highlands/countryside/cape-wrath.htm</a>  
+
+23.<a id="endnote-23"></a>
+   Source: wikishire.co.uk  
+   Title: Cape Wrath Lighthouse  
+   Link:<a href="https://wikishire.co.uk/wiki/Cape_Wrath_Lighthouse" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Cape_Wrath_Lighthouse</a>  
+
+24.<a id="endnote-24"></a>
+   Source: wikishire.co.uk  
+   Title: Sandwood Bay  
+   Link:<a href="https://wikishire.co.uk/wiki/Sandwood_Bay" target="_blank" rel="noopener noreferrer nofollow">https://wikishire.co.uk/wiki/Sandwood_Bay</a>  
+
+25.<a id="endnote-25"></a>
+   Source: kids.kiddle.co  
+   Title: Sandwood Bay  
+   Link:<a href="https://kids.kiddle.co/Sandwood_Bay" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Sandwood_Bay</a>  
+
+26.<a id="endnote-26"></a>
+   Source: tripadvisor.com  
+   Title: Sandwood Bay  
+   Link:<a href="https://www.tripadvisor.com/Attraction_Review-g551902-d568371-Reviews-or40-Sandwood_Bay-Kinlochbervie_Caithness_and_Sutherland_Scottish_Highlands_Scotla.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.com/Attraction_Review-g551902-d568371-Reviews-or40-Sandwood_Bay-Kinlochbervie_Caithness_and_Sutherland_Scottish_Highlands_Scotla.html</a>  
+
+### Additional References
+
+27.<a id="endnote-27"></a>
+   Source: theguardian.com  
+   Title: The Guardian To the lighthouse  
+   Link:<a href="https://www.theguardian.com/travel/2020/jun/17/cape-wrath-cycling-challenge-scotland-uk-toughest-bike-ride" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/travel/2020/jun/17/cape-wrath-cycling-challenge-scotland-uk-toughest-bike-ride</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Since its inception, cyclists who reach the lighthouse and provide proof—originally the lighthouse keeper’s signature, now a selfie—are g...</p></details>
+
+28.<a id="endnote-28"></a>
+   Source: youtube.com  
+   Title: Sandwood Bay Scotland's Most Haunted Beach  
+   Link:<a href="https://www.youtube.com/watch?v=C7DPbSJLPJo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C7DPbSJLPJo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Haunted Scotland: Ghosts of the Highlands, Brodie Castle, Skye, Sandwood Bay &amp; Paranormal Legends...</p></details>
+
+29.<a id="endnote-29"></a>
+   Source: britainexpress.com  
+   Link:<a href="https://www.britainexpress.com/scotland/Highlands/Sutherland/Sandwood-Bay.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.britainexpress.com/scotland/Highlands/Sutherland/Sandwood-Bay.htm</a>  
+
+30.<a id="endnote-30"></a>
+   Source: wikidata.org  
+   Link:<a href="https://www.wikidata.org/wiki/Q15207438" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidata.org/wiki/Q15207438</a>  
+
+31.<a id="endnote-31"></a>
+   Source: lighthousedigest.com  
+   Link:<a href="https://www.lighthousedigest.com/Digest/database/uniquelighthouse.cfm?value=1381" target="_blank" rel="noopener noreferrer nofollow">https://www.lighthousedigest.com/Digest/database/uniquelighthouse.cfm?value=1381</a>  
+
+32.<a id="endnote-32"></a>
+   Source: lighthouseaccommodation.co.uk  
+   Link:<a href="https://lighthouseaccommodation.co.uk/listings/cape-wrath-lighthouse/" target="_blank" rel="noopener noreferrer nofollow">https://lighthouseaccommodation.co.uk/listings/cape-wrath-lighthouse/</a>  
+
+33.<a id="endnote-33"></a>
+   Source: jncc.gov.uk  
+   Link:<a href="https://jncc.gov.uk/jncc-assets/GCR/gcr-site-account-229.pdf" target="_blank" rel="noopener noreferrer nofollow">https://jncc.gov.uk/jncc-assets/GCR/gcr-site-account-229.pdf</a>  
+
+34.<a id="endnote-34"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/groups/scotlandfromtheroadside/posts/10160660076212280/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/scotlandfromtheroadside/posts/10160660076212280/</a>  
+
+35.<a id="endnote-35"></a>
+   Source: facebook.com  
+   Link:<a href="https://www.facebook.com/groups/704609660332475/posts/1792756611517769/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/704609660332475/posts/1792756611517769/</a>  
+
+36.<a id="endnote-36"></a>
+   Source: amazon.co.uk  
+   Link:<a href="https://www.amazon.co.uk/Highways-Byways-Highlands-Seton-Gordon/dp/1874744327?tag=searcht-20" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Highways-Byways-Highlands-Seton-Gordon/dp/1874744327?tag=searcht-20</a>  
