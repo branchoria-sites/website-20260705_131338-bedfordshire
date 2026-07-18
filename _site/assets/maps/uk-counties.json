@@ -1,0 +1,3542 @@
+{
+  "kind": "uk-counties",
+  "mapLayout": "uk-counties",
+  "mapFit": "linked-bounds",
+  "initialItemId": "UK-HC-SUFFOLK",
+  "itemType": "county",
+  "mapAsset": "uk-historic-counties.svg",
+  "dataAsset": "uk-counties.json",
+  "mapLabel": "UFO and UAP historic UK counties map",
+  "fallbackSummary": "Open this historic UK county file from the map.",
+  "panelCopy": "Use the map to jump into a historic UK county file, or browse the full county list below.",
+  "items": [
+    {
+      "id": "UK-HC-BUTESHIRE",
+      "iso": "UK-HC-BUTESHIRE",
+      "basename": "Buteshire_f23202",
+      "county": "Buteshire",
+      "mapName": "Buteshire",
+      "label": "Buteshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-buteshire",
+        "buteshire"
+      ],
+      "title": "What Haunts Buteshire's Island Castles?",
+      "summary": "Buteshire’s haunted history is best understood as an island folklore map rather than a single “most haunted county” story.",
+      "url": "what-haunts-buteshires-island-castles/",
+      "image": "assets/images/Buteshire_f23202-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-CARMARTHENSHIRE",
+      "iso": "UK-HC-CARMARTHENSHIRE",
+      "basename": "Carmarthenshire_0d1a35",
+      "county": "Carmarthenshire",
+      "mapName": "Carmarthenshire",
+      "label": "Carmarthenshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-carmarthenshire",
+        "carmarthenshire"
+      ],
+      "title": "What Haunts Carmarthenshire's Oldest Places?",
+      "summary": "Carmarthenshire is one of the richest haunted-history counties in Wales because its ghost stories grow out of very old ground: medieval castles, Tudor and...",
+      "url": "what-haunts-carmarthenshires-oldest/",
+      "image": "assets/images/Carmarthenshire_0d1a35-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-ESSEX",
+      "iso": "UK-HC-ESSEX",
+      "basename": "Essex_17957d",
+      "county": "Essex",
+      "mapName": "Essex",
+      "label": "Essex",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-essex",
+        "essex"
+      ],
+      "title": "What Haunts Essex's Old Roads and Ruins?",
+      "summary": "Essex is one of England’s richest counties for haunted history because its ghost stories sit on unusually varied ground: Roman Colchester, medieval abbeys,...",
+      "url": "what-haunts-essexs-old-roads-and-ruins/",
+      "image": "assets/images/Essex_17957d-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-FLINTSHIRE",
+      "iso": "UK-HC-FLINTSHIRE",
+      "basename": "Flintshire_823310",
+      "county": "Flintshire",
+      "mapName": "Flintshire",
+      "label": "Flintshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-flintshire",
+        "flintshire"
+      ],
+      "title": "What Haunts Flintshire's Borderland Stories?",
+      "summary": "Flintshire’s haunted reputation rests less on one single “great ghost” than on a cluster of borderland stories: a Jacobean mansion with a roadside woman in...",
+      "url": "what-haunts-flintshires-borderland/",
+      "image": "assets/images/Flintshire_823310-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-GLOUCESTERSHIRE",
+      "iso": "UK-HC-GLOUCESTERSHIRE",
+      "basename": "Gloucestershire_03cc40",
+      "county": "Gloucestershire",
+      "mapName": "Gloucestershire",
+      "label": "Gloucestershire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-gloucestershire",
+        "gloucestershire"
+      ],
+      "title": "What Haunts Gloucestershire's Oldest Stories?",
+      "summary": "Gloucestershire’s haunted reputation rests on a unusually rich mixture of medieval violence, monastic ruins, old inns, Cotswold villages, prison history and...",
+      "url": "what-haunts-gloucestershires-oldest/",
+      "image": "assets/images/Gloucestershire_03cc40-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-RENFREWSHIRE",
+      "iso": "UK-HC-RENFREWSHIRE",
+      "basename": "Renfrewshire_6a148e",
+      "county": "Renfrewshire",
+      "mapName": "Renfrewshire",
+      "label": "Renfrewshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-renfrewshire",
+        "renfrewshire"
+      ],
+      "title": "What Haunts Historic Renfrewshire?",
+      "summary": "Renfrewshire’s haunted reputation is quieter than that of Edinburgh or the Highland castles, but it has a distinctive darkness of its own: medieval abbey...",
+      "url": "what-haunts-historic-renfrewshire/",
+      "image": "assets/images/Renfrewshire_6a148e-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-HUNTINGDONSHIRE",
+      "iso": "UK-HC-HUNTINGDONSHIRE",
+      "basename": "Huntingdonshire_d54801",
+      "county": "Huntingdonshire",
+      "mapName": "Huntingdonshire",
+      "label": "Huntingdonshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-huntingdonshire",
+        "huntingdonshire"
+      ],
+      "title": "What Haunts Old Huntingdonshire?",
+      "summary": "Huntingdonshire has never been as famous for ghost stories as counties such as Yorkshire or Cornwall, yet it has developed a distinctive haunted reputation...",
+      "url": "what-haunts-old-huntingdonshire/",
+      "image": "assets/images/Huntingdonshire_d54801-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CLACKMANNANSHIRE",
+      "iso": "UK-HC-CLACKMANNANSHIRE",
+      "basename": "Clackmannanshire_a9d2bc",
+      "county": "Clackmannanshire",
+      "mapName": "Clackmannanshire",
+      "label": "Clackmannanshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-clackmannanshire",
+        "clackmannanshire"
+      ],
+      "title": "What Haunts Scotland's Wee County?",
+      "summary": "Clackmannanshire’s haunted history is not a long parade of famous ghosts.",
+      "url": "clackmannanshire/",
+      "image": "assets/images/Clackmannanshire_a9d2bc-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-ABERDEENSHIRE",
+      "iso": "UK-HC-ABERDEENSHIRE",
+      "basename": "Aberdeenshire_e04348",
+      "county": "Aberdeenshire",
+      "mapName": "Aberdeenshire",
+      "label": "Aberdeenshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-aberdeenshire",
+        "aberdeenshire"
+      ],
+      "title": "Where Aberdeenshire's Ghost Stories Still Gather",
+      "summary": "Aberdeenshire is one of Scotland’s richest areas for haunted-place storytelling: not because every tale is equally old or equally well evidenced, but because...",
+      "url": "where-aberdeenshires-ghost-stories-still/",
+      "image": "assets/images/Aberdeenshire_e04348-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-COUNTY-ANTRIM",
+      "iso": "UK-HC-COUNTY-ANTRIM",
+      "basename": "County_Antrim_405799",
+      "county": "County Antrim",
+      "mapName": "County Antrim",
+      "label": "County Antrim",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-antrim",
+        "county antrim",
+        "antrim"
+      ],
+      "title": "Where Antrim's Ghost Stories Take Hold",
+      "summary": "County Antrim’s haunted reputation is built less on one single “most haunted” place than on a chain of stories running from Belfast and Carrickfergus to...",
+      "url": "county-antrim/",
+      "image": "assets/images/County_Antrim_405799-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-BANFFSHIRE",
+      "iso": "UK-HC-BANFFSHIRE",
+      "basename": "Banffshire_c00f44",
+      "county": "Banffshire",
+      "mapName": "Banffshire",
+      "label": "Banffshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-banffshire",
+        "banffshire"
+      ],
+      "title": "Where Banffshire Keeps Its Ghost Stories",
+      "summary": "Banffshire’s haunted history is less a neat catalogue of “most haunted” tourist sites than a scattered north-east Scottish folklore landscape: ruined tower...",
+      "url": "where-banffshire-keeps-its-ghost-stories/",
+      "image": "assets/images/Banffshire_c00f44-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-BEDFORDSHIRE",
+      "iso": "UK-HC-BEDFORDSHIRE",
+      "basename": "Bedfordshire_5c5bc3",
+      "county": "Bedfordshire",
+      "mapName": "Bedfordshire",
+      "label": "Bedfordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-bedfordshire",
+        "bedfordshire"
+      ],
+      "title": "Where Bedfordshire's Ghost Stories Gather",
+      "summary": "Bedfordshire’s haunted reputation is quieter than that of some larger counties, but it has a distinctive character: ruined churches on ridges, old monastic...",
+      "url": "where-bedfordshires-ghost-stories-gather/",
+      "image": "assets/images/Bedfordshire_5c5bc3-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-BERKSHIRE",
+      "iso": "UK-HC-BERKSHIRE",
+      "basename": "Berkshire_fa6d4a",
+      "county": "Berkshire",
+      "mapName": "Berkshire",
+      "label": "Berkshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-berkshire",
+        "berkshire"
+      ],
+      "title": "Where Berkshire's Ghost Stories Still Linger",
+      "summary": "Berkshire’s haunted reputation is strongest where ordinary local history already feels charged: Windsor’s royal courts and forest, Reading’s ruined abbey,...",
+      "url": "where-berkshires-ghost-stories-still/",
+      "image": "assets/images/Berkshire_fa6d4a-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-BERWICKSHIRE",
+      "iso": "UK-HC-BERWICKSHIRE",
+      "basename": "Berwickshire_907858",
+      "county": "Berwickshire",
+      "mapName": "Berwickshire",
+      "label": "Berwickshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-berwickshire",
+        "berwickshire"
+      ],
+      "title": "Where Berwickshire's Ghost Stories Still Linger",
+      "summary": "Berwickshire’s haunted history is quieter than the famous ghost circuits of Edinburgh or Northumberland, but it has a distinctive Border character: ruined...",
+      "url": "where-berwickshires-ghost-stories-still/",
+      "image": "assets/images/Berwickshire_907858-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-BRECKNOCKSHIRE",
+      "iso": "UK-HC-BRECKNOCKSHIRE",
+      "basename": "Brecknockshire_d4a3d4",
+      "county": "Brecknockshire",
+      "mapName": "Brecknockshire",
+      "label": "Brecknockshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-brecknockshire",
+        "brecknockshire"
+      ],
+      "title": "Where Brecknockshire's Quiet Hauntings Begin",
+      "summary": "Brecknockshire’s haunted reputation is quieter than that of some Welsh counties, but it has a strong atmosphere: ruined Norman castles, mountain roads, old...",
+      "url": "where-brecknockshires-quiet-hauntings/",
+      "image": "assets/images/Brecknockshire_d4a3d4-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-BUCKINGHAMSHIRE",
+      "iso": "UK-HC-BUCKINGHAMSHIRE",
+      "basename": "Buckinghamshire_40b834",
+      "county": "Buckinghamshire",
+      "mapName": "Buckinghamshire",
+      "label": "Buckinghamshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-buckinghamshire",
+        "buckinghamshire"
+      ],
+      "title": "Where Buckinghamshire's Ghost Stories Still Gather",
+      "summary": "Buckinghamshire’s haunted reputation is not built around one single ruin or battlefield, but around a chain of old places where social history and local...",
+      "url": "where-buckinghamshires-ghost-stories/",
+      "image": "assets/images/Buckinghamshire_40b834-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CHESHIRE",
+      "iso": "UK-HC-CHESHIRE",
+      "basename": "Cheshire_f5f9e8",
+      "county": "Cheshire",
+      "mapName": "Cheshire",
+      "label": "Cheshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cheshire",
+        "cheshire"
+      ],
+      "title": "Where Cheshire's Ghost Stories Still Gather",
+      "summary": "Cheshire’s haunted reputation rests on a strong mix of old buildings, Civil War memory, country-house folklore and deliberately atmospheric tourism.",
+      "url": "where-cheshires-ghost-stories-still/",
+      "image": "assets/images/Cheshire_f5f9e8-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CORNWALL",
+      "iso": "UK-HC-CORNWALL",
+      "basename": "Cornwall_4c96d0",
+      "county": "Cornwall",
+      "mapName": "Cornwall",
+      "label": "Cornwall",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cornwall",
+        "cornwall"
+      ],
+      "title": "Where Cornwall's Ghost Stories Meet History",
+      "summary": "Cornwall’s haunted reputation grows from three things at once: a dramatic historic county almost surrounded by sea, a deep store of recorded folklore, and a...",
+      "url": "where-cornwalls-ghost-stories-meet/",
+      "image": "assets/images/Cornwall_4c96d0-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-COUNTY-DOWN",
+      "iso": "UK-HC-COUNTY-DOWN",
+      "basename": "County_Down_8f4eb4",
+      "county": "County Down",
+      "mapName": "County Down",
+      "label": "County Down",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-down",
+        "county down",
+        "down"
+      ],
+      "title": "Where County Down Keeps Its Ghosts",
+      "summary": "County Down’s haunted reputation is not built around one single famous “most haunted” attraction.",
+      "url": "where-county-down-keeps-its-ghosts/",
+      "image": "assets/images/County_Down_8f4eb4-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-CROMARTYSHIRE",
+      "iso": "UK-HC-CROMARTYSHIRE",
+      "basename": "Cromartyshire_1a46f2",
+      "county": "Cromartyshire",
+      "mapName": "Cromartyshire",
+      "label": "Cromartyshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cromartyshire",
+        "cromartyshire"
+      ],
+      "title": "Where Cromartyshire's Ghost Stories Still Gather",
+      "summary": "Cromartyshire is one of the most awkward historic counties to write about as a haunted landscape, because it was never a neat block of territory.",
+      "url": "where-cromartyshires-ghost-stories-still/",
+      "image": "assets/images/Cromartyshire_1a46f2-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-CUMBERLAND",
+      "iso": "UK-HC-CUMBERLAND",
+      "basename": "Cumberland_f993d3",
+      "county": "Cumberland",
+      "mapName": "Cumberland",
+      "label": "Cumberland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cumberland",
+        "cumberland"
+      ],
+      "title": "Where Cumberland Keeps Its Ghost Stories",
+      "summary": "Cumberland’s haunted reputation is strongest where its older history is most visible: Carlisle’s border fortress, Muncaster’s rooms and parkland at...",
+      "url": "where-cumberland-keeps-its-ghost-stories/",
+      "image": "assets/images/Cumberland_f993d3-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CAERNARFONSHIRE",
+      "iso": "UK-HC-CAERNARFONSHIRE",
+      "basename": "Caernarfonshire_667de6",
+      "county": "Caernarfonshire",
+      "mapName": "Caernarfonshire",
+      "label": "Caernarfonshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-caernarfonshire",
+        "caernarfonshire"
+      ],
+      "title": "Where Do Caernarfonshire's Ghost Stories Gather?",
+      "summary": "Caernarfonshire is one of Wales’s richest haunted-history landscapes: a historic county of castles, walled towns, mountain roads, slate country, old inns,...",
+      "url": "where-do-caernarfonshires-ghost-stories/",
+      "image": "assets/images/Caernarfonshire_667de6-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-KIRKCUDBRIGHTSHIRE",
+      "iso": "UK-HC-KIRKCUDBRIGHTSHIRE",
+      "basename": "Kirkcudbrightshire_97fbf2",
+      "county": "Kirkcudbrightshire",
+      "mapName": "Kirkcudbrightshire",
+      "label": "Kirkcudbrightshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-kirkcudbrightshire",
+        "kirkcudbrightshire"
+      ],
+      "title": "Where Do Kirkcudbrightshire's Ghost Stories Begin?",
+      "summary": "Kirkcudbrightshire’s haunted history is not dominated by one famous castle ghost, but by a handful of unusually vivid local traditions: the 1695 Ringcroft or...",
+      "url": "where-do-kirkcudbrightshires-ghost/",
+      "image": "assets/images/Kirkcudbrightshire_97fbf2-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-LINCOLNSHIRE",
+      "iso": "UK-HC-LINCOLNSHIRE",
+      "basename": "Lincolnshire_92cf52",
+      "county": "Lincolnshire",
+      "mapName": "Lincolnshire",
+      "label": "Lincolnshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-lincolnshire",
+        "lincolnshire"
+      ],
+      "title": "Where Do Lincolnshire's Ghost Stories Gather?",
+      "summary": "Lincolnshire’s haunted reputation is not built around one single “most haunted” site.",
+      "url": "where-do-lincolnshires-ghost-stories/",
+      "image": "assets/images/Lincolnshire_92cf52-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-NAIRNSHIRE",
+      "iso": "UK-HC-NAIRNSHIRE",
+      "basename": "Nairnshire_82a7a8",
+      "county": "Nairnshire",
+      "mapName": "Nairnshire",
+      "label": "Nairnshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-nairnshire",
+        "nairnshire"
+      ],
+      "title": "Where Do Nairnshire's Ghost Stories Begin?",
+      "summary": "Nairnshire is not one of Scotland’s loudest “haunted county” names, but that is part of its appeal.",
+      "url": "where-do-nairnshires-ghost-stories-begin/",
+      "image": "assets/images/Nairnshire_82a7a8-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-ROSS-SHIRE",
+      "iso": "UK-HC-ROSS-SHIRE",
+      "basename": "Ross-shire_c9caea",
+      "county": "Ross-shire",
+      "mapName": "Ross-shire",
+      "label": "Ross-shire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-ross-shire",
+        "ross shire"
+      ],
+      "title": "Where Do Ross shire's Ghost Stories Gather?",
+      "summary": "Ross-shire’s haunted reputation is quieter than that of Edinburgh, Glamis or the Borders, but it has a distinctive Highland character: castle corridors,...",
+      "url": "where-do-ross-shires-ghost-stories/",
+      "image": "assets/images/Ross-shire_c9caea-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-WARWICKSHIRE",
+      "iso": "UK-HC-WARWICKSHIRE",
+      "basename": "Warwickshire_17be07",
+      "county": "Warwickshire",
+      "mapName": "Warwickshire",
+      "label": "Warwickshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-warwickshire",
+        "warwickshire"
+      ],
+      "title": "Where Do Warwickshire's Ghost Stories Begin?",
+      "summary": "Warwickshire’s haunted reputation rests less on one single “most haunted” place than on a chain of stories running through castles, monastic houses,...",
+      "url": "where-do-warwickshires-ghost-stories/",
+      "image": "assets/images/Warwickshire_17be07-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CAMBRIDGESHIRE",
+      "iso": "UK-HC-CAMBRIDGESHIRE",
+      "basename": "Cambridgeshire_f74246",
+      "county": "Cambridgeshire",
+      "mapName": "Cambridgeshire",
+      "label": "Cambridgeshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cambridgeshire",
+        "cambridgeshire"
+      ],
+      "title": "Where Does Cambridgeshire's Haunted Memory Gather?",
+      "summary": "Cambridgeshire’s haunted reputation is built less on ruined castles and more on places where ordinary life pressed hard against history: college courts,...",
+      "url": "where-does-cambridgeshires-haunted/",
+      "image": "assets/images/Cambridgeshire_f74246-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CARDIGANSHIRE",
+      "iso": "UK-HC-CARDIGANSHIRE",
+      "basename": "Cardiganshire_0418d7",
+      "county": "Cardiganshire",
+      "mapName": "Cardiganshire",
+      "label": "Cardiganshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cardiganshire",
+        "cardiganshire"
+      ],
+      "title": "Where Does Cardiganshire's Haunted Story Begin?",
+      "summary": "Cardiganshire, now usually called Ceredigion in modern local government, is not one of Britain’s loudest “haunted county” destinations.",
+      "url": "where-does-cardiganshires-haunted-story/",
+      "image": "assets/images/Cardiganshire_0418d7-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-DUMFRIESSHIRE",
+      "iso": "UK-HC-DUMFRIESSHIRE",
+      "basename": "Dumfriesshire_3b4eaf",
+      "county": "Dumfriesshire",
+      "mapName": "Dumfriesshire",
+      "label": "Dumfriesshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-dumfriesshire",
+        "dumfriesshire"
+      ],
+      "title": "Where Does Dumfriesshire Feel Most Haunted?",
+      "summary": "Dumfriesshire’s haunted reputation is quieter than Edinburgh’s closes or the great Highland castles, but it has a strong local pattern of its own: border...",
+      "url": "where-does-dumfriesshire-feel-most/",
+      "image": "assets/images/Dumfriesshire_3b4eaf-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-DENBIGHSHIRE",
+      "iso": "UK-HC-DENBIGHSHIRE",
+      "basename": "Denbighshire_fc7d7c",
+      "county": "Denbighshire",
+      "mapName": "Denbighshire",
+      "label": "Denbighshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-denbighshire",
+        "denbighshire"
+      ],
+      "title": "Where Does Haunted Denbighshire Begin?",
+      "summary": "Denbighshire’s haunted history is best understood as a landscape of castle ruins, old prisons, timber-framed houses, abbey remains, moorland roads, and...",
+      "url": "where-does-haunted-denbighshire-begin/",
+      "image": "assets/images/Denbighshire_fc7d7c-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-PERTHSHIRE",
+      "iso": "UK-HC-PERTHSHIRE",
+      "basename": "Perthshire_258bcb",
+      "county": "Perthshire",
+      "mapName": "Perthshire",
+      "label": "Perthshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-perthshire",
+        "perthshire"
+      ],
+      "title": "Where Does Haunted Perthshire Really Begin?",
+      "summary": "Perthshire’s haunted reputation rests less on one famous ghost than on a spread of old stories attached to castles, battlefields, wells, inns and vanished...",
+      "url": "where-does-haunted-perthshire-really/",
+      "image": "assets/images/Perthshire_258bcb-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-WESTMORLAND",
+      "iso": "UK-HC-WESTMORLAND",
+      "basename": "Westmorland_dec0c1",
+      "county": "Westmorland",
+      "mapName": "Westmorland",
+      "label": "Westmorland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-westmorland",
+        "westmorland"
+      ],
+      "title": "Where Does Haunted Westmorland Really Begin?",
+      "summary": "Westmorland’s haunted history is quieter and more local than the famous ghost circuits of York, Edinburgh or the Tower of London.",
+      "url": "where-does-haunted-westmorland-really/",
+      "image": "assets/images/Westmorland_dec0c1-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-LEICESTERSHIRE",
+      "iso": "UK-HC-LEICESTERSHIRE",
+      "basename": "Leicestershire_f2eb49",
+      "county": "Leicestershire",
+      "mapName": "Leicestershire",
+      "label": "Leicestershire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-leicestershire",
+        "leicestershire"
+      ],
+      "title": "Where Does Leicestershire Feel Most Haunted?",
+      "summary": "Leicestershire’s haunted reputation rests less on one single “most haunted” site than on a dense cluster of stories: a white figure by the ruins of Grace...",
+      "url": "where-does-leicestershire-feel-most/",
+      "image": "assets/images/Leicestershire_f2eb49-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-RADNORSHIRE",
+      "iso": "UK-HC-RADNORSHIRE",
+      "basename": "Radnorshire_2d75e1",
+      "county": "Radnorshire",
+      "mapName": "Radnorshire",
+      "label": "Radnorshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-radnorshire",
+        "radnorshire"
+      ],
+      "title": "Where Does Radnorshire Feel Most Haunted?",
+      "summary": "Radnorshire’s haunted history is quieter than the famous ghost-trail counties of Wales, but that suits it.",
+      "url": "where-does-radnorshire-feel-most-haunted/",
+      "image": "assets/images/Radnorshire_2d75e1-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-RUTLAND",
+      "iso": "UK-HC-RUTLAND",
+      "basename": "Rutland_424243",
+      "county": "Rutland",
+      "mapName": "Rutland",
+      "label": "Rutland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-rutland",
+        "rutland"
+      ],
+      "title": "Where Does Rutland Hide Its Ghosts?",
+      "summary": "Rutland’s haunted history is quieter than that of counties famous for ruined abbeys, plague pits or theatrical ghost tours, but that is part of its character.",
+      "url": "where-does-rutland-hide-its-ghosts/",
+      "image": "assets/images/Rutland_424243-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-STIRLINGSHIRE",
+      "iso": "UK-HC-STIRLINGSHIRE",
+      "basename": "Stirlingshire_47078a",
+      "county": "Stirlingshire",
+      "mapName": "Stirlingshire",
+      "label": "Stirlingshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-stirlingshire",
+        "stirlingshire"
+      ],
+      "title": "Where Does Stirlingshire Feel Most Haunted?",
+      "summary": "Stirlingshire’s haunted reputation is strongest around Stirling itself: the castle on its volcanic crag, the old jail and Tolbooth streets beneath it, and...",
+      "url": "where-does-stirlingshire-feel-most/",
+      "image": "assets/images/Stirlingshire_47078a-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-SUFFOLK",
+      "iso": "UK-HC-SUFFOLK",
+      "basename": "Suffolk_831058",
+      "county": "Suffolk",
+      "mapName": "Suffolk",
+      "label": "Suffolk",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-suffolk",
+        "suffolk"
+      ],
+      "title": "Where Does Suffolk's Haunted Reputation Begin?",
+      "summary": "Suffolk’s haunted reputation is strongest where old roads, ruined religious houses, coastal loss and market-town memory overlap.",
+      "url": "where-does-suffolks-haunted-reputation/",
+      "image": "assets/images/Suffolk_831058-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-SURREY",
+      "iso": "UK-HC-SURREY",
+      "basename": "Surrey_aeac76",
+      "county": "Surrey",
+      "mapName": "Surrey",
+      "label": "Surrey",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-surrey",
+        "surrey"
+      ],
+      "title": "Where Does Surrey's Haunted Reputation Begin?",
+      "summary": "Surrey’s haunted reputation is less about one grand “most haunted” site and more about a chain of stories tied to old roads, ruined religious houses, Tudor...",
+      "url": "where-does-surreys-haunted-reputation/",
+      "image": "assets/images/Surrey_aeac76-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-WIGTOWNSHIRE",
+      "iso": "UK-HC-WIGTOWNSHIRE",
+      "basename": "Wigtownshire_1186ed",
+      "county": "Wigtownshire",
+      "mapName": "Wigtownshire",
+      "label": "Wigtownshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-wigtownshire",
+        "wigtownshire"
+      ],
+      "title": "Where Does Wigtownshire Feel Most Haunted?",
+      "summary": "Wigtownshire’s haunted reputation is quieter than that of Edinburgh, Glencoe, or the better-advertised castles of the Highlands, but it has a distinct...",
+      "url": "where-does-wigtownshire-feel-most/",
+      "image": "assets/images/Wigtownshire_1186ed-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-WORCESTERSHIRE",
+      "iso": "UK-HC-WORCESTERSHIRE",
+      "basename": "Worcestershire_9671d5",
+      "county": "Worcestershire",
+      "mapName": "Worcestershire",
+      "label": "Worcestershire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-worcestershire",
+        "worcestershire"
+      ],
+      "title": "Where Does Worcestershire Keep Its Ghosts?",
+      "summary": "Worcestershire’s haunted reputation is strongest where old buildings, Civil War memory, recusant Catholic history, ruined estates, coaching roads and village...",
+      "url": "where-does-worcestershire-keep-its/",
+      "image": "assets/images/Worcestershire_9671d5-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-DUNBARTONSHIRE",
+      "iso": "UK-HC-DUNBARTONSHIRE",
+      "basename": "Dunbartonshire_abd4f2",
+      "county": "Dunbartonshire",
+      "mapName": "Dunbartonshire",
+      "label": "Dunbartonshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-dunbartonshire",
+        "dunbartonshire"
+      ],
+      "title": "Where Dunbartonshire's Dark Stories Gather",
+      "summary": "Dunbartonshire’s haunted reputation is quieter and more fragmented than the better-packaged ghost lore of Edinburgh or the Highlands, but that is part of its...",
+      "url": "where-dunbartonshires-dark-stories/",
+      "image": "assets/images/Dunbartonshire_abd4f2-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-COUNTY-DURHAM",
+      "iso": "UK-HC-COUNTY-DURHAM",
+      "basename": "County_Durham_9c5285",
+      "county": "County Durham",
+      "mapName": "County Durham",
+      "label": "County Durham",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-durham",
+        "county durham",
+        "durham"
+      ],
+      "title": "Where Durham's Ghost Stories Still Gather",
+      "summary": "County Durham’s haunted reputation is strongest where old power still has stone walls around it: Durham Castle above Palace Green, Lumley Castle near...",
+      "url": "county-durham/",
+      "image": "assets/images/County_Durham_9c5285-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-EAST-LOTHIAN",
+      "iso": "UK-HC-EAST-LOTHIAN",
+      "basename": "East_Lothian_a7dd3d",
+      "county": "East Lothian",
+      "mapName": "East Lothian",
+      "label": "East Lothian",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-east-lothian",
+        "east lothian"
+      ],
+      "title": "Where East Lothian Feels Most Haunted",
+      "summary": "East Lothian’s haunted reputation is not built around one single famous ghost.",
+      "url": "where-east-lothian-feels-most-haunted/",
+      "image": "assets/images/East_Lothian_a7dd3d-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-GLAMORGAN",
+      "iso": "UK-HC-GLAMORGAN",
+      "basename": "Glamorgan_7b8978",
+      "county": "Glamorgan",
+      "mapName": "Glamorgan",
+      "label": "Glamorgan",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-glamorgan",
+        "glamorgan"
+      ],
+      "title": "Where Glamorgan's Ghost Stories Still Gather",
+      "summary": "Glamorgan’s haunted reputation comes from a strong mix of castle legends, roadside apparitions, phantom funerals, country-house ghost tours and late...",
+      "url": "where-glamorgans-ghost-stories-still/",
+      "image": "assets/images/Glamorgan_7b8978-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-HAMPSHIRE",
+      "iso": "UK-HC-HAMPSHIRE",
+      "basename": "Hampshire_5816c9",
+      "county": "Hampshire",
+      "mapName": "Hampshire",
+      "label": "Hampshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-hampshire",
+        "hampshire"
+      ],
+      "title": "Where Hampshire's Ghost Stories Still Gather",
+      "summary": "Hampshire’s haunted reputation is built less on one famous ghost than on a dense landscape of old ports, abbey ruins, forest roads, Tudor houses, military...",
+      "url": "where-hampshires-ghost-stories-still/",
+      "image": "assets/images/Hampshire_5816c9-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-HEREFORDSHIRE",
+      "iso": "UK-HC-HEREFORDSHIRE",
+      "basename": "Herefordshire_be57fe",
+      "county": "Herefordshire",
+      "mapName": "Herefordshire",
+      "label": "Herefordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-herefordshire",
+        "herefordshire"
+      ],
+      "title": "Where Herefordshire Keeps Its Ghost Stories",
+      "summary": "Herefordshire’s haunted reputation rests less on one headline ghost than on a dense pattern of local stories: castle legends on the Welsh border, old city...",
+      "url": "where-herefordshire-keeps-its-ghost/",
+      "image": "assets/images/Herefordshire_be57fe-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-MERIONETHSHIRE",
+      "iso": "UK-HC-MERIONETHSHIRE",
+      "basename": "Merionethshire_8af4e7",
+      "county": "Merionethshire",
+      "mapName": "Merionethshire",
+      "label": "Merionethshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-merionethshire",
+        "merionethshire"
+      ],
+      "title": "Where Merionethshire's Haunted Landscape Begins",
+      "summary": "Merionethshire’s haunted landscape is not best understood as a neat trail of confirmed “ghost sites”, but as a county of powerful places where history,...",
+      "url": "where-merionethshires-haunted-landscape/",
+      "image": "assets/images/Merionethshire_8af4e7-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-MIDLOTHIAN",
+      "iso": "UK-HC-MIDLOTHIAN",
+      "basename": "Midlothian_ff4e39",
+      "county": "Midlothian",
+      "mapName": "Midlothian",
+      "label": "Midlothian",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-midlothian",
+        "midlothian"
+      ],
+      "title": "Where Midlothian's Ghost Stories Gather",
+      "summary": "Midlothian’s haunted reputation is quieter than Edinburgh’s, but it is rich in the kind of stories that cling to old stone: a Grey Lady at Dalhousie Castle,...",
+      "url": "where-midlothians-ghost-stories-gather/",
+      "image": "assets/images/Midlothian_ff4e39-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-MORAYSHIRE",
+      "iso": "UK-HC-MORAYSHIRE",
+      "basename": "Morayshire_6abd28",
+      "county": "Morayshire",
+      "mapName": "Morayshire",
+      "label": "Morayshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-morayshire",
+        "morayshire"
+      ],
+      "title": "Where Morayshire's Ghost Stories Still Gather",
+      "summary": "Morayshire’s haunted history is quieter than the heavily marketed ghost trails of Edinburgh or the Highlands, but it has a strong cluster of eerie traditions...",
+      "url": "where-morayshires-ghost-stories-still/",
+      "image": "assets/images/Morayshire_6abd28-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-MIDDLESEX",
+      "iso": "UK-HC-MIDDLESEX",
+      "basename": "Middlesex_8498da",
+      "county": "Middlesex",
+      "mapName": "Middlesex",
+      "label": "Middlesex",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-middlesex",
+        "middlesex"
+      ],
+      "title": "Where Old Middlesex Still Feels Haunted",
+      "summary": "Middlesex is one of Britain’s oddest haunted counties to write about, because much of its old landscape is now mentally filed under “London”.",
+      "url": "where-old-middlesex-still-feels-haunted/",
+      "image": "assets/images/Middlesex_8498da-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-OXFORDSHIRE",
+      "iso": "UK-HC-OXFORDSHIRE",
+      "basename": "Oxfordshire_491609",
+      "county": "Oxfordshire",
+      "mapName": "Oxfordshire",
+      "label": "Oxfordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-oxfordshire",
+        "oxfordshire"
+      ],
+      "title": "Where Oxfordshire's Ghost Stories Still Gather",
+      "summary": "Oxfordshire’s haunted reputation rests on a striking mixture of places: Oxford Castle and its former prison, university libraries and college quadrangles,...",
+      "url": "where-oxfordshires-ghost-stories-still/",
+      "image": "assets/images/Oxfordshire_491609-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-PEEBLESSHIRE",
+      "iso": "UK-HC-PEEBLESSHIRE",
+      "basename": "Peeblesshire_4beb86",
+      "county": "Peeblesshire",
+      "mapName": "Peeblesshire",
+      "label": "Peeblesshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-peeblesshire",
+        "peeblesshire"
+      ],
+      "title": "Where Peeblesshire's Ghost Stories Still Linger",
+      "summary": "Peeblesshire’s haunted history is not a crowded catalogue of famous ghosts.",
+      "url": "where-peeblesshires-ghost-stories-still/",
+      "image": "assets/images/Peeblesshire_4beb86-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-PEMBROKESHIRE",
+      "iso": "UK-HC-PEMBROKESHIRE",
+      "basename": "Pembrokeshire_b220ff",
+      "county": "Pembrokeshire",
+      "mapName": "Pembrokeshire",
+      "label": "Pembrokeshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-pembrokeshire",
+        "pembrokeshire"
+      ],
+      "title": "Where Pembrokeshire's Ghost Stories Still Linger",
+      "summary": "Pembrokeshire’s haunted reputation is strongest where old stone, dangerous coast and family memory meet: Carew Castle with its White Lady and Barbary ape,...",
+      "url": "where-pembrokeshires-ghost-stories-still/",
+      "image": "assets/images/Pembrokeshire_b220ff-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-SOMERSET",
+      "iso": "UK-HC-SOMERSET",
+      "basename": "Somerset_24710f",
+      "county": "Somerset",
+      "mapName": "Somerset",
+      "label": "Somerset",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-somerset",
+        "somerset"
+      ],
+      "title": "Where Somerset Keeps Its Ghost Stories",
+      "summary": "Somerset’s haunted reputation is not built around one single “most haunted” site.",
+      "url": "where-somerset-keeps-its-ghost-stories/",
+      "image": "assets/images/Somerset_24710f-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-TYRONE",
+      "iso": "UK-HC-TYRONE",
+      "basename": "Tyrone_619a59",
+      "county": "Tyrone",
+      "mapName": "Tyrone",
+      "label": "Tyrone",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-tyrone",
+        "tyrone"
+      ],
+      "title": "Where Tyrone's Ghost Stories Still Gather",
+      "summary": "Tyrone’s haunted reputation is not built around one single famous castle or celebrity ghost.",
+      "url": "where-tyrones-ghost-stories-still-gather/",
+      "image": "assets/images/Tyrone_619a59-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-WEST-LOTHIAN",
+      "iso": "UK-HC-WEST-LOTHIAN",
+      "basename": "West_Lothian_1c9504",
+      "county": "West Lothian",
+      "mapName": "West Lothian",
+      "label": "West Lothian",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-west-lothian",
+        "west lothian"
+      ],
+      "title": "Where West Lothian's Ghost Stories Take Hold",
+      "summary": "West Lothian’s haunted history is not a single famous “most haunted county” story, but a tight cluster of royal ruins, prison castles, old estates, asylum...",
+      "url": "where-west-lothians-ghost-stories-take/",
+      "image": "assets/images/West_Lothian_1c9504-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-MONTGOMERYSHIRE",
+      "iso": "UK-HC-MONTGOMERYSHIRE",
+      "basename": "Montgomeryshire_1814c4",
+      "county": "Montgomeryshire",
+      "mapName": "Montgomeryshire",
+      "label": "Montgomeryshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-montgomeryshire",
+        "montgomeryshire"
+      ],
+      "title": "Which Montgomeryshire hauntings have the strongest...",
+      "summary": "Montgomeryshire’s haunted history is quieter and more rural than the heavily marketed ghost trails of some Welsh counties, but it has several strong strands:...",
+      "url": "which-montgomeryshire-hauntings-have-the/",
+      "image": "assets/images/Montgomeryshire_1814c4-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-ANGUS",
+      "iso": "UK-HC-ANGUS",
+      "basename": "Angus_34ab6d",
+      "county": "Angus",
+      "mapName": "Angus",
+      "label": "Angus",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-angus",
+        "angus"
+      ],
+      "title": "Why Angus Haunts Its Old Places",
+      "summary": "Angus has one great public-facing haunting at its centre: Glamis Castle, the turreted ancestral seat near Forfar that is repeatedly promoted as one of...",
+      "url": "why-angus-haunts-its-old-places/",
+      "image": "assets/images/Angus_34ab6d-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-FERMANAGH",
+      "iso": "UK-HC-FERMANAGH",
+      "basename": "Fermanagh_69251a",
+      "county": "Fermanagh",
+      "mapName": "Fermanagh",
+      "label": "Fermanagh",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-fermanagh",
+        "fermanagh"
+      ],
+      "title": "Why Do Fermanagh's Ghost Stories Linger?",
+      "summary": "Fermanagh’s haunted reputation is quieter than that of some larger counties, but it is unusually rich in one kind of story: the isolated house, the lake-edge...",
+      "url": "why-do-fermanaghs-ghost-stories-linger/",
+      "image": "assets/images/Fermanagh_69251a-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-KENT",
+      "iso": "UK-HC-KENT",
+      "basename": "Kent_4e168a",
+      "county": "Kent",
+      "mapName": "Kent",
+      "label": "Kent",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-kent",
+        "kent"
+      ],
+      "title": "Why Do Kent's Ghost Stories Still Linger?",
+      "summary": "Kent’s haunted reputation rests on a unusually rich mix of castles, tunnels, old roads, coastal towns, cathedral lanes and village folklore.",
+      "url": "why-do-kents-ghost-stories-still-linger/",
+      "image": "assets/images/Kent_4e168a-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-KINCARDINESHIRE",
+      "iso": "UK-HC-KINCARDINESHIRE",
+      "basename": "Kincardineshire_6f0ed9",
+      "county": "Kincardineshire",
+      "mapName": "Kincardineshire",
+      "label": "Kincardineshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-kincardineshire",
+        "kincardineshire"
+      ],
+      "title": "Why Do Kincardineshire's Castles Feel Haunted?",
+      "summary": "Kincardineshire’s haunted reputation rests less on a crowded catalogue of ghosts than on a few powerful places where landscape, violence, imprisonment and...",
+      "url": "why-do-kincardineshires-castles-feel/",
+      "image": "assets/images/Kincardineshire_6f0ed9-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-COUNTY-LONDONDERRY",
+      "iso": "UK-HC-COUNTY-LONDONDERRY",
+      "basename": "County_Londonderry_6c8609",
+      "county": "County Londonderry",
+      "mapName": "County Londonderry",
+      "label": "County Londonderry",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-londonderry",
+        "county londonderry",
+        "londonderry",
+        "derry"
+      ],
+      "title": "Why Do Londonderry's Old Places Feel Haunted?",
+      "summary": "County Londonderry’s haunted reputation is strongest where its history is already dramatic: the walled city of Derry, the ruined estates of the north coast,...",
+      "url": "county-londonderry/",
+      "image": "assets/images/County_Londonderry_6c8609-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-ANGLESEY",
+      "iso": "UK-HC-ANGLESEY",
+      "basename": "Anglesey_35202a",
+      "county": "Anglesey",
+      "mapName": "Anglesey",
+      "label": "Anglesey",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-anglesey",
+        "anglesey"
+      ],
+      "title": "Why Does Anglesey Feel So Haunted?",
+      "summary": "Anglesey’s haunted reputation is strongest where its landscape already feels charged: the unfinished walls of Beaumaris Castle, the cells of Beaumaris Gaol,...",
+      "url": "why-does-anglesey-feel-so-haunted/",
+      "image": "assets/images/Anglesey_35202a-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-ARGYLLSHIRE",
+      "iso": "UK-HC-ARGYLLSHIRE",
+      "basename": "Argyllshire_81dd43",
+      "county": "Argyllshire",
+      "mapName": "Argyllshire",
+      "label": "Argyllshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-argyllshire",
+        "argyllshire"
+      ],
+      "title": "Why Does Argyllshire Feel So Haunted?",
+      "summary": "Argyllshire’s haunted history is not a single tidy trail of famous “most haunted” attractions.",
+      "url": "why-does-argyllshire-feel-so-haunted/",
+      "image": "assets/images/Argyllshire_81dd43-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-COUNTY-ARMAGH",
+      "iso": "UK-HC-COUNTY-ARMAGH",
+      "basename": "County_Armagh_f58b12",
+      "county": "County Armagh",
+      "mapName": "County Armagh",
+      "label": "County Armagh",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-armagh",
+        "county armagh",
+        "armagh"
+      ],
+      "title": "Why Does Armagh Feel So Haunted?",
+      "summary": "County Armagh’s haunted reputation is quieter than that of some better-marketed “ghost counties”, but it is unusually layered: prison folklore at Armagh...",
+      "url": "county-armagh/",
+      "image": "assets/images/County_Armagh_f58b12-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-AYRSHIRE",
+      "iso": "UK-HC-AYRSHIRE",
+      "basename": "Ayrshire_8acdee",
+      "county": "Ayrshire",
+      "mapName": "Ayrshire",
+      "label": "Ayrshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-ayrshire",
+        "ayrshire"
+      ],
+      "title": "Why Does Ayrshire Feel So Haunted?",
+      "summary": "Ayrshire’s haunted reputation rests on an unusually strong mix of literary fame, castle folklore, witch-trial memory and coastal ruin.",
+      "url": "why-does-ayrshire-feel-so-haunted/",
+      "image": "assets/images/Ayrshire_8acdee-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-CAITHNESS",
+      "iso": "UK-HC-CAITHNESS",
+      "basename": "Caithness_d273a3",
+      "county": "Caithness",
+      "mapName": "Caithness",
+      "label": "Caithness",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-caithness",
+        "caithness"
+      ],
+      "title": "Why Does Caithness Feel So Haunted?",
+      "summary": "Caithness is one of Scotland’s most atmospheric haunted-history landscapes: a far northern historic county of sea-cliffs, ruined castles, brochs, graveyards,...",
+      "url": "why-does-caithness-feel-so-haunted/",
+      "image": "assets/images/Caithness_d273a3-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-DERBYSHIRE",
+      "iso": "UK-HC-DERBYSHIRE",
+      "basename": "Derbyshire_ebae69",
+      "county": "Derbyshire",
+      "mapName": "Derbyshire",
+      "label": "Derbyshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-derbyshire",
+        "derbyshire"
+      ],
+      "title": "Why Does Derbyshire Feel So Haunted?",
+      "summary": "Derbyshire’s haunted reputation rests on a unusually strong mix of places: a city with gaols, coaching inns and ghost walks; Peak District villages shaped by...",
+      "url": "why-does-derbyshire-feel-so-haunted/",
+      "image": "assets/images/Derbyshire_ebae69-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-DEVON",
+      "iso": "UK-HC-DEVON",
+      "basename": "Devon_a55796",
+      "county": "Devon",
+      "mapName": "Devon",
+      "label": "Devon",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-devon",
+        "devon"
+      ],
+      "title": "Why Does Devon Feel So Haunted?",
+      "summary": "Devon’s haunted reputation rests on a unusually rich mix of ruined castles, sea-facing manor houses, old inns, Dartmoor roads, monastic buildings, and...",
+      "url": "why-does-devon-feel-so-haunted/",
+      "image": "assets/images/Devon_a55796-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-FIFE",
+      "iso": "UK-HC-FIFE",
+      "basename": "Fife_ef689b",
+      "county": "Fife",
+      "mapName": "Fife",
+      "label": "Fife",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-fife",
+        "fife"
+      ],
+      "title": "Why Does Fife Feel So Haunted?",
+      "summary": "Fife’s haunted reputation is built less on one spectacular “most haunted” claim than on a chain of atmospheric places: ruined church towers at St Andrews,...",
+      "url": "why-does-fife-feel-so-haunted/",
+      "image": "assets/images/Fife_ef689b-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-HERTFORDSHIRE",
+      "iso": "UK-HC-HERTFORDSHIRE",
+      "basename": "Hertfordshire_38dc7a",
+      "county": "Hertfordshire",
+      "mapName": "Hertfordshire",
+      "label": "Hertfordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-hertfordshire",
+        "hertfordshire"
+      ],
+      "title": "Why Does Hertfordshire Feel So Haunted?",
+      "summary": "Hertfordshire’s haunted reputation is not built around one single castle or one neatly proved “most haunted” site.",
+      "url": "why-does-hertfordshire-feel-so-haunted/",
+      "image": "assets/images/Hertfordshire_38dc7a-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-INVERNESS-SHIRE",
+      "iso": "UK-HC-INVERNESS-SHIRE",
+      "basename": "Inverness-shire_f61896",
+      "county": "Inverness-shire",
+      "mapName": "Inverness-shire",
+      "label": "Inverness-shire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-inverness-shire",
+        "inverness shire"
+      ],
+      "title": "Why Does Inverness shire Feel So Haunted?",
+      "summary": "Inverness-shire is one of the richest haunted-history landscapes in Scotland, but its stories are not evenly spread.",
+      "url": "why-does-inverness-shire-feel-so-haunted/",
+      "image": "assets/images/Inverness-shire_f61896-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-KINROSS-SHIRE",
+      "iso": "UK-HC-KINROSS-SHIRE",
+      "basename": "Kinross-shire_c6236f",
+      "county": "Kinross-shire",
+      "mapName": "Kinross-shire",
+      "label": "Kinross-shire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-kinross-shire",
+        "kinross shire"
+      ],
+      "title": "Why Does Kinross shire Feel So Haunted?",
+      "summary": "Kinross-shire’s haunted reputation is quieter than that of Edinburgh, Glamis or the Highlands, but it has a concentrated eerie geography: a royal prison on...",
+      "url": "why-does-kinross-shire-feel-so-haunted/",
+      "image": "assets/images/Kinross-shire_c6236f-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-LANARKSHIRE",
+      "iso": "UK-HC-LANARKSHIRE",
+      "basename": "Lanarkshire_60db75",
+      "county": "Lanarkshire",
+      "mapName": "Lanarkshire",
+      "label": "Lanarkshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-lanarkshire",
+        "lanarkshire"
+      ],
+      "title": "Why Does Lanarkshire Feel So Haunted?",
+      "summary": "Lanarkshire’s haunted reputation is not built around one grand “most haunted” site so much as a chain of older stories clinging to the Clyde valley: a...",
+      "url": "why-does-lanarkshire-feel-so-haunted/",
+      "image": "assets/images/Lanarkshire_60db75-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-LANCASHIRE",
+      "iso": "UK-HC-LANCASHIRE",
+      "basename": "Lancashire_07656d",
+      "county": "Lancashire",
+      "mapName": "Lancashire",
+      "label": "Lancashire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-lancashire",
+        "lancashire"
+      ],
+      "title": "Why Does Lancashire Feel So Haunted?",
+      "summary": "Lancashire’s haunted reputation rests on three overlapping traditions: old houses with family legends, trial-and-prison sites tied to the 1612 Lancashire...",
+      "url": "why-does-lancashire-feel-so-haunted/",
+      "image": "assets/images/Lancashire_07656d-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-MONMOUTHSHIRE",
+      "iso": "UK-HC-MONMOUTHSHIRE",
+      "basename": "Monmouthshire_e09701",
+      "county": "Monmouthshire",
+      "mapName": "Monmouthshire",
+      "label": "Monmouthshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-monmouthshire",
+        "monmouthshire"
+      ],
+      "title": "Why Does Monmouthshire Feel So Haunted?",
+      "summary": "Monmouthshire’s haunted reputation is built less on one famous “county ghost” than on a chain of atmospheric places: border castles, old courtrooms, coaching...",
+      "url": "why-does-monmouthshire-feel-so-haunted/",
+      "image": "assets/images/Monmouthshire_e09701-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-NORFOLK",
+      "iso": "UK-HC-NORFOLK",
+      "basename": "Norfolk_72ff17",
+      "county": "Norfolk",
+      "mapName": "Norfolk",
+      "label": "Norfolk",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-norfolk",
+        "norfolk"
+      ],
+      "title": "Why Does Norfolk Feel So Haunted?",
+      "summary": "Norfolk’s haunted reputation rests on two different kinds of story.",
+      "url": "why-does-norfolk-feel-so-haunted/",
+      "image": "assets/images/Norfolk_72ff17-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-NORTHUMBERLAND",
+      "iso": "UK-HC-NORTHUMBERLAND",
+      "basename": "Northumberland_98885a",
+      "county": "Northumberland",
+      "mapName": "Northumberland",
+      "label": "Northumberland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-northumberland",
+        "northumberland"
+      ],
+      "title": "Why Does Northumberland Feel So Haunted?",
+      "summary": "Northumberland’s haunted reputation grows naturally out of its landscape: border castles, lonely moorland, tidal islands, ruined abbeys, old roads and...",
+      "url": "why-does-northumberland-feel-so-haunted/",
+      "image": "assets/images/Northumberland_98885a-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-NOTTINGHAMSHIRE",
+      "iso": "UK-HC-NOTTINGHAMSHIRE",
+      "basename": "Nottinghamshire_a5a895",
+      "county": "Nottinghamshire",
+      "mapName": "Nottinghamshire",
+      "label": "Nottinghamshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-nottinghamshire",
+        "nottinghamshire"
+      ],
+      "title": "Why Does Nottinghamshire Feel So Haunted?",
+      "summary": "Nottinghamshire’s haunted reputation rests less on one single famous ghost than on a dense cluster of places where history already feels close to the...",
+      "url": "why-does-nottinghamshire-feel-so-haunted/",
+      "image": "assets/images/Nottinghamshire_a5a895-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-ORKNEY",
+      "iso": "UK-HC-ORKNEY",
+      "basename": "Orkney_9ae683",
+      "county": "Orkney",
+      "mapName": "Orkney",
+      "label": "Orkney",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-orkney",
+        "orkney"
+      ],
+      "title": "Why Does Orkney Feel So Haunted?",
+      "summary": "Orkney’s haunted reputation is quieter than the castle-heavy ghost tourism of mainland Scotland, but it is unusually rich in older supernatural folklore.",
+      "url": "why-does-orkney-feel-so-haunted/",
+      "image": "assets/images/Orkney_9ae683-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-ROXBURGHSHIRE",
+      "iso": "UK-HC-ROXBURGHSHIRE",
+      "basename": "Roxburghshire_8333b2",
+      "county": "Roxburghshire",
+      "mapName": "Roxburghshire",
+      "label": "Roxburghshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-roxburghshire",
+        "roxburghshire"
+      ],
+      "title": "Why Does Roxburghshire Feel So Haunted?",
+      "summary": "Roxburghshire’s haunted reputation belongs less to tidy “ghost trail” marketing than to the older, rougher memory of the Border country: ruined strongholds,...",
+      "url": "why-does-roxburghshire-feel-so-haunted/",
+      "image": "assets/images/Roxburghshire_8333b2-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-SELKIRKSHIRE",
+      "iso": "UK-HC-SELKIRKSHIRE",
+      "basename": "Selkirkshire_8fd2aa",
+      "county": "Selkirkshire",
+      "mapName": "Selkirkshire",
+      "label": "Selkirkshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-selkirkshire",
+        "selkirkshire"
+      ],
+      "title": "Why Does Selkirkshire Feel So Haunted?",
+      "summary": "Selkirkshire’s haunted history is quieter than the headline-grabbing ghost tourism of Edinburgh or the great castles of the Highlands, but it is unusually...",
+      "url": "why-does-selkirkshire-feel-so-haunted/",
+      "image": "assets/images/Selkirkshire_8fd2aa-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-SHROPSHIRE",
+      "iso": "UK-HC-SHROPSHIRE",
+      "basename": "Shropshire_83e582",
+      "county": "Shropshire",
+      "mapName": "Shropshire",
+      "label": "Shropshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-shropshire",
+        "shropshire"
+      ],
+      "title": "Why Does Shropshire Feel So Haunted?",
+      "summary": "Shropshire’s haunted reputation comes from the way its ghost stories cling to very specific places: a ruined castle above Ludlow, a burned town hall at Wem,...",
+      "url": "why-does-shropshire-feel-so-haunted/",
+      "image": "assets/images/Shropshire_83e582-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-STAFFORDSHIRE",
+      "iso": "UK-HC-STAFFORDSHIRE",
+      "basename": "Staffordshire_e11f30",
+      "county": "Staffordshire",
+      "mapName": "Staffordshire",
+      "label": "Staffordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-staffordshire",
+        "staffordshire"
+      ],
+      "title": "Why Does Staffordshire Feel So Haunted?",
+      "summary": "Staffordshire’s haunted reputation is built less on one grand ghost story than on a chain of sharply local traditions: a nun in Tamworth Castle, Mary Queen...",
+      "url": "why-does-staffordshire-feel-so-haunted/",
+      "image": "assets/images/Staffordshire_e11f30-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-SUSSEX",
+      "iso": "UK-HC-SUSSEX",
+      "basename": "Sussex_0f32ec",
+      "county": "Sussex",
+      "mapName": "Sussex",
+      "label": "Sussex",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-sussex",
+        "east sussex",
+        "west sussex",
+        "sussex"
+      ],
+      "title": "Why Does Sussex Feel So Haunted?",
+      "summary": "Sussex has one of the richest haunted landscapes in southern England because its ghost stories cling to places that already feel historically charged: a...",
+      "url": "why-does-sussex-feel-so-haunted/",
+      "image": "assets/images/Sussex_0f32ec-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-SUTHERLAND",
+      "iso": "UK-HC-SUTHERLAND",
+      "basename": "Sutherland_6dbe51",
+      "county": "Sutherland",
+      "mapName": "Sutherland",
+      "label": "Sutherland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-sutherland",
+        "sutherland"
+      ],
+      "title": "Why Does Sutherland Feel So Haunted?",
+      "summary": "Sutherland’s haunted reputation is not built on one crowded ghost trail, but on distance: ruined castles beside dark lochs, empty beaches, old churchyards,...",
+      "url": "why-does-sutherland-feel-so-haunted/",
+      "image": "assets/images/Sutherland_6dbe51-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-WILTSHIRE",
+      "iso": "UK-HC-WILTSHIRE",
+      "basename": "Wiltshire_7b9f94",
+      "county": "Wiltshire",
+      "mapName": "Wiltshire",
+      "label": "Wiltshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-wiltshire",
+        "wiltshire"
+      ],
+      "title": "Why Does Wiltshire Feel So Haunted?",
+      "summary": "Wiltshire’s haunted reputation rests on an unusually strong mix of ancient landscape, Civil War memory, ruined castles, old inns, empty roads and villages...",
+      "url": "why-does-wiltshire-feel-so-haunted/",
+      "image": "assets/images/Wiltshire_7b9f94-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-DORSET",
+      "iso": "UK-HC-DORSET",
+      "basename": "Dorset_51e44a",
+      "county": "Dorset",
+      "mapName": "Dorset",
+      "label": "Dorset",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-dorset",
+        "dorset"
+      ],
+      "title": "Why Dorset Feels So Haunted",
+      "summary": "Dorset’s haunted reputation comes less from one famous “most haunted” site than from a dense pattern of stories attached to ruins, manor houses, roads,...",
+      "url": "why-dorset-feels-so-haunted/",
+      "image": "assets/images/Dorset_51e44a-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-YORKSHIRE",
+      "iso": "UK-HC-YORKSHIRE",
+      "basename": "Yorkshire_f09525",
+      "county": "Yorkshire",
+      "mapName": "Yorkshire",
+      "label": "Yorkshire",
+      "hideCode": true,
+      "mapAliases": [
+        "east riding of yorkshire",
+        "north yorkshire",
+        "south yorkshire",
+        "uk-hc-yorkshire",
+        "west yorkshire",
+        "yorkshire"
+      ],
+      "title": "Why Is Yorkshire So Full of Ghosts?",
+      "summary": "Yorkshire is one of Britain’s richest counties for ghost stories because its legends sit on unusually deep layers of history: Roman York, medieval...",
+      "url": "why-is-yorkshire-so-full-of-ghosts/",
+      "image": "assets/images/Yorkshire_f09525-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-NORTHAMPTONSHIRE",
+      "iso": "UK-HC-NORTHAMPTONSHIRE",
+      "basename": "Northamptonshire_ad0dee",
+      "county": "Northamptonshire",
+      "mapName": "Northamptonshire",
+      "label": "Northamptonshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-northamptonshire",
+        "northamptonshire"
+      ],
+      "title": "Why Northamptonshire Feels So Haunted",
+      "summary": "Northamptonshire’s haunted reputation is strongest where old buildings, battlefield memory and local storytelling meet: Delapré Abbey beside the Battle of...",
+      "url": "why-northamptonshire-feels-so-haunted/",
+      "image": "assets/images/Northamptonshire_ad0dee-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-SHETLAND",
+      "iso": "UK-HC-SHETLAND",
+      "basename": "Shetland_ce055c",
+      "county": "Shetland",
+      "mapName": "Shetland",
+      "label": "Shetland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-shetland",
+        "shetland"
+      ],
+      "title": "Why Shetland's Hauntings Feel So Different",
+      "summary": "Shetland’s haunted history is less a chain of polished castle ghost tales than a northern island web of ruined houses, old burial ground, sea danger,...",
+      "url": "why-shetlands-hauntings-feel-so/",
+      "image": "assets/images/Shetland_ce055c-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    }
+  ],
+  "counties": [
+    {
+      "id": "UK-HC-BUTESHIRE",
+      "iso": "UK-HC-BUTESHIRE",
+      "basename": "Buteshire_f23202",
+      "county": "Buteshire",
+      "mapName": "Buteshire",
+      "label": "Buteshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-buteshire",
+        "buteshire"
+      ],
+      "title": "What Haunts Buteshire's Island Castles?",
+      "summary": "Buteshire’s haunted history is best understood as an island folklore map rather than a single “most haunted county” story.",
+      "url": "what-haunts-buteshires-island-castles/",
+      "image": "assets/images/Buteshire_f23202-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-CARMARTHENSHIRE",
+      "iso": "UK-HC-CARMARTHENSHIRE",
+      "basename": "Carmarthenshire_0d1a35",
+      "county": "Carmarthenshire",
+      "mapName": "Carmarthenshire",
+      "label": "Carmarthenshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-carmarthenshire",
+        "carmarthenshire"
+      ],
+      "title": "What Haunts Carmarthenshire's Oldest Places?",
+      "summary": "Carmarthenshire is one of the richest haunted-history counties in Wales because its ghost stories grow out of very old ground: medieval castles, Tudor and...",
+      "url": "what-haunts-carmarthenshires-oldest/",
+      "image": "assets/images/Carmarthenshire_0d1a35-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-ESSEX",
+      "iso": "UK-HC-ESSEX",
+      "basename": "Essex_17957d",
+      "county": "Essex",
+      "mapName": "Essex",
+      "label": "Essex",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-essex",
+        "essex"
+      ],
+      "title": "What Haunts Essex's Old Roads and Ruins?",
+      "summary": "Essex is one of England’s richest counties for haunted history because its ghost stories sit on unusually varied ground: Roman Colchester, medieval abbeys,...",
+      "url": "what-haunts-essexs-old-roads-and-ruins/",
+      "image": "assets/images/Essex_17957d-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-FLINTSHIRE",
+      "iso": "UK-HC-FLINTSHIRE",
+      "basename": "Flintshire_823310",
+      "county": "Flintshire",
+      "mapName": "Flintshire",
+      "label": "Flintshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-flintshire",
+        "flintshire"
+      ],
+      "title": "What Haunts Flintshire's Borderland Stories?",
+      "summary": "Flintshire’s haunted reputation rests less on one single “great ghost” than on a cluster of borderland stories: a Jacobean mansion with a roadside woman in...",
+      "url": "what-haunts-flintshires-borderland/",
+      "image": "assets/images/Flintshire_823310-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-GLOUCESTERSHIRE",
+      "iso": "UK-HC-GLOUCESTERSHIRE",
+      "basename": "Gloucestershire_03cc40",
+      "county": "Gloucestershire",
+      "mapName": "Gloucestershire",
+      "label": "Gloucestershire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-gloucestershire",
+        "gloucestershire"
+      ],
+      "title": "What Haunts Gloucestershire's Oldest Stories?",
+      "summary": "Gloucestershire’s haunted reputation rests on a unusually rich mixture of medieval violence, monastic ruins, old inns, Cotswold villages, prison history and...",
+      "url": "what-haunts-gloucestershires-oldest/",
+      "image": "assets/images/Gloucestershire_03cc40-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-RENFREWSHIRE",
+      "iso": "UK-HC-RENFREWSHIRE",
+      "basename": "Renfrewshire_6a148e",
+      "county": "Renfrewshire",
+      "mapName": "Renfrewshire",
+      "label": "Renfrewshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-renfrewshire",
+        "renfrewshire"
+      ],
+      "title": "What Haunts Historic Renfrewshire?",
+      "summary": "Renfrewshire’s haunted reputation is quieter than that of Edinburgh or the Highland castles, but it has a distinctive darkness of its own: medieval abbey...",
+      "url": "what-haunts-historic-renfrewshire/",
+      "image": "assets/images/Renfrewshire_6a148e-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-HUNTINGDONSHIRE",
+      "iso": "UK-HC-HUNTINGDONSHIRE",
+      "basename": "Huntingdonshire_d54801",
+      "county": "Huntingdonshire",
+      "mapName": "Huntingdonshire",
+      "label": "Huntingdonshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-huntingdonshire",
+        "huntingdonshire"
+      ],
+      "title": "What Haunts Old Huntingdonshire?",
+      "summary": "Huntingdonshire has never been as famous for ghost stories as counties such as Yorkshire or Cornwall, yet it has developed a distinctive haunted reputation...",
+      "url": "what-haunts-old-huntingdonshire/",
+      "image": "assets/images/Huntingdonshire_d54801-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CLACKMANNANSHIRE",
+      "iso": "UK-HC-CLACKMANNANSHIRE",
+      "basename": "Clackmannanshire_a9d2bc",
+      "county": "Clackmannanshire",
+      "mapName": "Clackmannanshire",
+      "label": "Clackmannanshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-clackmannanshire",
+        "clackmannanshire"
+      ],
+      "title": "What Haunts Scotland's Wee County?",
+      "summary": "Clackmannanshire’s haunted history is not a long parade of famous ghosts.",
+      "url": "clackmannanshire/",
+      "image": "assets/images/Clackmannanshire_a9d2bc-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-ABERDEENSHIRE",
+      "iso": "UK-HC-ABERDEENSHIRE",
+      "basename": "Aberdeenshire_e04348",
+      "county": "Aberdeenshire",
+      "mapName": "Aberdeenshire",
+      "label": "Aberdeenshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-aberdeenshire",
+        "aberdeenshire"
+      ],
+      "title": "Where Aberdeenshire's Ghost Stories Still Gather",
+      "summary": "Aberdeenshire is one of Scotland’s richest areas for haunted-place storytelling: not because every tale is equally old or equally well evidenced, but because...",
+      "url": "where-aberdeenshires-ghost-stories-still/",
+      "image": "assets/images/Aberdeenshire_e04348-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-COUNTY-ANTRIM",
+      "iso": "UK-HC-COUNTY-ANTRIM",
+      "basename": "County_Antrim_405799",
+      "county": "County Antrim",
+      "mapName": "County Antrim",
+      "label": "County Antrim",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-antrim",
+        "county antrim",
+        "antrim"
+      ],
+      "title": "Where Antrim's Ghost Stories Take Hold",
+      "summary": "County Antrim’s haunted reputation is built less on one single “most haunted” place than on a chain of stories running from Belfast and Carrickfergus to...",
+      "url": "county-antrim/",
+      "image": "assets/images/County_Antrim_405799-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-BANFFSHIRE",
+      "iso": "UK-HC-BANFFSHIRE",
+      "basename": "Banffshire_c00f44",
+      "county": "Banffshire",
+      "mapName": "Banffshire",
+      "label": "Banffshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-banffshire",
+        "banffshire"
+      ],
+      "title": "Where Banffshire Keeps Its Ghost Stories",
+      "summary": "Banffshire’s haunted history is less a neat catalogue of “most haunted” tourist sites than a scattered north-east Scottish folklore landscape: ruined tower...",
+      "url": "where-banffshire-keeps-its-ghost-stories/",
+      "image": "assets/images/Banffshire_c00f44-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-BEDFORDSHIRE",
+      "iso": "UK-HC-BEDFORDSHIRE",
+      "basename": "Bedfordshire_5c5bc3",
+      "county": "Bedfordshire",
+      "mapName": "Bedfordshire",
+      "label": "Bedfordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-bedfordshire",
+        "bedfordshire"
+      ],
+      "title": "Where Bedfordshire's Ghost Stories Gather",
+      "summary": "Bedfordshire’s haunted reputation is quieter than that of some larger counties, but it has a distinctive character: ruined churches on ridges, old monastic...",
+      "url": "where-bedfordshires-ghost-stories-gather/",
+      "image": "assets/images/Bedfordshire_5c5bc3-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-BERKSHIRE",
+      "iso": "UK-HC-BERKSHIRE",
+      "basename": "Berkshire_fa6d4a",
+      "county": "Berkshire",
+      "mapName": "Berkshire",
+      "label": "Berkshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-berkshire",
+        "berkshire"
+      ],
+      "title": "Where Berkshire's Ghost Stories Still Linger",
+      "summary": "Berkshire’s haunted reputation is strongest where ordinary local history already feels charged: Windsor’s royal courts and forest, Reading’s ruined abbey,...",
+      "url": "where-berkshires-ghost-stories-still/",
+      "image": "assets/images/Berkshire_fa6d4a-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-BERWICKSHIRE",
+      "iso": "UK-HC-BERWICKSHIRE",
+      "basename": "Berwickshire_907858",
+      "county": "Berwickshire",
+      "mapName": "Berwickshire",
+      "label": "Berwickshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-berwickshire",
+        "berwickshire"
+      ],
+      "title": "Where Berwickshire's Ghost Stories Still Linger",
+      "summary": "Berwickshire’s haunted history is quieter than the famous ghost circuits of Edinburgh or Northumberland, but it has a distinctive Border character: ruined...",
+      "url": "where-berwickshires-ghost-stories-still/",
+      "image": "assets/images/Berwickshire_907858-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-BRECKNOCKSHIRE",
+      "iso": "UK-HC-BRECKNOCKSHIRE",
+      "basename": "Brecknockshire_d4a3d4",
+      "county": "Brecknockshire",
+      "mapName": "Brecknockshire",
+      "label": "Brecknockshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-brecknockshire",
+        "brecknockshire"
+      ],
+      "title": "Where Brecknockshire's Quiet Hauntings Begin",
+      "summary": "Brecknockshire’s haunted reputation is quieter than that of some Welsh counties, but it has a strong atmosphere: ruined Norman castles, mountain roads, old...",
+      "url": "where-brecknockshires-quiet-hauntings/",
+      "image": "assets/images/Brecknockshire_d4a3d4-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-BUCKINGHAMSHIRE",
+      "iso": "UK-HC-BUCKINGHAMSHIRE",
+      "basename": "Buckinghamshire_40b834",
+      "county": "Buckinghamshire",
+      "mapName": "Buckinghamshire",
+      "label": "Buckinghamshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-buckinghamshire",
+        "buckinghamshire"
+      ],
+      "title": "Where Buckinghamshire's Ghost Stories Still Gather",
+      "summary": "Buckinghamshire’s haunted reputation is not built around one single ruin or battlefield, but around a chain of old places where social history and local...",
+      "url": "where-buckinghamshires-ghost-stories/",
+      "image": "assets/images/Buckinghamshire_40b834-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CHESHIRE",
+      "iso": "UK-HC-CHESHIRE",
+      "basename": "Cheshire_f5f9e8",
+      "county": "Cheshire",
+      "mapName": "Cheshire",
+      "label": "Cheshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cheshire",
+        "cheshire"
+      ],
+      "title": "Where Cheshire's Ghost Stories Still Gather",
+      "summary": "Cheshire’s haunted reputation rests on a strong mix of old buildings, Civil War memory, country-house folklore and deliberately atmospheric tourism.",
+      "url": "where-cheshires-ghost-stories-still/",
+      "image": "assets/images/Cheshire_f5f9e8-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CORNWALL",
+      "iso": "UK-HC-CORNWALL",
+      "basename": "Cornwall_4c96d0",
+      "county": "Cornwall",
+      "mapName": "Cornwall",
+      "label": "Cornwall",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cornwall",
+        "cornwall"
+      ],
+      "title": "Where Cornwall's Ghost Stories Meet History",
+      "summary": "Cornwall’s haunted reputation grows from three things at once: a dramatic historic county almost surrounded by sea, a deep store of recorded folklore, and a...",
+      "url": "where-cornwalls-ghost-stories-meet/",
+      "image": "assets/images/Cornwall_4c96d0-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-COUNTY-DOWN",
+      "iso": "UK-HC-COUNTY-DOWN",
+      "basename": "County_Down_8f4eb4",
+      "county": "County Down",
+      "mapName": "County Down",
+      "label": "County Down",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-down",
+        "county down",
+        "down"
+      ],
+      "title": "Where County Down Keeps Its Ghosts",
+      "summary": "County Down’s haunted reputation is not built around one single famous “most haunted” attraction.",
+      "url": "where-county-down-keeps-its-ghosts/",
+      "image": "assets/images/County_Down_8f4eb4-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-CROMARTYSHIRE",
+      "iso": "UK-HC-CROMARTYSHIRE",
+      "basename": "Cromartyshire_1a46f2",
+      "county": "Cromartyshire",
+      "mapName": "Cromartyshire",
+      "label": "Cromartyshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cromartyshire",
+        "cromartyshire"
+      ],
+      "title": "Where Cromartyshire's Ghost Stories Still Gather",
+      "summary": "Cromartyshire is one of the most awkward historic counties to write about as a haunted landscape, because it was never a neat block of territory.",
+      "url": "where-cromartyshires-ghost-stories-still/",
+      "image": "assets/images/Cromartyshire_1a46f2-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-CUMBERLAND",
+      "iso": "UK-HC-CUMBERLAND",
+      "basename": "Cumberland_f993d3",
+      "county": "Cumberland",
+      "mapName": "Cumberland",
+      "label": "Cumberland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cumberland",
+        "cumberland"
+      ],
+      "title": "Where Cumberland Keeps Its Ghost Stories",
+      "summary": "Cumberland’s haunted reputation is strongest where its older history is most visible: Carlisle’s border fortress, Muncaster’s rooms and parkland at...",
+      "url": "where-cumberland-keeps-its-ghost-stories/",
+      "image": "assets/images/Cumberland_f993d3-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CAERNARFONSHIRE",
+      "iso": "UK-HC-CAERNARFONSHIRE",
+      "basename": "Caernarfonshire_667de6",
+      "county": "Caernarfonshire",
+      "mapName": "Caernarfonshire",
+      "label": "Caernarfonshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-caernarfonshire",
+        "caernarfonshire"
+      ],
+      "title": "Where Do Caernarfonshire's Ghost Stories Gather?",
+      "summary": "Caernarfonshire is one of Wales’s richest haunted-history landscapes: a historic county of castles, walled towns, mountain roads, slate country, old inns,...",
+      "url": "where-do-caernarfonshires-ghost-stories/",
+      "image": "assets/images/Caernarfonshire_667de6-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-KIRKCUDBRIGHTSHIRE",
+      "iso": "UK-HC-KIRKCUDBRIGHTSHIRE",
+      "basename": "Kirkcudbrightshire_97fbf2",
+      "county": "Kirkcudbrightshire",
+      "mapName": "Kirkcudbrightshire",
+      "label": "Kirkcudbrightshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-kirkcudbrightshire",
+        "kirkcudbrightshire"
+      ],
+      "title": "Where Do Kirkcudbrightshire's Ghost Stories Begin?",
+      "summary": "Kirkcudbrightshire’s haunted history is not dominated by one famous castle ghost, but by a handful of unusually vivid local traditions: the 1695 Ringcroft or...",
+      "url": "where-do-kirkcudbrightshires-ghost/",
+      "image": "assets/images/Kirkcudbrightshire_97fbf2-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-LINCOLNSHIRE",
+      "iso": "UK-HC-LINCOLNSHIRE",
+      "basename": "Lincolnshire_92cf52",
+      "county": "Lincolnshire",
+      "mapName": "Lincolnshire",
+      "label": "Lincolnshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-lincolnshire",
+        "lincolnshire"
+      ],
+      "title": "Where Do Lincolnshire's Ghost Stories Gather?",
+      "summary": "Lincolnshire’s haunted reputation is not built around one single “most haunted” site.",
+      "url": "where-do-lincolnshires-ghost-stories/",
+      "image": "assets/images/Lincolnshire_92cf52-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-NAIRNSHIRE",
+      "iso": "UK-HC-NAIRNSHIRE",
+      "basename": "Nairnshire_82a7a8",
+      "county": "Nairnshire",
+      "mapName": "Nairnshire",
+      "label": "Nairnshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-nairnshire",
+        "nairnshire"
+      ],
+      "title": "Where Do Nairnshire's Ghost Stories Begin?",
+      "summary": "Nairnshire is not one of Scotland’s loudest “haunted county” names, but that is part of its appeal.",
+      "url": "where-do-nairnshires-ghost-stories-begin/",
+      "image": "assets/images/Nairnshire_82a7a8-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-ROSS-SHIRE",
+      "iso": "UK-HC-ROSS-SHIRE",
+      "basename": "Ross-shire_c9caea",
+      "county": "Ross-shire",
+      "mapName": "Ross-shire",
+      "label": "Ross-shire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-ross-shire",
+        "ross shire"
+      ],
+      "title": "Where Do Ross shire's Ghost Stories Gather?",
+      "summary": "Ross-shire’s haunted reputation is quieter than that of Edinburgh, Glamis or the Borders, but it has a distinctive Highland character: castle corridors,...",
+      "url": "where-do-ross-shires-ghost-stories/",
+      "image": "assets/images/Ross-shire_c9caea-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-WARWICKSHIRE",
+      "iso": "UK-HC-WARWICKSHIRE",
+      "basename": "Warwickshire_17be07",
+      "county": "Warwickshire",
+      "mapName": "Warwickshire",
+      "label": "Warwickshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-warwickshire",
+        "warwickshire"
+      ],
+      "title": "Where Do Warwickshire's Ghost Stories Begin?",
+      "summary": "Warwickshire’s haunted reputation rests less on one single “most haunted” place than on a chain of stories running through castles, monastic houses,...",
+      "url": "where-do-warwickshires-ghost-stories/",
+      "image": "assets/images/Warwickshire_17be07-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CAMBRIDGESHIRE",
+      "iso": "UK-HC-CAMBRIDGESHIRE",
+      "basename": "Cambridgeshire_f74246",
+      "county": "Cambridgeshire",
+      "mapName": "Cambridgeshire",
+      "label": "Cambridgeshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cambridgeshire",
+        "cambridgeshire"
+      ],
+      "title": "Where Does Cambridgeshire's Haunted Memory Gather?",
+      "summary": "Cambridgeshire’s haunted reputation is built less on ruined castles and more on places where ordinary life pressed hard against history: college courts,...",
+      "url": "where-does-cambridgeshires-haunted/",
+      "image": "assets/images/Cambridgeshire_f74246-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-CARDIGANSHIRE",
+      "iso": "UK-HC-CARDIGANSHIRE",
+      "basename": "Cardiganshire_0418d7",
+      "county": "Cardiganshire",
+      "mapName": "Cardiganshire",
+      "label": "Cardiganshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-cardiganshire",
+        "cardiganshire"
+      ],
+      "title": "Where Does Cardiganshire's Haunted Story Begin?",
+      "summary": "Cardiganshire, now usually called Ceredigion in modern local government, is not one of Britain’s loudest “haunted county” destinations.",
+      "url": "where-does-cardiganshires-haunted-story/",
+      "image": "assets/images/Cardiganshire_0418d7-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-DUMFRIESSHIRE",
+      "iso": "UK-HC-DUMFRIESSHIRE",
+      "basename": "Dumfriesshire_3b4eaf",
+      "county": "Dumfriesshire",
+      "mapName": "Dumfriesshire",
+      "label": "Dumfriesshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-dumfriesshire",
+        "dumfriesshire"
+      ],
+      "title": "Where Does Dumfriesshire Feel Most Haunted?",
+      "summary": "Dumfriesshire’s haunted reputation is quieter than Edinburgh’s closes or the great Highland castles, but it has a strong local pattern of its own: border...",
+      "url": "where-does-dumfriesshire-feel-most/",
+      "image": "assets/images/Dumfriesshire_3b4eaf-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-DENBIGHSHIRE",
+      "iso": "UK-HC-DENBIGHSHIRE",
+      "basename": "Denbighshire_fc7d7c",
+      "county": "Denbighshire",
+      "mapName": "Denbighshire",
+      "label": "Denbighshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-denbighshire",
+        "denbighshire"
+      ],
+      "title": "Where Does Haunted Denbighshire Begin?",
+      "summary": "Denbighshire’s haunted history is best understood as a landscape of castle ruins, old prisons, timber-framed houses, abbey remains, moorland roads, and...",
+      "url": "where-does-haunted-denbighshire-begin/",
+      "image": "assets/images/Denbighshire_fc7d7c-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-PERTHSHIRE",
+      "iso": "UK-HC-PERTHSHIRE",
+      "basename": "Perthshire_258bcb",
+      "county": "Perthshire",
+      "mapName": "Perthshire",
+      "label": "Perthshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-perthshire",
+        "perthshire"
+      ],
+      "title": "Where Does Haunted Perthshire Really Begin?",
+      "summary": "Perthshire’s haunted reputation rests less on one famous ghost than on a spread of old stories attached to castles, battlefields, wells, inns and vanished...",
+      "url": "where-does-haunted-perthshire-really/",
+      "image": "assets/images/Perthshire_258bcb-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-WESTMORLAND",
+      "iso": "UK-HC-WESTMORLAND",
+      "basename": "Westmorland_dec0c1",
+      "county": "Westmorland",
+      "mapName": "Westmorland",
+      "label": "Westmorland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-westmorland",
+        "westmorland"
+      ],
+      "title": "Where Does Haunted Westmorland Really Begin?",
+      "summary": "Westmorland’s haunted history is quieter and more local than the famous ghost circuits of York, Edinburgh or the Tower of London.",
+      "url": "where-does-haunted-westmorland-really/",
+      "image": "assets/images/Westmorland_dec0c1-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-LEICESTERSHIRE",
+      "iso": "UK-HC-LEICESTERSHIRE",
+      "basename": "Leicestershire_f2eb49",
+      "county": "Leicestershire",
+      "mapName": "Leicestershire",
+      "label": "Leicestershire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-leicestershire",
+        "leicestershire"
+      ],
+      "title": "Where Does Leicestershire Feel Most Haunted?",
+      "summary": "Leicestershire’s haunted reputation rests less on one single “most haunted” site than on a dense cluster of stories: a white figure by the ruins of Grace...",
+      "url": "where-does-leicestershire-feel-most/",
+      "image": "assets/images/Leicestershire_f2eb49-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-RADNORSHIRE",
+      "iso": "UK-HC-RADNORSHIRE",
+      "basename": "Radnorshire_2d75e1",
+      "county": "Radnorshire",
+      "mapName": "Radnorshire",
+      "label": "Radnorshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-radnorshire",
+        "radnorshire"
+      ],
+      "title": "Where Does Radnorshire Feel Most Haunted?",
+      "summary": "Radnorshire’s haunted history is quieter than the famous ghost-trail counties of Wales, but that suits it.",
+      "url": "where-does-radnorshire-feel-most-haunted/",
+      "image": "assets/images/Radnorshire_2d75e1-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-RUTLAND",
+      "iso": "UK-HC-RUTLAND",
+      "basename": "Rutland_424243",
+      "county": "Rutland",
+      "mapName": "Rutland",
+      "label": "Rutland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-rutland",
+        "rutland"
+      ],
+      "title": "Where Does Rutland Hide Its Ghosts?",
+      "summary": "Rutland’s haunted history is quieter than that of counties famous for ruined abbeys, plague pits or theatrical ghost tours, but that is part of its character.",
+      "url": "where-does-rutland-hide-its-ghosts/",
+      "image": "assets/images/Rutland_424243-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-STIRLINGSHIRE",
+      "iso": "UK-HC-STIRLINGSHIRE",
+      "basename": "Stirlingshire_47078a",
+      "county": "Stirlingshire",
+      "mapName": "Stirlingshire",
+      "label": "Stirlingshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-stirlingshire",
+        "stirlingshire"
+      ],
+      "title": "Where Does Stirlingshire Feel Most Haunted?",
+      "summary": "Stirlingshire’s haunted reputation is strongest around Stirling itself: the castle on its volcanic crag, the old jail and Tolbooth streets beneath it, and...",
+      "url": "where-does-stirlingshire-feel-most/",
+      "image": "assets/images/Stirlingshire_47078a-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-SUFFOLK",
+      "iso": "UK-HC-SUFFOLK",
+      "basename": "Suffolk_831058",
+      "county": "Suffolk",
+      "mapName": "Suffolk",
+      "label": "Suffolk",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-suffolk",
+        "suffolk"
+      ],
+      "title": "Where Does Suffolk's Haunted Reputation Begin?",
+      "summary": "Suffolk’s haunted reputation is strongest where old roads, ruined religious houses, coastal loss and market-town memory overlap.",
+      "url": "where-does-suffolks-haunted-reputation/",
+      "image": "assets/images/Suffolk_831058-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-SURREY",
+      "iso": "UK-HC-SURREY",
+      "basename": "Surrey_aeac76",
+      "county": "Surrey",
+      "mapName": "Surrey",
+      "label": "Surrey",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-surrey",
+        "surrey"
+      ],
+      "title": "Where Does Surrey's Haunted Reputation Begin?",
+      "summary": "Surrey’s haunted reputation is less about one grand “most haunted” site and more about a chain of stories tied to old roads, ruined religious houses, Tudor...",
+      "url": "where-does-surreys-haunted-reputation/",
+      "image": "assets/images/Surrey_aeac76-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-WIGTOWNSHIRE",
+      "iso": "UK-HC-WIGTOWNSHIRE",
+      "basename": "Wigtownshire_1186ed",
+      "county": "Wigtownshire",
+      "mapName": "Wigtownshire",
+      "label": "Wigtownshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-wigtownshire",
+        "wigtownshire"
+      ],
+      "title": "Where Does Wigtownshire Feel Most Haunted?",
+      "summary": "Wigtownshire’s haunted reputation is quieter than that of Edinburgh, Glencoe, or the better-advertised castles of the Highlands, but it has a distinct...",
+      "url": "where-does-wigtownshire-feel-most/",
+      "image": "assets/images/Wigtownshire_1186ed-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-WORCESTERSHIRE",
+      "iso": "UK-HC-WORCESTERSHIRE",
+      "basename": "Worcestershire_9671d5",
+      "county": "Worcestershire",
+      "mapName": "Worcestershire",
+      "label": "Worcestershire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-worcestershire",
+        "worcestershire"
+      ],
+      "title": "Where Does Worcestershire Keep Its Ghosts?",
+      "summary": "Worcestershire’s haunted reputation is strongest where old buildings, Civil War memory, recusant Catholic history, ruined estates, coaching roads and village...",
+      "url": "where-does-worcestershire-keep-its/",
+      "image": "assets/images/Worcestershire_9671d5-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-DUNBARTONSHIRE",
+      "iso": "UK-HC-DUNBARTONSHIRE",
+      "basename": "Dunbartonshire_abd4f2",
+      "county": "Dunbartonshire",
+      "mapName": "Dunbartonshire",
+      "label": "Dunbartonshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-dunbartonshire",
+        "dunbartonshire"
+      ],
+      "title": "Where Dunbartonshire's Dark Stories Gather",
+      "summary": "Dunbartonshire’s haunted reputation is quieter and more fragmented than the better-packaged ghost lore of Edinburgh or the Highlands, but that is part of its...",
+      "url": "where-dunbartonshires-dark-stories/",
+      "image": "assets/images/Dunbartonshire_abd4f2-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-COUNTY-DURHAM",
+      "iso": "UK-HC-COUNTY-DURHAM",
+      "basename": "County_Durham_9c5285",
+      "county": "County Durham",
+      "mapName": "County Durham",
+      "label": "County Durham",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-durham",
+        "county durham",
+        "durham"
+      ],
+      "title": "Where Durham's Ghost Stories Still Gather",
+      "summary": "County Durham’s haunted reputation is strongest where old power still has stone walls around it: Durham Castle above Palace Green, Lumley Castle near...",
+      "url": "county-durham/",
+      "image": "assets/images/County_Durham_9c5285-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-EAST-LOTHIAN",
+      "iso": "UK-HC-EAST-LOTHIAN",
+      "basename": "East_Lothian_a7dd3d",
+      "county": "East Lothian",
+      "mapName": "East Lothian",
+      "label": "East Lothian",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-east-lothian",
+        "east lothian"
+      ],
+      "title": "Where East Lothian Feels Most Haunted",
+      "summary": "East Lothian’s haunted reputation is not built around one single famous ghost.",
+      "url": "where-east-lothian-feels-most-haunted/",
+      "image": "assets/images/East_Lothian_a7dd3d-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-GLAMORGAN",
+      "iso": "UK-HC-GLAMORGAN",
+      "basename": "Glamorgan_7b8978",
+      "county": "Glamorgan",
+      "mapName": "Glamorgan",
+      "label": "Glamorgan",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-glamorgan",
+        "glamorgan"
+      ],
+      "title": "Where Glamorgan's Ghost Stories Still Gather",
+      "summary": "Glamorgan’s haunted reputation comes from a strong mix of castle legends, roadside apparitions, phantom funerals, country-house ghost tours and late...",
+      "url": "where-glamorgans-ghost-stories-still/",
+      "image": "assets/images/Glamorgan_7b8978-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-HAMPSHIRE",
+      "iso": "UK-HC-HAMPSHIRE",
+      "basename": "Hampshire_5816c9",
+      "county": "Hampshire",
+      "mapName": "Hampshire",
+      "label": "Hampshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-hampshire",
+        "hampshire"
+      ],
+      "title": "Where Hampshire's Ghost Stories Still Gather",
+      "summary": "Hampshire’s haunted reputation is built less on one famous ghost than on a dense landscape of old ports, abbey ruins, forest roads, Tudor houses, military...",
+      "url": "where-hampshires-ghost-stories-still/",
+      "image": "assets/images/Hampshire_5816c9-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-HEREFORDSHIRE",
+      "iso": "UK-HC-HEREFORDSHIRE",
+      "basename": "Herefordshire_be57fe",
+      "county": "Herefordshire",
+      "mapName": "Herefordshire",
+      "label": "Herefordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-herefordshire",
+        "herefordshire"
+      ],
+      "title": "Where Herefordshire Keeps Its Ghost Stories",
+      "summary": "Herefordshire’s haunted reputation rests less on one headline ghost than on a dense pattern of local stories: castle legends on the Welsh border, old city...",
+      "url": "where-herefordshire-keeps-its-ghost/",
+      "image": "assets/images/Herefordshire_be57fe-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-MERIONETHSHIRE",
+      "iso": "UK-HC-MERIONETHSHIRE",
+      "basename": "Merionethshire_8af4e7",
+      "county": "Merionethshire",
+      "mapName": "Merionethshire",
+      "label": "Merionethshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-merionethshire",
+        "merionethshire"
+      ],
+      "title": "Where Merionethshire's Haunted Landscape Begins",
+      "summary": "Merionethshire’s haunted landscape is not best understood as a neat trail of confirmed “ghost sites”, but as a county of powerful places where history,...",
+      "url": "where-merionethshires-haunted-landscape/",
+      "image": "assets/images/Merionethshire_8af4e7-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-MIDLOTHIAN",
+      "iso": "UK-HC-MIDLOTHIAN",
+      "basename": "Midlothian_ff4e39",
+      "county": "Midlothian",
+      "mapName": "Midlothian",
+      "label": "Midlothian",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-midlothian",
+        "midlothian"
+      ],
+      "title": "Where Midlothian's Ghost Stories Gather",
+      "summary": "Midlothian’s haunted reputation is quieter than Edinburgh’s, but it is rich in the kind of stories that cling to old stone: a Grey Lady at Dalhousie Castle,...",
+      "url": "where-midlothians-ghost-stories-gather/",
+      "image": "assets/images/Midlothian_ff4e39-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-MORAYSHIRE",
+      "iso": "UK-HC-MORAYSHIRE",
+      "basename": "Morayshire_6abd28",
+      "county": "Morayshire",
+      "mapName": "Morayshire",
+      "label": "Morayshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-morayshire",
+        "morayshire"
+      ],
+      "title": "Where Morayshire's Ghost Stories Still Gather",
+      "summary": "Morayshire’s haunted history is quieter than the heavily marketed ghost trails of Edinburgh or the Highlands, but it has a strong cluster of eerie traditions...",
+      "url": "where-morayshires-ghost-stories-still/",
+      "image": "assets/images/Morayshire_6abd28-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-MIDDLESEX",
+      "iso": "UK-HC-MIDDLESEX",
+      "basename": "Middlesex_8498da",
+      "county": "Middlesex",
+      "mapName": "Middlesex",
+      "label": "Middlesex",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-middlesex",
+        "middlesex"
+      ],
+      "title": "Where Old Middlesex Still Feels Haunted",
+      "summary": "Middlesex is one of Britain’s oddest haunted counties to write about, because much of its old landscape is now mentally filed under “London”.",
+      "url": "where-old-middlesex-still-feels-haunted/",
+      "image": "assets/images/Middlesex_8498da-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-OXFORDSHIRE",
+      "iso": "UK-HC-OXFORDSHIRE",
+      "basename": "Oxfordshire_491609",
+      "county": "Oxfordshire",
+      "mapName": "Oxfordshire",
+      "label": "Oxfordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-oxfordshire",
+        "oxfordshire"
+      ],
+      "title": "Where Oxfordshire's Ghost Stories Still Gather",
+      "summary": "Oxfordshire’s haunted reputation rests on a striking mixture of places: Oxford Castle and its former prison, university libraries and college quadrangles,...",
+      "url": "where-oxfordshires-ghost-stories-still/",
+      "image": "assets/images/Oxfordshire_491609-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-PEEBLESSHIRE",
+      "iso": "UK-HC-PEEBLESSHIRE",
+      "basename": "Peeblesshire_4beb86",
+      "county": "Peeblesshire",
+      "mapName": "Peeblesshire",
+      "label": "Peeblesshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-peeblesshire",
+        "peeblesshire"
+      ],
+      "title": "Where Peeblesshire's Ghost Stories Still Linger",
+      "summary": "Peeblesshire’s haunted history is not a crowded catalogue of famous ghosts.",
+      "url": "where-peeblesshires-ghost-stories-still/",
+      "image": "assets/images/Peeblesshire_4beb86-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-PEMBROKESHIRE",
+      "iso": "UK-HC-PEMBROKESHIRE",
+      "basename": "Pembrokeshire_b220ff",
+      "county": "Pembrokeshire",
+      "mapName": "Pembrokeshire",
+      "label": "Pembrokeshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-pembrokeshire",
+        "pembrokeshire"
+      ],
+      "title": "Where Pembrokeshire's Ghost Stories Still Linger",
+      "summary": "Pembrokeshire’s haunted reputation is strongest where old stone, dangerous coast and family memory meet: Carew Castle with its White Lady and Barbary ape,...",
+      "url": "where-pembrokeshires-ghost-stories-still/",
+      "image": "assets/images/Pembrokeshire_b220ff-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-SOMERSET",
+      "iso": "UK-HC-SOMERSET",
+      "basename": "Somerset_24710f",
+      "county": "Somerset",
+      "mapName": "Somerset",
+      "label": "Somerset",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-somerset",
+        "somerset"
+      ],
+      "title": "Where Somerset Keeps Its Ghost Stories",
+      "summary": "Somerset’s haunted reputation is not built around one single “most haunted” site.",
+      "url": "where-somerset-keeps-its-ghost-stories/",
+      "image": "assets/images/Somerset_24710f-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-TYRONE",
+      "iso": "UK-HC-TYRONE",
+      "basename": "Tyrone_619a59",
+      "county": "Tyrone",
+      "mapName": "Tyrone",
+      "label": "Tyrone",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-tyrone",
+        "tyrone"
+      ],
+      "title": "Where Tyrone's Ghost Stories Still Gather",
+      "summary": "Tyrone’s haunted reputation is not built around one single famous castle or celebrity ghost.",
+      "url": "where-tyrones-ghost-stories-still-gather/",
+      "image": "assets/images/Tyrone_619a59-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-WEST-LOTHIAN",
+      "iso": "UK-HC-WEST-LOTHIAN",
+      "basename": "West_Lothian_1c9504",
+      "county": "West Lothian",
+      "mapName": "West Lothian",
+      "label": "West Lothian",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-west-lothian",
+        "west lothian"
+      ],
+      "title": "Where West Lothian's Ghost Stories Take Hold",
+      "summary": "West Lothian’s haunted history is not a single famous “most haunted county” story, but a tight cluster of royal ruins, prison castles, old estates, asylum...",
+      "url": "where-west-lothians-ghost-stories-take/",
+      "image": "assets/images/West_Lothian_1c9504-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-MONTGOMERYSHIRE",
+      "iso": "UK-HC-MONTGOMERYSHIRE",
+      "basename": "Montgomeryshire_1814c4",
+      "county": "Montgomeryshire",
+      "mapName": "Montgomeryshire",
+      "label": "Montgomeryshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-montgomeryshire",
+        "montgomeryshire"
+      ],
+      "title": "Which Montgomeryshire hauntings have the strongest...",
+      "summary": "Montgomeryshire’s haunted history is quieter and more rural than the heavily marketed ghost trails of some Welsh counties, but it has several strong strands:...",
+      "url": "which-montgomeryshire-hauntings-have-the/",
+      "image": "assets/images/Montgomeryshire_1814c4-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-ANGUS",
+      "iso": "UK-HC-ANGUS",
+      "basename": "Angus_34ab6d",
+      "county": "Angus",
+      "mapName": "Angus",
+      "label": "Angus",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-angus",
+        "angus"
+      ],
+      "title": "Why Angus Haunts Its Old Places",
+      "summary": "Angus has one great public-facing haunting at its centre: Glamis Castle, the turreted ancestral seat near Forfar that is repeatedly promoted as one of...",
+      "url": "why-angus-haunts-its-old-places/",
+      "image": "assets/images/Angus_34ab6d-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-FERMANAGH",
+      "iso": "UK-HC-FERMANAGH",
+      "basename": "Fermanagh_69251a",
+      "county": "Fermanagh",
+      "mapName": "Fermanagh",
+      "label": "Fermanagh",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-fermanagh",
+        "fermanagh"
+      ],
+      "title": "Why Do Fermanagh's Ghost Stories Linger?",
+      "summary": "Fermanagh’s haunted reputation is quieter than that of some larger counties, but it is unusually rich in one kind of story: the isolated house, the lake-edge...",
+      "url": "why-do-fermanaghs-ghost-stories-linger/",
+      "image": "assets/images/Fermanagh_69251a-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-KENT",
+      "iso": "UK-HC-KENT",
+      "basename": "Kent_4e168a",
+      "county": "Kent",
+      "mapName": "Kent",
+      "label": "Kent",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-kent",
+        "kent"
+      ],
+      "title": "Why Do Kent's Ghost Stories Still Linger?",
+      "summary": "Kent’s haunted reputation rests on a unusually rich mix of castles, tunnels, old roads, coastal towns, cathedral lanes and village folklore.",
+      "url": "why-do-kents-ghost-stories-still-linger/",
+      "image": "assets/images/Kent_4e168a-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-KINCARDINESHIRE",
+      "iso": "UK-HC-KINCARDINESHIRE",
+      "basename": "Kincardineshire_6f0ed9",
+      "county": "Kincardineshire",
+      "mapName": "Kincardineshire",
+      "label": "Kincardineshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-kincardineshire",
+        "kincardineshire"
+      ],
+      "title": "Why Do Kincardineshire's Castles Feel Haunted?",
+      "summary": "Kincardineshire’s haunted reputation rests less on a crowded catalogue of ghosts than on a few powerful places where landscape, violence, imprisonment and...",
+      "url": "why-do-kincardineshires-castles-feel/",
+      "image": "assets/images/Kincardineshire_6f0ed9-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-COUNTY-LONDONDERRY",
+      "iso": "UK-HC-COUNTY-LONDONDERRY",
+      "basename": "County_Londonderry_6c8609",
+      "county": "County Londonderry",
+      "mapName": "County Londonderry",
+      "label": "County Londonderry",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-londonderry",
+        "county londonderry",
+        "londonderry",
+        "derry"
+      ],
+      "title": "Why Do Londonderry's Old Places Feel Haunted?",
+      "summary": "County Londonderry’s haunted reputation is strongest where its history is already dramatic: the walled city of Derry, the ruined estates of the north coast,...",
+      "url": "county-londonderry/",
+      "image": "assets/images/County_Londonderry_6c8609-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-ANGLESEY",
+      "iso": "UK-HC-ANGLESEY",
+      "basename": "Anglesey_35202a",
+      "county": "Anglesey",
+      "mapName": "Anglesey",
+      "label": "Anglesey",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-anglesey",
+        "anglesey"
+      ],
+      "title": "Why Does Anglesey Feel So Haunted?",
+      "summary": "Anglesey’s haunted reputation is strongest where its landscape already feels charged: the unfinished walls of Beaumaris Castle, the cells of Beaumaris Gaol,...",
+      "url": "why-does-anglesey-feel-so-haunted/",
+      "image": "assets/images/Anglesey_35202a-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-ARGYLLSHIRE",
+      "iso": "UK-HC-ARGYLLSHIRE",
+      "basename": "Argyllshire_81dd43",
+      "county": "Argyllshire",
+      "mapName": "Argyllshire",
+      "label": "Argyllshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-argyllshire",
+        "argyllshire"
+      ],
+      "title": "Why Does Argyllshire Feel So Haunted?",
+      "summary": "Argyllshire’s haunted history is not a single tidy trail of famous “most haunted” attractions.",
+      "url": "why-does-argyllshire-feel-so-haunted/",
+      "image": "assets/images/Argyllshire_81dd43-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-COUNTY-ARMAGH",
+      "iso": "UK-HC-COUNTY-ARMAGH",
+      "basename": "County_Armagh_f58b12",
+      "county": "County Armagh",
+      "mapName": "County Armagh",
+      "label": "County Armagh",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-county-armagh",
+        "county armagh",
+        "armagh"
+      ],
+      "title": "Why Does Armagh Feel So Haunted?",
+      "summary": "County Armagh’s haunted reputation is quieter than that of some better-marketed “ghost counties”, but it is unusually layered: prison folklore at Armagh...",
+      "url": "county-armagh/",
+      "image": "assets/images/County_Armagh_f58b12-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Northern Ireland"
+    },
+    {
+      "id": "UK-HC-AYRSHIRE",
+      "iso": "UK-HC-AYRSHIRE",
+      "basename": "Ayrshire_8acdee",
+      "county": "Ayrshire",
+      "mapName": "Ayrshire",
+      "label": "Ayrshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-ayrshire",
+        "ayrshire"
+      ],
+      "title": "Why Does Ayrshire Feel So Haunted?",
+      "summary": "Ayrshire’s haunted reputation rests on an unusually strong mix of literary fame, castle folklore, witch-trial memory and coastal ruin.",
+      "url": "why-does-ayrshire-feel-so-haunted/",
+      "image": "assets/images/Ayrshire_8acdee-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-CAITHNESS",
+      "iso": "UK-HC-CAITHNESS",
+      "basename": "Caithness_d273a3",
+      "county": "Caithness",
+      "mapName": "Caithness",
+      "label": "Caithness",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-caithness",
+        "caithness"
+      ],
+      "title": "Why Does Caithness Feel So Haunted?",
+      "summary": "Caithness is one of Scotland’s most atmospheric haunted-history landscapes: a far northern historic county of sea-cliffs, ruined castles, brochs, graveyards,...",
+      "url": "why-does-caithness-feel-so-haunted/",
+      "image": "assets/images/Caithness_d273a3-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-DERBYSHIRE",
+      "iso": "UK-HC-DERBYSHIRE",
+      "basename": "Derbyshire_ebae69",
+      "county": "Derbyshire",
+      "mapName": "Derbyshire",
+      "label": "Derbyshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-derbyshire",
+        "derbyshire"
+      ],
+      "title": "Why Does Derbyshire Feel So Haunted?",
+      "summary": "Derbyshire’s haunted reputation rests on a unusually strong mix of places: a city with gaols, coaching inns and ghost walks; Peak District villages shaped by...",
+      "url": "why-does-derbyshire-feel-so-haunted/",
+      "image": "assets/images/Derbyshire_ebae69-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-DEVON",
+      "iso": "UK-HC-DEVON",
+      "basename": "Devon_a55796",
+      "county": "Devon",
+      "mapName": "Devon",
+      "label": "Devon",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-devon",
+        "devon"
+      ],
+      "title": "Why Does Devon Feel So Haunted?",
+      "summary": "Devon’s haunted reputation rests on a unusually rich mix of ruined castles, sea-facing manor houses, old inns, Dartmoor roads, monastic buildings, and...",
+      "url": "why-does-devon-feel-so-haunted/",
+      "image": "assets/images/Devon_a55796-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-FIFE",
+      "iso": "UK-HC-FIFE",
+      "basename": "Fife_ef689b",
+      "county": "Fife",
+      "mapName": "Fife",
+      "label": "Fife",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-fife",
+        "fife"
+      ],
+      "title": "Why Does Fife Feel So Haunted?",
+      "summary": "Fife’s haunted reputation is built less on one spectacular “most haunted” claim than on a chain of atmospheric places: ruined church towers at St Andrews,...",
+      "url": "why-does-fife-feel-so-haunted/",
+      "image": "assets/images/Fife_ef689b-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-HERTFORDSHIRE",
+      "iso": "UK-HC-HERTFORDSHIRE",
+      "basename": "Hertfordshire_38dc7a",
+      "county": "Hertfordshire",
+      "mapName": "Hertfordshire",
+      "label": "Hertfordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-hertfordshire",
+        "hertfordshire"
+      ],
+      "title": "Why Does Hertfordshire Feel So Haunted?",
+      "summary": "Hertfordshire’s haunted reputation is not built around one single castle or one neatly proved “most haunted” site.",
+      "url": "why-does-hertfordshire-feel-so-haunted/",
+      "image": "assets/images/Hertfordshire_38dc7a-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-INVERNESS-SHIRE",
+      "iso": "UK-HC-INVERNESS-SHIRE",
+      "basename": "Inverness-shire_f61896",
+      "county": "Inverness-shire",
+      "mapName": "Inverness-shire",
+      "label": "Inverness-shire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-inverness-shire",
+        "inverness shire"
+      ],
+      "title": "Why Does Inverness shire Feel So Haunted?",
+      "summary": "Inverness-shire is one of the richest haunted-history landscapes in Scotland, but its stories are not evenly spread.",
+      "url": "why-does-inverness-shire-feel-so-haunted/",
+      "image": "assets/images/Inverness-shire_f61896-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-KINROSS-SHIRE",
+      "iso": "UK-HC-KINROSS-SHIRE",
+      "basename": "Kinross-shire_c6236f",
+      "county": "Kinross-shire",
+      "mapName": "Kinross-shire",
+      "label": "Kinross-shire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-kinross-shire",
+        "kinross shire"
+      ],
+      "title": "Why Does Kinross shire Feel So Haunted?",
+      "summary": "Kinross-shire’s haunted reputation is quieter than that of Edinburgh, Glamis or the Highlands, but it has a concentrated eerie geography: a royal prison on...",
+      "url": "why-does-kinross-shire-feel-so-haunted/",
+      "image": "assets/images/Kinross-shire_c6236f-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-LANARKSHIRE",
+      "iso": "UK-HC-LANARKSHIRE",
+      "basename": "Lanarkshire_60db75",
+      "county": "Lanarkshire",
+      "mapName": "Lanarkshire",
+      "label": "Lanarkshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-lanarkshire",
+        "lanarkshire"
+      ],
+      "title": "Why Does Lanarkshire Feel So Haunted?",
+      "summary": "Lanarkshire’s haunted reputation is not built around one grand “most haunted” site so much as a chain of older stories clinging to the Clyde valley: a...",
+      "url": "why-does-lanarkshire-feel-so-haunted/",
+      "image": "assets/images/Lanarkshire_60db75-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-LANCASHIRE",
+      "iso": "UK-HC-LANCASHIRE",
+      "basename": "Lancashire_07656d",
+      "county": "Lancashire",
+      "mapName": "Lancashire",
+      "label": "Lancashire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-lancashire",
+        "lancashire"
+      ],
+      "title": "Why Does Lancashire Feel So Haunted?",
+      "summary": "Lancashire’s haunted reputation rests on three overlapping traditions: old houses with family legends, trial-and-prison sites tied to the 1612 Lancashire...",
+      "url": "why-does-lancashire-feel-so-haunted/",
+      "image": "assets/images/Lancashire_07656d-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-MONMOUTHSHIRE",
+      "iso": "UK-HC-MONMOUTHSHIRE",
+      "basename": "Monmouthshire_e09701",
+      "county": "Monmouthshire",
+      "mapName": "Monmouthshire",
+      "label": "Monmouthshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-monmouthshire",
+        "monmouthshire"
+      ],
+      "title": "Why Does Monmouthshire Feel So Haunted?",
+      "summary": "Monmouthshire’s haunted reputation is built less on one famous “county ghost” than on a chain of atmospheric places: border castles, old courtrooms, coaching...",
+      "url": "why-does-monmouthshire-feel-so-haunted/",
+      "image": "assets/images/Monmouthshire_e09701-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Wales"
+    },
+    {
+      "id": "UK-HC-NORFOLK",
+      "iso": "UK-HC-NORFOLK",
+      "basename": "Norfolk_72ff17",
+      "county": "Norfolk",
+      "mapName": "Norfolk",
+      "label": "Norfolk",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-norfolk",
+        "norfolk"
+      ],
+      "title": "Why Does Norfolk Feel So Haunted?",
+      "summary": "Norfolk’s haunted reputation rests on two different kinds of story.",
+      "url": "why-does-norfolk-feel-so-haunted/",
+      "image": "assets/images/Norfolk_72ff17-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-NORTHUMBERLAND",
+      "iso": "UK-HC-NORTHUMBERLAND",
+      "basename": "Northumberland_98885a",
+      "county": "Northumberland",
+      "mapName": "Northumberland",
+      "label": "Northumberland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-northumberland",
+        "northumberland"
+      ],
+      "title": "Why Does Northumberland Feel So Haunted?",
+      "summary": "Northumberland’s haunted reputation grows naturally out of its landscape: border castles, lonely moorland, tidal islands, ruined abbeys, old roads and...",
+      "url": "why-does-northumberland-feel-so-haunted/",
+      "image": "assets/images/Northumberland_98885a-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-NOTTINGHAMSHIRE",
+      "iso": "UK-HC-NOTTINGHAMSHIRE",
+      "basename": "Nottinghamshire_a5a895",
+      "county": "Nottinghamshire",
+      "mapName": "Nottinghamshire",
+      "label": "Nottinghamshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-nottinghamshire",
+        "nottinghamshire"
+      ],
+      "title": "Why Does Nottinghamshire Feel So Haunted?",
+      "summary": "Nottinghamshire’s haunted reputation rests less on one single famous ghost than on a dense cluster of places where history already feels close to the...",
+      "url": "why-does-nottinghamshire-feel-so-haunted/",
+      "image": "assets/images/Nottinghamshire_a5a895-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-ORKNEY",
+      "iso": "UK-HC-ORKNEY",
+      "basename": "Orkney_9ae683",
+      "county": "Orkney",
+      "mapName": "Orkney",
+      "label": "Orkney",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-orkney",
+        "orkney"
+      ],
+      "title": "Why Does Orkney Feel So Haunted?",
+      "summary": "Orkney’s haunted reputation is quieter than the castle-heavy ghost tourism of mainland Scotland, but it is unusually rich in older supernatural folklore.",
+      "url": "why-does-orkney-feel-so-haunted/",
+      "image": "assets/images/Orkney_9ae683-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-ROXBURGHSHIRE",
+      "iso": "UK-HC-ROXBURGHSHIRE",
+      "basename": "Roxburghshire_8333b2",
+      "county": "Roxburghshire",
+      "mapName": "Roxburghshire",
+      "label": "Roxburghshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-roxburghshire",
+        "roxburghshire"
+      ],
+      "title": "Why Does Roxburghshire Feel So Haunted?",
+      "summary": "Roxburghshire’s haunted reputation belongs less to tidy “ghost trail” marketing than to the older, rougher memory of the Border country: ruined strongholds,...",
+      "url": "why-does-roxburghshire-feel-so-haunted/",
+      "image": "assets/images/Roxburghshire_8333b2-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-SELKIRKSHIRE",
+      "iso": "UK-HC-SELKIRKSHIRE",
+      "basename": "Selkirkshire_8fd2aa",
+      "county": "Selkirkshire",
+      "mapName": "Selkirkshire",
+      "label": "Selkirkshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-selkirkshire",
+        "selkirkshire"
+      ],
+      "title": "Why Does Selkirkshire Feel So Haunted?",
+      "summary": "Selkirkshire’s haunted history is quieter than the headline-grabbing ghost tourism of Edinburgh or the great castles of the Highlands, but it is unusually...",
+      "url": "why-does-selkirkshire-feel-so-haunted/",
+      "image": "assets/images/Selkirkshire_8fd2aa-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-SHROPSHIRE",
+      "iso": "UK-HC-SHROPSHIRE",
+      "basename": "Shropshire_83e582",
+      "county": "Shropshire",
+      "mapName": "Shropshire",
+      "label": "Shropshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-shropshire",
+        "shropshire"
+      ],
+      "title": "Why Does Shropshire Feel So Haunted?",
+      "summary": "Shropshire’s haunted reputation comes from the way its ghost stories cling to very specific places: a ruined castle above Ludlow, a burned town hall at Wem,...",
+      "url": "why-does-shropshire-feel-so-haunted/",
+      "image": "assets/images/Shropshire_83e582-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-STAFFORDSHIRE",
+      "iso": "UK-HC-STAFFORDSHIRE",
+      "basename": "Staffordshire_e11f30",
+      "county": "Staffordshire",
+      "mapName": "Staffordshire",
+      "label": "Staffordshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-staffordshire",
+        "staffordshire"
+      ],
+      "title": "Why Does Staffordshire Feel So Haunted?",
+      "summary": "Staffordshire’s haunted reputation is built less on one grand ghost story than on a chain of sharply local traditions: a nun in Tamworth Castle, Mary Queen...",
+      "url": "why-does-staffordshire-feel-so-haunted/",
+      "image": "assets/images/Staffordshire_e11f30-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-SUSSEX",
+      "iso": "UK-HC-SUSSEX",
+      "basename": "Sussex_0f32ec",
+      "county": "Sussex",
+      "mapName": "Sussex",
+      "label": "Sussex",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-sussex",
+        "east sussex",
+        "west sussex",
+        "sussex"
+      ],
+      "title": "Why Does Sussex Feel So Haunted?",
+      "summary": "Sussex has one of the richest haunted landscapes in southern England because its ghost stories cling to places that already feel historically charged: a...",
+      "url": "why-does-sussex-feel-so-haunted/",
+      "image": "assets/images/Sussex_0f32ec-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-SUTHERLAND",
+      "iso": "UK-HC-SUTHERLAND",
+      "basename": "Sutherland_6dbe51",
+      "county": "Sutherland",
+      "mapName": "Sutherland",
+      "label": "Sutherland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-sutherland",
+        "sutherland"
+      ],
+      "title": "Why Does Sutherland Feel So Haunted?",
+      "summary": "Sutherland’s haunted reputation is not built on one crowded ghost trail, but on distance: ruined castles beside dark lochs, empty beaches, old churchyards,...",
+      "url": "why-does-sutherland-feel-so-haunted/",
+      "image": "assets/images/Sutherland_6dbe51-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    },
+    {
+      "id": "UK-HC-WILTSHIRE",
+      "iso": "UK-HC-WILTSHIRE",
+      "basename": "Wiltshire_7b9f94",
+      "county": "Wiltshire",
+      "mapName": "Wiltshire",
+      "label": "Wiltshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-wiltshire",
+        "wiltshire"
+      ],
+      "title": "Why Does Wiltshire Feel So Haunted?",
+      "summary": "Wiltshire’s haunted reputation rests on an unusually strong mix of ancient landscape, Civil War memory, ruined castles, old inns, empty roads and villages...",
+      "url": "why-does-wiltshire-feel-so-haunted/",
+      "image": "assets/images/Wiltshire_7b9f94-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-DORSET",
+      "iso": "UK-HC-DORSET",
+      "basename": "Dorset_51e44a",
+      "county": "Dorset",
+      "mapName": "Dorset",
+      "label": "Dorset",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-dorset",
+        "dorset"
+      ],
+      "title": "Why Dorset Feels So Haunted",
+      "summary": "Dorset’s haunted reputation comes less from one famous “most haunted” site than from a dense pattern of stories attached to ruins, manor houses, roads,...",
+      "url": "why-dorset-feels-so-haunted/",
+      "image": "assets/images/Dorset_51e44a-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-YORKSHIRE",
+      "iso": "UK-HC-YORKSHIRE",
+      "basename": "Yorkshire_f09525",
+      "county": "Yorkshire",
+      "mapName": "Yorkshire",
+      "label": "Yorkshire",
+      "hideCode": true,
+      "mapAliases": [
+        "east riding of yorkshire",
+        "north yorkshire",
+        "south yorkshire",
+        "uk-hc-yorkshire",
+        "west yorkshire",
+        "yorkshire"
+      ],
+      "title": "Why Is Yorkshire So Full of Ghosts?",
+      "summary": "Yorkshire is one of Britain’s richest counties for ghost stories because its legends sit on unusually deep layers of history: Roman York, medieval...",
+      "url": "why-is-yorkshire-so-full-of-ghosts/",
+      "image": "assets/images/Yorkshire_f09525-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-NORTHAMPTONSHIRE",
+      "iso": "UK-HC-NORTHAMPTONSHIRE",
+      "basename": "Northamptonshire_ad0dee",
+      "county": "Northamptonshire",
+      "mapName": "Northamptonshire",
+      "label": "Northamptonshire",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-northamptonshire",
+        "northamptonshire"
+      ],
+      "title": "Why Northamptonshire Feels So Haunted",
+      "summary": "Northamptonshire’s haunted reputation is strongest where old buildings, battlefield memory and local storytelling meet: Delapré Abbey beside the Battle of...",
+      "url": "why-northamptonshire-feels-so-haunted/",
+      "image": "assets/images/Northamptonshire_ad0dee-overview-social.jpg",
+      "pageCount": 4,
+      "region": "England"
+    },
+    {
+      "id": "UK-HC-SHETLAND",
+      "iso": "UK-HC-SHETLAND",
+      "basename": "Shetland_ce055c",
+      "county": "Shetland",
+      "mapName": "Shetland",
+      "label": "Shetland",
+      "hideCode": true,
+      "mapAliases": [
+        "uk-hc-shetland",
+        "shetland"
+      ],
+      "title": "Why Shetland's Hauntings Feel So Different",
+      "summary": "Shetland’s haunted history is less a chain of polished castle ghost tales than a northern island web of ruined houses, old burial ground, sea danger,...",
+      "url": "why-shetlands-hauntings-feel-so/",
+      "image": "assets/images/Shetland_ce055c-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Scotland"
+    }
+  ],
+  "matchedCount": 92,
+  "totalTopTopics": 92,
+  "source": "Generated from Stage 3 historic UK county collection pages; adapted from the Wikimedia Commons/Wikishire historic-counties SVG. Republic of Ireland counties remain visible but are intentionally muted and not linked.",
+  "sourceUrl": "https://commons.wikimedia.org/wiki/File:British_Isles_map_showing_UK,_Republic_of_Ireland,_and_historic_counties.svg",
+  "license": "CC BY-SA 4.0",
+  "attribution": "Wikishire; Wikimedia Commons file by Visitor from Wikishire. Adapted for interactive UK county links."
+}
