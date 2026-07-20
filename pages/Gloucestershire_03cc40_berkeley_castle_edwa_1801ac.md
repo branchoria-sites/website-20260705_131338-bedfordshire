@@ -338,89 +338,89 @@ The most honest conclusion is also the most haunting. Edward II’s screams are 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Do Edward II&#x27;s Screams Haunt Berkeley?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Do Edward II&#x27;s Screams Haunt Berkeley?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Greatest+Traitor%3A+The+Life+of+Sir+Roger+Mortimer%2C+Ruler+of+England+1327-1330+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Greatest Traitor: The Life of Sir Roger Mortimer, Ruler of England 1327-1330 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8369852-M.jpg" alt="Cover for The Greatest Traitor: The Life of Sir Roger Mortimer, Ruler of England" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Greatest+Traitor%3A+The+Life+of+Sir+Roger+Mortimer%2C+Ruler+of+England+1327-1330+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Greatest Traitor: The Life of Sir Roger Mortimer, Ruler of England">The Greatest Traitor: The Life of Sir Roger Mortimer, Ruler o...</a>
-</h4>
-<p class="fr-book-author">By Ian Mortimer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Greatest+Traitor%3A+The+Life+of+Sir+Roger+Mortimer%2C+Ruler+of+England+1327-1330+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Greatest Traitor: The Life of Sir Roger Mortimer, Ruler of England 1327-1330 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8369852-M.jpg" alt="Cover for The Greatest Traitor: The Life of Sir Roger Mortimer, Ruler of England 1327-1330" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Greatest+Traitor%3A+The+Life+of+Sir+Roger+Mortimer%2C+Ruler+of+England+1327-1330+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Greatest Traitor: The Life of Sir Roger Mortimer, Ruler of England 1327-1330">The Greatest Traitor: The Life of Sir Roger Mortimer, Ruler o...</a>
+        </h4>
+        <p class="fr-book-author">By Ian Mortimer</p>
         
-<p class="fr-book-desc">First published 2010. Subjects: Edward ii, king of england, 1284-1327, Great britain, history, medieval period, 1066-1485, Isabella, quee...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Greatest+Traitor%3A+The+Life+of+Sir+Roger+Mortimer%2C+Ruler+of+England+1327-1330+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the political crisis surrounding Edward II and Berkeley Castle.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Greatest+Traitor%3A+The+Life+of+Sir+Roger+Mortimer%2C+Ruler+of+England+1327-1330+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+perfect+king+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The perfect king on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8705134-M.jpg" alt="Cover for The perfect king" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+perfect+king+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The perfect king">The perfect king</a>
-</h4>
-<p class="fr-book-author">By Ian Mortimer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The time traveller&#x27;s guide to medieval England on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8728137-M.jpg" alt="Cover for The time traveller&#x27;s guide to medieval England" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The time traveller&#x27;s guide to medieval England">The time traveller&#x27;s guide to medieval England</a>
+        </h4>
+        <p class="fr-book-author">By Ian Mortimer</p>
         
-<p class="fr-book-desc">First published 2008. Subjects: Kings and rulers, Biography, History, Edward iii, king of england, 1312-1377, Great britain, kings and ru...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+perfect+king+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides vivid background to the world of Berkeley Castle.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Edward+II+Kathryn+Warner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Edward II on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12138220-M.jpg" alt="Cover for Edward II" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Edward+II+Kathryn+Warner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Edward II">Edward II</a>
-</h4>
-<p class="fr-book-author">By Kathryn Warner, Ian Mortimer</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+perfect+king+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The perfect king on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8705134-M.jpg" alt="Cover for The perfect king" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+perfect+king+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The perfect king">The perfect king</a>
+        </h4>
+        <p class="fr-book-author">By Ian Mortimer</p>
         
-<p class="fr-book-desc">First published 2014. Subjects: Edward ii, king of england, 1284-1327, Isabella, queen, consort of edward ii, king of england, 1292-1358,...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Edward+II+Kathryn+Warner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers the aftermath of Edward II&#x27;s death and its historical context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+perfect+king+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10456761-M.jpg" alt="Cover for Ghostland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
-</h4>
-<p class="fr-book-author">By Edward Parnell</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Edward+II+Kathryn+Warner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Edward II on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12138220-M.jpg" alt="Cover for Edward II" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Edward+II+Kathryn+Warner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Edward II">Edward II</a>
+        </h4>
+        <p class="fr-book-author">By Kathryn Warner, Ian Mortimer</p>
         
-<p class="fr-book-desc">First published 2019. Subjects: Psychology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Focuses directly on Edward II, his captivity and disputed death.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Edward+II+Kathryn+Warner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Greatest+Traitor%3A+The+Life+of+Sir+Roger+Mortimer%2C+Ruler+of+England+1327+1330&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Greatest Traitor: The Life of Sir Roger Mortimer, Ruler of England</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+perfect+king&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The perfect king</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Edward+II&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Edward II</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Greatest+Traitor%3A+The+Life+of+Sir+Roger+Mortimer%2C+Ruler+of+England+1327+1330&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Greatest Traitor: The Life of Sir Roger Mortimer, Ruler of England 1327 1330</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+time+traveller%27s+to+medieval+England+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The time traveller&#x27;s to medieval England books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+perfect+king&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The perfect king</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
