@@ -809,7 +809,7 @@ The result is an eerie but grounded county folklore. Northamptonshire’s ghosts
           <a href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Castles of Britain and Ireland">Haunted Castles of Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Richard Jones</p>
-        
+
         <p class="fr-book-desc">Relevant to the county&#x27;s castles, abbeys and historic houses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -826,7 +826,7 @@ The result is an eerie but grounded county folklore. Northamptonshire’s ghosts
           <a href="https://www.amazon.com/s?k=haunted+britain+antony+d.+hippisley+coxe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="haunted britain">haunted britain</a>
         </h4>
         <p class="fr-book-author">By antony d. hippisley coxe</p>
-        
+
         <p class="fr-book-desc">Fits readers exploring haunted counties and heritage sites.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=haunted+britain+antony+d.+hippisley+coxe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -843,7 +843,7 @@ The result is an eerie but grounded county folklore. Northamptonshire’s ghosts
           <a href="https://www.amazon.com/s?k=The+World%27s+Greatest+Ghosts+Roger+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s Greatest Ghosts">The World&#x27;s Greatest Ghosts</a>
         </h4>
         <p class="fr-book-author">By Roger Clarke</p>
-        
+
         <p class="fr-book-desc">Places local legends within Britain&#x27;s wider ghost tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+World%27s+Greatest+Ghosts+Roger+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -860,7 +860,7 @@ The result is an eerie but grounded county folklore. Northamptonshire’s ghosts
           <a href="https://www.amazon.com/s?k=Ghosts%3A+A+History+of+Phantoms%2C+Ghouls+and+Other+Spirits+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts: A History of Phantoms, Ghouls and Other Spirits">Ghosts: A History of Phantoms, Ghouls and Other Spirits</a>
         </h4>
         <p class="fr-book-author">By Lisa Morton</p>
-        
+
         <p class="fr-book-desc">Introduces the folklore themes found across Northamptonshire.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts%3A+A+History+of+Phantoms%2C+Ghouls+and+Other+Spirits+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

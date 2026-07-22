@@ -381,7 +381,7 @@ For readers exploring haunted Monmouthshire, this makes Monmouth Town a useful c
           <a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="British Goblins">British Goblins</a>
         </h4>
         <p class="fr-book-author">By Wirt Sikes</p>
-        
+
         <p class="fr-book-desc">Provides cultural background.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ For readers exploring haunted Monmouthshire, this makes Monmouth Town a useful c
           <a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Welsh fairy book">The Welsh fairy book</a>
         </h4>
         <p class="fr-book-author">By W. Jenkyn Thomas</p>
-        
+
         <p class="fr-book-desc">Places local legends in Welsh tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ For readers exploring haunted Monmouthshire, this makes Monmouth Town a useful c
           <a href="https://www.amazon.com/s?k=The+Mabinogion+Sioned+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mabinogion">The Mabinogion</a>
         </h4>
         <p class="fr-book-author">By Sioned Davies</p>
-        
+
         <p class="fr-book-desc">Broader cultural reading.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mabinogion+Sioned+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ For readers exploring haunted Monmouthshire, this makes Monmouth Town a useful c
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Wales">Haunted Wales</a>
         </h4>
         <p class="fr-book-author">By Richard Holland</p>
-        
+
         <p class="fr-book-desc">Modern overview relevant to Monmouth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

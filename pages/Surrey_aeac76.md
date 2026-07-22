@@ -835,7 +835,7 @@ Read carefully, Surrey’s ghost stories are not just spooky entertainment. They
           <a href="https://www.amazon.com/s?k=Haunted+Surrey+David+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Surrey">Haunted Surrey</a>
         </h4>
         <p class="fr-book-author">By David Rose</p>
-        
+
         <p class="fr-book-desc">Covers many of the county&#x27;s best-known ghost traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Surrey+David+Rose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -852,7 +852,7 @@ Read carefully, Surrey’s ghost stories are not just spooky entertainment. They
           <a href="https://www.amazon.com/s?k=The+Little+Book+of+Surrey+Martin+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of Surrey">The Little Book of Surrey</a>
         </h4>
         <p class="fr-book-author">By Martin Andrew</p>
-        
+
         <p class="fr-book-desc">Introduces Surrey history, traditions and folklore that underpin local ghost stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Little+Book+of+Surrey+Martin+Andrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -869,7 +869,7 @@ Read carefully, Surrey’s ghost stories are not just spooky entertainment. They
           <a href="https://www.amazon.com/s?k=The+Ghost+Hunter%27s+Guide+to+Britain+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ghost Hunter&#x27;s Guide to Britain">The Ghost Hunter&#x27;s Guide to Britain</a>
         </h4>
         <p class="fr-book-author">By Richard Jones</p>
-        
+
         <p class="fr-book-desc">Places Surrey stories within wider British haunted locations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ghost+Hunter%27s+Guide+to+Britain+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -886,7 +886,7 @@ Read carefully, Surrey’s ghost stories are not just spooky entertainment. They
           <a href="https://www.amazon.com/s?k=The+Folklore+of+Surrey+Janet+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Folklore of Surrey">The Folklore of Surrey</a>
         </h4>
         <p class="fr-book-author">By Janet Dowling</p>
-        
+
         <p class="fr-book-desc">Explores folklore that shaped Surrey&#x27;s supernatural reputation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Folklore+of+Surrey+Janet+Dowling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

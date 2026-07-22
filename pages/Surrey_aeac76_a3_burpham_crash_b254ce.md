@@ -355,7 +355,7 @@ That is the story’s lasting pull. It is not simply “a haunted road” tale. 
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
         </h4>
         <p class="fr-book-author">By Jan Harold Brunvand</p>
-        
+
         <p class="fr-book-desc">Explains roadside legends and contemporary supernatural narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ That is the story’s lasting pull. It is not simply “a haunted road” tale. 
           <a href="https://www.amazon.com/s?k=Haunted+Surrey+David+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Surrey">Haunted Surrey</a>
         </h4>
         <p class="fr-book-author">By David Rose</p>
-        
+
         <p class="fr-book-desc">Includes Surrey ghost traditions and modern reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Surrey+David+Rose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ That is the story’s lasting pull. It is not simply “a haunted road” tale. 
           <a href="https://www.amazon.com/s?k=The+Ghost+Hunter%27s+Guide+to+Britain+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ghost Hunter&#x27;s Guide to Britain">The Ghost Hunter&#x27;s Guide to Britain</a>
         </h4>
         <p class="fr-book-author">By Richard Jones</p>
-        
+
         <p class="fr-book-desc">Places the Burpham legend within British haunting traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ghost+Hunter%27s+Guide+to+Britain+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ That is the story’s lasting pull. It is not simply “a haunted road” tale. 
           <a href="https://www.amazon.com/s?k=The+Little+Book+of+Surrey+Martin+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of Surrey">The Little Book of Surrey</a>
         </h4>
         <p class="fr-book-author">By Martin Andrew</p>
-        
+
         <p class="fr-book-desc">Provides wider Surrey context around local landmarks and history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Little+Book+of+Surrey+Martin+Andrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

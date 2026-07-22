@@ -823,7 +823,7 @@ Westmorland’s ghosts are most convincing when treated as stories with roots: n
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Haunted House Stories">The Mammoth Book of Haunted House Stories</a>
         </h4>
         <p class="fr-book-author">By Peter Haining</p>
-        
+
         <p class="fr-book-desc">Complements readers seeking broader British ghost lore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -840,7 +840,7 @@ Westmorland’s ghosts are most convincing when treated as stories with roots: n
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Explains legends tied to rural landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -857,7 +857,7 @@ Westmorland’s ghosts are most convincing when treated as stories with roots: n
           <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Stephen Roud</p>
-        
+
         <p class="fr-book-desc">Supports understanding of regional supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -874,7 +874,7 @@ Westmorland’s ghosts are most convincing when treated as stories with roots: n
           <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
         </h4>
         <p class="fr-book-author">By Edward Parnell</p>
-        
+
         <p class="fr-book-desc">First published 2019. Subjects: Psychology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

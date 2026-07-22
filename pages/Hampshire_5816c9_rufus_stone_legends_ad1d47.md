@@ -367,7 +367,7 @@ For readers exploring Hampshire’s haunted geography, the Rufus Stone is best u
           <a href="https://www.amazon.com/s?k=William+Rufus+Frank+Barlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="William Rufus">William Rufus</a>
         </h4>
         <p class="fr-book-author">By Frank Barlow</p>
-        
+
         <p class="fr-book-desc">Directly covers the king whose death inspired the Rufus Stone legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=William+Rufus+Frank+Barlow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ For readers exploring Hampshire’s haunted geography, the Rufus Stone is best u
           <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The time traveller&#x27;s guide to medieval England">The time traveller&#x27;s guide to medieval England</a>
         </h4>
         <p class="fr-book-author">By Ian Mortimer</p>
-        
+
         <p class="fr-book-desc">Explains the medieval world surrounding William Rufus.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,16 +395,16 @@ For readers exploring Hampshire’s haunted geography, the Rufus Stone is best u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Haunted+Owen+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Haunted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2744804-M.jpg" alt="Cover for The Haunted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Haunted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4989341-M.jpg" alt="Cover for The Haunted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Haunted+Owen+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Haunted">The Haunted</a>
+          <a href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Haunted">The Haunted</a>
         </h4>
-        <p class="fr-book-author">By Owen Davies</p>
-        
-        <p class="fr-book-desc">First published 2007. Subjects: Ghosts, History.</p>
+        <p class="fr-book-author">By Robert Curran</p>
+
+        <p class="fr-book-desc">First published 1988. Subjects: Catholic traditionalist movement, Exorcism, History, Fallstudiensammlung, Spuk.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Haunted+Owen+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -418,7 +418,7 @@ For readers exploring Hampshire’s haunted geography, the Rufus Stone is best u
           <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
         </h4>
         <p class="fr-book-author">By Edward Parnell</p>
-        
+
         <p class="fr-book-desc">First published 2019. Subjects: Psychology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1169,7 +1169,7 @@ That makes the county especially valuable within a UK haunted-history project. I
           <a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="British Goblins">British Goblins</a>
         </h4>
         <p class="fr-book-author">By Wirt Sikes</p>
-        
+
         <p class="fr-book-desc">Excellent introduction to Welsh supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1186,7 +1186,7 @@ That makes the county especially valuable within a UK haunted-history project. I
           <a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Welsh fairy book">The Welsh fairy book</a>
         </h4>
         <p class="fr-book-author">By W. Jenkyn Thomas</p>
-        
+
         <p class="fr-book-desc">Introduces major Welsh legendary themes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1203,7 +1203,7 @@ That makes the county especially valuable within a UK haunted-history project. I
           <a href="https://www.amazon.com/s?k=The+Mabinogion+Sioned+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mabinogion">The Mabinogion</a>
         </h4>
         <p class="fr-book-author">By Sioned Davies</p>
-        
+
         <p class="fr-book-desc">Provides mythological context for the landscape.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mabinogion+Sioned+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1220,7 +1220,7 @@ That makes the county especially valuable within a UK haunted-history project. I
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Wales">Haunted Wales</a>
         </h4>
         <p class="fr-book-author">By Richard Holland</p>
-        
+
         <p class="fr-book-desc">Modern survey including notable Welsh haunted locations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

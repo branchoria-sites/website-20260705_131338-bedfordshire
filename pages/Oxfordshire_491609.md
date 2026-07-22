@@ -856,7 +856,7 @@ The county’s haunted history is strongest when read as folklore grounded in pl
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Haunted House Stories">The Mammoth Book of Haunted House Stories</a>
         </h4>
         <p class="fr-book-author">By Peter Haining</p>
-        
+
         <p class="fr-book-desc">Broad introduction to classic British ghost traditions including places and folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -873,7 +873,7 @@ The county’s haunted history is strongest when read as folklore grounded in pl
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Explains the folklore behind haunted places across England.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -890,7 +890,7 @@ The county’s haunted history is strongest when read as folklore grounded in pl
           <a href="https://www.amazon.com/s?k=The+ghost+Susan+Owens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ghost">The ghost</a>
         </h4>
         <p class="fr-book-author">By Susan Owens</p>
-        
+
         <p class="fr-book-desc">Provides historical context for English ghost traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+ghost+Susan+Owens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -907,7 +907,7 @@ The county’s haunted history is strongest when read as folklore grounded in pl
           <a href="https://www.amazon.com/s?k=Oxford+Ghost+Stories+Janet+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Ghost Stories">Oxford Ghost Stories</a>
         </h4>
         <p class="fr-book-author">By Janet Dowling</p>
-        
+
         <p class="fr-book-desc">Focuses specifically on Oxford and surrounding ghost lore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oxford+Ghost+Stories+Janet+Dowling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

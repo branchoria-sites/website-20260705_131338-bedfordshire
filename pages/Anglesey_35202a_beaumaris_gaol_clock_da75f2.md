@@ -365,7 +365,7 @@ That balance is what makes Beaumaris Gaol such a strong haunted-history site. It
           <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Wales">Ghosts of Wales</a>
         </h4>
         <p class="fr-book-author">By Mark Rees</p>
-        
+
         <p class="fr-book-desc">Relevant to Welsh prison hauntings and folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ That balance is what makes Beaumaris Gaol such a strong haunted-history site. It
           <a href="https://www.amazon.com/s?k=The+Hanging+Tree+Ben+Aaronovitch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hanging Tree">The Hanging Tree</a>
         </h4>
         <p class="fr-book-author">By Ben Aaronovitch</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in haunted justice themes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hanging+Tree+Ben+Aaronovitch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ That balance is what makes Beaumaris Gaol such a strong haunted-history site. It
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Britain and Ireland">Haunted Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Richard Jones</p>
-        
+
         <p class="fr-book-desc">First published 2001. Subjects: Ghosts, Haunted places.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,16 +410,16 @@ That balance is what makes Beaumaris Gaol such a strong haunted-history site. It
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Newgate+Stephen+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Newgate on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5503510-M.jpg" alt="Cover for Newgate" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=haunted+britain+antony+d.+hippisley+coxe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open haunted britain on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Newgate+Stephen+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Newgate">Newgate</a>
+          <a href="https://www.amazon.com/s?k=haunted+britain+antony+d.+hippisley+coxe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="haunted britain">haunted britain</a>
         </h4>
-        <p class="fr-book-author">By Stephen Halliday, STEPHEN HALLIDAY</p>
-        
-        <p class="fr-book-desc">First published 2006. Subjects: Crime, History, Newgate (Prison : London, England), Prisons, Social conditions.</p>
+        <p class="fr-book-author">By antony d. hippisley coxe</p>
+
+        <p class="fr-book-desc">Expands on prison and haunting traditions across Britain.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Newgate+Stephen+Halliday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=haunted+britain+antony+d.+hippisley+coxe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

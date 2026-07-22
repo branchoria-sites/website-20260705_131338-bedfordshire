@@ -362,16 +362,16 @@ That is why this County Down haunting needs a gentler handling than a simple spo
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meeting the Other Crowd on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/850233-M.jpg" alt="Cover for Meeting the Other Crowd" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/872311-M.jpg" alt="Cover for Ghost Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meeting the Other Crowd">Meeting the Other Crowd</a>
+          <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Hunters">Ghost Hunters</a>
         </h4>
-        <p class="fr-book-author">By Carolyn Eve Green, Eddie Lenihan</p>
-        
-        <p class="fr-book-desc">Provides wider cultural context for supernatural traditions.</p>
+        <p class="fr-book-author">By Deborah Blum</p>
+
+        <p class="fr-book-desc">Encourages thoughtful treatment of ghost claims and memory.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -379,16 +379,16 @@ That is why this County Down haunting needs a gentler handling than a simple spo
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/872311-M.jpg" alt="Cover for Ghost Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meeting the Other Crowd on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/850233-M.jpg" alt="Cover for Meeting the Other Crowd" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Hunters">Ghost Hunters</a>
+          <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meeting the Other Crowd">Meeting the Other Crowd</a>
         </h4>
-        <p class="fr-book-author">By Deborah Blum</p>
-        
-        <p class="fr-book-desc">Encourages thoughtful treatment of ghost claims and memory.</p>
+        <p class="fr-book-author">By Carolyn Eve Green, Eddie Lenihan</p>
+
+        <p class="fr-book-desc">Provides wider cultural context for supernatural traditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+Hunters+Deborah+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -402,7 +402,7 @@ That is why this County Down haunting needs a gentler handling than a simple spo
           <a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of Ireland">The lore of Ireland</a>
         </h4>
         <p class="fr-book-author">By Dáithí Ó hÓgáin</p>
-        
+
         <p class="fr-book-desc">Explains legendary motifs associated with Irish castles.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ That is why this County Down haunting needs a gentler handling than a simple spo
           <a href="https://www.amazon.com/s?k=Irish+ghost+stories+of+Sheridan+Le+Fanu+Sheridan+Le+Fanu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish ghost stories of Sheridan Le Fanu">Irish ghost stories of Sheridan Le Fanu</a>
         </h4>
         <p class="fr-book-author">By Sheridan Le Fanu</p>
-        
+
         <p class="fr-book-desc">First published 1973. Subjects: Ghost stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Irish+ghost+stories+of+Sheridan+Le+Fanu+Sheridan+Le+Fanu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ That is why this County Down haunting needs a gentler handling than a simple spo
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meeting the Other Crowd</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Hunters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of Ireland</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Hunters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meeting the Other Crowd</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of Ireland</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

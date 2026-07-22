@@ -363,7 +363,7 @@ That balance is what makes Dunskey valuable within Wigtownshire’s haunted hist
           <a href="https://www.amazon.com/s?k=Witchcraft+and+superstitious+record+in+the+south-western+district+of+Scotland+John+Maxwell+Wood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft and superstitious record in the south-western district of Scotland">Witchcraft and superstitious record in the south-western dist...</a>
         </h4>
         <p class="fr-book-author">By John Maxwell Wood</p>
-        
+
         <p class="fr-book-desc">Contains one of the best-known early printed versions of the Dunskey Castle piper legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Witchcraft+and+superstitious+record+in+the+south-western+district+of+Scotland+John+Maxwell+Wood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ That balance is what makes Dunskey valuable within Wigtownshire’s haunted hist
           <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
         </h4>
         <p class="fr-book-author">By Judy Hamilton</p>
-        
+
         <p class="fr-book-desc">Places local ghost stories and supernatural traditions within the wider landscape of Scottish folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ That balance is what makes Dunskey valuable within Wigtownshire’s haunted hist
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Haunted House Stories">The Mammoth Book of Haunted House Stories</a>
         </h4>
         <p class="fr-book-author">By Peter Haining</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in haunted buildings, castles, and enduring ghost traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,16 +408,16 @@ That balance is what makes Dunskey valuable within Wigtownshire’s haunted hist
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lm35Hwa9DNEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lore of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of Scotland">The lore of Scotland</a>
+          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland">The Lore of Scotland</a>
         </h4>
-        <p class="fr-book-author">By Jennifer Westwood</p>
-        
+        <p class="fr-book-author">By Jennifer Westwood, Sophia Kingshill</p>
+
         <p class="fr-book-desc">Provides authoritative context for Scottish legends, hauntings, and traditional tales like the lost piper motif.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

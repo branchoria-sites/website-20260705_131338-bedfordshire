@@ -364,7 +364,7 @@ The most credible reading is therefore neither dismissive nor gullible. The chap
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Celtic Myths and Legends">The Mammoth Book of Celtic Myths and Legends</a>
         </h4>
         <p class="fr-book-author">By Peter Berresford Ellis</p>
-        
+
         <p class="fr-book-desc">Supports themes of saints, legend and sacred landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ The most credible reading is therefore neither dismissive nor gullible. The chap
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Wales">Haunted Wales</a>
         </h4>
         <p class="fr-book-author">By Richard Holland</p>
-        
+
         <p class="fr-book-desc">Explores eerie locations beyond conventional ghost stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ The most credible reading is therefore neither dismissive nor gullible. The chap
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Ghost Stories">The Penguin Book of Ghost Stories</a>
         </h4>
         <p class="fr-book-author">By Michael Newton, Michael Newton et al.</p>
-        
+
         <p class="fr-book-desc">First published 2010. Subjects: Fiction, Literature, Ghost stories, English Ghost stories, English fiction.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ The most credible reading is therefore neither dismissive nor gullible. The chap
           <a href="https://www.amazon.com/s?k=Pembrokeshire+Folk+Tales+Peter+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pembrokeshire Folk Tales">Pembrokeshire Folk Tales</a>
         </h4>
         <p class="fr-book-author">By Peter Stevenson</p>
-        
+
         <p class="fr-book-desc">Includes legends and sacred places from Pembrokeshire.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Pembrokeshire+Folk+Tales+Peter+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

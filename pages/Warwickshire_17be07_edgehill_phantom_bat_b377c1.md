@@ -349,7 +349,7 @@ Edgehill’s power lies in that continuity of unease. The earliest writers saw t
           <a href="https://www.amazon.com/s?k=ENGLISH+CIVIL+WAR%3A+A+PEOPLE%27S+HISTORY+DIANE+PURKISS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="ENGLISH CIVIL WAR: A PEOPLE&#x27;S HISTORY">ENGLISH CIVIL WAR: A PEOPLE&#x27;S HISTORY</a>
         </h4>
         <p class="fr-book-author">By DIANE PURKISS</p>
-        
+
         <p class="fr-book-desc">Provides the historical background behind the Edgehill legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=ENGLISH+CIVIL+WAR%3A+A+PEOPLE%27S+HISTORY+DIANE+PURKISS&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ Edgehill’s power lies in that continuity of unease. The earliest writers saw t
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Haunted House Stories">The Mammoth Book of Haunted House Stories</a>
         </h4>
         <p class="fr-book-author">By Peter Haining</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in classic British ghost traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,16 +377,16 @@ Edgehill’s power lies in that continuity of unease. The earliest writers saw t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10456761-M.jpg" alt="Cover for Ghostland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of the land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/106638-M.jpg" alt="Cover for The lore of the land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
+          <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
-        <p class="fr-book-author">By Edward Parnell</p>
-        
-        <p class="fr-book-desc">First published 2019. Subjects: Psychology.</p>
+        <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
+
+        <p class="fr-book-desc">Explains the folklore processes behind legendary places.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -400,7 +400,7 @@ Edgehill’s power lies in that continuity of unease. The earliest writers saw t
           <a href="https://www.amazon.com/s?k=Battlefield+Ghosts+Richard+Holmes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Battlefield Ghosts">Battlefield Ghosts</a>
         </h4>
         <p class="fr-book-author">By Richard Holmes</p>
-        
+
         <p class="fr-book-desc">Edgehill is Britain&#x27;s best-known phantom battlefield tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Battlefield+Ghosts+Richard+Holmes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ Edgehill’s power lies in that continuity of unease. The earliest writers saw t
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=ENGLISH+CIVIL+WAR%3A+A+PEOPLE%27S+HISTORY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">ENGLISH CIVIL WAR: A PEOPLE&#x27;S HISTORY</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Haunted House Stories</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=ENGLISH+CIVIL+WAR%3A+A+PEOPLE%27S+HISTORY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">ENGLISH CIVIL WAR: A PEOPLE&#x27;S HISTORY</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Haunted House Stories</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+the+land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of the land</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

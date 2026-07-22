@@ -367,7 +367,7 @@ That is why village roads keep their ghosts. Roads are where the living repeated
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Explores roadside legends, white ladies and place-based folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ That is why village roads keep their ghosts. Roads are where the living repeated
           <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Stephen Roud</p>
-        
+
         <p class="fr-book-desc">Explains traditional beliefs behind village ghost stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ That is why village roads keep their ghosts. Roads are where the living repeated
           <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts">Ghosts</a>
         </h4>
         <p class="fr-book-author">By Lisa Morton</p>
-        
+
         <p class="fr-book-desc">First published 2015. Subjects: Ghosts, History, BODY, MIND &amp; SPIRIT, Parapsychology, General.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ That is why village roads keep their ghosts. Roads are where the living repeated
           <a href="https://www.amazon.com/s?k=The+folklore+of+Discworld+Terry+Pratchett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of Discworld">The folklore of Discworld</a>
         </h4>
         <p class="fr-book-author">By Terry Pratchett, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">First published 2008. Subjects: Themes, motives, Discworld (Imaginary place), Folklore in literature, Discworld (imaginary place), fictio...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+folklore+of+Discworld+Terry+Pratchett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

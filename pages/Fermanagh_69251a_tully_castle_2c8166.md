@@ -349,7 +349,7 @@ A good visit to Tully therefore holds two truths together. The massacre memory i
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Haunted House Stories">The Mammoth Book of Haunted House Stories</a>
 </h4>
 <p class="fr-book-author">By Peter Haining</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: ghost stories, haunted house stories, ghost story anthology, Ghost stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ A good visit to Tully therefore holds two truths together. The massacre memory i
 <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Britain and Ireland">Haunted Britain and Ireland</a>
 </h4>
 <p class="fr-book-author">By Richard Jones</p>
-        
+
 <p class="fr-book-desc">First published 2001. Subjects: Ghosts, Haunted places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ A good visit to Tully therefore holds two truths together. The massacre memory i
 <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
 </h4>
 <p class="fr-book-author">By Stephen Roud</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: Nonfiction, Reference, Superstition, Dictionaries, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ A good visit to Tully therefore holds two truths together. The massacre memory i
 <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meeting the Other Crowd">Meeting the Other Crowd</a>
 </h4>
 <p class="fr-book-author">By Carolyn Eve Green, Eddie Lenihan</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Fairies, Fairy tales, Folklore, ireland, Mythology, celtic.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

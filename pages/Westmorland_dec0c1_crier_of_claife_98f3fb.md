@@ -360,7 +360,7 @@ In the wider haunted geography of Westmorland, the Crier belongs beside stories 
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Haunted House Stories">The Mammoth Book of Haunted House Stories</a>
         </h4>
         <p class="fr-book-author">By Peter Haining</p>
-        
+
         <p class="fr-book-desc">Broadens interest beyond one local legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ In the wider haunted geography of Westmorland, the Crier belongs beside stories 
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Explains place legends such as spectral cries and haunted waters.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ In the wider haunted geography of Westmorland, the Crier belongs beside stories 
           <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Stephen Roud</p>
-        
+
         <p class="fr-book-desc">Covers traditional beliefs surrounding ghosts and warnings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ In the wider haunted geography of Westmorland, the Crier belongs beside stories 
           <a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland: In Search of a Haunted Country">Ghostland: In Search of a Haunted Country</a>
         </h4>
         <p class="fr-book-author">By Edward Parnell</p>
-        
+
         <p class="fr-book-desc">Lake District folklore fits naturally with its themes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -364,7 +364,7 @@ Is Glastonbury haunted or myth-made? The most grounded answer is that it is myth
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Britain and Ireland">Haunted Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Richard Jones</p>
-        
+
         <p class="fr-book-desc">Provides broader context for Glastonbury hauntings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ Is Glastonbury haunted or myth-made? The most grounded answer is that it is myth
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Places Avalon and monastic legends into wider folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ Is Glastonbury haunted or myth-made? The most grounded answer is that it is myth
           <a href="https://www.amazon.com/s?k=Glastonbury+Violet+M.+Firth+%28Dion+Fortune%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Glastonbury">Glastonbury</a>
         </h4>
         <p class="fr-book-author">By Violet M. Firth (Dion Fortune)</p>
-        
+
         <p class="fr-book-desc">First published 1934. Subjects: Antiquities, Occult sciences, Glastonbury abbey, Christian antiquities, Occultism.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Glastonbury+Violet+M.+Firth+%28Dion+Fortune%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ Is Glastonbury haunted or myth-made? The most grounded answer is that it is myth
           <a href="https://www.amazon.com/s?k=Glastonbury%3A+Avalon+of+the+Heart+Dion+Fortune&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Glastonbury: Avalon of the Heart">Glastonbury: Avalon of the Heart</a>
         </h4>
         <p class="fr-book-author">By Dion Fortune</p>
-        
+
         <p class="fr-book-desc">Explores the myths that shape Glastonbury&#x27;s haunted reputation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Glastonbury%3A+Avalon+of+the+Heart+Dion+Fortune&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

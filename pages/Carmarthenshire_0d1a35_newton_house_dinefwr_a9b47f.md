@@ -375,7 +375,7 @@ For visitors, that makes Newton House one of the most readable haunted places in
           <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Wales">Ghosts of Wales</a>
         </h4>
         <p class="fr-book-author">By Mark Rees</p>
-        
+
         <p class="fr-book-desc">Provides wider haunted-estate context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ For visitors, that makes Newton House one of the most readable haunted places in
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Wales">Haunted Wales</a>
         </h4>
         <p class="fr-book-author">By Richard Holland</p>
-        
+
         <p class="fr-book-desc">Includes notable haunted Welsh locations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ For visitors, that makes Newton House one of the most readable haunted places in
           <a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Welsh fairy book">The Welsh fairy book</a>
         </h4>
         <p class="fr-book-author">By W. Jenkyn Thomas</p>
-        
+
         <p class="fr-book-desc">First published 1907. Subjects: Welsh Mythology, Tales, Fairies, Mythology, Welsh, Fairy tales.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ For visitors, that makes Newton House one of the most readable haunted places in
           <a href="https://www.amazon.com/s?k=The+Little+Book+of+Welsh+Ghost+Stories+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of Welsh Ghost Stories">The Little Book of Welsh Ghost Stories</a>
         </h4>
         <p class="fr-book-author">By Mark Rees</p>
-        
+
         <p class="fr-book-desc">Fits Newton House&#x27;s reputation as a famous Welsh haunted house.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Little+Book+of+Welsh+Ghost+Stories+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

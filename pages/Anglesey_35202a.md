@@ -815,7 +815,7 @@ Anglesey’s haunted history is most convincing when read as a conversation betw
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Haunted House Stories">The Mammoth Book of Haunted House Stories</a>
         </h4>
         <p class="fr-book-author">By Peter Haining</p>
-        
+
         <p class="fr-book-desc">Broad haunted Britain reading that fits Anglesey ghost interest.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -832,7 +832,7 @@ Anglesey’s haunted history is most convincing when read as a conversation betw
           <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Wales">Ghosts of Wales</a>
         </h4>
         <p class="fr-book-author">By Mark Rees</p>
-        
+
         <p class="fr-book-desc">Covers Welsh ghost traditions relevant to Anglesey.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -849,7 +849,7 @@ Anglesey’s haunted history is most convincing when read as a conversation betw
           <a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Welsh fairy book">The Welsh fairy book</a>
         </h4>
         <p class="fr-book-author">By W. Jenkyn Thomas</p>
-        
+
         <p class="fr-book-desc">Provides wider Welsh supernatural context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -866,7 +866,7 @@ Anglesey’s haunted history is most convincing when read as a conversation betw
           <a href="https://www.amazon.com/s?k=The+Lore+of+Wales+Trevor+Fishlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Wales">The Lore of Wales</a>
         </h4>
         <p class="fr-book-author">By Trevor Fishlock</p>
-        
+
         <p class="fr-book-desc">Explores the myths, legends and folklore that underpin Anglesey traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lore+of+Wales+Trevor+Fishlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

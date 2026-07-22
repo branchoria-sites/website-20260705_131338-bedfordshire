@@ -381,7 +381,7 @@ For a visitor or reader, the lesson is simple. Ettrick Forest was not haunted on
           <a href="https://www.amazon.com/s?k=The+brownie+of+Bodsbeck+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The brownie of Bodsbeck">The brownie of Bodsbeck</a>
         </h4>
         <p class="fr-book-author">By James Hogg</p>
-        
+
         <p class="fr-book-desc">Directly inspired by the Brownie of Bodsbeck tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+brownie+of+Bodsbeck+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,10 +398,27 @@ For a visitor or reader, the lesson is simple. Ettrick Forest was not haunted on
           <a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish fairy belief">Scottish fairy belief</a>
         </h4>
         <p class="fr-book-author">By Lizanne Henderson</p>
-        
+
         <p class="fr-book-desc">Explains brownies and supernatural belief in Scotland.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lm35Hwa9DNEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lore of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland">The Lore of Scotland</a>
+        </h4>
+        <p class="fr-book-author">By Jennifer Westwood, Sophia Kingshill</p>
+
+        <p class="fr-book-desc">Covers brownies, spirits and Scottish legendary traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -415,7 +432,7 @@ For a visitor or reader, the lesson is simple. Ettrick Forest was not haunted on
           <a href="https://www.amazon.com/s?k=The+Private+Memoirs+and+Confessions+of+A+Justified+Sinner+%28With+A+Detail+of+Curious+Traditionary+Facts%2C+And+Other+Evidence%2C+By+The+Editor%29+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Private Memoirs and Confessions of A Justified Sinner (With A Detail of Curious Traditionary Facts, And Other Evidence, By The Editor)">The Private Memoirs and Confessions of A Justified Sinner (Wi...</a>
         </h4>
         <p class="fr-book-author">By James Hogg</p>
-        
+
         <p class="fr-book-desc">First published 1824. Subjects: fiction, Scottish fiction, Murderers, Classics, Psychological.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Private+Memoirs+and+Confessions+of+A+Justified+Sinner+%28With+A+Detail+of+Curious+Traditionary+Facts%2C+And+Other+Evidence%2C+By+The+Editor%29+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,26 +441,9 @@ For a visitor or reader, the lesson is simple. Ettrick Forest was not haunted on
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of Scotland">The lore of Scotland</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Westwood</p>
-        
-        <p class="fr-book-desc">Covers brownies, spirits and Scottish legendary traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+brownie+of+Bodsbeck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The brownie of Bodsbeck</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+fairy+belief&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish fairy belief</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Private+Memoirs+Confessions+Justified&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Private Memoirs Confessions Justified</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+brownie+of+Bodsbeck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The brownie of Bodsbeck</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+fairy+belief&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish fairy belief</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of Scotland</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

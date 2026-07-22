@@ -842,7 +842,7 @@ For haunted-place visitors, County Antrim rewards a grounded approach. Go for th
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Haunted House Stories">The Mammoth Book of Haunted House Stories</a>
         </h4>
         <p class="fr-book-author">By Peter Haining</p>
-        
+
         <p class="fr-book-desc">Complements interest in haunted buildings and ghost traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -859,7 +859,7 @@ For haunted-place visitors, County Antrim rewards a grounded approach. Go for th
           <a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="British Goblins">British Goblins</a>
         </h4>
         <p class="fr-book-author">By Wirt Sikes</p>
-        
+
         <p class="fr-book-desc">Provides historical background on Celtic and Welsh supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -876,7 +876,7 @@ For haunted-place visitors, County Antrim rewards a grounded approach. Go for th
           <a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s most haunted places">The world&#x27;s most haunted places</a>
         </h4>
         <p class="fr-book-author">By Jeff Belanger</p>
-        
+
         <p class="fr-book-desc">Covers famous haunted locations and provides context for haunted-place traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -893,7 +893,7 @@ For haunted-place visitors, County Antrim rewards a grounded approach. Go for th
           <a href="https://www.amazon.com/s?k=Haunted+Ireland+David+Gerrard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Ireland">Haunted Ireland</a>
         </h4>
         <p class="fr-book-author">By David Gerrard</p>
-        
+
         <p class="fr-book-desc">Strong fit for readers exploring Irish ghost folklore including Ulster.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Ireland+David+Gerrard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -830,7 +830,7 @@ That is why Norfolk works so well as a haunted-history page. Its stories are viv
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Excellent foundation for Norfolk legends and ghost stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -847,7 +847,7 @@ That is why Norfolk works so well as a haunted-history page. Its stories are viv
           <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Stephen Roud</p>
-        
+
         <p class="fr-book-desc">Explains traditions behind East Anglian supernatural beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -864,7 +864,7 @@ That is why Norfolk works so well as a haunted-history page. Its stories are viv
           <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
         </h4>
         <p class="fr-book-author">By Edward Parnell</p>
-        
+
         <p class="fr-book-desc">Strong thematic fit for East Anglian landscapes and folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -881,7 +881,7 @@ That is why Norfolk works so well as a haunted-history page. Its stories are viv
           <a href="https://www.amazon.com/s?k=The+Folklore+of+Norfolk+Michael+O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Folklore of Norfolk">The Folklore of Norfolk</a>
         </h4>
         <p class="fr-book-author">By Michael O&#x27;Connor</p>
-        
+
         <p class="fr-book-desc">Focuses on Norfolk&#x27;s distinctive legends and traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Folklore+of+Norfolk+Michael+O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

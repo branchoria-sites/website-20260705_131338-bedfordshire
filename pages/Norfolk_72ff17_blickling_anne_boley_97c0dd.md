@@ -343,7 +343,7 @@ For visitors, the legend changes how the estate is imagined. By daylight, Blickl
           <a href="https://www.amazon.com/s?k=The+six+wives+of+Henry+VIII+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The six wives of Henry VIII">The six wives of Henry VIII</a>
         </h4>
         <p class="fr-book-author">By Alison Weir</p>
-        
+
         <p class="fr-book-desc">Provides essential historical context for Anne Boleyn and the legends surrounding her.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+six+wives+of+Henry+VIII+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ For visitors, the legend changes how the estate is imagined. By daylight, Blickl
           <a href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Castles of Britain and Ireland">Haunted Castles of Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Richard Jones</p>
-        
+
         <p class="fr-book-desc">Places Blickling&#x27;s ghost traditions within Britain&#x27;s wider haunted house folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ For visitors, the legend changes how the estate is imagined. By daylight, Blickl
           <a href="https://www.amazon.com/s?k=The+Lady+In+The+Tower+The+Fall+Of+Anne+Boleyn+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lady In The Tower The Fall Of Anne Boleyn">The Lady In The Tower The Fall Of Anne Boleyn</a>
         </h4>
         <p class="fr-book-author">By Alison Weir</p>
-        
+
         <p class="fr-book-desc">First published 2010. Subjects: New York Times reviewed, Anne boleyn, queen, consort of henry viii, king of england, 1507-1536, Queens, g...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lady+In+The+Tower+The+Fall+Of+Anne+Boleyn+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For visitors, the legend changes how the estate is imagined. By daylight, Blickl
           <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Stephen Roud</p>
-        
+
         <p class="fr-book-desc">First published 2006. Subjects: Nonfiction, Reference, Superstition, Dictionaries, History.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

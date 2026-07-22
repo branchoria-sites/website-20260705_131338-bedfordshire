@@ -361,7 +361,7 @@ That is the deeper answer to why Silent Pool became so haunted. Not because the 
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Explores legendary landscapes and place traditions across Britain.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ That is the deeper answer to why Silent Pool became so haunted. Not because the 
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
         </h4>
         <p class="fr-book-author">By Jan Harold Brunvand</p>
-        
+
         <p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ That is the deeper answer to why Silent Pool became so haunted. Not because the 
           <a href="https://www.amazon.com/s?k=Haunted+Surrey+David+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Surrey">Haunted Surrey</a>
         </h4>
         <p class="fr-book-author">By David Rose</p>
-        
+
         <p class="fr-book-desc">Frequently covers the Silent Pool legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Surrey+David+Rose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ That is the deeper answer to why Silent Pool became so haunted. Not because the 
           <a href="https://www.amazon.com/s?k=The+Folklore+of+Surrey+Janet+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Folklore of Surrey">The Folklore of Surrey</a>
         </h4>
         <p class="fr-book-author">By Janet Dowling</p>
-        
+
         <p class="fr-book-desc">Examines the legends that surround Surrey landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Folklore+of+Surrey+Janet+Dowling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

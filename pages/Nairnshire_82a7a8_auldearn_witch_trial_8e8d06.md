@@ -385,7 +385,7 @@ For Nairnshire’s haunted map, Auldearn therefore occupies a distinctive place.
           <a href="https://www.amazon.com/s?k=The+visions+of+Isobel+Gowdie+Emma+Wilby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The visions of Isobel Gowdie">The visions of Isobel Gowdie</a>
         </h4>
         <p class="fr-book-author">By Emma Wilby</p>
-        
+
         <p class="fr-book-desc">Centred on Isobel Gowdie and the Auldearn confessions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+visions+of+Isobel+Gowdie+Emma+Wilby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ For Nairnshire’s haunted map, Auldearn therefore occupies a distinctive place.
           <a href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch-Hunters+J.+Goodare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Witches and Witch-Hunters">Scottish Witches and Witch-Hunters</a>
         </h4>
         <p class="fr-book-author">By J. Goodare</p>
-        
+
         <p class="fr-book-desc">Explores Scottish witchcraft beliefs that shaped Gowdie&#x27;s case.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch-Hunters+J.+Goodare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ For Nairnshire’s haunted map, Auldearn therefore occupies a distinctive place.
           <a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish fairy belief">Scottish fairy belief</a>
         </h4>
         <p class="fr-book-author">By Lizanne Henderson</p>
-        
+
         <p class="fr-book-desc">Explains fairy beliefs reflected in Isobel Gowdie&#x27;s testimony.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ For Nairnshire’s haunted map, Auldearn therefore occupies a distinctive place.
           <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
         </h4>
         <p class="fr-book-author">By Judy Hamilton</p>
-        
+
         <p class="fr-book-desc">First published 2009. Subjects: Tales, Legends, Folklore, Legends, scotland.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

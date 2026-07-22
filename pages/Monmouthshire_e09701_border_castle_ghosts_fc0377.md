@@ -361,7 +361,7 @@ The careful conclusion is this: Monmouthshire’s border-castle ghosts are best 
           <a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="British Goblins">British Goblins</a>
         </h4>
         <p class="fr-book-author">By Wirt Sikes</p>
-        
+
         <p class="fr-book-desc">Supports understanding of Welsh supernatural beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ The careful conclusion is this: Monmouthshire’s border-castle ghosts are best 
           <a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Welsh fairy book">The Welsh fairy book</a>
         </h4>
         <p class="fr-book-author">By W. Jenkyn Thomas</p>
-        
+
         <p class="fr-book-desc">Broader legendary context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ The careful conclusion is this: Monmouthshire’s border-castle ghosts are best 
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Wales">Haunted Wales</a>
         </h4>
         <p class="fr-book-author">By Richard Holland</p>
-        
+
         <p class="fr-book-desc">Includes haunted Welsh locations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ The careful conclusion is this: Monmouthshire’s border-castle ghosts are best 
           <a href="https://www.amazon.com/s?k=The+Castles+of+Wales+John+Hilling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Castles of Wales">The Castles of Wales</a>
         </h4>
         <p class="fr-book-author">By John Hilling</p>
-        
+
         <p class="fr-book-desc">Historical background for Chepstow, Raglan and Abergavenny.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Castles+of+Wales+John+Hilling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

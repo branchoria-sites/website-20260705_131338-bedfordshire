@@ -374,7 +374,7 @@ Lough Erne gives Fermanagh a haunted mechanism: water separates, carries, concea
           <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Stephen Roud</p>
-        
+
         <p class="fr-book-desc">Explains supernatural beliefs associated with landscape and water.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ Lough Erne gives Fermanagh a haunted mechanism: water separates, carries, concea
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Britain and Ireland">Haunted Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Richard Jones</p>
-        
+
         <p class="fr-book-desc">Offers comparable haunted waterside locations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ Lough Erne gives Fermanagh a haunted mechanism: water separates, carries, concea
           <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meeting the Other Crowd">Meeting the Other Crowd</a>
         </h4>
         <p class="fr-book-author">By Carolyn Eve Green, Eddie Lenihan</p>
-        
+
         <p class="fr-book-desc">Strong match for lake, fairy and otherworld traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ Lough Erne gives Fermanagh a haunted mechanism: water separates, carries, concea
           <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
         </h4>
         <p class="fr-book-author">By Aaron Mahnke</p>
-        
+
         <p class="fr-book-desc">Broadens folklore interest beyond local legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

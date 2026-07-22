@@ -363,7 +363,7 @@ That does not make the stories worthless. It makes them readable. A careful haun
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Explains traditions surrounding historic estates.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ That does not make the stories worthless. It makes them readable. A careful haun
           <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
         </h4>
         <p class="fr-book-author">By Edward Parnell</p>
-        
+
         <p class="fr-book-desc">Examines ruins, memory and haunting.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ That does not make the stories worthless. It makes them readable. A careful haun
           <a href="https://www.amazon.com/s?k=Story+of+the+Country+House+Clive+Aslet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Story of the Country House">Story of the Country House</a>
         </h4>
         <p class="fr-book-author">By Clive Aslet</p>
-        
+
         <p class="fr-book-desc">First published 2021. Subjects: Architecture, Country homes, History, ARCHITECTURE / General.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Story+of+the+Country+House+Clive+Aslet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ That does not make the stories worthless. It makes them readable. A careful haun
           <a href="https://www.amazon.com/s?k=Haunted+houses+of+Britain+and+Ireland+Jones%2C+Richard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted houses of Britain and Ireland">Haunted houses of Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Jones, Richard</p>
-        
+
         <p class="fr-book-desc">Directly matches haunted historic houses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+houses+of+Britain+and+Ireland+Jones%2C+Richard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

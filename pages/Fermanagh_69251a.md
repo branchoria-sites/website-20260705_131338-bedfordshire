@@ -804,7 +804,7 @@ Taken together, these traditions make Fermanagh one of the most quietly distinct
           <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Stephen Roud</p>
-        
+
         <p class="fr-book-desc">Provides context for Irish ghost, fairy and banshee traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -821,7 +821,7 @@ Taken together, these traditions make Fermanagh one of the most quietly distinct
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Britain and Ireland">Haunted Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Richard Jones</p>
-        
+
         <p class="fr-book-desc">Matches readers exploring haunted counties.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -838,7 +838,7 @@ Taken together, these traditions make Fermanagh one of the most quietly distinct
           <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meeting the Other Crowd">Meeting the Other Crowd</a>
         </h4>
         <p class="fr-book-author">By Carolyn Eve Green, Eddie Lenihan</p>
-        
+
         <p class="fr-book-desc">Strong fit for rural Ulster supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -855,7 +855,7 @@ Taken together, these traditions make Fermanagh one of the most quietly distinct
           <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
         </h4>
         <p class="fr-book-author">By Aaron Mahnke</p>
-        
+
         <p class="fr-book-desc">Expands readers into wider supernatural folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

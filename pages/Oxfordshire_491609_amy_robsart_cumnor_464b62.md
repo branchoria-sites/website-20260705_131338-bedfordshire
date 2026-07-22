@@ -362,7 +362,7 @@ What makes the Cumnor story endure is not certainty, but the opposite. A young w
           <a href="https://www.amazon.com/s?k=Kenilworth+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kenilworth">Kenilworth</a>
         </h4>
         <p class="fr-book-author">By Sir Walter Scott</p>
-        
+
         <p class="fr-book-desc">Fictionalised version of Amy Robsart&#x27;s story that shaped later folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Kenilworth+Sir+Walter+Scott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ What makes the Cumnor story endure is not certainty, but the opposite. A young w
           <a href="https://www.amazon.com/s?k=The+life+of+Elizabeth+I+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The life of Elizabeth I">The life of Elizabeth I</a>
         </h4>
         <p class="fr-book-author">By Alison Weir</p>
-        
+
         <p class="fr-book-desc">Explains the court politics surrounding Amy Robsart and Robert Dudley.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+life+of+Elizabeth+I+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ What makes the Cumnor story endure is not certainty, but the opposite. A young w
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Places Amy Robsart&#x27;s haunting within English folklore traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ What makes the Cumnor story endure is not certainty, but the opposite. A young w
           <a href="https://www.amazon.com/s?k=Children+of+Henry+VIII+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Children of Henry VIII">Children of Henry VIII</a>
         </h4>
         <p class="fr-book-author">By Alison Weir</p>
-        
+
         <p class="fr-book-desc">Provides wider context for Elizabethan politics and the scandal.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Children+of+Henry+VIII+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

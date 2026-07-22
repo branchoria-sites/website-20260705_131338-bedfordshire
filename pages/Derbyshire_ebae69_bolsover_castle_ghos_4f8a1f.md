@@ -364,7 +364,7 @@ For readers interested in haunted Derbyshire, the best way to understand Bolsove
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Provides wider context for Derbyshire legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ For readers interested in haunted Derbyshire, the best way to understand Bolsove
           <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
         </h4>
         <p class="fr-book-author">By Edward Parnell</p>
-        
+
         <p class="fr-book-desc">First published 2019. Subjects: Psychology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ For readers interested in haunted Derbyshire, the best way to understand Bolsove
           <a href="https://www.amazon.com/s?k=haunted+britain+antony+d.+hippisley+coxe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="haunted britain">haunted britain</a>
         </h4>
         <p class="fr-book-author">By antony d. hippisley coxe</p>
-        
+
         <p class="fr-book-desc">Places Bolsover among Britain&#x27;s famous haunted locations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=haunted+britain+antony+d.+hippisley+coxe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ For readers interested in haunted Derbyshire, the best way to understand Bolsove
           <a href="https://www.amazon.com/s?k=Bolsover+Castle+Jonathan+Foyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bolsover Castle">Bolsover Castle</a>
         </h4>
         <p class="fr-book-author">By Jonathan Foyle</p>
-        
+
         <p class="fr-book-desc">Directly explains the castle&#x27;s architecture and history behind the ghost stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bolsover+Castle+Jonathan+Foyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

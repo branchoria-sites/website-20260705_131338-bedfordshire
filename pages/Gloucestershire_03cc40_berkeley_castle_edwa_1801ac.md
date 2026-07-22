@@ -355,7 +355,7 @@ The most honest conclusion is also the most haunting. Edward II’s screams are 
           <a href="https://www.amazon.com/s?k=The+Greatest+Traitor%3A+The+Life+of+Sir+Roger+Mortimer%2C+Ruler+of+England+1327-1330+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Greatest Traitor: The Life of Sir Roger Mortimer, Ruler of England 1327-1330">The Greatest Traitor: The Life of Sir Roger Mortimer, Ruler o...</a>
         </h4>
         <p class="fr-book-author">By Ian Mortimer</p>
-        
+
         <p class="fr-book-desc">Explains the political crisis surrounding Edward II and Berkeley Castle.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Greatest+Traitor%3A+The+Life+of+Sir+Roger+Mortimer%2C+Ruler+of+England+1327-1330+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ The most honest conclusion is also the most haunting. Edward II’s screams are 
           <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The time traveller&#x27;s guide to medieval England">The time traveller&#x27;s guide to medieval England</a>
         </h4>
         <p class="fr-book-author">By Ian Mortimer</p>
-        
+
         <p class="fr-book-desc">Provides vivid background to the world of Berkeley Castle.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ The most honest conclusion is also the most haunting. Edward II’s screams are 
           <a href="https://www.amazon.com/s?k=The+perfect+king+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The perfect king">The perfect king</a>
         </h4>
         <p class="fr-book-author">By Ian Mortimer</p>
-        
+
         <p class="fr-book-desc">Covers the aftermath of Edward II&#x27;s death and its historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+perfect+king+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ The most honest conclusion is also the most haunting. Edward II’s screams are 
           <a href="https://www.amazon.com/s?k=Edward+II+Kathryn+Warner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Edward II">Edward II</a>
         </h4>
         <p class="fr-book-author">By Kathryn Warner, Ian Mortimer</p>
-        
+
         <p class="fr-book-desc">Focuses directly on Edward II, his captivity and disputed death.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Edward+II+Kathryn+Warner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

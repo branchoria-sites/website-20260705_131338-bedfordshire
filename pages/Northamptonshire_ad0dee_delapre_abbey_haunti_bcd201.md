@@ -363,7 +363,7 @@ The most credible claim is not that Delapré is “proved” haunted, but that i
           <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The time traveller&#x27;s guide to medieval England">The time traveller&#x27;s guide to medieval England</a>
         </h4>
         <p class="fr-book-author">By Ian Mortimer</p>
-        
+
         <p class="fr-book-desc">Provides vivid context for the abbey&#x27;s medieval origins.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ The most credible claim is not that Delapré is “proved” haunted, but that i
           <a href="https://www.amazon.com/s?k=The+Hollow+Crown+Dan+Jones+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hollow Crown">The Hollow Crown</a>
         </h4>
         <p class="fr-book-author">By Dan Jones - undifferentiated</p>
-        
+
         <p class="fr-book-desc">Covers the political world surrounding the Battle of Northampton.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hollow+Crown+Dan+Jones+-+undifferentiated&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ The most credible claim is not that Delapré is “proved” haunted, but that i
           <a href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Castles of Britain and Ireland">Haunted Castles of Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Richard Jones</p>
-        
+
         <p class="fr-book-desc">Relevant to historic estates with reported hauntings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ The most credible claim is not that Delapré is “proved” haunted, but that i
           <a href="https://www.amazon.com/s?k=haunted+britain+antony+d.+hippisley+coxe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="haunted britain">haunted britain</a>
         </h4>
         <p class="fr-book-author">By antony d. hippisley coxe</p>
-        
+
         <p class="fr-book-desc">Broadens interest beyond one abbey to national ghost traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=haunted+britain+antony+d.+hippisley+coxe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -357,13 +357,30 @@ The best conclusion is modest but satisfying. Carbisdale Castle is not “proved
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10804655-M.jpg" alt="Cover for Scottish Ghost Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Ghost Stories">Scottish Ghost Stories</a>
+        </h4>
+        <p class="fr-book-author">By Robertson, James</p>
+
+        <p class="fr-book-desc">Supports the haunting aspect of the page.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scotland+History+of+a+Nation+David+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scotland History of a Nation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4861388-M.jpg" alt="Cover for Scotland History of a Nation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Scotland+History+of+a+Nation+David+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scotland History of a Nation">Scotland History of a Nation</a>
         </h4>
         <p class="fr-book-author">By David Ross</p>
-        
+
         <p class="fr-book-desc">Provides historical background to the conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scotland+History+of+a+Nation+David+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,33 +391,16 @@ The best conclusion is modest but satisfying. Carbisdale Castle is not “proved
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+prophecies+of+the+Brahan+seer+%28Coinneach+Odhar+Fiosaiche%29+Alexander+Mackenzie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The prophecies of the Brahan seer (Coinneach Odhar Fiosaiche) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6852083-M.jpg" alt="Cover for The prophecies of the Brahan seer (Coinneach Odhar Fiosaiche)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+prophecies+of+the+Brahan+seer+%28Coinneach+Odhar+Fiosaiche%29+Alexander+Mackenzie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The prophecies of the Brahan seer (Coinneach Odhar Fiosaiche)">The prophecies of the Brahan seer (Coinneach Odhar Fiosaiche)</a>
+          <a href="https://www.amazon.com/s?k=The+lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of Scotland">The lore of Scotland</a>
         </h4>
-        <p class="fr-book-author">By Alexander Mackenzie</p>
-        
-        <p class="fr-book-desc">First published 1882. Subjects: Prophecies, Precognition, Second sight.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+prophecies+of+the+Brahan+seer+%28Coinneach+Odhar+Fiosaiche%29+Alexander+Mackenzie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+        <p class="fr-book-author">By Jennifer Westwood</p>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gaelic+otherworld+Campbell%2C+John+Gregorson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gaelic otherworld on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/886636-M.jpg" alt="Cover for The Gaelic otherworld" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gaelic+otherworld+Campbell%2C+John+Gregorson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gaelic otherworld">The Gaelic otherworld</a>
-        </h4>
-        <p class="fr-book-author">By Campbell, John Gregorson</p>
-        
-        <p class="fr-book-desc">First published 2005. Subjects: Folklore, Witchcraft, Mündliche Überlieferung, Aberglaube, Folklore, scotland.</p>
+        <p class="fr-book-desc">Connects battlefield legends with Scottish folklore.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gaelic+otherworld+Campbell%2C+John+Gregorson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -414,7 +414,7 @@ The best conclusion is modest but satisfying. Carbisdale Castle is not “proved
           <a href="https://www.amazon.com/s?k=Montrose%3A+The+King%27s+Champion+John+Buchan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Montrose: The King&#x27;s Champion">Montrose: The King&#x27;s Champion</a>
         </h4>
         <p class="fr-book-author">By John Buchan</p>
-        
+
         <p class="fr-book-desc">Directly relevant to the Battle of Carbisdale.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Montrose%3A+The+King%27s+Champion+John+Buchan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ The best conclusion is modest but satisfying. Carbisdale Castle is not “proved
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scotland+History+of+a+Nation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scotland History of a Nation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+prophecies+of+the+Brahan+seer+%28Coinneach+Odhar+Fiosaiche%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The prophecies of the Brahan seer (Coinneach Odhar Fiosaiche)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Gaelic+otherworld&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Gaelic otherworld</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Ghost Stories</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scotland+History+of+a+Nation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scotland History of a Nation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of Scotland</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

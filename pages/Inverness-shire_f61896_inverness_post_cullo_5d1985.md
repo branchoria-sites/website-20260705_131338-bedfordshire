@@ -402,7 +402,7 @@ That is why Inverness’s churches and prisons matter to the county’s ghost ma
           <a href="https://www.amazon.com/s?k=Culloden+Prebble%2C+John&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Culloden">Culloden</a>
         </h4>
         <p class="fr-book-author">By Prebble, John</p>
-        
+
         <p class="fr-book-desc">Explains the post-Culloden events shaping Inverness folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Culloden+Prebble%2C+John&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ That is why Inverness’s churches and prisons matter to the county’s ghost ma
           <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
         </h4>
         <p class="fr-book-author">By Judy Hamilton</p>
-        
+
         <p class="fr-book-desc">Complements the city&#x27;s historic ghost stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ That is why Inverness’s churches and prisons matter to the county’s ghost ma
           <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts">Ghosts</a>
         </h4>
         <p class="fr-book-author">By Lisa Morton</p>
-        
+
         <p class="fr-book-desc">First published 2015. Subjects: Ghosts, History, BODY, MIND &amp; SPIRIT, Parapsychology, General.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,16 +447,16 @@ That is why Inverness’s churches and prisons matter to the county’s ghost ma
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Ghosts%3A+A+Haunted+History+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosts: A Haunted History on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghosts%3A+A+Haunted+History+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts: A Haunted History">Ghosts: A Haunted History</a>
+          <a href="https://www.amazon.com/s?k=The+lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of Scotland">The lore of Scotland</a>
         </h4>
-        <p class="fr-book-author">By Lisa Morton</p>
-        
-        <p class="fr-book-desc">Explains prison, execution and haunting traditions.</p>
+        <p class="fr-book-author">By Jennifer Westwood</p>
+
+        <p class="fr-book-desc">Supports broader Highland supernatural traditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghosts%3A+A+Haunted+History+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

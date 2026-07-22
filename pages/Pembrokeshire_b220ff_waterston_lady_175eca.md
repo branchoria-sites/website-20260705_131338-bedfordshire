@@ -360,7 +360,7 @@ That is why the Waterston Lady remains more than a throwaway ghost-list entry. H
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Ghost Stories">The Penguin Book of Ghost Stories</a>
         </h4>
         <p class="fr-book-author">By Michael Newton, Michael Newton et al.</p>
-        
+
         <p class="fr-book-desc">Complements interest in apparition and roadside ghost narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ That is why the Waterston Lady remains more than a throwaway ghost-list entry. H
           <a href="https://www.amazon.com/s?k=Welsh+folk-lore%3A+a+collection+of+the+folk-tales+and+legends+of+North+Wales+Elias+Owen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Welsh folk-lore: a collection of the folk-tales and legends of North Wales">Welsh folk-lore: a collection of the folk-tales and legends o...</a>
         </h4>
         <p class="fr-book-author">By Elias Owen</p>
-        
+
         <p class="fr-book-desc">Documents traditional Welsh supernatural beliefs including apparitions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Welsh+folk-lore%3A+a+collection+of+the+folk-tales+and+legends+of+North+Wales+Elias+Owen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ That is why the Waterston Lady remains more than a throwaway ghost-list entry. H
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Wales">Haunted Wales</a>
         </h4>
         <p class="fr-book-author">By Richard Holland</p>
-        
+
         <p class="fr-book-desc">Strong match for roadside ghost traditions in Wales.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ That is why the Waterston Lady remains more than a throwaway ghost-list entry. H
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Celtic Myths and Legends">The Mammoth Book of Celtic Myths and Legends</a>
         </h4>
         <p class="fr-book-author">By Peter Berresford Ellis</p>
-        
+
         <p class="fr-book-desc">First published 2002. Subjects: Celtic Mythology, Tales, Fiction, Celts, Mythology, Celtic.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

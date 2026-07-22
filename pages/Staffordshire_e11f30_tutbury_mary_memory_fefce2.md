@@ -392,7 +392,7 @@ That is why the most honest answer to “Is Mary still felt at Tutbury?” is: y
           <a href="https://www.amazon.com/s?k=Mary%2C+Queen+of+Scots+Antonia+Fraser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mary, Queen of Scots">Mary, Queen of Scots</a>
         </h4>
         <p class="fr-book-author">By Antonia Fraser</p>
-        
+
         <p class="fr-book-desc">Explains Mary&#x27;s imprisonment, including her time at Tutbury.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mary%2C+Queen+of+Scots+Antonia+Fraser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ That is why the most honest answer to “Is Mary still felt at Tutbury?” is: y
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Shows how historic sites become centres of legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ That is why the most honest answer to “Is Mary still felt at Tutbury?” is: y
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Britain and Ireland">Haunted Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Richard Jones</p>
-        
+
         <p class="fr-book-desc">Places Tutbury among Britain&#x27;s wider ghost traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ That is why the most honest answer to “Is Mary still felt at Tutbury?” is: y
           <a href="https://www.amazon.com/s?k=Queen+of+Scots+J.+A.+%28John+Alexander%29+Guy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Queen of Scots">Queen of Scots</a>
         </h4>
         <p class="fr-book-author">By J. A. (John Alexander) Guy</p>
-        
+
         <p class="fr-book-desc">Provides detailed historical context behind the ghost tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Queen+of+Scots+J.+A.+%28John+Alexander%29+Guy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

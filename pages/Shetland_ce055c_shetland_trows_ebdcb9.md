@@ -363,7 +363,7 @@ For visitors and readers, trow lore changes how Shetland’s landscape is read. 
           <a href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland+Ernest+W.+Marwick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of Orkney and Shetland">The folklore of Orkney and Shetland</a>
         </h4>
         <p class="fr-book-author">By Ernest W. Marwick, Robert White</p>
-        
+
         <p class="fr-book-desc">The strongest dedicated source for trows, fairy belief and Northern Isles folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland+Ernest+W.+Marwick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ For visitors and readers, trow lore changes how Shetland’s landscape is read. 
           <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
         </h4>
         <p class="fr-book-author">By Judy Hamilton</p>
-        
+
         <p class="fr-book-desc">Introduces readers to the wider mythological landscape surrounding stories like the trows.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ For visitors and readers, trow lore changes how Shetland’s landscape is read. 
           <a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish fairy belief">Scottish fairy belief</a>
         </h4>
         <p class="fr-book-author">By Lizanne Henderson</p>
-        
+
         <p class="fr-book-desc">Places Shetland trows within wider Scottish fairy traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ For visitors and readers, trow lore changes how Shetland’s landscape is read. 
           <a href="https://www.amazon.com/s?k=The+Gaelic+otherworld+Campbell%2C+John+Gregorson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gaelic otherworld">The Gaelic otherworld</a>
         </h4>
         <p class="fr-book-author">By Campbell, John Gregorson</p>
-        
+
         <p class="fr-book-desc">Explores Celtic supernatural beliefs closely related to fairy lore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Gaelic+otherworld+Campbell%2C+John+Gregorson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

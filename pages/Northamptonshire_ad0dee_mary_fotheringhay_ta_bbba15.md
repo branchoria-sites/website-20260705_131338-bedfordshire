@@ -381,7 +381,7 @@ Mary’s Staircase does not need to be treated as proven supernatural evidence t
           <a href="https://www.amazon.com/s?k=Mary%2C+Queen+of+Scots+Antonia+Fraser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mary, Queen of Scots">Mary, Queen of Scots</a>
         </h4>
         <p class="fr-book-author">By Antonia Fraser</p>
-        
+
         <p class="fr-book-desc">Definitive background to Mary&#x27;s imprisonment and execution at Fotheringhay.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mary%2C+Queen+of+Scots+Antonia+Fraser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ Mary’s Staircase does not need to be treated as proven supernatural evidence t
           <a href="https://www.amazon.com/s?k=Queen%27s+Mary+Sarah+Gristwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Queen&#x27;s Mary">Queen&#x27;s Mary</a>
         </h4>
         <p class="fr-book-author">By Sarah Gristwood</p>
-        
+
         <p class="fr-book-desc">Expands understanding of Mary Queen of Scots and her circle.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Queen%27s+Mary+Sarah+Gristwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ Mary’s Staircase does not need to be treated as proven supernatural evidence t
           <a href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Castles of Britain and Ireland">Haunted Castles of Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Richard Jones</p>
-        
+
         <p class="fr-book-desc">First published 2003.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ Mary’s Staircase does not need to be treated as proven supernatural evidence t
           <a href="https://www.amazon.com/s?k=haunted+britain+antony+d.+hippisley+coxe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="haunted britain">haunted britain</a>
         </h4>
         <p class="fr-book-author">By antony d. hippisley coxe</p>
-        
+
         <p class="fr-book-desc">First published 1973.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=haunted+britain+antony+d.+hippisley+coxe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

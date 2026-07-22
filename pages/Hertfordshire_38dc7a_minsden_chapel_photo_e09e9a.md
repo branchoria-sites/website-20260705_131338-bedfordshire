@@ -339,7 +339,7 @@ That visibility is what makes the case memorable. The monk may not have stepped 
 <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Britain and Ireland">Haunted Britain and Ireland</a>
 </h4>
 <p class="fr-book-author">By Richard Jones</p>
-        
+
 <p class="fr-book-desc">First published 2001. Subjects: Ghosts, Haunted places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ That visibility is what makes the case memorable. The monk may not have stepped 
 <a href="https://www.amazon.com/s?k=The+folklore+of+Hertfordshire+Doris+Jones-Baker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of Hertfordshire">The folklore of Hertfordshire</a>
 </h4>
 <p class="fr-book-author">By Doris Jones-Baker</p>
-        
+
 <p class="fr-book-desc">First published 1977. Subjects: Folklore, Social life and customs, England, social life and customs, Folklore, great britain, Hertfordshi...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+folklore+of+Hertfordshire+Doris+Jones-Baker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ That visibility is what makes the case memorable. The monk may not have stepped 
 <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts">Ghosts</a>
 </h4>
 <p class="fr-book-author">By Lisa Morton</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: Ghosts, History, BODY, MIND &amp; SPIRIT, Parapsychology, General.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ That visibility is what makes the case memorable. The monk may not have stepped 
 <a href="https://www.amazon.com/s?k=Ghosts%3A+A+Haunted+History+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts: A Haunted History">Ghosts: A Haunted History</a>
 </h4>
 <p class="fr-book-author">By Lisa Morton</p>
-        
+
 <p class="fr-book-desc">Explores belief, evidence and famous ghost claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ghosts%3A+A+Haunted+History+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

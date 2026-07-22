@@ -357,7 +357,7 @@ This is why The Commandery’s Civil War ghosts still work as public folklore. T
           <a href="https://www.amazon.com/s?k=ENGLISH+CIVIL+WAR%3A+A+PEOPLE%27S+HISTORY+DIANE+PURKISS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="ENGLISH CIVIL WAR: A PEOPLE&#x27;S HISTORY">ENGLISH CIVIL WAR: A PEOPLE&#x27;S HISTORY</a>
         </h4>
         <p class="fr-book-author">By DIANE PURKISS</p>
-        
+
         <p class="fr-book-desc">Directly supports the historical events behind the haunting.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=ENGLISH+CIVIL+WAR%3A+A+PEOPLE%27S+HISTORY+DIANE+PURKISS&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ This is why The Commandery’s Civil War ghosts still work as public folklore. T
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Adds folklore context to Civil War ghost traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ This is why The Commandery’s Civil War ghosts still work as public folklore. T
           <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
         </h4>
         <p class="fr-book-author">By Edward Parnell</p>
-        
+
         <p class="fr-book-desc">Explores how traumatic places become haunted in memory.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ This is why The Commandery’s Civil War ghosts still work as public folklore. T
           <a href="https://www.amazon.com/s?k=Battle+Cry+of+Freedom+Part+1+of+3+James+M.+McPherson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Battle Cry of Freedom Part 1 of 3">Battle Cry of Freedom Part 1 of 3</a>
         </h4>
         <p class="fr-book-author">By James M. McPherson</p>
-        
+
         <p class="fr-book-desc">First published 1988. Subjects: Campaigns, History, United States Civil War, 1861-1865, Amerikaanse burgeroorlog, Histoire.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Battle+Cry+of+Freedom+Part+1+of+3+James+M.+McPherson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

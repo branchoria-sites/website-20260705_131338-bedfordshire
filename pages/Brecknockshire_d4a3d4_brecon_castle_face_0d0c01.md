@@ -362,7 +362,7 @@ That balance is what makes the story worth keeping. Brecon Castle’s ghost phot
           <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The time traveller&#x27;s guide to medieval England">The time traveller&#x27;s guide to medieval England</a>
         </h4>
         <p class="fr-book-author">By Ian Mortimer</p>
-        
+
         <p class="fr-book-desc">Adds medieval castle context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ That balance is what makes the story worth keeping. Brecon Castle’s ghost phot
           <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Wales">Ghosts of Wales</a>
         </h4>
         <p class="fr-book-author">By Mark Rees</p>
-        
+
         <p class="fr-book-desc">Supports haunted castle folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ That balance is what makes the story worth keeping. Brecon Castle’s ghost phot
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Britain and Ireland">Haunted Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Richard Jones</p>
-        
+
         <p class="fr-book-desc">First published 2001. Subjects: Ghosts, Haunted places.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ That balance is what makes the story worth keeping. Brecon Castle’s ghost phot
           <a href="https://www.amazon.com/s?k=The+Castles+of+Wales+John+Hilling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Castles of Wales">The Castles of Wales</a>
         </h4>
         <p class="fr-book-author">By John Hilling</p>
-        
+
         <p class="fr-book-desc">Provides strong context for Brecon Castle.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Castles+of+Wales+John+Hilling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -373,7 +373,7 @@ The real value of these Surrey places is that they let readers hold both ideas a
           <a href="https://www.amazon.com/s?k=Haunted+Surrey+David+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Surrey">Haunted Surrey</a>
         </h4>
         <p class="fr-book-author">By David Rose</p>
-        
+
         <p class="fr-book-desc">Focuses on haunted sites such as castles, houses and ruins.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Surrey+David+Rose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ The real value of these Surrey places is that they let readers hold both ideas a
           <a href="https://www.amazon.com/s?k=The+Little+Book+of+Surrey+Martin+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of Surrey">The Little Book of Surrey</a>
         </h4>
         <p class="fr-book-author">By Martin Andrew</p>
-        
+
         <p class="fr-book-desc">Adds historical background to Surrey landmarks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Little+Book+of+Surrey+Martin+Andrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ The real value of these Surrey places is that they let readers hold both ideas a
           <a href="https://www.amazon.com/s?k=The+Folklore+of+Surrey+Janet+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Folklore of Surrey">The Folklore of Surrey</a>
         </h4>
         <p class="fr-book-author">By Janet Dowling</p>
-        
+
         <p class="fr-book-desc">Explains traditions behind reputedly haunted places.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Folklore+of+Surrey+Janet+Dowling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ The real value of these Surrey places is that they let readers hold both ideas a
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
         </h4>
         <p class="fr-book-author">By Jan Harold Brunvand</p>
-        
+
         <p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -341,7 +341,7 @@ That is why Lady Isabella has become one of Antrim’s most recognisable haunted
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Haunted House Stories">The Mammoth Book of Haunted House Stories</a>
         </h4>
         <p class="fr-book-author">By Peter Haining</p>
-        
+
         <p class="fr-book-desc">Supports interest in haunted historic residences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -358,7 +358,7 @@ That is why Lady Isabella has become one of Antrim’s most recognisable haunted
           <a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s most haunted places">The world&#x27;s most haunted places</a>
         </h4>
         <p class="fr-book-author">By Jeff Belanger</p>
-        
+
         <p class="fr-book-desc">Places Ballygally-style legends in a wider haunted-location context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ That is why Lady Isabella has become one of Antrim’s most recognisable haunted
           <a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of Ireland">The lore of Ireland</a>
         </h4>
         <p class="fr-book-author">By Dáithí Ó hÓgáin</p>
-        
+
         <p class="fr-book-desc">Explains storytelling traditions behind legends like Lady Isabella.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ That is why Lady Isabella has become one of Antrim’s most recognisable haunted
           <a href="https://www.amazon.com/s?k=Haunted+Ireland+David+Gerrard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Ireland">Haunted Ireland</a>
         </h4>
         <p class="fr-book-author">By David Gerrard</p>
-        
+
         <p class="fr-book-desc">Includes Irish haunted locations and folklore closely matching Ballygally.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Ireland+David+Gerrard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

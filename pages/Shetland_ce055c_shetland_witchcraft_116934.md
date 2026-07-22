@@ -394,7 +394,7 @@ That makes Shetland’s witchcraft traditions more than a sidebar to ghost touri
           <a href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch-Hunters+J.+Goodare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Witches and Witch-Hunters">Scottish Witches and Witch-Hunters</a>
         </h4>
         <p class="fr-book-author">By J. Goodare</p>
-        
+
         <p class="fr-book-desc">Provides the essential context for Shetland&#x27;s witch trials and beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch-Hunters+J.+Goodare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ That makes Shetland’s witchcraft traditions more than a sidebar to ghost touri
           <a href="https://www.amazon.com/s?k=The+visions+of+Isobel+Gowdie+Emma+Wilby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The visions of Isobel Gowdie">The visions of Isobel Gowdie</a>
         </h4>
         <p class="fr-book-author">By Emma Wilby</p>
-        
+
         <p class="fr-book-desc">Explores Scottish witch beliefs, fairy encounters and early modern culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+visions+of+Isobel+Gowdie+Emma+Wilby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ That makes Shetland’s witchcraft traditions more than a sidebar to ghost touri
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
         </h4>
         <p class="fr-book-author">By Katherine Howe</p>
-        
+
         <p class="fr-book-desc">Offers wider historical context for European witchcraft beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ That makes Shetland’s witchcraft traditions more than a sidebar to ghost touri
           <a href="https://www.amazon.com/s?k=Shetland+Folk+Tales+Lawrence+Tulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shetland Folk Tales">Shetland Folk Tales</a>
         </h4>
         <p class="fr-book-author">By Lawrence Tulloch</p>
-        
+
         <p class="fr-book-desc">First published 2014. Subjects: Tales, Tales, scotland.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Shetland+Folk+Tales+Lawrence+Tulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

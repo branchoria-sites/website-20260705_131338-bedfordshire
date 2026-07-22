@@ -365,7 +365,7 @@ This distinction improves rather than spoils the story. Montgomeryshire’s cast
           <a href="https://www.amazon.com/s?k=Welsh+folk-lore%3A+a+collection+of+the+folk-tales+and+legends+of+North+Wales+Elias+Owen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Welsh folk-lore: a collection of the folk-tales and legends of North Wales">Welsh folk-lore: a collection of the folk-tales and legends o...</a>
         </h4>
         <p class="fr-book-author">By Elias Owen</p>
-        
+
         <p class="fr-book-desc">Important source for Welsh ghost and legend traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Welsh+folk-lore%3A+a+collection+of+the+folk-tales+and+legends+of+North+Wales+Elias+Owen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ This distinction improves rather than spoils the story. Montgomeryshire’s cast
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Haunted House Stories">The Mammoth Book of Haunted House Stories</a>
         </h4>
         <p class="fr-book-author">By Peter Haining</p>
-        
+
         <p class="fr-book-desc">Explores why historic buildings become associated with hauntings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ This distinction improves rather than spoils the story. Montgomeryshire’s cast
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Wales">Haunted Wales</a>
         </h4>
         <p class="fr-book-author">By Richard Holland</p>
-        
+
         <p class="fr-book-desc">Strong overview of Welsh haunted places including castles.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ This distinction improves rather than spoils the story. Montgomeryshire’s cast
           <a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Welsh fairy book">The Welsh fairy book</a>
         </h4>
         <p class="fr-book-author">By W. Jenkyn Thomas</p>
-        
+
         <p class="fr-book-desc">First published 1907. Subjects: Welsh Mythology, Tales, Fairies, Mythology, Welsh, Fairy tales.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -368,7 +368,7 @@ That is why Pendle’s witch-trial hauntings are best approached as a braided tr
           <a href="https://www.amazon.com/s?k=The+discovery+of+witches+Matthew+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The discovery of witches">The discovery of witches</a>
         </h4>
         <p class="fr-book-author">By Matthew Hopkins</p>
-        
+
         <p class="fr-book-desc">Primary contemporary account of the 1612 trials.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+discovery+of+witches+Matthew+Hopkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ That is why Pendle’s witch-trial hauntings are best approached as a braided tr
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
         </h4>
         <p class="fr-book-author">By Katherine Howe</p>
-        
+
         <p class="fr-book-desc">Places Pendle within wider witchcraft traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ That is why Pendle’s witch-trial hauntings are best approached as a braided tr
           <a href="https://www.amazon.com/s?k=The+Lancashire+Witches+Robert+Poole&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lancashire Witches">The Lancashire Witches</a>
         </h4>
         <p class="fr-book-author">By Robert Poole</p>
-        
+
         <p class="fr-book-desc">Directly examines the 1612 Lancashire witch story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lancashire+Witches+Robert+Poole&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ That is why Pendle’s witch-trial hauntings are best approached as a braided tr
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Explains the beliefs behind witch persecutions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

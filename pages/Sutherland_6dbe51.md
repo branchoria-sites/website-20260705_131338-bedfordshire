@@ -815,7 +815,7 @@ That is why the best Sutherland hauntings are not simply “scary stories”. Th
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Judy Hamilton</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Tales, Legends, Folklore, Legends, scotland.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -832,7 +832,7 @@ That is why the best Sutherland hauntings are not simply “scary stories”. Th
 <a href="https://www.amazon.com/s?k=The+Highland+Clans+Alistair+Moffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Highland Clans">The Highland Clans</a>
 </h4>
 <p class="fr-book-author">By Alistair Moffat</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: Clans, History, Social life and customs, Histoire, Mœurs et coutumes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Highland+Clans+Alistair+Moffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -849,7 +849,7 @@ That is why the best Sutherland hauntings are not simply “scary stories”. Th
 <a href="https://www.amazon.com/s?k=Scotland+History+of+a+Nation+David+Ross&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scotland History of a Nation">Scotland History of a Nation</a>
 </h4>
 <p class="fr-book-author">By David Ross</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: History, Scotland - History, Histoire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Scotland+History+of+a+Nation+David+Ross&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -866,7 +866,7 @@ That is why the best Sutherland hauntings are not simply “scary stories”. Th
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland: A Guide to Scottish Legends">The Lore of Scotland: A Guide to Scottish Legends</a>
 </h4>
 <p class="fr-book-author">By Jennifer Westwood and Sophia Kingshill</p>
-        
+
 <p class="fr-book-desc">Covers legends and haunted traditions relevant to Sutherland.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland%3A+A+Guide+to+Scottish+Legends+Jennifer+Westwood+and+Sophia+Kingshill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

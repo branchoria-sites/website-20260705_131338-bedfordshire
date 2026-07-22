@@ -377,7 +377,7 @@ The result is a haunting tradition that is atmospheric without needing to be sen
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
 </h4>
 <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Tales, Legends, British Mythology, Legends, great britain.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ The result is a haunting tradition that is atmospheric without needing to be sen
 <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
 </h4>
 <p class="fr-book-author">By Stephen Roud</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: Nonfiction, Reference, Superstition, Dictionaries, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ The result is a haunting tradition that is atmospheric without needing to be sen
 <a href="https://www.amazon.com/s?k=The+Victorian+city+Judith+Flanders&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Victorian city">The Victorian city</a>
 </h4>
 <p class="fr-book-author">By Judith Flanders</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Social life and customs, Homes and haunts, Knowledge, London (England), Intellectual life.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Victorian+city+Judith+Flanders&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ The result is a haunting tradition that is atmospheric without needing to be sen
 <a href="https://www.amazon.com/s?k=Folklore+of+Lincolnshire+Susanna+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore of Lincolnshire">Folklore of Lincolnshire</a>
 </h4>
 <p class="fr-book-author">By Susanna O&#x27;Neill</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Folklore, Folklore, great britain.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folklore+of+Lincolnshire+Susanna+O%27Neill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

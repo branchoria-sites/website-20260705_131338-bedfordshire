@@ -345,7 +345,7 @@ That is why the tale remains effective even when treated sceptically. A careful 
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Britain and Ireland">Haunted Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Richard Jones</p>
-        
+
         <p class="fr-book-desc">Provides wider context for castle ghost traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ That is why the tale remains effective even when treated sceptically. A careful 
           <a href="https://www.amazon.com/s?k=English+castles+Adrian+Pettifer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="English castles">English castles</a>
         </h4>
         <p class="fr-book-author">By Adrian Pettifer</p>
-        
+
         <p class="fr-book-desc">Places Croft Castle within the wider story of English castles.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=English+castles+Adrian+Pettifer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ That is why the tale remains effective even when treated sceptically. A careful 
           <a href="https://www.amazon.com/s?k=Owain+Glyndwr+A+Casebook+Michael+Livingston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Owain Glyndwr A Casebook">Owain Glyndwr A Casebook</a>
         </h4>
         <p class="fr-book-author">By Michael Livingston</p>
-        
+
         <p class="fr-book-desc">First published 2013. Subjects: Europe, history, Glendower, owen, 1359?-1416?, Sources, History, Glendower, owen , approximately 1354-1416.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Owain+Glyndwr+A+Casebook+Michael+Livingston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ That is why the tale remains effective even when treated sceptically. A careful 
           <a href="https://www.amazon.com/s?k=Owain+Glynd%C5%B5r+Terry+Breverton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Owain Glyndŵr">Owain Glyndŵr</a>
         </h4>
         <p class="fr-book-author">By Terry Breverton</p>
-        
+
         <p class="fr-book-desc">Directly explores the historical figure linked to the Croft Castle legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Owain+Glynd%C5%B5r+Terry+Breverton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -361,7 +361,7 @@ The most memorable point is that the Llanidloes ghost is not really a single fig
           <a href="https://www.amazon.com/s?k=Welsh+folk-lore%3A+a+collection+of+the+folk-tales+and+legends+of+North+Wales+Elias+Owen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Welsh folk-lore: a collection of the folk-tales and legends of North Wales">Welsh folk-lore: a collection of the folk-tales and legends o...</a>
         </h4>
         <p class="fr-book-author">By Elias Owen</p>
-        
+
         <p class="fr-book-desc">Primary folklore source connected with Drychiolaeth and Welsh death traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Welsh+folk-lore%3A+a+collection+of+the+folk-tales+and+legends+of+North+Wales+Elias+Owen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ The most memorable point is that the Llanidloes ghost is not really a single fig
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Celtic Myths and Legends">The Mammoth Book of Celtic Myths and Legends</a>
         </h4>
         <p class="fr-book-author">By Peter Berresford Ellis</p>
-        
+
         <p class="fr-book-desc">Places Welsh supernatural beliefs within the wider Celtic tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Celtic+Myths+and+Legends+Peter+Berresford+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ The most memorable point is that the Llanidloes ghost is not really a single fig
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Ghost Stories">The Penguin Book of Ghost Stories</a>
         </h4>
         <p class="fr-book-author">By Michael Newton, Michael Newton et al.</p>
-        
+
         <p class="fr-book-desc">Explores classic ghost traditions that complement Welsh apparition lore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ The most memorable point is that the Llanidloes ghost is not really a single fig
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Wales">Haunted Wales</a>
         </h4>
         <p class="fr-book-author">By Richard Holland</p>
-        
+
         <p class="fr-book-desc">Covers haunted traditions and folklore from across Wales.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

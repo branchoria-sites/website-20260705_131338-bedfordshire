@@ -379,7 +379,7 @@ The white ladies give the ruin a human face. The marching feet and phantom armie
           <a href="https://www.amazon.com/s?k=The+folklore+of+Sussex+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of Sussex">The folklore of Sussex</a>
         </h4>
         <p class="fr-book-author">By Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Explains traditions surrounding historic Sussex sites.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+folklore+of+Sussex+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ The white ladies give the ruin a human face. The marching feet and phantom armie
           <a href="https://www.amazon.com/s?k=The+Norman+Conquest+Marc+Morris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Norman Conquest">The Norman Conquest</a>
         </h4>
         <p class="fr-book-author">By Marc Morris</p>
-        
+
         <p class="fr-book-desc">Provides historical background to Pevensey&#x27;s Norman importance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Norman+Conquest+Marc+Morris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ The white ladies give the ruin a human face. The marching feet and phantom armie
           <a href="https://www.amazon.com/s?k=1066+and+All+That+Walter+Carruthers+Sellar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="1066 and All That">1066 and All That</a>
         </h4>
         <p class="fr-book-author">By Walter Carruthers Sellar, Robert Julian Yeatman</p>
-        
+
         <p class="fr-book-desc">First published 1930. Subjects: History, Humor, History, Comic, satirical, Comic books, strips, Great Britain.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=1066+and+All+That+Walter+Carruthers+Sellar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ The white ladies give the ruin a human face. The marching feet and phantom armie
           <a href="https://www.amazon.com/s?k=Haunted+Sussex+David+Arscott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Sussex">Haunted Sussex</a>
         </h4>
         <p class="fr-book-author">By David Arscott</p>
-        
+
         <p class="fr-book-desc">Includes haunted castles and Sussex folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Sussex+David+Arscott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

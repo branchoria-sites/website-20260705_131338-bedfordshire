@@ -370,27 +370,10 @@ For visitors and readers, the most responsible way to approach the Highgate Vamp
           <a href="https://www.amazon.com/s?k=The+Highgate+vampire+Sean+Manchester&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Highgate vampire">The Highgate vampire</a>
         </h4>
         <p class="fr-book-author">By Sean Manchester</p>
-        
+
         <p class="fr-book-desc">Direct account of the Highgate Vampire story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Highgate+vampire+Sean+Manchester&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=London+-+The+Biography+%28London+a+Biography%29+Peter+Ackroyd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open London - The Biography (London a Biography) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2055740-M.jpg" alt="Cover for London - The Biography (London a Biography)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=London+-+The+Biography+%28London+a+Biography%29+Peter+Ackroyd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="London - The Biography (London a Biography)">London - The Biography (London a Biography)</a>
-        </h4>
-        <p class="fr-book-author">By Peter Ackroyd, Wright, Thomas</p>
-        
-        <p class="fr-book-desc">First published 2000. Subjects: Social life and customs, Description and travel, Dagelijks leven, History, London (england), biography.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=London+-+The+Biography+%28London+a+Biography%29+Peter+Ackroyd&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -404,10 +387,27 @@ For visitors and readers, the most responsible way to approach the Highgate Vamp
           <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
         </h4>
         <p class="fr-book-author">By Edward Parnell</p>
-        
+
         <p class="fr-book-desc">Explores Britain&#x27;s enduring fascination with haunted places.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=London+-+The+Biography+%28London+a+Biography%29+Peter+Ackroyd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open London - The Biography (London a Biography) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2055740-M.jpg" alt="Cover for London - The Biography (London a Biography)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=London+-+The+Biography+%28London+a+Biography%29+Peter+Ackroyd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="London - The Biography (London a Biography)">London - The Biography (London a Biography)</a>
+        </h4>
+        <p class="fr-book-author">By Peter Ackroyd, Wright, Thomas</p>
+
+        <p class="fr-book-desc">First published 2000. Subjects: Social life and customs, Description and travel, Dagelijks leven, History, London (england), biography.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=London+-+The+Biography+%28London+a+Biography%29+Peter+Ackroyd&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -421,7 +421,7 @@ For visitors and readers, the most responsible way to approach the Highgate Vamp
           <a href="https://www.amazon.com/s?k=Walking+haunted+London+Jones%2C+Richard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Walking haunted London">Walking haunted London</a>
         </h4>
         <p class="fr-book-author">By Jones, Richard</p>
-        
+
         <p class="fr-book-desc">First published 1999. Subjects: Guidebooks, Haunted places, Walking.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Walking+haunted+London+Jones%2C+Richard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ For visitors and readers, the most responsible way to approach the Highgate Vamp
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Highgate+vampire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Highgate vampire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Highgate+Became+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Highgate Became biography</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Highgate+vampire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Highgate vampire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Highgate+Became+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Highgate Became biography</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

@@ -345,7 +345,7 @@ For visitors and readers, Chenies is most rewarding when approached as a place w
           <a href="https://www.amazon.com/s?k=The+six+wives+of+Henry+VIII+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The six wives of Henry VIII">The six wives of Henry VIII</a>
         </h4>
         <p class="fr-book-author">By Alison Weir</p>
-        
+
         <p class="fr-book-desc">Strong background for Henry VIII and royal associations at Chenies Manor.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+six+wives+of+Henry+VIII+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ For visitors and readers, Chenies is most rewarding when approached as a place w
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Places manor-house legends into wider English tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ For visitors and readers, Chenies is most rewarding when approached as a place w
           <a href="https://www.amazon.com/s?k=Houses+of+the+National+Trust+Lydia+Greeves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Houses of the National Trust">Houses of the National Trust</a>
         </h4>
         <p class="fr-book-author">By Lydia Greeves</p>
-        
+
         <p class="fr-book-desc">Provides context for England&#x27;s great historic houses and estates.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Houses+of+the+National+Trust+Lydia+Greeves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ For visitors and readers, Chenies is most rewarding when approached as a place w
           <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts">Ghosts</a>
         </h4>
         <p class="fr-book-author">By Lisa Morton</p>
-        
+
         <p class="fr-book-desc">First published 2015. Subjects: Ghosts, History, BODY, MIND &amp; SPIRIT, Parapsychology, General.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

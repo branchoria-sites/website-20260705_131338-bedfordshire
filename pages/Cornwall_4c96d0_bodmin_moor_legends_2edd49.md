@@ -359,7 +359,7 @@ Together, these stories explain why Bodmin Moor feels haunted in a way that is d
           <a href="https://www.amazon.com/s?k=Jamaica+Inn+Daphne+du+Maurier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jamaica Inn">Jamaica Inn</a>
         </h4>
         <p class="fr-book-author">By Daphne du Maurier</p>
-        
+
         <p class="fr-book-desc">Captures the atmosphere of Bodmin Moor central to the page.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Jamaica+Inn+Daphne+du+Maurier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ Together, these stories explain why Bodmin Moor feels haunted in a way that is d
           <a href="https://www.amazon.com/s?k=Popular+romances+of+the+west+of+England+Robert+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popular romances of the west of England">Popular romances of the west of England</a>
         </h4>
         <p class="fr-book-author">By Robert Hunt</p>
-        
+
         <p class="fr-book-desc">Contains many Cornish legends that shaped Bodmin Moor traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Popular+romances+of+the+west+of+England+Robert+Hunt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ Together, these stories explain why Bodmin Moor feels haunted in a way that is d
           <a href="https://www.amazon.com/s?k=Cornish+Folk+Tales+Mike+O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cornish Folk Tales">Cornish Folk Tales</a>
         </h4>
         <p class="fr-book-author">By Mike O&#x27;Connor</p>
-        
+
         <p class="fr-book-desc">Includes stories rooted in Cornwall&#x27;s landscapes and legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cornish+Folk+Tales+Mike+O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ Together, these stories explain why Bodmin Moor feels haunted in a way that is d
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Britain and Ireland">Haunted Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Richard Jones</p>
-        
+
         <p class="fr-book-desc">Adds wider haunted Britain context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

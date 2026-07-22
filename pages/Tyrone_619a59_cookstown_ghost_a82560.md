@@ -347,7 +347,7 @@ The case also remains valuable because it resists a neat ending. No ghost was id
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Haunted House Stories">The Mammoth Book of Haunted House Stories</a>
 </h4>
 <p class="fr-book-author">By Peter Haining</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: ghost stories, haunted house stories, ghost story anthology, Ghost stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +364,7 @@ The case also remains valuable because it resists a neat ending. No ghost was id
 <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Ghost Stories">The Penguin Book of Ghost Stories</a>
 </h4>
 <p class="fr-book-author">By Michael Newton, Michael Newton et al.</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: Fiction, Literature, Ghost stories, English Ghost stories, English fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ The case also remains valuable because it resists a neat ending. No ghost was id
 <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts">Ghosts</a>
 </h4>
 <p class="fr-book-author">By Lisa Morton</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: Ghosts, History, BODY, MIND &amp; SPIRIT, Parapsychology, General.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ The case also remains valuable because it resists a neat ending. No ghost was id
 <a href="https://www.amazon.com/s?k=The+ghost+Susan+Owens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ghost">The ghost</a>
 </h4>
 <p class="fr-book-author">By Susan Owens</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Ghosts, Civilization, Ghosts in literature, Ghosts in art, Haunted places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+ghost+Susan+Owens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

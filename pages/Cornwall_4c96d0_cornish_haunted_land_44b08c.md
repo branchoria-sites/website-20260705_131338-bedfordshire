@@ -375,7 +375,7 @@ In that sense, Cornwall’s haunted landmarks are not just a set of spooky stops
           <a href="https://www.amazon.com/s?k=Popular+romances+of+the+west+of+England+Robert+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popular romances of the west of England">Popular romances of the west of England</a>
         </h4>
         <p class="fr-book-author">By Robert Hunt</p>
-        
+
         <p class="fr-book-desc">Explains many landmark legends across Cornwall.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Popular+romances+of+the+west+of+England+Robert+Hunt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ In that sense, Cornwall’s haunted landmarks are not just a set of spooky stops
           <a href="https://www.amazon.com/s?k=Cornish+Folk+Tales+Mike+O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cornish Folk Tales">Cornish Folk Tales</a>
         </h4>
         <p class="fr-book-author">By Mike O&#x27;Connor</p>
-        
+
         <p class="fr-book-desc">Provides accessible versions of Cornish landmark stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cornish+Folk+Tales+Mike+O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ In that sense, Cornwall’s haunted landmarks are not just a set of spooky stops
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Britain and Ireland">Haunted Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Richard Jones</p>
-        
+
         <p class="fr-book-desc">Features Britain&#x27;s most famous haunted locations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ In that sense, Cornwall’s haunted landmarks are not just a set of spooky stops
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Broadens understanding of British place legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -811,7 +811,7 @@ That is the real value of County Down’s haunted history. It gives readers a wa
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Haunted House Stories">The Mammoth Book of Haunted House Stories</a>
         </h4>
         <p class="fr-book-author">By Peter Haining</p>
-        
+
         <p class="fr-book-desc">Supports the castle and estate stories found across County Down.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -828,7 +828,7 @@ That is the real value of County Down’s haunted history. It gives readers a wa
           <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meeting the Other Crowd">Meeting the Other Crowd</a>
         </h4>
         <p class="fr-book-author">By Carolyn Eve Green, Eddie Lenihan</p>
-        
+
         <p class="fr-book-desc">Covers beliefs that inform many County Down legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -845,7 +845,7 @@ That is the real value of County Down’s haunted history. It gives readers a wa
           <a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of Ireland">The lore of Ireland</a>
         </h4>
         <p class="fr-book-author">By Dáithí Ó hÓgáin</p>
-        
+
         <p class="fr-book-desc">Explains legends behind the county&#x27;s ghost traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -862,7 +862,7 @@ That is the real value of County Down’s haunted history. It gives readers a wa
           <a href="https://www.amazon.com/s?k=Irish+ghost+stories+of+Sheridan+Le+Fanu+Sheridan+Le+Fanu&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish ghost stories of Sheridan Le Fanu">Irish ghost stories of Sheridan Le Fanu</a>
         </h4>
         <p class="fr-book-author">By Sheridan Le Fanu</p>
-        
+
         <p class="fr-book-desc">First published 1973. Subjects: Ghost stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Irish+ghost+stories+of+Sheridan+Le+Fanu+Sheridan+Le+Fanu&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

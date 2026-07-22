@@ -381,7 +381,7 @@ They also show why Oxfordshire’s haunted history should be read carefully rath
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Haunted House Stories">The Mammoth Book of Haunted House Stories</a>
         </h4>
         <p class="fr-book-author">By Peter Haining</p>
-        
+
         <p class="fr-book-desc">Complements interest in haunted buildings and traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ They also show why Oxfordshire’s haunted history should be read carefully rath
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Links academic hauntings to wider English traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ They also show why Oxfordshire’s haunted history should be read carefully rath
           <a href="https://www.amazon.com/s?k=The+ghost+Susan+Owens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The ghost">The ghost</a>
         </h4>
         <p class="fr-book-author">By Susan Owens</p>
-        
+
         <p class="fr-book-desc">Explains the development of ghost beliefs in learned institutions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+ghost+Susan+Owens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ They also show why Oxfordshire’s haunted history should be read carefully rath
           <a href="https://www.amazon.com/s?k=Oxford+Ghost+Stories+Janet+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Ghost Stories">Oxford Ghost Stories</a>
         </h4>
         <p class="fr-book-author">By Janet Dowling</p>
-        
+
         <p class="fr-book-desc">Focuses on Oxford colleges and local ghost traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oxford+Ghost+Stories+Janet+Dowling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

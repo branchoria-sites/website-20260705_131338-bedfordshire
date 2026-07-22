@@ -370,7 +370,7 @@ For visitors, this makes Eyam one of Derbyshire’s most affecting haunted-histo
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Explains how places acquire enduring legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ For visitors, this makes Eyam one of Derbyshire’s most affecting haunted-histo
           <a href="https://www.amazon.com/s?k=Year+of+Wonders+Geraldine+Brooks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Year of Wonders">Year of Wonders</a>
         </h4>
         <p class="fr-book-author">By Geraldine Brooks</p>
-        
+
         <p class="fr-book-desc">The definitive novel inspired by Eyam&#x27;s plague story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Year+of+Wonders+Geraldine+Brooks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ For visitors, this makes Eyam one of Derbyshire’s most affecting haunted-histo
           <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
         </h4>
         <p class="fr-book-author">By Edward Parnell</p>
-        
+
         <p class="fr-book-desc">First published 2019. Subjects: Psychology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ For visitors, this makes Eyam one of Derbyshire’s most affecting haunted-histo
           <a href="https://www.amazon.com/s?k=Eyam%3A+The+Story+of+a+Plague+Village+David+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Eyam: The Story of a Plague Village">Eyam: The Story of a Plague Village</a>
         </h4>
         <p class="fr-book-author">By David Paul</p>
-        
+
         <p class="fr-book-desc">Directly covers the village and its plague legacy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Eyam%3A+The+Story+of+a+Plague+Village+David+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

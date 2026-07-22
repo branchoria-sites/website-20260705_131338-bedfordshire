@@ -365,7 +365,7 @@ For readers exploring haunted Denbighshire, Ruthin Castle’s Grey Lady is there
           <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Wales">Ghosts of Wales</a>
         </h4>
         <p class="fr-book-author">By Mark Rees</p>
-        
+
         <p class="fr-book-desc">Strong fit for Ruthin Castle&#x27;s famous haunting.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ For readers exploring haunted Denbighshire, Ruthin Castle’s Grey Lady is there
           <a href="https://www.amazon.com/s?k=Life+in+a+medieval+castle+Joseph+Gies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Life in a medieval castle">Life in a medieval castle</a>
         </h4>
         <p class="fr-book-author">By Joseph Gies, Frances Gies</p>
-        
+
         <p class="fr-book-desc">Explains castle life behind the Grey Lady legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Life+in+a+medieval+castle+Joseph+Gies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ For readers exploring haunted Denbighshire, Ruthin Castle’s Grey Lady is there
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Wales">Haunted Wales</a>
         </h4>
         <p class="fr-book-author">By Richard Holland</p>
-        
+
         <p class="fr-book-desc">Relevant to famous Welsh castle hauntings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ For readers exploring haunted Denbighshire, Ruthin Castle’s Grey Lady is there
           <a href="https://www.amazon.com/s?k=The+Little+Book+of+Welsh+Ghost+Stories+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of Welsh Ghost Stories">The Little Book of Welsh Ghost Stories</a>
         </h4>
         <p class="fr-book-author">By Mark Rees</p>
-        
+
         <p class="fr-book-desc">Provides broader Welsh haunted-castle context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Little+Book+of+Welsh+Ghost+Stories+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

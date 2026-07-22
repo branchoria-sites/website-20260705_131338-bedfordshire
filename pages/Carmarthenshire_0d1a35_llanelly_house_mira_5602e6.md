@@ -375,7 +375,7 @@ That is why Llanelly House remains one of Carmarthenshire’s most memorable hau
           <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Wales">Ghosts of Wales</a>
         </h4>
         <p class="fr-book-author">By Mark Rees</p>
-        
+
         <p class="fr-book-desc">Supports the wider haunted-house tradition in Wales.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ That is why Llanelly House remains one of Carmarthenshire’s most memorable hau
           <a href="https://www.amazon.com/s?k=How+To+Be+A+Victorian+Ruth+Goodman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How To Be A Victorian">How To Be A Victorian</a>
         </h4>
         <p class="fr-book-author">By Ruth Goodman</p>
-        
+
         <p class="fr-book-desc">Explains Victorian domestic service and social expectations central to Mira Turner&#x27;s story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=How+To+Be+A+Victorian+Ruth+Goodman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ That is why Llanelly House remains one of Carmarthenshire’s most memorable hau
           <a href="https://www.amazon.com/s?k=Below+Stairs+Margaret+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Below Stairs">Below Stairs</a>
         </h4>
         <p class="fr-book-author">By Margaret Powell</p>
-        
+
         <p class="fr-book-desc">Illuminates servant life reflected in the haunting narrative.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Below+Stairs+Margaret+Powell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ That is why Llanelly House remains one of Carmarthenshire’s most memorable hau
           <a href="https://www.amazon.com/s?k=The+Little+Book+of+Welsh+Ghost+Stories+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of Welsh Ghost Stories">The Little Book of Welsh Ghost Stories</a>
         </h4>
         <p class="fr-book-author">By Mark Rees</p>
-        
+
         <p class="fr-book-desc">Provides Welsh ghost-story context for Llanelly House.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Little+Book+of+Welsh+Ghost+Stories+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

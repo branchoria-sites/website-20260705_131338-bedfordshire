@@ -357,7 +357,7 @@ For Huntingdonshire, the importance of the story is that it gives the county a h
           <a href="https://www.amazon.com/s?k=The+six+wives+of+Henry+VIII+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The six wives of Henry VIII">The six wives of Henry VIII</a>
         </h4>
         <p class="fr-book-author">By Alison Weir</p>
-        
+
         <p class="fr-book-desc">Explains Katherine&#x27;s story in depth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+six+wives+of+Henry+VIII+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ For Huntingdonshire, the importance of the story is that it gives the county a h
           <a href="https://www.amazon.com/s?k=Six+wives+%3A+the+queens+of+Henry+VIII+David+Starkey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Six wives : the queens of Henry VIII">Six wives : the queens of Henry VIII</a>
         </h4>
         <p class="fr-book-author">By David Starkey</p>
-        
+
         <p class="fr-book-desc">Provides essential historical background to the haunting tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Six+wives+%3A+the+queens+of+Henry+VIII+David+Starkey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ For Huntingdonshire, the importance of the story is that it gives the county a h
           <a href="https://www.amazon.com/s?k=The+English+ghost+Peter+Ackroyd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The English ghost">The English ghost</a>
         </h4>
         <p class="fr-book-author">By Peter Ackroyd</p>
-        
+
         <p class="fr-book-desc">Provides broader context for royal hauntings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+English+ghost+Peter+Ackroyd&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ For Huntingdonshire, the importance of the story is that it gives the county a h
           <a href="https://www.amazon.com/s?k=Katherine+of+Aragon%2C+the+true+queen+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Katherine of Aragon, the true queen">Katherine of Aragon, the true queen</a>
         </h4>
         <p class="fr-book-author">By Alison Weir</p>
-        
+
         <p class="fr-book-desc">First published 2016. Subjects: Fiction, Court and courtiers, History, Great britain, fiction, Fiction, historical, general.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Katherine+of+Aragon%2C+the+true+queen+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

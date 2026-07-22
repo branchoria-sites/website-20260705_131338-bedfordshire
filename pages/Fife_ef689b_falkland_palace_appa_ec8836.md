@@ -360,7 +360,7 @@ For a careful reader, Falkland’s haunting is strongest when approached as laye
           <a href="https://www.amazon.com/s?k=Mary%2C+Queen+of+Scots+Antonia+Fraser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mary, Queen of Scots">Mary, Queen of Scots</a>
         </h4>
         <p class="fr-book-author">By Antonia Fraser</p>
-        
+
         <p class="fr-book-desc">Mary Queen of Scots is central to Falkland Palace folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mary%2C+Queen+of+Scots+Antonia+Fraser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ For a careful reader, Falkland’s haunting is strongest when approached as laye
           <a href="https://www.amazon.com/s?k=The+King%27s+General+Daphne+du+Maurier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The King&#x27;s General">The King&#x27;s General</a>
         </h4>
         <p class="fr-book-author">By Daphne du Maurier</p>
-        
+
         <p class="fr-book-desc">Appeals to readers drawn to romantic historic house settings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+King%27s+General+Daphne+du+Maurier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For a careful reader, Falkland’s haunting is strongest when approached as laye
           <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
         </h4>
         <p class="fr-book-author">By Judy Hamilton</p>
-        
+
         <p class="fr-book-desc">Supports the wider historical folklore surrounding Falkland.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ For a careful reader, Falkland’s haunting is strongest when approached as laye
           <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts">Ghosts</a>
         </h4>
         <p class="fr-book-author">By Lisa Morton</p>
-        
+
         <p class="fr-book-desc">First published 2015. Subjects: Ghosts, History, BODY, MIND &amp; SPIRIT, Parapsychology, General.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
