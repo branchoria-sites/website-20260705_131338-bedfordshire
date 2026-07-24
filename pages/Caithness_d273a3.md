@@ -108,12 +108,12 @@ description: 'Caithness is one of Scotland’s most atmospheric haunted-history 
 hero_summary: 'Caithness is one of Scotland’s most atmospheric haunted-history landscapes: a far northern historic county of sea-cliffs, ruined castles, brochs, graveyards, old inns and Norse-influenced place lore.'
 layout: default
 permalink: /why-does-caithness-feel-so-haunted/
-nav_short_title: Why Does Caithness Feel So Haunted?
+nav_short_title: "Inside Caithness' Haunted History"
 title: "Inside Caithness' Haunted History"
-title_full: Why Does Caithness Feel So Haunted?
-display_title_short: Why Does Caithness Feel So Haunted?
+title_full: "Inside Caithness' Haunted History"
+display_title_short: "Inside Caithness' Haunted History"
 display_title: "Inside Caithness' Haunted History"
-heading_title: Why Does Caithness Feel So Haunted?
+heading_title: "Inside Caithness' Haunted History"
 page_heading_title: "Inside Caithness' Haunted History"
 source_count: 142
 infographic_count: 3

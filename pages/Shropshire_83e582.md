@@ -108,12 +108,12 @@ description: 'Shropshire’s haunted reputation comes from the way its ghost sto
 hero_summary: 'Shropshire’s haunted reputation comes from the way its ghost stories cling to very specific places: a ruined castle above Ludlow, a burned town hall at Wem, a former prison in Shrewsbury, the limestone edge at Wenlock, the lanes around Newport, and old roads where folklore turns a traveller’s fear into a local legend.'
 layout: default
 permalink: /why-does-shropshire-feel-so-haunted/
-nav_short_title: Why Does Shropshire Feel So Haunted?
+nav_short_title: "Shropshire: Ghosts, Legends and Haunted Places"
 title: "Shropshire: Ghosts, Legends and Haunted Places"
-title_full: Why Does Shropshire Feel So Haunted?
-display_title_short: Why Does Shropshire Feel So Haunted?
+title_full: "Shropshire: Ghosts, Legends and Haunted Places"
+display_title_short: "Shropshire: Ghosts, Legends and Haunted Places"
 display_title: "Shropshire: Ghosts, Legends and Haunted Places"
-heading_title: Why Does Shropshire Feel So Haunted?
+heading_title: "Shropshire: Ghosts, Legends and Haunted Places"
 page_heading_title: "Shropshire: Ghosts, Legends and Haunted Places"
 source_count: 142
 infographic_count: 3

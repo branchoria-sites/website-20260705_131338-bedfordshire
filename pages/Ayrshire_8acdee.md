@@ -108,12 +108,12 @@ description: Ayrshire’s haunted reputation rests on an unusually strong mix of
 hero_summary: Ayrshire’s haunted reputation rests on an unusually strong mix of literary fame, castle folklore, witch-trial memory and coastal ruin. Its best-known supernatural landmark is Alloway Auld Kirk, made famous by Robert Burns’s Tam o’ Shanter, where witches and warlocks whirl in the ruined church before chasing Tam towards the Brig o’ Doon.
 layout: default
 permalink: /why-does-ayrshire-feel-so-haunted/
-nav_short_title: Why Does Ayrshire Feel So Haunted?
+nav_short_title: "Why Ayrshire's Ghost Stories Endure"
 title: "Why Ayrshire's Ghost Stories Endure"
-title_full: Why Does Ayrshire Feel So Haunted?
-display_title_short: Why Does Ayrshire Feel So Haunted?
+title_full: "Why Ayrshire's Ghost Stories Endure"
+display_title_short: "Why Ayrshire's Ghost Stories Endure"
 display_title: "Why Ayrshire's Ghost Stories Endure"
-heading_title: Why Does Ayrshire Feel So Haunted?
+heading_title: "Why Ayrshire's Ghost Stories Endure"
 page_heading_title: "Why Ayrshire's Ghost Stories Endure"
 source_count: 138
 infographic_count: 3

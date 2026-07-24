@@ -108,12 +108,12 @@ description: 'Sussex has one of the richest haunted landscapes in southern Engla
 hero_summary: 'Sussex has one of the richest haunted landscapes in southern England because its ghost stories cling to places that already feel historically charged: a battlefield where England changed course in 1066, Roman and Norman fortifications at Pevensey, ruined Tudor grandeur at Cowdray, lonely chalk valleys on the South Downs, old theatres and manor houses in...'
 layout: default
 permalink: /why-does-sussex-feel-so-haunted/
-nav_short_title: Why Does Sussex Feel So Haunted?
+nav_short_title: "Why Sussex's Ghost Stories Endure"
 title: "Why Sussex's Ghost Stories Endure"
-title_full: Why Does Sussex Feel So Haunted?
-display_title_short: Why Does Sussex Feel So Haunted?
+title_full: "Why Sussex's Ghost Stories Endure"
+display_title_short: "Why Sussex's Ghost Stories Endure"
 display_title: "Why Sussex's Ghost Stories Endure"
-heading_title: Why Does Sussex Feel So Haunted?
+heading_title: "Why Sussex's Ghost Stories Endure"
 page_heading_title: "Why Sussex's Ghost Stories Endure"
 source_count: 151
 infographic_count: 3

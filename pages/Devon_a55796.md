@@ -108,12 +108,12 @@ description: Devon’s haunted reputation rests on a unusually rich mix of ruine
 hero_summary: Devon’s haunted reputation rests on a unusually rich mix of ruined castles, sea-facing manor houses, old inns, Dartmoor roads, monastic buildings, and moorland folklore.
 layout: default
 permalink: /why-does-devon-feel-so-haunted/
-nav_short_title: Why Does Devon Feel So Haunted?
+nav_short_title: "Devon: Ghosts, Legends and Haunted Places"
 title: "Devon: Ghosts, Legends and Haunted Places"
-title_full: Why Does Devon Feel So Haunted?
-display_title_short: Why Does Devon Feel So Haunted?
+title_full: "Devon: Ghosts, Legends and Haunted Places"
+display_title_short: "Devon: Ghosts, Legends and Haunted Places"
 display_title: "Devon: Ghosts, Legends and Haunted Places"
-heading_title: Why Does Devon Feel So Haunted?
+heading_title: "Devon: Ghosts, Legends and Haunted Places"
 page_heading_title: "Devon: Ghosts, Legends and Haunted Places"
 source_count: 128
 infographic_count: 3

@@ -108,12 +108,12 @@ description: Wiltshire’s haunted reputation rests on an unusually strong mix o
 hero_summary: Wiltshire’s haunted reputation rests on an unusually strong mix of ancient landscape, Civil War memory, ruined castles, old inns, empty roads and villages that feel half-withdrawn from the present.
 layout: default
 permalink: /why-does-wiltshire-feel-so-haunted/
-nav_short_title: Why Does Wiltshire Feel So Haunted?
+nav_short_title: "Why Wiltshire's Ghost Stories Endure"
 title: "Why Wiltshire's Ghost Stories Endure"
-title_full: Why Does Wiltshire Feel So Haunted?
-display_title_short: Why Does Wiltshire Feel So Haunted?
+title_full: "Why Wiltshire's Ghost Stories Endure"
+display_title_short: "Why Wiltshire's Ghost Stories Endure"
 display_title: "Why Wiltshire's Ghost Stories Endure"
-heading_title: Why Does Wiltshire Feel So Haunted?
+heading_title: "Why Wiltshire's Ghost Stories Endure"
 page_heading_title: "Why Wiltshire's Ghost Stories Endure"
 source_count: 209
 infographic_count: 3

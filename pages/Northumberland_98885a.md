@@ -108,12 +108,12 @@ description: 'Northumberland’s haunted reputation grows naturally out of its l
 hero_summary: 'Northumberland’s haunted reputation grows naturally out of its landscape: border castles, lonely moorland, tidal islands, ruined abbeys, old roads and villages where history has often been remembered as story.'
 layout: default
 permalink: /why-does-northumberland-feel-so-haunted/
-nav_short_title: Why Does Northumberland Feel So Haunted?
+nav_short_title: "Why Northumberland's Ghost Stories Endure"
 title: "Why Northumberland's Ghost Stories Endure"
-title_full: Why Does Northumberland Feel So Haunted?
-display_title_short: Why Does Northumberland Feel So Haunted?
+title_full: "Why Northumberland's Ghost Stories Endure"
+display_title_short: "Why Northumberland's Ghost Stories Endure"
 display_title: "Why Northumberland's Ghost Stories Endure"
-heading_title: Why Does Northumberland Feel So Haunted?
+heading_title: "Why Northumberland's Ghost Stories Endure"
 page_heading_title: "Why Northumberland's Ghost Stories Endure"
 source_count: 113
 infographic_count: 3

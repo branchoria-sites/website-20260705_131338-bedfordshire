@@ -108,12 +108,12 @@ description: 'Fife’s haunted reputation is built less on one spectacular “mo
 hero_summary: 'Fife’s haunted reputation is built less on one spectacular “most haunted” claim than on a chain of atmospheric places: ruined church towers at St Andrews, royal rooms at Falkland, restored lairdly houses such as Kellie and Culross, coastal castles at Wemyss and Balgonie, and later Gothic ruins such as Crawford Priory.'
 layout: default
 permalink: /why-does-fife-feel-so-haunted/
-nav_short_title: Why Does Fife Feel So Haunted?
+nav_short_title: "The Stories Behind Fife's Haunted Reputation"
 title: "The Stories Behind Fife's Haunted Reputation"
-title_full: Why Does Fife Feel So Haunted?
-display_title_short: Why Does Fife Feel So Haunted?
+title_full: "The Stories Behind Fife's Haunted Reputation"
+display_title_short: "The Stories Behind Fife's Haunted Reputation"
 display_title: "The Stories Behind Fife's Haunted Reputation"
-heading_title: Why Does Fife Feel So Haunted?
+heading_title: "The Stories Behind Fife's Haunted Reputation"
 page_heading_title: "The Stories Behind Fife's Haunted Reputation"
 source_count: 142
 infographic_count: 3

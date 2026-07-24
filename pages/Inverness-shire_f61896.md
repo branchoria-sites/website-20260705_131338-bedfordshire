@@ -108,12 +108,12 @@ description: Inverness-shire is one of the richest haunted-history landscapes in
 hero_summary: Inverness-shire is one of the richest haunted-history landscapes in Scotland, but its stories are not evenly spread. The strongest traditions cluster around Inverness, Culloden, Loch Ness, Tomnahurich, Boleskine, and the old island districts of the historic county, especially Skye.
 layout: default
 permalink: /why-does-inverness-shire-feel-so-haunted/
-nav_short_title: Why Does Inverness shire Feel So Haunted?
+nav_short_title: "Inside Inverness shire's Haunted History"
 title: "Inside Inverness shire's Haunted History"
-title_full: Why Does Inverness shire Feel So Haunted?
-display_title_short: Why Does Inverness shire Feel So Haunted?
+title_full: "Inside Inverness shire's Haunted History"
+display_title_short: "Inside Inverness shire's Haunted History"
 display_title: "Inside Inverness shire's Haunted History"
-heading_title: Why Does Inverness shire Feel So Haunted?
+heading_title: "Inside Inverness shire's Haunted History"
 page_heading_title: "Inside Inverness shire's Haunted History"
 source_count: 152
 infographic_count: 3

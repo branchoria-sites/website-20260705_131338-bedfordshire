@@ -108,12 +108,12 @@ description: 'Lanarkshire’s haunted reputation is not built around one grand �
 hero_summary: 'Lanarkshire’s haunted reputation is not built around one grand “most haunted” site so much as a chain of older stories clinging to the Clyde valley: a medieval castle above the river at Bothwell, the “three ladies” of Dalzell House in Motherwell, the vanished splendour of Hamilton Palace, ruined country houses near Biggar, and witchcraft memories...'
 layout: default
 permalink: /why-does-lanarkshire-feel-so-haunted/
-nav_short_title: Why Does Lanarkshire Feel So Haunted?
+nav_short_title: "Where History and Haunting Meet in Lanarkshire"
 title: "Where History and Haunting Meet in Lanarkshire"
-title_full: Why Does Lanarkshire Feel So Haunted?
-display_title_short: Why Does Lanarkshire Feel So Haunted?
+title_full: "Where History and Haunting Meet in Lanarkshire"
+display_title_short: "Where History and Haunting Meet in Lanarkshire"
 display_title: "Where History and Haunting Meet in Lanarkshire"
-heading_title: Why Does Lanarkshire Feel So Haunted?
+heading_title: "Where History and Haunting Meet in Lanarkshire"
 page_heading_title: "Where History and Haunting Meet in Lanarkshire"
 source_count: 136
 infographic_count: 3

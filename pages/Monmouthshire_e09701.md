@@ -108,12 +108,12 @@ description: 'Monmouthshire’s haunted reputation is built less on one famous �
 hero_summary: 'Monmouthshire’s haunted reputation is built less on one famous “county ghost” than on a chain of atmospheric places: border castles, old courtrooms, coaching inns, ruined abbeys, mountain paths and river valleys where history already feels close to the surface.'
 layout: default
 permalink: /why-does-monmouthshire-feel-so-haunted/
-nav_short_title: Why Does Monmouthshire Feel So Haunted?
+nav_short_title: "Where History and Haunting Meet in Monmouthshire"
 title: "Where History and Haunting Meet in Monmouthshire"
-title_full: Why Does Monmouthshire Feel So Haunted?
-display_title_short: Why Does Monmouthshire Feel So Haunted?
+title_full: "Where History and Haunting Meet in Monmouthshire"
+display_title_short: "Where History and Haunting Meet in Monmouthshire"
 display_title: "Where History and Haunting Meet in Monmouthshire"
-heading_title: Why Does Monmouthshire Feel So Haunted?
+heading_title: "Where History and Haunting Meet in Monmouthshire"
 page_heading_title: "Where History and Haunting Meet in Monmouthshire"
 source_count: 171
 infographic_count: 3

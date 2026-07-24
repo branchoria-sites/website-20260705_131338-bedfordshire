@@ -108,12 +108,12 @@ description: 'Lancashire’s haunted reputation rests on three overlapping tradi
 hero_summary: 'Lancashire’s haunted reputation rests on three overlapping traditions: old houses with family legends, trial-and-prison sites tied to the 1612 Lancashire witch trials, and northern folklore creatures such as boggarts and black dogs.'
 layout: default
 permalink: /why-does-lancashire-feel-so-haunted/
-nav_short_title: Why Does Lancashire Feel So Haunted?
+nav_short_title: "Why Lancashire's Ghost Stories Endure"
 title: "Why Lancashire's Ghost Stories Endure"
-title_full: Why Does Lancashire Feel So Haunted?
-display_title_short: Why Does Lancashire Feel So Haunted?
+title_full: "Why Lancashire's Ghost Stories Endure"
+display_title_short: "Why Lancashire's Ghost Stories Endure"
 display_title: "Why Lancashire's Ghost Stories Endure"
-heading_title: Why Does Lancashire Feel So Haunted?
+heading_title: "Why Lancashire's Ghost Stories Endure"
 page_heading_title: "Why Lancashire's Ghost Stories Endure"
 source_count: 149
 infographic_count: 3

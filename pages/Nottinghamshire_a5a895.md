@@ -108,12 +108,12 @@ description: Nottinghamshire’s haunted reputation rests less on one single fam
 hero_summary: 'Nottinghamshire’s haunted reputation rests less on one single famous ghost than on a dense cluster of places where history already feels close to the surface: Nottingham Castle and its cave passages, the gaol and courtrooms now interpreted by the National Justice Museum, Byron’s Newstead Abbey, Wollaton Hall, Rufford Abbey, Newark Castle, Sherwood Forest,...'
 layout: default
 permalink: /why-does-nottinghamshire-feel-so-haunted/
-nav_short_title: Why Does Nottinghamshire Feel So Haunted?
+nav_short_title: "Inside Nottinghamshire's Haunted History"
 title: "Inside Nottinghamshire's Haunted History"
-title_full: Why Does Nottinghamshire Feel So Haunted?
-display_title_short: Why Does Nottinghamshire Feel So Haunted?
+title_full: "Inside Nottinghamshire's Haunted History"
+display_title_short: "Inside Nottinghamshire's Haunted History"
 display_title: "Inside Nottinghamshire's Haunted History"
-heading_title: Why Does Nottinghamshire Feel So Haunted?
+heading_title: "Inside Nottinghamshire's Haunted History"
 page_heading_title: "Inside Nottinghamshire's Haunted History"
 source_count: 136
 infographic_count: 3

@@ -108,12 +108,12 @@ description: Selkirkshire’s haunted history is quieter than the headline-grabb
 hero_summary: 'Selkirkshire’s haunted history is quieter than the headline-grabbing ghost tourism of Edinburgh or the great castles of the Highlands, but it is unusually rich in older Border material: battlefield memory at Philiphaugh, the ruined Newark Castle above the Yarrow, fairy lore at Carterhaugh, the Brownie of Bodsbeck, and darker Covenanting legends around...'
 layout: default
 permalink: /why-does-selkirkshire-feel-so-haunted/
-nav_short_title: Why Does Selkirkshire Feel So Haunted?
+nav_short_title: "Tracing the Hauntings of Selkirkshire"
 title: "Tracing the Hauntings of Selkirkshire"
-title_full: Why Does Selkirkshire Feel So Haunted?
-display_title_short: Why Does Selkirkshire Feel So Haunted?
+title_full: "Tracing the Hauntings of Selkirkshire"
+display_title_short: "Tracing the Hauntings of Selkirkshire"
 display_title: "Tracing the Hauntings of Selkirkshire"
-heading_title: Why Does Selkirkshire Feel So Haunted?
+heading_title: "Tracing the Hauntings of Selkirkshire"
 page_heading_title: "Tracing the Hauntings of Selkirkshire"
 source_count: 165
 infographic_count: 3
