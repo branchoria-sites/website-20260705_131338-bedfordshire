@@ -310,8 +310,7 @@ That is why Silent Pool’s haunted identity feels layered rather than single. T
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_7iOUrFDNI0" title="Visiting Surrey&#x27;s Mysterious Silent Pool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_7iOUrFDNI0" target="_blank" rel="noopener noreferrer">Visiting Surrey&#x27;s Mysterious Silent Pool</a></p><p class="youtube-embed-meta">Channel: Sam Walks a Lot</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_7iOUrFDNI0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_7iOUrFDNI0">Open on YouTube</a></p></div></div></div>
 
-## How Credible Is the Haunting?
-
+## Evidence and embellishment around Silent Pool
 The haunting is credible as folklore, but weak as literal history. The strongest sources support the following careful reading:
 
 **The place is real and distinctive.** Silent Pool is a spring-fed chalk pool with unusual water colour and a long history as a visitor attraction. The BGS account supports the geological distinctiveness, and local heritage material supports its reputation among writers, artists and tourists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://nora.nerc.ac.uk/id/eprint/5800/1/RR08002.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nora.nerc.ac.uk">[NERC Open Research Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nora.nerc.ac.uk</span><span class="citation-popover-snippet">NERC Open Research Archive</span></span></span>

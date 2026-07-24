@@ -109,12 +109,12 @@ hero_summary: Ayrshire’s haunted reputation rests on an unusually strong mix o
 layout: default
 permalink: /why-does-ayrshire-feel-so-haunted/
 nav_short_title: Why Does Ayrshire Feel So Haunted?
-title: Why Does Ayrshire Feel So Haunted?
+title: "Why Ayrshire's Ghost Stories Endure"
 title_full: Why Does Ayrshire Feel So Haunted?
 display_title_short: Why Does Ayrshire Feel So Haunted?
-display_title: Why Does Ayrshire Feel So Haunted?
+display_title: "Why Ayrshire's Ghost Stories Endure"
 heading_title: Why Does Ayrshire Feel So Haunted?
-page_heading_title: Why Does Ayrshire Feel So Haunted?
+page_heading_title: "Why Ayrshire's Ghost Stories Endure"
 source_count: 138
 infographic_count: 3
 page_website_name: Haunted Ayrshire

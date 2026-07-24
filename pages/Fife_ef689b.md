@@ -109,12 +109,12 @@ hero_summary: 'Fife’s haunted reputation is built less on one spectacular “m
 layout: default
 permalink: /why-does-fife-feel-so-haunted/
 nav_short_title: Why Does Fife Feel So Haunted?
-title: Why Does Fife Feel So Haunted?
+title: "The Stories Behind Fife's Haunted Reputation"
 title_full: Why Does Fife Feel So Haunted?
 display_title_short: Why Does Fife Feel So Haunted?
-display_title: Why Does Fife Feel So Haunted?
+display_title: "The Stories Behind Fife's Haunted Reputation"
 heading_title: Why Does Fife Feel So Haunted?
-page_heading_title: Why Does Fife Feel So Haunted?
+page_heading_title: "The Stories Behind Fife's Haunted Reputation"
 source_count: 142
 infographic_count: 3
 page_website_name: Haunted Fife

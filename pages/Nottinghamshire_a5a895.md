@@ -109,12 +109,12 @@ hero_summary: 'Nottinghamshire’s haunted reputation rests less on one single f
 layout: default
 permalink: /why-does-nottinghamshire-feel-so-haunted/
 nav_short_title: Why Does Nottinghamshire Feel So Haunted?
-title: Why Does Nottinghamshire Feel So Haunted?
+title: "Inside Nottinghamshire's Haunted History"
 title_full: Why Does Nottinghamshire Feel So Haunted?
 display_title_short: Why Does Nottinghamshire Feel So Haunted?
-display_title: Why Does Nottinghamshire Feel So Haunted?
+display_title: "Inside Nottinghamshire's Haunted History"
 heading_title: Why Does Nottinghamshire Feel So Haunted?
-page_heading_title: Why Does Nottinghamshire Feel So Haunted?
+page_heading_title: "Inside Nottinghamshire's Haunted History"
 source_count: 136
 infographic_count: 3
 page_website_name: Haunted Nottinghamshire

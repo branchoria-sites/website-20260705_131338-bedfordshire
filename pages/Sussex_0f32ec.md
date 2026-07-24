@@ -109,12 +109,12 @@ hero_summary: 'Sussex has one of the richest haunted landscapes in southern Engl
 layout: default
 permalink: /why-does-sussex-feel-so-haunted/
 nav_short_title: Why Does Sussex Feel So Haunted?
-title: Why Does Sussex Feel So Haunted?
+title: "Why Sussex's Ghost Stories Endure"
 title_full: Why Does Sussex Feel So Haunted?
 display_title_short: Why Does Sussex Feel So Haunted?
-display_title: Why Does Sussex Feel So Haunted?
+display_title: "Why Sussex's Ghost Stories Endure"
 heading_title: Why Does Sussex Feel So Haunted?
-page_heading_title: Why Does Sussex Feel So Haunted?
+page_heading_title: "Why Sussex's Ghost Stories Endure"
 source_count: 151
 infographic_count: 3
 page_website_name: Haunted Sussex

@@ -109,12 +109,12 @@ hero_summary: Inverness-shire is one of the richest haunted-history landscapes i
 layout: default
 permalink: /why-does-inverness-shire-feel-so-haunted/
 nav_short_title: Why Does Inverness shire Feel So Haunted?
-title: Why Does Inverness shire Feel So Haunted?
+title: "Inside Inverness shire's Haunted History"
 title_full: Why Does Inverness shire Feel So Haunted?
 display_title_short: Why Does Inverness shire Feel So Haunted?
-display_title: Why Does Inverness shire Feel So Haunted?
+display_title: "Inside Inverness shire's Haunted History"
 heading_title: Why Does Inverness shire Feel So Haunted?
-page_heading_title: Why Does Inverness shire Feel So Haunted?
+page_heading_title: "Inside Inverness shire's Haunted History"
 source_count: 152
 infographic_count: 3
 page_website_name: Haunted Inverness shire

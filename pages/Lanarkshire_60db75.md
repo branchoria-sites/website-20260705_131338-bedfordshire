@@ -109,12 +109,12 @@ hero_summary: 'Lanarkshire’s haunted reputation is not built around one grand 
 layout: default
 permalink: /why-does-lanarkshire-feel-so-haunted/
 nav_short_title: Why Does Lanarkshire Feel So Haunted?
-title: Why Does Lanarkshire Feel So Haunted?
+title: "Where History and Haunting Meet in Lanarkshire"
 title_full: Why Does Lanarkshire Feel So Haunted?
 display_title_short: Why Does Lanarkshire Feel So Haunted?
-display_title: Why Does Lanarkshire Feel So Haunted?
+display_title: "Where History and Haunting Meet in Lanarkshire"
 heading_title: Why Does Lanarkshire Feel So Haunted?
-page_heading_title: Why Does Lanarkshire Feel So Haunted?
+page_heading_title: "Where History and Haunting Meet in Lanarkshire"
 source_count: 136
 infographic_count: 3
 page_website_name: Haunted Lanarkshire

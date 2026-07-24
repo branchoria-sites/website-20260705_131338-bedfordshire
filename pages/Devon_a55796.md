@@ -109,12 +109,12 @@ hero_summary: Devon’s haunted reputation rests on a unusually rich mix of ruin
 layout: default
 permalink: /why-does-devon-feel-so-haunted/
 nav_short_title: Why Does Devon Feel So Haunted?
-title: Why Does Devon Feel So Haunted?
+title: "Devon: Ghosts, Legends and Haunted Places"
 title_full: Why Does Devon Feel So Haunted?
 display_title_short: Why Does Devon Feel So Haunted?
-display_title: Why Does Devon Feel So Haunted?
+display_title: "Devon: Ghosts, Legends and Haunted Places"
 heading_title: Why Does Devon Feel So Haunted?
-page_heading_title: Why Does Devon Feel So Haunted?
+page_heading_title: "Devon: Ghosts, Legends and Haunted Places"
 source_count: 128
 infographic_count: 3
 page_website_name: Haunted Devon

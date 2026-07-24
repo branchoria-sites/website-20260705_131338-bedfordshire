@@ -109,12 +109,12 @@ hero_summary: 'Selkirkshire’s haunted history is quieter than the headline-gra
 layout: default
 permalink: /why-does-selkirkshire-feel-so-haunted/
 nav_short_title: Why Does Selkirkshire Feel So Haunted?
-title: Why Does Selkirkshire Feel So Haunted?
+title: "Tracing the Hauntings of Selkirkshire"
 title_full: Why Does Selkirkshire Feel So Haunted?
 display_title_short: Why Does Selkirkshire Feel So Haunted?
-display_title: Why Does Selkirkshire Feel So Haunted?
+display_title: "Tracing the Hauntings of Selkirkshire"
 heading_title: Why Does Selkirkshire Feel So Haunted?
-page_heading_title: Why Does Selkirkshire Feel So Haunted?
+page_heading_title: "Tracing the Hauntings of Selkirkshire"
 source_count: 165
 infographic_count: 3
 page_website_name: Haunted Selkirkshire

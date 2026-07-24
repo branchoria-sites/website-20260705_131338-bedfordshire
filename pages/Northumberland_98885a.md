@@ -109,12 +109,12 @@ hero_summary: 'Northumberland’s haunted reputation grows naturally out of its 
 layout: default
 permalink: /why-does-northumberland-feel-so-haunted/
 nav_short_title: Why Does Northumberland Feel So Haunted?
-title: Why Does Northumberland Feel So Haunted?
+title: "Why Northumberland's Ghost Stories Endure"
 title_full: Why Does Northumberland Feel So Haunted?
 display_title_short: Why Does Northumberland Feel So Haunted?
-display_title: Why Does Northumberland Feel So Haunted?
+display_title: "Why Northumberland's Ghost Stories Endure"
 heading_title: Why Does Northumberland Feel So Haunted?
-page_heading_title: Why Does Northumberland Feel So Haunted?
+page_heading_title: "Why Northumberland's Ghost Stories Endure"
 source_count: 113
 infographic_count: 3
 page_website_name: Haunted Northumberland

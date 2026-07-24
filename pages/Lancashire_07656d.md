@@ -109,12 +109,12 @@ hero_summary: 'Lancashire’s haunted reputation rests on three overlapping trad
 layout: default
 permalink: /why-does-lancashire-feel-so-haunted/
 nav_short_title: Why Does Lancashire Feel So Haunted?
-title: Why Does Lancashire Feel So Haunted?
+title: "Why Lancashire's Ghost Stories Endure"
 title_full: Why Does Lancashire Feel So Haunted?
 display_title_short: Why Does Lancashire Feel So Haunted?
-display_title: Why Does Lancashire Feel So Haunted?
+display_title: "Why Lancashire's Ghost Stories Endure"
 heading_title: Why Does Lancashire Feel So Haunted?
-page_heading_title: Why Does Lancashire Feel So Haunted?
+page_heading_title: "Why Lancashire's Ghost Stories Endure"
 source_count: 149
 infographic_count: 3
 page_website_name: Haunted Lancashire

@@ -109,12 +109,12 @@ hero_summary: 'Caithness is one of Scotland’s most atmospheric haunted-history
 layout: default
 permalink: /why-does-caithness-feel-so-haunted/
 nav_short_title: Why Does Caithness Feel So Haunted?
-title: Why Does Caithness Feel So Haunted?
+title: "Inside Caithness' Haunted History"
 title_full: Why Does Caithness Feel So Haunted?
 display_title_short: Why Does Caithness Feel So Haunted?
-display_title: Why Does Caithness Feel So Haunted?
+display_title: "Inside Caithness' Haunted History"
 heading_title: Why Does Caithness Feel So Haunted?
-page_heading_title: Why Does Caithness Feel So Haunted?
+page_heading_title: "Inside Caithness' Haunted History"
 source_count: 142
 infographic_count: 3
 page_website_name: Haunted Caithness

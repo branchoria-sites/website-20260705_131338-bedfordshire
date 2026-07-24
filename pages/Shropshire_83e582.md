@@ -109,12 +109,12 @@ hero_summary: 'Shropshire’s haunted reputation comes from the way its ghost st
 layout: default
 permalink: /why-does-shropshire-feel-so-haunted/
 nav_short_title: Why Does Shropshire Feel So Haunted?
-title: Why Does Shropshire Feel So Haunted?
+title: "Shropshire: Ghosts, Legends and Haunted Places"
 title_full: Why Does Shropshire Feel So Haunted?
 display_title_short: Why Does Shropshire Feel So Haunted?
-display_title: Why Does Shropshire Feel So Haunted?
+display_title: "Shropshire: Ghosts, Legends and Haunted Places"
 heading_title: Why Does Shropshire Feel So Haunted?
-page_heading_title: Why Does Shropshire Feel So Haunted?
+page_heading_title: "Shropshire: Ghosts, Legends and Haunted Places"
 source_count: 142
 infographic_count: 3
 page_website_name: Haunted Shropshire

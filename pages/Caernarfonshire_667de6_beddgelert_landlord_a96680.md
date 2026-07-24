@@ -318,8 +318,7 @@ Modern Beddgelert still trades, gently and openly, on that mixture. The National
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TApodP7jNvk" title="The Tale of Gelert: Welsh Legend of the Faithful Hound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TApodP7jNvk" target="_blank" rel="noopener noreferrer">The Tale of Gelert: Welsh Legend of the Faithful Hound</a></p><p class="youtube-embed-meta">Channel: Kooky Kids World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TApodP7jNvk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TApodP7jNvk">Open on YouTube</a></p></div></div></div>
 
-## How credible is the haunting?
-
+## Evidence and embellishment around Beddgelert
 The most balanced reading is that Beddgelert’s landlord ghost is a well-preserved folklore account attached to a real person, a real inn and a real period of tourism growth, but not a documented haunting in the evidential sense used by psychical researchers or modern investigators. Its credibility as a supernatural event is thin; its credibility as local memory is much stronger.
 
 Several points make the story valuable rather than merely fanciful:

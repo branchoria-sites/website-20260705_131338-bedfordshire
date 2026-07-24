@@ -759,8 +759,7 @@ Dunnottar Castle’s haunting is usually attached to a Green Lady seen in the br
 
 <img src="{{ "/assets/images/Aberdeenshire_e04348-Illustration-3-dark.svg" | relative_url }}" alt="Where Aberdeenshire&#x27;s Ghost Stories Still... illustration 3" data-theme-src-dark="{{ "/assets/images/Aberdeenshire_e04348-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Aberdeenshire_e04348-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How credible are the stories?
-
+## What can be verified about Aberdeenshire's haunting traditions
 The most credible thing about Aberdeenshire’s hauntings is not that they prove ghosts exist. It is that they preserve what communities found emotionally important: unjust marriages, lost children, inheritance pressure, religious violence, imprisonment, executions and the uneasy glamour of castles.
 
 A useful way to read the county’s haunted places is to separate three kinds of evidence:

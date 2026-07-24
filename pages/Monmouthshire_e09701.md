@@ -109,12 +109,12 @@ hero_summary: 'Monmouthshire’s haunted reputation is built less on one famous 
 layout: default
 permalink: /why-does-monmouthshire-feel-so-haunted/
 nav_short_title: Why Does Monmouthshire Feel So Haunted?
-title: Why Does Monmouthshire Feel So Haunted?
+title: "Where History and Haunting Meet in Monmouthshire"
 title_full: Why Does Monmouthshire Feel So Haunted?
 display_title_short: Why Does Monmouthshire Feel So Haunted?
-display_title: Why Does Monmouthshire Feel So Haunted?
+display_title: "Where History and Haunting Meet in Monmouthshire"
 heading_title: Why Does Monmouthshire Feel So Haunted?
-page_heading_title: Why Does Monmouthshire Feel So Haunted?
+page_heading_title: "Where History and Haunting Meet in Monmouthshire"
 source_count: 171
 infographic_count: 3
 page_website_name: Haunted Monmouthshire

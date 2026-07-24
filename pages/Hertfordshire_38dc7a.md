@@ -109,12 +109,12 @@ hero_summary: Hertfordshire’s haunted reputation is not built around one singl
 layout: default
 permalink: /why-does-hertfordshire-feel-so-haunted/
 nav_short_title: Why Does Hertfordshire Feel So Haunted?
-title: Why Does Hertfordshire Feel So Haunted?
+title: "Hertfordshire: Ghosts, Legends and Haunted Places"
 title_full: Why Does Hertfordshire Feel So Haunted?
 display_title_short: Why Does Hertfordshire Feel So Haunted?
-display_title: Why Does Hertfordshire Feel So Haunted?
+display_title: "Hertfordshire: Ghosts, Legends and Haunted Places"
 heading_title: Why Does Hertfordshire Feel So Haunted?
-page_heading_title: Why Does Hertfordshire Feel So Haunted?
+page_heading_title: "Hertfordshire: Ghosts, Legends and Haunted Places"
 source_count: 135
 infographic_count: 3
 page_website_name: Haunted Hertfordshire
