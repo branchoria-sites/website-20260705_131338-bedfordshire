@@ -777,7 +777,8 @@ These motifs make Kincardineshire’s haunted history feel coherent even when in
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ASbMcfuUTzY" title="Tolbooth Museum - Former Prison &amp; The history inside Stonehaven&#x27;s oldest building (Scotland)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ASbMcfuUTzY" target="_blank" rel="noopener noreferrer">Tolbooth Museum - Former Prison &amp; The history inside Stonehaven&#x27;s oldest building (Scotland)</a></p><p class="youtube-embed-meta">Channel: Stone-Age Productions</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ASbMcfuUTzY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ASbMcfuUTzY">Open on YouTube</a></p></div></div></div>
 
-## How firmly the stories about Kincardineshire's haunting traditions are grounded
+## How credible are the stories?
+
 The strongest historical facts behind Kincardineshire’s haunted places are well supported. Dunnottar is a nationally designated monument; its Whigs’ Vault episode is documented in official and historical summaries; Crathes is a major National Trust property with an institutionally preserved Green Lady tradition; Muchalls is a listed historic building with an officially recorded blocked tunnel to the shore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CSM986" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[historicenvironment.scot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-title">Historic Environment Scotland Dunnottar Castle (SM986</span><span class="citation-popover-snippet">Historic Environment Scotland Dunnottar Castle (SM986</span></span></span>
 
 The apparition claims themselves are much harder to prove. They usually appear in visitor lore, haunted-castle guides, paranormal indexes, tourism writing and repeated local storytelling. That does not make them meaningless, but it places them in the category of folklore and reported experience rather than established fact. A fair reading is that Kincardineshire has several strongly place-based ghost traditions, with varying levels of documentation.
@@ -810,89 +811,89 @@ The most rewarding approach is atmospheric but sceptical. Read the Green Ladies 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Kincardineshire&#x27;s Castles Feel Haunted?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Kincardineshire&#x27;s Castles Feel Haunted?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10804655-M.jpg" alt="Cover for Scottish Ghost Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Ghost Stories">Scottish Ghost Stories</a>
-        </h4>
-        <p class="fr-book-author">By Robertson, James</p>
-
-        <p class="fr-book-desc">Introduces readers to traditional Scottish supernatural folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10804655-M.jpg" alt="Cover for Scottish Ghost Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Ghost Stories">Scottish Ghost Stories</a>
+</h4>
+<p class="fr-book-author">By Robertson, James</p>
+        
+<p class="fr-book-desc">Introduces readers to traditional Scottish supernatural folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lm35Hwa9DNEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lore of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland">The Lore of Scotland</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Westwood, Sophia Kingshill</p>
-
-        <p class="fr-book-desc">Explains the legends and traditions behind Scottish haunted places.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lm35Hwa9DNEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lore of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland">The Lore of Scotland</a>
+</h4>
+<p class="fr-book-author">By Jennifer Westwood, Sophia Kingshill</p>
+        
+<p class="fr-book-desc">Explains the legends and traditions behind Scottish haunted places.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12177061-M.jpg" alt="Cover for Ghosts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts">Ghosts</a>
-        </h4>
-        <p class="fr-book-author">By Lisa Morton</p>
-
-        <p class="fr-book-desc">First published 2015. Subjects: Ghosts, History, BODY, MIND &amp; SPIRIT, Parapsychology, General.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12177061-M.jpg" alt="Cover for Ghosts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts">Ghosts</a>
+</h4>
+<p class="fr-book-author">By Lisa Morton</p>
+        
+<p class="fr-book-desc">First published 2015. Subjects: Ghosts, History, BODY, MIND &amp; SPIRIT, Parapsychology, General.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world&#x27;s most haunted places on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s most haunted places">The world&#x27;s most haunted places</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Belanger</p>
-
-        <p class="fr-book-desc">Places Scottish castle hauntings within a wider haunted-sites tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world&#x27;s most haunted places on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s most haunted places">The world&#x27;s most haunted places</a>
+</h4>
+<p class="fr-book-author">By Jeff Belanger</p>
+        
+<p class="fr-book-desc">Places Scottish castle hauntings within a wider haunted-sites tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Ghost Stories</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of Scotland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosts</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Ghost Stories</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of Scotland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosts</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

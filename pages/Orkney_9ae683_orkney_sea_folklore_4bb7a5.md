@@ -350,7 +350,8 @@ Several mechanisms recur across the traditions:
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K3Ro5CRda6Q" title="The Fin Folk of the Orkney Islands | Celtic Folklore and Mythology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K3Ro5CRda6Q" target="_blank" rel="noopener noreferrer">The Fin Folk of the Orkney Islands | Celtic Folklore and Mythology</a></p><p class="youtube-embed-meta">Channel: Story Crow</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K3Ro5CRda6Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K3Ro5CRda6Q">Open on YouTube</a></p></div></div></div>
 
-## How firmly the stories about Sea Folklore are grounded
+## How credible are these stories?
+
 The most careful answer is that Orkney’s sea monsters are credible as folklore, not as verified zoology or documented apparitions. The Nuckelavee, selkies, finfolk and trows are preserved through oral tradition, nineteenth-century collection, later retellings, local-history writing and modern storytelling. They should not be presented as proven beings. Their historical value lies in what they reveal about fear, environment, morality and memory in an island community.
 
 Walter Traill Dennison is central but must be handled with care. He was local to Orkney and deeply important to the survival of Orcadian folk material, yet nineteenth-century folklore collectors often shaped oral accounts into literary prose. Modern summaries of the Nuckelavee tradition acknowledge that Dennison transmitted the key surviving material and that details of the monster’s appearance vary across accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://shop.orcadian.co.uk/product/orcadian-sketch-book/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: shop.orcadian.co.uk">[shop.orcadian.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">shop.orcadian.co.uk</span><span class="citation-popover-title">orcadian sketch book</span><span class="citation-popover-snippet">orcadian sketch book</span></span></span>
@@ -373,89 +374,89 @@ That is why these stories sit naturally within Orkney’s haunted history. They 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Makes Orkney&#x27;s Sea Folklore So Unsettling?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Makes Orkney&#x27;s Sea Folklore So Unsettling?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland+Ernest+W.+Marwick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The folklore of Orkney and Shetland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/886564-M.jpg" alt="Cover for The folklore of Orkney and Shetland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland+Ernest+W.+Marwick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of Orkney and Shetland">The folklore of Orkney and Shetland</a>
-        </h4>
-        <p class="fr-book-author">By Ernest W. Marwick, Robert White</p>
-
-        <p class="fr-book-desc">Essential source for Nuckelavee, selkies and related lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland+Ernest+W.+Marwick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland+Ernest+W.+Marwick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The folklore of Orkney and Shetland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/886564-M.jpg" alt="Cover for The folklore of Orkney and Shetland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland+Ernest+W.+Marwick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of Orkney and Shetland">The folklore of Orkney and Shetland</a>
+</h4>
+<p class="fr-book-author">By Ernest W. Marwick, Robert White</p>
+        
+<p class="fr-book-desc">Essential source for Nuckelavee, selkies and related lore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland+Ernest+W.+Marwick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Myths and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9323684-M.jpg" alt="Cover for Scottish Myths and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
-        </h4>
-        <p class="fr-book-author">By Judy Hamilton</p>
-
-        <p class="fr-book-desc">Introduces readers to Scotland&#x27;s supernatural traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Myths and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9323684-M.jpg" alt="Cover for Scottish Myths and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
+</h4>
+<p class="fr-book-author">By Judy Hamilton</p>
+        
+<p class="fr-book-desc">Introduces readers to Scotland&#x27;s supernatural traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish fairy belief on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/919173-M.jpg" alt="Cover for Scottish fairy belief" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish fairy belief">Scottish fairy belief</a>
-        </h4>
-        <p class="fr-book-author">By Lizanne Henderson</p>
-
-        <p class="fr-book-desc">Explains supernatural beings found in Scottish tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish fairy belief on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/919173-M.jpg" alt="Cover for Scottish fairy belief" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish fairy belief">Scottish fairy belief</a>
+</h4>
+<p class="fr-book-author">By Lizanne Henderson</p>
+        
+<p class="fr-book-desc">Explains supernatural beings found in Scottish tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lm35Hwa9DNEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lore of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland">The Lore of Scotland</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Westwood, Sophia Kingshill</p>
-
-        <p class="fr-book-desc">Provides wider context for Orcadian legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lm35Hwa9DNEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lore of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland">The Lore of Scotland</a>
+</h4>
+<p class="fr-book-author">By Jennifer Westwood, Sophia Kingshill</p>
+        
+<p class="fr-book-desc">Provides wider context for Orcadian legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The folklore of Orkney and Shetland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Myths and Legends</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+fairy+belief&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish fairy belief</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The folklore of Orkney and Shetland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Myths and Legends</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+fairy+belief&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish fairy belief</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

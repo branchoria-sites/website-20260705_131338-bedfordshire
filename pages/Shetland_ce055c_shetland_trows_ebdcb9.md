@@ -346,89 +346,89 @@ For visitors and readers, trow lore changes how Shetland’s landscape is read. 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Are Shetland Trows, and Why Do They Haunt the Hills?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Are Shetland Trows, and Why Do They Haunt the Hills?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland+Ernest+W.+Marwick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The folklore of Orkney and Shetland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/886564-M.jpg" alt="Cover for The folklore of Orkney and Shetland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland+Ernest+W.+Marwick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of Orkney and Shetland">The folklore of Orkney and Shetland</a>
-        </h4>
-        <p class="fr-book-author">By Ernest W. Marwick, Robert White</p>
-
-        <p class="fr-book-desc">The strongest dedicated source for trows, fairy belief and Northern Isles folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland+Ernest+W.+Marwick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland+Ernest+W.+Marwick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The folklore of Orkney and Shetland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/886564-M.jpg" alt="Cover for The folklore of Orkney and Shetland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland+Ernest+W.+Marwick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of Orkney and Shetland">The folklore of Orkney and Shetland</a>
+</h4>
+<p class="fr-book-author">By Ernest W. Marwick, Robert White</p>
+        
+<p class="fr-book-desc">The strongest dedicated source for trows, fairy belief and Northern Isles folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland+Ernest+W.+Marwick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Myths and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9323684-M.jpg" alt="Cover for Scottish Myths and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
-        </h4>
-        <p class="fr-book-author">By Judy Hamilton</p>
-
-        <p class="fr-book-desc">Introduces readers to the wider mythological landscape surrounding stories like the trows.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Myths and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9323684-M.jpg" alt="Cover for Scottish Myths and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Myths and Legends">Scottish Myths and Legends</a>
+</h4>
+<p class="fr-book-author">By Judy Hamilton</p>
+        
+<p class="fr-book-desc">Introduces readers to the wider mythological landscape surrounding stories like the trows.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends+Judy+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish fairy belief on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/919173-M.jpg" alt="Cover for Scottish fairy belief" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish fairy belief">Scottish fairy belief</a>
-        </h4>
-        <p class="fr-book-author">By Lizanne Henderson</p>
-
-        <p class="fr-book-desc">Places Shetland trows within wider Scottish fairy traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish fairy belief on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/919173-M.jpg" alt="Cover for Scottish fairy belief" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish fairy belief">Scottish fairy belief</a>
+</h4>
+<p class="fr-book-author">By Lizanne Henderson</p>
+        
+<p class="fr-book-desc">Places Shetland trows within wider Scottish fairy traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gaelic+otherworld+Campbell%2C+John+Gregorson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gaelic otherworld on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/886636-M.jpg" alt="Cover for The Gaelic otherworld" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Gaelic+otherworld+Campbell%2C+John+Gregorson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gaelic otherworld">The Gaelic otherworld</a>
-        </h4>
-        <p class="fr-book-author">By Campbell, John Gregorson</p>
-
-        <p class="fr-book-desc">Explores Celtic supernatural beliefs closely related to fairy lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Gaelic+otherworld+Campbell%2C+John+Gregorson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Gaelic+otherworld+Campbell%2C+John+Gregorson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Gaelic otherworld on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/886636-M.jpg" alt="Cover for The Gaelic otherworld" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Gaelic+otherworld+Campbell%2C+John+Gregorson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Gaelic otherworld">The Gaelic otherworld</a>
+</h4>
+<p class="fr-book-author">By Campbell, John Gregorson</p>
+        
+<p class="fr-book-desc">Explores Celtic supernatural beliefs closely related to fairy lore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Gaelic+otherworld+Campbell%2C+John+Gregorson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The folklore of Orkney and Shetland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Myths and Legends</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+fairy+belief&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish fairy belief</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+folklore+of+Orkney+and+Shetland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The folklore of Orkney and Shetland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Myths+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Myths and Legends</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+fairy+belief&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish fairy belief</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

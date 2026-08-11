@@ -320,7 +320,8 @@ There is another reason it endures: Nottingham’s identity is already subterran
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uz6HrlScj8E" title="Nottingham Castle &amp; Mortimer&#x27;s Hole | Walking Tour | Remains from 1068 | Drone Footage | 4K" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uz6HrlScj8E" target="_blank" rel="noopener noreferrer">Nottingham Castle &amp; Mortimer&#x27;s Hole | Walking Tour | Remains from 1068 | Drone Footage | 4K</a></p><p class="youtube-embed-meta">Channel: History Seeking</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uz6HrlScj8E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uz6HrlScj8E">Open on YouTube</a></p></div></div></div>
 
-## Testing the claims attached to Castle Caves
+## How credible is the haunting?
+
 As history, the Mortimer’s Hole story is strongest at the level of the coup: Mortimer was captured at Nottingham Castle in 1330, and the passage is traditionally tied to that event. Nottingham Castle, Historic England and local heritage sources all preserve that connection.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nottinghamcastle.org.uk/the-timeline-of-the-castle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nottinghamcastle.org.uk">[nottinghamcastle.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nottinghamcastle.org.uk</span><span class="citation-popover-snippet">Nottingham CastleThe Timeline of the CastleApril 26, 2023 — The King&#x27;s raiders entered the Castle using the secret cave tunnel, now known...</span><span class="citation-popover-meta">Published: April 26, 2023</span></span></span>
 
 As folklore, the ghost story is credible in a different sense. It is locally meaningful, repeatedly told and strongly attached to place. The reported motifs — echoing footsteps, Isabella’s cries, the condemned man dragged away — make sense as narrative memories of the arrest. They are not random apparitions placed on a famous site for decoration; they grow from the event for which the passage is named.
@@ -342,89 +343,89 @@ The legend also works as a bridge between royal history and ghost tourism. A vis
 That balance is what gives the caves beneath Nottingham Castle their lasting force. The story is eerie because it is not weightless. It has a date, a place, named people and a passage through the rock. The uncertain parts — the cries, the footsteps, the lingering presence — are the folklore that has grown in the dark around them.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Haunts the Caves Beneath Nottingham Castle?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Haunts the Caves Beneath Nottingham Castle?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The time traveller&#x27;s guide to medieval England on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8728137-M.jpg" alt="Cover for The time traveller&#x27;s guide to medieval England" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The time traveller&#x27;s guide to medieval England">The time traveller&#x27;s guide to medieval England</a>
-        </h4>
-        <p class="fr-book-author">By Ian Mortimer</p>
-
-        <p class="fr-book-desc">Provides vivid context for Edward III, Mortimer and medieval England.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The time traveller&#x27;s guide to medieval England on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8728137-M.jpg" alt="Cover for The time traveller&#x27;s guide to medieval England" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The time traveller&#x27;s guide to medieval England">The time traveller&#x27;s guide to medieval England</a>
+</h4>
+<p class="fr-book-author">By Ian Mortimer</p>
+        
+<p class="fr-book-desc">Provides vivid context for Edward III, Mortimer and medieval England.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+time+traveller%27s+guide+to+medieval+England+Ian+Mortimer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/913513-M.jpg" alt="Cover for Haunted Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Britain and Ireland">Haunted Britain and Ireland</a>
-        </h4>
-        <p class="fr-book-author">By Richard Jones</p>
-
-        <p class="fr-book-desc">Fits readers interested in castle hauntings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/913513-M.jpg" alt="Cover for Haunted Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Britain and Ireland">Haunted Britain and Ireland</a>
+</h4>
+<p class="fr-book-author">By Richard Jones</p>
+        
+<p class="fr-book-desc">Fits readers interested in castle hauntings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of the land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/106638-M.jpg" alt="Cover for The lore of the land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-
-        <p class="fr-book-desc">Places cave legends within wider British folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of the land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/106638-M.jpg" alt="Cover for The lore of the land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
+</h4>
+<p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
+        
+<p class="fr-book-desc">Places cave legends within wider British folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland: In Search of a Haunted Country on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10456761-M.jpg" alt="Cover for Ghostland: In Search of a Haunted Country" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland: In Search of a Haunted Country">Ghostland: In Search of a Haunted Country</a>
-        </h4>
-        <p class="fr-book-author">By Edward Parnell</p>
-
-        <p class="fr-book-desc">Explains why underground historic places inspire ghost lore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland: In Search of a Haunted Country on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10456761-M.jpg" alt="Cover for Ghostland: In Search of a Haunted Country" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland: In Search of a Haunted Country">Ghostland: In Search of a Haunted Country</a>
+</h4>
+<p class="fr-book-author">By Edward Parnell</p>
+        
+<p class="fr-book-desc">Explains why underground historic places inspire ghost lore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+time+traveller%27s+to+medieval+England+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The time traveller&#x27;s to medieval England books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Haunted Britain and Ireland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+the+land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of the land</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+time+traveller%27s+to+medieval+England+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The time traveller&#x27;s to medieval England books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Haunted Britain and Ireland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+the+land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of the land</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

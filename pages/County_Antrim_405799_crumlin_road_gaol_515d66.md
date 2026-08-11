@@ -330,7 +330,8 @@ The risk is that ghost tourism can flatten complex history into thrills. Crumlin
 
 That layered approach is also more frightening in a quieter way. A theatrical scare fades quickly. A condemned cell, a tunnel to court, an execution chamber and a list of names from 1854 to 1961 remain in the mind because they are not invented scenery. They are the physical remains of a justice system that once operated there.
 
-## Testing the claims attached to Crumlin Gaol
+## How credible are the hauntings?
+
 The most credible claim about Crumlin Road Gaol is not “ghosts have been proved”. It is that the gaol has become one of Belfast’s best-known haunted places because its architecture and history make reported experiences easy to remember, retell and commercialise. The official site acknowledges reports of sightings and noises, while paranormal and travel sources repeat claims of voices, slamming doors, apparitions and strange happenings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.crumlinroadgaol.com/scare-events/paranormal-tours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crumlinroadgaol.com">[Crumlin Road Gaol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crumlinroadgaol.com</span><span class="citation-popover-title">Crumlin Road Gaol Paranormal Tours</span><span class="citation-popover-snippet">Crumlin Road Gaol Paranormal Tours</span></span></span>
 
 The weakness is that the haunting evidence is rarely archival. There is no strong public trail of dated nineteenth-century ghost testimony comparable to older psychical-research cases or folklore collections. Much of the ghost material appears to have grown after closure in 1996, when the building shifted from working prison to heritage site and later to visitor attraction. The gaol’s own paranormal-tour page explicitly says the site has been associated with paranormal activity since its doors closed in 1996, although it adds that some former officers and inmates would argue the haunting is older.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.crumlinroadgaol.com/scare-events/paranormal-tours/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crumlinroadgaol.com">[Crumlin Road Gaol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crumlinroadgaol.com</span><span class="citation-popover-title">Crumlin Road Gaol Paranormal Tours</span><span class="citation-popover-snippet">Crumlin Road Gaol Paranormal Tours</span></span></span>
@@ -381,89 +382,89 @@ For a visitor or reader interested in County Antrim ghost stories, that makes Cr
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Crumlin Road Gaol Haunted or Haunting?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Crumlin Road Gaol Haunted or Haunting?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of Haunted House Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/543674-M.jpg" alt="Cover for The Mammoth Book of Haunted House Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Haunted House Stories">The Mammoth Book of Haunted House Stories</a>
-        </h4>
-        <p class="fr-book-author">By Peter Haining</p>
-
-        <p class="fr-book-desc">Appeals to readers seeking atmospheric supernatural reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mammoth Book of Haunted House Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/543674-M.jpg" alt="Cover for The Mammoth Book of Haunted House Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Haunted House Stories">The Mammoth Book of Haunted House Stories</a>
+</h4>
+<p class="fr-book-author">By Peter Haining</p>
+        
+<p class="fr-book-desc">Appeals to readers seeking atmospheric supernatural reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world&#x27;s most haunted places on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s most haunted places">The world&#x27;s most haunted places</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Belanger</p>
-
-        <p class="fr-book-desc">Useful comparison with other infamous haunted institutions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world&#x27;s most haunted places on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s most haunted places">The world&#x27;s most haunted places</a>
+</h4>
+<p class="fr-book-author">By Jeff Belanger</p>
+        
+<p class="fr-book-desc">Useful comparison with other infamous haunted institutions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of Ireland">The lore of Ireland</a>
-        </h4>
-        <p class="fr-book-author">By Dáithí Ó hÓgáin</p>
-
-        <p class="fr-book-desc">Helps place Belfast ghost traditions within Irish folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of Ireland">The lore of Ireland</a>
+</h4>
+<p class="fr-book-author">By Dáithí Ó hÓgáin</p>
+        
+<p class="fr-book-desc">Helps place Belfast ghost traditions within Irish folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Haunted+Ireland+David+Gerrard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Haunted+Ireland+David+Gerrard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Ireland">Haunted Ireland</a>
-        </h4>
-        <p class="fr-book-author">By David Gerrard</p>
-
-        <p class="fr-book-desc">Provides wider context for haunted Irish sites including prisons and public buildings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Haunted+Ireland+David+Gerrard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Haunted+Ireland+David+Gerrard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Haunted+Ireland+David+Gerrard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Ireland">Haunted Ireland</a>
+</h4>
+<p class="fr-book-author">By David Gerrard</p>
+        
+<p class="fr-book-desc">Provides wider context for haunted Irish sites including prisons and public buildings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Haunted+Ireland+David+Gerrard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Haunted House Stories</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world&#x27;s most haunted places</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of Ireland</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mammoth Book of Haunted House Stories</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world&#x27;s most haunted places</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of Ireland</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

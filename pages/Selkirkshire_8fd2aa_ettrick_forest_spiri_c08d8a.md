@@ -341,7 +341,8 @@ This is the difference between a simple ghost story and a local haunting traditi
 
 <img src="{{ "/assets/images/Selkirkshire_8fd2aa_ettrick_forest_spiri_c08d8a-Illustration-3-dark.svg" | relative_url }}" alt="Forest Spirits illustration 3" data-theme-src-dark="{{ "/assets/images/Selkirkshire_8fd2aa_ettrick_forest_spiri_c08d8a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Selkirkshire_8fd2aa_ettrick_forest_spiri_c08d8a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Testing the claims attached to Forest Spirits
+## How credible are these stories?
+
 The strongest evidence is not evidence for ghosts, but evidence for transmission. The Brownie of Bodsbeck has a traceable literary and folkloric life: Scott records an Ettrick Forest brownie tradition; Hogg transforms brownie lore into an 1818 Covenanting novel; later scholarship reads the work as deeply rooted in Ettrick oral tradition and local topography.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ia800403.us.archive.org/18/items/minstrelsyofscot01scot/minstrelsyofscot01scot.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ia800403.us.archive.org">[archive.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ia800403.us.archive.org</span><span class="citation-popover-snippet">Open source on archive.org.</span></span></span>
 
 Buckholm Tower is firmer as a place than as a paranormal case. The tower itself is well attested in heritage records, including its likely 1582 date and architectural form.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB19716" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[Historic Environment Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-snippet">Open source on historicenvironment.scot.</span></span></span> The ghost story, by contrast, is preserved mainly through clan, local-history and folklore retellings. Those are valuable for understanding legend, but they are not the same as contemporary legal records proving each alleged event.
@@ -363,89 +364,89 @@ The Brownie of Bodsbeck belongs naturally beside Selkirkshire’s fairy and ball
 For a visitor or reader, the lesson is simple. Ettrick Forest was not haunted only by “ghosts” in the narrow sense. It was haunted by explanations: why the work was done, why the fugitive survived, why the cruel man heard hounds, why a remote farm or tower seemed to hold more than ordinary history. That is the particular chill of Selkirkshire’s older spirit lore.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Haunted Ettrick Forest Before Ghost Tourism?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Haunted Ettrick Forest Before Ghost Tourism?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+brownie+of+Bodsbeck+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The brownie of Bodsbeck on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10044156-M.jpg" alt="Cover for The brownie of Bodsbeck" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+brownie+of+Bodsbeck+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The brownie of Bodsbeck">The brownie of Bodsbeck</a>
-        </h4>
-        <p class="fr-book-author">By James Hogg</p>
-
-        <p class="fr-book-desc">Directly inspired by the Brownie of Bodsbeck tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+brownie+of+Bodsbeck+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+brownie+of+Bodsbeck+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The brownie of Bodsbeck on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10044156-M.jpg" alt="Cover for The brownie of Bodsbeck" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+brownie+of+Bodsbeck+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The brownie of Bodsbeck">The brownie of Bodsbeck</a>
+</h4>
+<p class="fr-book-author">By James Hogg</p>
+        
+<p class="fr-book-desc">Directly inspired by the Brownie of Bodsbeck tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+brownie+of+Bodsbeck+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish fairy belief on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/919173-M.jpg" alt="Cover for Scottish fairy belief" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish fairy belief">Scottish fairy belief</a>
-        </h4>
-        <p class="fr-book-author">By Lizanne Henderson</p>
-
-        <p class="fr-book-desc">Explains brownies and supernatural belief in Scotland.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish fairy belief on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/919173-M.jpg" alt="Cover for Scottish fairy belief" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish fairy belief">Scottish fairy belief</a>
+</h4>
+<p class="fr-book-author">By Lizanne Henderson</p>
+        
+<p class="fr-book-desc">Explains brownies and supernatural belief in Scotland.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scottish+fairy+belief+Lizanne+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lm35Hwa9DNEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lore of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland">The Lore of Scotland</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Westwood, Sophia Kingshill</p>
-
-        <p class="fr-book-desc">Covers brownies, spirits and Scottish legendary traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lm35Hwa9DNEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lore of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland">The Lore of Scotland</a>
+</h4>
+<p class="fr-book-author">By Jennifer Westwood, Sophia Kingshill</p>
+        
+<p class="fr-book-desc">Covers brownies, spirits and Scottish legendary traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Private+Memoirs+and+Confessions+of+A+Justified+Sinner+%28With+A+Detail+of+Curious+Traditionary+Facts%2C+And+Other+Evidence%2C+By+The+Editor%29+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Private Memoirs and Confessions of A Justified Sinner (With A Detail of Curious Traditionary Facts, And Other Evidence, By The Editor) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2898574-M.jpg" alt="Cover for The Private Memoirs and Confessions of A Justified Sinner (With A Detail of Curious Traditionary Facts, And Other Evidence, By The Editor)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Private+Memoirs+and+Confessions+of+A+Justified+Sinner+%28With+A+Detail+of+Curious+Traditionary+Facts%2C+And+Other+Evidence%2C+By+The+Editor%29+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Private Memoirs and Confessions of A Justified Sinner (With A Detail of Curious Traditionary Facts, And Other Evidence, By The Editor)">The Private Memoirs and Confessions of A Justified Sinner (Wi...</a>
-        </h4>
-        <p class="fr-book-author">By James Hogg</p>
-
-        <p class="fr-book-desc">First published 1824. Subjects: fiction, Scottish fiction, Murderers, Classics, Psychological.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Private+Memoirs+and+Confessions+of+A+Justified+Sinner+%28With+A+Detail+of+Curious+Traditionary+Facts%2C+And+Other+Evidence%2C+By+The+Editor%29+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Private+Memoirs+and+Confessions+of+A+Justified+Sinner+%28With+A+Detail+of+Curious+Traditionary+Facts%2C+And+Other+Evidence%2C+By+The+Editor%29+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Private Memoirs and Confessions of A Justified Sinner (With A Detail of Curious Traditionary Facts, And Other Evidence, By The Editor) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2898574-M.jpg" alt="Cover for The Private Memoirs and Confessions of A Justified Sinner (With A Detail of Curious Traditionary Facts, And Other Evidence, By The Editor)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Private+Memoirs+and+Confessions+of+A+Justified+Sinner+%28With+A+Detail+of+Curious+Traditionary+Facts%2C+And+Other+Evidence%2C+By+The+Editor%29+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Private Memoirs and Confessions of A Justified Sinner (With A Detail of Curious Traditionary Facts, And Other Evidence, By The Editor)">The Private Memoirs and Confessions of A Justified Sinner (Wi...</a>
+</h4>
+<p class="fr-book-author">By James Hogg</p>
+        
+<p class="fr-book-desc">First published 1824. Subjects: fiction, Scottish fiction, Murderers, Classics, Psychological.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Private+Memoirs+and+Confessions+of+A+Justified+Sinner+%28With+A+Detail+of+Curious+Traditionary+Facts%2C+And+Other+Evidence%2C+By+The+Editor%29+James+Hogg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+brownie+of+Bodsbeck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The brownie of Bodsbeck</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+fairy+belief&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish fairy belief</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of Scotland</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+brownie+of+Bodsbeck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The brownie of Bodsbeck</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+fairy+belief&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish fairy belief</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of Scotland</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

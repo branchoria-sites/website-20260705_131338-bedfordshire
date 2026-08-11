@@ -812,7 +812,7 @@ The thread running through all of these places is not simple terror. It is attac
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Haunted House Stories">The Mammoth Book of Haunted House Stories</a>
 </h4>
 <p class="fr-book-author">By Peter Haining</p>
-
+        
 <p class="fr-book-desc">First published 2000. Subjects: ghost stories, haunted house stories, ghost story anthology, Ghost stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Haunted+House+Stories+Peter+Haining&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -829,7 +829,7 @@ The thread running through all of these places is not simple terror. It is attac
 <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Britain and Ireland">Haunted Britain and Ireland</a>
 </h4>
 <p class="fr-book-author">By Richard Jones</p>
-
+        
 <p class="fr-book-desc">First published 2001. Subjects: Ghosts, Haunted places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -846,7 +846,7 @@ The thread running through all of these places is not simple terror. It is attac
 <a href="https://www.amazon.com/s?k=English+castles+Adrian+Pettifer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="English castles">English castles</a>
 </h4>
 <p class="fr-book-author">By Adrian Pettifer</p>
-
+        
 <p class="fr-book-desc">First published 1995. Subjects: Castles, Guidebooks.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=English+castles+Adrian+Pettifer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -863,7 +863,7 @@ The thread running through all of these places is not simple terror. It is attac
 <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts">Ghosts</a>
 </h4>
 <p class="fr-book-author">By Lisa Morton</p>
-
+        
 <p class="fr-book-desc">First published 2015. Subjects: Ghosts, History, BODY, MIND &amp; SPIRIT, Parapsychology, General.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

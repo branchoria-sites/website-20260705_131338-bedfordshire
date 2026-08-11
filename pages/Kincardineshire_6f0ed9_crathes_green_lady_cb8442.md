@@ -342,7 +342,8 @@ That uncertainty does not weaken the legend as folklore. It is exactly what make
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D3ujAeZ_Fgw" title="Crathes Castle - The Green Lady - Haunted Scottish Castle - Ghost - Haunting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D3ujAeZ_Fgw" target="_blank" rel="noopener noreferrer">Crathes Castle - The Green Lady - Haunted Scottish Castle - Ghost - Haunting</a></p><p class="youtube-embed-meta">Channel: Rico Norton</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D3ujAeZ_Fgw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D3ujAeZ_Fgw">Open on YouTube</a></p></div></div></div>
 
-## Testing the claims attached to Crathes
+## How credible is the haunting?
+
 The credible part is the existence of the tradition, not the proof of a ghost. Crathes Castle is real, the Green Lady’s Room is a recognised part of the castle’s visitor identity, the National Trust for Scotland repeats the apparition-and-hearthstone story, and heritage records firmly establish the castle’s age, family associations and preserved status.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nts.org.uk/stories/ghosts-of-the-trust" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nts.org.uk">[National Trust for Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nts.org.uk</span><span class="citation-popover-snippet">National Trust for ScotlandGhosts of the TrustThe Green Lady&#x27;s Room at Crathes is named after the spirit of a young woman who has often b...</span></span></span> Those are strong anchors for a public folklore page.
 
 The uncertain part is everything that turns the tradition into a solved supernatural case. The available public sources do not establish a named woman, a named child, a coroner-like record, a precise renovation date, or an unbroken chain from the alleged discovery to the modern ghost account. The Queen Victoria sighting is also usually phrased as “said to have” rather than presented with a primary citation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nts.org.uk/stories/autumn-highlights-in-scotland" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nts.org.uk">[National Trust for Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nts.org.uk</span><span class="citation-popover-title">autumn highlights in scotland</span><span class="citation-popover-snippet">autumn highlights in scotland</span></span></span>
@@ -373,89 +374,89 @@ The modern boundary label can confuse readers. Crathes is commonly marketed in A
 The Green Lady also shows how preservation can make a ghost more durable. Ruins often leave stories exposed to weather and speculation; Crathes keeps the story indoors, attached to a named room in a maintained castle. The result is a haunting that feels almost curated but not defanged. The visitor is not merely told that a ghost exists somewhere on the estate. They are directed, imaginatively, to a fireplace where a woman in green is said to have appeared with a baby in her arms — and to a hearthstone beneath which a child was reportedly hidden.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Who Is the Green Lady of Crathes?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Who Is the Green Lady of Crathes?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10804655-M.jpg" alt="Cover for Scottish Ghost Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Ghost Stories">Scottish Ghost Stories</a>
-        </h4>
-        <p class="fr-book-author">By Robertson, James</p>
-
-        <p class="fr-book-desc">Strong fit for readers interested in famous Scottish castle ghosts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10804655-M.jpg" alt="Cover for Scottish Ghost Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Ghost Stories">Scottish Ghost Stories</a>
+</h4>
+<p class="fr-book-author">By Robertson, James</p>
+        
+<p class="fr-book-desc">Strong fit for readers interested in famous Scottish castle ghosts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lm35Hwa9DNEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lore of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland">The Lore of Scotland</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Westwood, Sophia Kingshill</p>
-
-        <p class="fr-book-desc">Explains recurring Green Lady and castle legend motifs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lm35Hwa9DNEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lore of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland">The Lore of Scotland</a>
+</h4>
+<p class="fr-book-author">By Jennifer Westwood, Sophia Kingshill</p>
+        
+<p class="fr-book-desc">Explains recurring Green Lady and castle legend motifs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world&#x27;s most haunted places on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s most haunted places">The world&#x27;s most haunted places</a>
-        </h4>
-        <p class="fr-book-author">By Jeff Belanger</p>
-
-        <p class="fr-book-desc">Broadens interest from one castle to famous hauntings worldwide.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world&#x27;s most haunted places on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s most haunted places">The world&#x27;s most haunted places</a>
+</h4>
+<p class="fr-book-author">By Jeff Belanger</p>
+        
+<p class="fr-book-desc">Broadens interest from one castle to famous hauntings worldwide.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crathes+Castle+Fiona+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crathes Castle on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Crathes+Castle+Fiona+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crathes Castle">Crathes Castle</a>
-        </h4>
-        <p class="fr-book-author">By Fiona Reynolds</p>
-
-        <p class="fr-book-desc">Focuses specifically on the castle associated with the Green Lady.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Crathes+Castle+Fiona+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Crathes+Castle+Fiona+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Crathes Castle on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Crathes+Castle+Fiona+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crathes Castle">Crathes Castle</a>
+</h4>
+<p class="fr-book-author">By Fiona Reynolds</p>
+        
+<p class="fr-book-desc">Focuses specifically on the castle associated with the Green Lady.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Crathes+Castle+Fiona+Reynolds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Ghost Stories</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of Scotland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world&#x27;s most haunted places</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Ghost Stories</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lore+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lore of Scotland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world&#x27;s most haunted places</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

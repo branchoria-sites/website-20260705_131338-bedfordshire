@@ -108,13 +108,13 @@ description: 'Sussex has one of the richest haunted landscapes in southern Engla
 hero_summary: 'Sussex has one of the richest haunted landscapes in southern England because its ghost stories cling to places that already feel historically charged: a battlefield where England changed course in 1066, Roman and Norman fortifications at Pevensey, ruined Tudor grandeur at Cowdray, lonely chalk valleys on the South Downs, old theatres and manor houses in...'
 layout: default
 permalink: /why-does-sussex-feel-so-haunted/
-nav_short_title: "Why Sussex's Ghost Stories Endure"
-title: "Why Sussex's Ghost Stories Endure"
-title_full: "Why Sussex's Ghost Stories Endure"
-display_title_short: "Why Sussex's Ghost Stories Endure"
-display_title: "Why Sussex's Ghost Stories Endure"
-heading_title: "Why Sussex's Ghost Stories Endure"
-page_heading_title: "Why Sussex's Ghost Stories Endure"
+nav_short_title: Why Does Sussex Feel So Haunted?
+title: Why Does Sussex Feel So Haunted?
+title_full: Why Does Sussex Feel So Haunted?
+display_title_short: Why Does Sussex Feel So Haunted?
+display_title: Why Does Sussex Feel So Haunted?
+heading_title: Why Does Sussex Feel So Haunted?
+page_heading_title: Why Does Sussex Feel So Haunted?
 source_count: 151
 infographic_count: 3
 page_website_name: Haunted Sussex
@@ -834,7 +834,7 @@ Sussex rewards that double vision. Its ghost stories are not isolated scares; th
 <a href="https://www.amazon.com/s?k=The+folklore+of+Sussex+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of Sussex">The folklore of Sussex</a>
 </h4>
 <p class="fr-book-author">By Jacqueline Simpson</p>
-
+        
 <p class="fr-book-desc">First published 1973. Subjects: Folklore, Social life and customs, Sussex, England, Folklore, great britain.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+folklore+of+Sussex+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -851,7 +851,7 @@ Sussex rewards that double vision. Its ghost stories are not isolated scares; th
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
 </h4>
 <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-
+        
 <p class="fr-book-desc">First published 2005. Subjects: Tales, Legends, British Mythology, Legends, great britain.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -868,7 +868,7 @@ Sussex rewards that double vision. Its ghost stories are not isolated scares; th
 <a href="https://www.amazon.com/s?k=The+Little+Book+of+Sussex+David+Arscott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of Sussex">The Little Book of Sussex</a>
 </h4>
 <p class="fr-book-author">By David Arscott</p>
-
+        
 <p class="fr-book-desc">First published 2011. Subjects: Sussex (england), history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Little+Book+of+Sussex+David+Arscott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -885,7 +885,7 @@ Sussex rewards that double vision. Its ghost stories are not isolated scares; th
 <a href="https://www.amazon.com/s?k=Haunted+Sussex+David+Arscott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Sussex">Haunted Sussex</a>
 </h4>
 <p class="fr-book-author">By David Arscott</p>
-
+        
 <p class="fr-book-desc">Collects many of Sussex&#x27;s best-known hauntings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Haunted+Sussex+David+Arscott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

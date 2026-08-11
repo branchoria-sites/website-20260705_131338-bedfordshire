@@ -318,7 +318,8 @@ Modern Beddgelert still trades, gently and openly, on that mixture. The National
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TApodP7jNvk" title="The Tale of Gelert: Welsh Legend of the Faithful Hound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TApodP7jNvk" target="_blank" rel="noopener noreferrer">The Tale of Gelert: Welsh Legend of the Faithful Hound</a></p><p class="youtube-embed-meta">Channel: Kooky Kids World</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TApodP7jNvk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TApodP7jNvk">Open on YouTube</a></p></div></div></div>
 
-## Evidence and embellishment around Beddgelert
+## How credible is the haunting?
+
 The most balanced reading is that Beddgelert’s landlord ghost is a well-preserved folklore account attached to a real person, a real inn and a real period of tourism growth, but not a documented haunting in the evidential sense used by psychical researchers or modern investigators. Its credibility as a supernatural event is thin; its credibility as local memory is much stronger.
 
 Several points make the story valuable rather than merely fanciful:
@@ -338,89 +339,89 @@ Yet that neatness is also why the story endures. Beddgelert’s landlord ghost i
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Beddgelert&#x27;s Most Famous Legend Create a Ghost?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Beddgelert&#x27;s Most Famous Legend Create a Ghost?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Haunted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4989341-M.jpg" alt="Cover for The Haunted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Haunted">The Haunted</a>
-        </h4>
-        <p class="fr-book-author">By Robert Curran</p>
-
-        <p class="fr-book-desc">Likely to interest readers exploring North Wales ghost sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Haunted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4989341-M.jpg" alt="Cover for The Haunted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Haunted">The Haunted</a>
+</h4>
+<p class="fr-book-author">By Robert Curran</p>
+        
+<p class="fr-book-desc">Likely to interest readers exploring North Wales ghost sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosts of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14324797-M.jpg" alt="Cover for Ghosts of Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Wales">Ghosts of Wales</a>
-        </h4>
-        <p class="fr-book-author">By Mark Rees</p>
-
-        <p class="fr-book-desc">Places Beddgelert-style hauntings within wider Welsh ghost traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosts of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14324797-M.jpg" alt="Cover for Ghosts of Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Wales">Ghosts of Wales</a>
+</h4>
+<p class="fr-book-author">By Mark Rees</p>
+        
+<p class="fr-book-desc">Places Beddgelert-style hauntings within wider Welsh ghost traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Welsh fairy book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/313219-M.jpg" alt="Cover for The Welsh fairy book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Welsh fairy book">The Welsh fairy book</a>
-        </h4>
-        <p class="fr-book-author">By W. Jenkyn Thomas</p>
-
-        <p class="fr-book-desc">Includes legendary material closely related to Welsh storytelling traditions like Gelert.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Welsh fairy book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/313219-M.jpg" alt="Cover for The Welsh fairy book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Welsh fairy book">The Welsh fairy book</a>
+</h4>
+<p class="fr-book-author">By W. Jenkyn Thomas</p>
+        
+<p class="fr-book-desc">Includes legendary material closely related to Welsh storytelling traditions like Gelert.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2022843-M.jpg" alt="Cover for Haunted Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Wales">Haunted Wales</a>
-        </h4>
-        <p class="fr-book-author">By Richard Holland</p>
-
-        <p class="fr-book-desc">First published 2005.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2022843-M.jpg" alt="Cover for Haunted Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Wales">Haunted Wales</a>
+</h4>
+<p class="fr-book-author">By Richard Holland</p>
+        
+<p class="fr-book-desc">First published 2005.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Haunted&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Haunted</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosts+of+Wales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosts of Wales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Welsh+fairy+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Welsh fairy book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Haunted&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Haunted</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosts+of+Wales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosts of Wales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Welsh+fairy+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Welsh fairy book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

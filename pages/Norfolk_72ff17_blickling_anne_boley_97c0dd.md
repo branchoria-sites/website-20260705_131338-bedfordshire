@@ -326,89 +326,89 @@ For visitors, the legend changes how the estate is imagined. By daylight, Blickl
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Does Anne Boleyn Return to Blickling?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Does Anne Boleyn Return to Blickling?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+six+wives+of+Henry+VIII+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The six wives of Henry VIII on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3986005-M.jpg" alt="Cover for The six wives of Henry VIII" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+six+wives+of+Henry+VIII+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The six wives of Henry VIII">The six wives of Henry VIII</a>
-        </h4>
-        <p class="fr-book-author">By Alison Weir</p>
-
-        <p class="fr-book-desc">Provides essential historical context for Anne Boleyn and the legends surrounding her.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+six+wives+of+Henry+VIII+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+six+wives+of+Henry+VIII+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The six wives of Henry VIII on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3986005-M.jpg" alt="Cover for The six wives of Henry VIII" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+six+wives+of+Henry+VIII+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The six wives of Henry VIII">The six wives of Henry VIII</a>
+</h4>
+<p class="fr-book-author">By Alison Weir</p>
+        
+<p class="fr-book-desc">Provides essential historical context for Anne Boleyn and the legends surrounding her.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+six+wives+of+Henry+VIII+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Castles of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/891835-M.jpg" alt="Cover for Haunted Castles of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Castles of Britain and Ireland">Haunted Castles of Britain and Ireland</a>
-        </h4>
-        <p class="fr-book-author">By Richard Jones</p>
-
-        <p class="fr-book-desc">Places Blickling&#x27;s ghost traditions within Britain&#x27;s wider haunted house folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Castles of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/891835-M.jpg" alt="Cover for Haunted Castles of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Castles of Britain and Ireland">Haunted Castles of Britain and Ireland</a>
+</h4>
+<p class="fr-book-author">By Richard Jones</p>
+        
+<p class="fr-book-desc">Places Blickling&#x27;s ghost traditions within Britain&#x27;s wider haunted house folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lady+In+The+Tower+The+Fall+Of+Anne+Boleyn+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lady In The Tower The Fall Of Anne Boleyn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7523663-M.jpg" alt="Cover for The Lady In The Tower The Fall Of Anne Boleyn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lady+In+The+Tower+The+Fall+Of+Anne+Boleyn+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lady In The Tower The Fall Of Anne Boleyn">The Lady In The Tower The Fall Of Anne Boleyn</a>
-        </h4>
-        <p class="fr-book-author">By Alison Weir</p>
-
-        <p class="fr-book-desc">First published 2010. Subjects: New York Times reviewed, Anne boleyn, queen, consort of henry viii, king of england, 1507-1536, Queens, g...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lady+In+The+Tower+The+Fall+Of+Anne+Boleyn+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lady+In+The+Tower+The+Fall+Of+Anne+Boleyn+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lady In The Tower The Fall Of Anne Boleyn on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7523663-M.jpg" alt="Cover for The Lady In The Tower The Fall Of Anne Boleyn" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lady+In+The+Tower+The+Fall+Of+Anne+Boleyn+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lady In The Tower The Fall Of Anne Boleyn">The Lady In The Tower The Fall Of Anne Boleyn</a>
+</h4>
+<p class="fr-book-author">By Alison Weir</p>
+        
+<p class="fr-book-desc">First published 2010. Subjects: New York Times reviewed, Anne boleyn, queen, consort of henry viii, king of england, 1507-1536, Queens, g...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lady+In+The+Tower+The+Fall+Of+Anne+Boleyn+Alison+Weir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Guide to the Superstitions of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/104941-M.jpg" alt="Cover for The Penguin Guide to the Superstitions of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Roud</p>
-
-        <p class="fr-book-desc">First published 2006. Subjects: Nonfiction, Reference, Superstition, Dictionaries, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Guide to the Superstitions of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/104941-M.jpg" alt="Cover for The Penguin Guide to the Superstitions of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
+</h4>
+<p class="fr-book-author">By Stephen Roud</p>
+        
+<p class="fr-book-desc">First published 2006. Subjects: Nonfiction, Reference, Superstition, Dictionaries, History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+six+wives+of+Henry+VIII&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The six wives of Henry VIII</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Haunted Castles of Britain and Ireland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lady+In+The+Tower+The+Fall+Of+Anne+Boleyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lady In The Tower The Fall Of Anne Boleyn</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+six+wives+of+Henry+VIII&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The six wives of Henry VIII</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Haunted Castles of Britain and Ireland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Lady+In+The+Tower+The+Fall+Of+Anne+Boleyn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Lady In The Tower The Fall Of Anne Boleyn</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

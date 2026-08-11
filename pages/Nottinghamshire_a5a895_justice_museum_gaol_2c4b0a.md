@@ -334,7 +334,8 @@ The most careful way to read the museum’s ghost stories is therefore as layere
 
 <img src="{{ "/assets/images/Nottinghamshire_a5a895_justice_museum_gaol_2c4b0a-Illustration-3-dark.svg" | relative_url }}" alt="Gaol Ghosts illustration 3" data-theme-src-dark="{{ "/assets/images/Nottinghamshire_a5a895_justice_museum_gaol_2c4b0a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nottinghamshire_a5a895_justice_museum_gaol_2c4b0a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How firmly the stories about Gaol Ghosts are grounded
+## How credible are the stories?
+
 The National Justice Museum’s ghost stories are credible as folklore and visitor tradition, but not as verified evidence of spirits. The distinction is important. There is good evidence that people tell, collect and repeat haunting claims at the site. There is good evidence that the building’s physical and historical character makes those claims plausible to visitors. There is not public evidence, at least in the accessible sources, that independently verifies the supernatural cause of any specific apparition.
 
 The strongest sources for the tradition are the museum’s own ghost-story material, visitor accounts from named cultural organisations, and public event listings that show the museum actively incorporates staff and visitor reports into its haunted programming.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationaljusticemuseum.org.uk/museum/news/ghost-stories-special" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaljusticemuseum.org.uk">[nationaljusticemuseum.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaljusticemuseum.org.uk</span><span class="citation-popover-title">National Justice Museum Ghost stories with Claire &#124; National Justice Museum</span><span class="citation-popover-snippet">National Justice Museum Ghost stories with Claire &#124; National Justice Museum</span></span></span> The weaker sources are commercial ghost-hunt pages, which may preserve useful motifs but often intensify the language for effect.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.hauntedhappenings.co.uk/galleries-of-justice/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hauntedhappenings.co.uk">[hauntedhappenings.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hauntedhappenings.co.uk</span><span class="citation-popover-title">Galleries Of Justice Ghost Hunts, Nottinghamshire</span><span class="citation-popover-snippet">Galleries Of Justice Ghost Hunts, Nottinghamshire</span></span></span>
@@ -349,89 +350,89 @@ The gaol ghosts endure because the building makes absence feel occupied. The cou
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Gaol Ghost Stories Feel So Convincing?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Gaol Ghost Stories Feel So Convincing?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/913513-M.jpg" alt="Cover for Haunted Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Britain and Ireland">Haunted Britain and Ireland</a>
-        </h4>
-        <p class="fr-book-author">By Richard Jones</p>
-
-        <p class="fr-book-desc">Includes haunted prisons and public buildings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/913513-M.jpg" alt="Cover for Haunted Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Britain and Ireland">Haunted Britain and Ireland</a>
+</h4>
+<p class="fr-book-author">By Richard Jones</p>
+        
+<p class="fr-book-desc">Includes haunted prisons and public buildings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland: In Search of a Haunted Country on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10456761-M.jpg" alt="Cover for Ghostland: In Search of a Haunted Country" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland: In Search of a Haunted Country">Ghostland: In Search of a Haunted Country</a>
-        </h4>
-        <p class="fr-book-author">By Edward Parnell</p>
-
-        <p class="fr-book-desc">Explores why emotionally charged places become haunted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland: In Search of a Haunted Country on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10456761-M.jpg" alt="Cover for Ghostland: In Search of a Haunted Country" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland: In Search of a Haunted Country">Ghostland: In Search of a Haunted Country</a>
+</h4>
+<p class="fr-book-author">By Edward Parnell</p>
+        
+<p class="fr-book-desc">Explores why emotionally charged places become haunted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Guide to the Superstitions of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/104941-M.jpg" alt="Cover for The Penguin Guide to the Superstitions of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Roud</p>
-
-        <p class="fr-book-desc">Provides cultural background for supernatural beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Guide to the Superstitions of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/104941-M.jpg" alt="Cover for The Penguin Guide to the Superstitions of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
+</h4>
+<p class="fr-book-author">By Stephen Roud</p>
+        
+<p class="fr-book-desc">Provides cultural background for supernatural beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Newgate%3A+London%27s+Prototype+of+Hell+Stephen+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Newgate: London&#x27;s Prototype of Hell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5503510-M.jpg" alt="Cover for Newgate: London&#x27;s Prototype of Hell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Newgate%3A+London%27s+Prototype+of+Hell+Stephen+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Newgate: London&#x27;s Prototype of Hell">Newgate: London&#x27;s Prototype of Hell</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Halliday, STEPHEN HALLIDAY</p>
-
-        <p class="fr-book-desc">Provides historical context for gaols, punishment and prison folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Newgate%3A+London%27s+Prototype+of+Hell+Stephen+Halliday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Newgate%3A+London%27s+Prototype+of+Hell+Stephen+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Newgate: London&#x27;s Prototype of Hell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5503510-M.jpg" alt="Cover for Newgate: London&#x27;s Prototype of Hell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Newgate%3A+London%27s+Prototype+of+Hell+Stephen+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Newgate: London&#x27;s Prototype of Hell">Newgate: London&#x27;s Prototype of Hell</a>
+</h4>
+<p class="fr-book-author">By Stephen Halliday, STEPHEN HALLIDAY</p>
+        
+<p class="fr-book-desc">Provides historical context for gaols, punishment and prison folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Newgate%3A+London%27s+Prototype+of+Hell+Stephen+Halliday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Haunted Britain and Ireland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland: In Search of a Haunted Country</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+to+the+Superstitions+of+Britain+and+Ireland+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin to the Superstitions of Britain and Ireland books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Haunted+Britain+and+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Haunted Britain and Ireland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland: In Search of a Haunted Country</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+to+the+Superstitions+of+Britain+and+Ireland+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin to the Superstitions of Britain and Ireland books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

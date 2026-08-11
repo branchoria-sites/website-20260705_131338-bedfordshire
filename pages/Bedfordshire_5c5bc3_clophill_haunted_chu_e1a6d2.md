@@ -324,7 +324,8 @@ That does not erase the haunted reputation, but it reframes it. The modern visit
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tJhcUcFOCLM" title="England&#x27;s Most Evil Church?! Ghost Hunting with Ghost Huns 👻 | RedHanded Halloween Special" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tJhcUcFOCLM" target="_blank" rel="noopener noreferrer">England&#x27;s Most Evil Church?! Ghost Hunting with Ghost Huns 👻 | RedHanded Halloween Special</a></p><p class="youtube-embed-meta">Channel: RedHanded</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tJhcUcFOCLM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tJhcUcFOCLM">Open on YouTube</a></p></div></div></div>
 
-## Testing the claims attached to Clophill
+## How credible is the haunting?
+
 Clophill is credible as a case of haunted reputation, not as proof of confirmed supernatural activity. The best-supported facts concern the building’s history, its abandonment, the 1956 roof-lead theft, the 1963 grave desecration, later vandalism and the twenty-first-century restoration. These are grounded in parish history, Bedfordshire Archives, local authority information and heritage records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://bedsarchives.bedford.gov.uk/CommunityHistories/Clophill/OldSaintMarysChurchClophill.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bedsarchives.bedford.gov.uk">[bedford.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bedsarchives.bedford.gov.uk</span><span class="citation-popover-title">Bedfordshire Archives</span><span class="citation-popover-snippet">Hosted By Bedford Borough Council: Old Saint Marys Church Clophill...</span></span></span>
 
 The occult interpretation is more fragile. Contemporary reports described ritual-looking details, and later writers connected the case to broader British anxieties about black magic and Satanism. But the evidence does not securely establish an organised occult group, and admissions by students that some earlier ritual-like activity was a joke make simple sensational versions of the story unreliable. The responsible conclusion is that Clophill suffered real desecration which was then interpreted through the occult fears and media habits of its time.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://weirdinthewade.blog/2023/11/27/show-notes-links-and-transcript-for-the-black-magic-church/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weirdinthewade.blog">[Weird In The Wade]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weirdinthewade.blog</span><span class="citation-popover-snippet">Open source on weirdinthewade.blog.</span></span></span>
@@ -339,89 +340,89 @@ For Bedfordshire’s haunted history, Old St Mary’s is therefore a key case be
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Did Clophill Become So Notorious?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Did Clophill Become So Notorious?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of the land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/106638-M.jpg" alt="Cover for The lore of the land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-
-        <p class="fr-book-desc">Explains how places accumulate legends over centuries.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of the land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/106638-M.jpg" alt="Cover for The lore of the land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
+</h4>
+<p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
+        
+<p class="fr-book-desc">Explains how places accumulate legends over centuries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Haunted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4989341-M.jpg" alt="Cover for The Haunted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Haunted">The Haunted</a>
-        </h4>
-        <p class="fr-book-author">By Robert Curran</p>
-
-        <p class="fr-book-desc">Useful for understanding modern hauntings and folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Haunted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4989341-M.jpg" alt="Cover for The Haunted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Haunted">The Haunted</a>
+</h4>
+<p class="fr-book-author">By Robert Curran</p>
+        
+<p class="fr-book-desc">Useful for understanding modern hauntings and folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Guide to the Superstitions of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/104941-M.jpg" alt="Cover for The Penguin Guide to the Superstitions of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Roud</p>
-
-        <p class="fr-book-desc">Offers background on supernatural beliefs relevant to Clophill.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Guide to the Superstitions of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/104941-M.jpg" alt="Cover for The Penguin Guide to the Superstitions of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
+</h4>
+<p class="fr-book-author">By Stephen Roud</p>
+        
+<p class="fr-book-desc">Offers background on supernatural beliefs relevant to Clophill.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10456761-M.jpg" alt="Cover for Ghostland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
-        </h4>
-        <p class="fr-book-author">By Edward Parnell</p>
-
-        <p class="fr-book-desc">First published 2019. Subjects: Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10456761-M.jpg" alt="Cover for Ghostland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
+</h4>
+<p class="fr-book-author">By Edward Parnell</p>
+        
+<p class="fr-book-desc">First published 2019. Subjects: Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+the+land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of the land</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Haunted&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Haunted</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+to+the+Superstitions+of+Britain+and+Ireland+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin to the Superstitions of Britain and Ireland books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+the+land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of the land</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Haunted&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Haunted</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+to+the+Superstitions+of+Britain+and+Ireland+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin to the Superstitions of Britain and Ireland books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

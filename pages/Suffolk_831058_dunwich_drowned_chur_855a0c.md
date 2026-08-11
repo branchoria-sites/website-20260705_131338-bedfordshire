@@ -336,7 +336,8 @@ For folklore, the key change is interpretive. The underwater evidence does not s
 
 <img src="{{ "/assets/images/Suffolk_831058_dunwich_drowned_chur_855a0c-Illustration-3-dark.svg" | relative_url }}" alt="Dunwich illustration 3" data-theme-src-dark="{{ "/assets/images/Suffolk_831058_dunwich_drowned_chur_855a0c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suffolk_831058_dunwich_drowned_chur_855a0c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What can be verified about Dunwich
+## How credible is the haunting?
+
 The most credible part of the Dunwich story is the historical loss. Multiple institutional and archaeological sources support the broad outline: Dunwich was a major medieval settlement; it had numerous churches and religious houses; storms, harbour silting and erosion ruined the port; buildings and church sites were lost to the sea; and offshore remains have been mapped or identified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://historicengland.org.uk/listing/the-list/list-entry/1006039" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicengland.org.uk">[historicengland.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicengland.org.uk</span><span class="citation-popover-title">Historic England Greyfriars, Dunwich, Dunwich</span><span class="citation-popover-snippet">Historic EnglandGreyfriars, Dunwich, Dunwich - 1006039 &#124; Historic England...</span></span></span>
 
 The least provable part is the haunting itself. The sound of bells beneath the waves is a legend, not a documented acoustic phenomenon. Natural explanations are easy to imagine: wind through rigging or buildings, wave action on shingle, distant church bells carried by weather, offshore vessels, buoy sounds, or the mind’s tendency to find pattern in storm noise. Dunwich’s atmosphere encourages listening, and listening can become interpretation.
@@ -366,89 +367,89 @@ The most evocative way to understand the legend is not to look for a guaranteed 
 Dunwich’s lost bells endure because they give Suffolk’s coastal loss a voice. Whether heard as folklore, metaphor, warning or ghost story, they ask the same question every generation has asked on this shore: when a town disappears, what remains of it in the places, sounds and stories left behind?
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can You Hear Dunwich&#x27;s Lost Bells?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can You Hear Dunwich&#x27;s Lost Bells?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of the land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/106638-M.jpg" alt="Cover for The lore of the land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-
-        <p class="fr-book-desc">Explains legends of drowned places and haunted landscapes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of the land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/106638-M.jpg" alt="Cover for The lore of the land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
+</h4>
+<p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
+        
+<p class="fr-book-desc">Explains legends of drowned places and haunted landscapes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Guide to the Superstitions of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/104941-M.jpg" alt="Cover for The Penguin Guide to the Superstitions of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Roud</p>
-
-        <p class="fr-book-desc">Covers traditional beliefs that underpin stories like the lost bells of Dunwich.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Guide to the Superstitions of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/104941-M.jpg" alt="Cover for The Penguin Guide to the Superstitions of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
+</h4>
+<p class="fr-book-author">By Stephen Roud</p>
+        
+<p class="fr-book-desc">Covers traditional beliefs that underpin stories like the lost bells of Dunwich.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10456761-M.jpg" alt="Cover for Ghostland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
-        </h4>
-        <p class="fr-book-author">By Edward Parnell</p>
-
-        <p class="fr-book-desc">Explores coastal landscapes, memory and ghost traditions relevant to Dunwich.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10456761-M.jpg" alt="Cover for Ghostland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
+</h4>
+<p class="fr-book-author">By Edward Parnell</p>
+        
+<p class="fr-book-desc">Explores coastal landscapes, memory and ghost traditions relevant to Dunwich.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ruin+of+All+Witches+Malcolm+Gaskill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ruin of All Witches on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12568268-M.jpg" alt="Cover for Ruin of All Witches" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ruin+of+All+Witches+Malcolm+Gaskill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ruin of All Witches">Ruin of All Witches</a>
-        </h4>
-        <p class="fr-book-author">By Malcolm Gaskill</p>
-
-        <p class="fr-book-desc">Provides rich historical context for supernatural belief in East Anglia.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ruin+of+All+Witches+Malcolm+Gaskill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ruin+of+All+Witches+Malcolm+Gaskill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ruin of All Witches on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12568268-M.jpg" alt="Cover for Ruin of All Witches" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ruin+of+All+Witches+Malcolm+Gaskill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ruin of All Witches">Ruin of All Witches</a>
+</h4>
+<p class="fr-book-author">By Malcolm Gaskill</p>
+        
+<p class="fr-book-desc">Provides rich historical context for supernatural belief in East Anglia.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ruin+of+All+Witches+Malcolm+Gaskill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+the+land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of the land</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+to+the+Superstitions+of+Britain+and+Ireland+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin to the Superstitions of Britain and Ireland books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+the+land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of the land</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+to+the+Superstitions+of+Britain+and+Ireland+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin to the Superstitions of Britain and Ireland books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

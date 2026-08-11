@@ -324,7 +324,8 @@ For readers of haunted Banffshire, that is the key point. Inchdrewer is not famo
 
 <img src="{{ "/assets/images/Banffshire_c00f44_inchdrewer_murder_ha_04bd7d-Illustration-3-dark.svg" | relative_url }}" alt="Inchdrewer illustration 3" data-theme-src-dark="{{ "/assets/images/Banffshire_c00f44_inchdrewer_murder_ha_04bd7d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Banffshire_c00f44_inchdrewer_murder_ha_04bd7d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What can be verified about Inchdrewer
+## How Credible Is The Haunting Tradition?
+
 The historical core is stronger than the supernatural claim. The castle is real, nationally listed, and well documented as an important tower house. Lord Banff’s death in 1713 is recorded in older historical reference material, while modern heritage accounts preserve the local murder-and-fire version. The uncertainty lies in the details: precisely who killed him, what evidence was available, why no conviction followed, and how much of the servant-robbery story reflects later reconstruction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://portal.historicenvironment.scot/apex/f?p=1505%3A300%3A%3A%3A%3A%3AVIEWTYPE%2CVIEWREF%3Adesignation%2CLB3049" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: portal.historicenvironment.scot">[historicenvironment.scot]</a><span class="citation-popover" role="note"><span class="citation-popover-source">portal.historicenvironment.scot</span><span class="citation-popover-snippet">Open source on historicenvironment.scot.</span></span></span>
 
 The ghost element is weaker as evidence but valuable as tradition. Reports that Lord Banff walks the castle, or that a white dog represents a spectral lady, appear mainly in modern newspaper, castle, folklore and popular-haunting retellings. These sources are useful for tracking the story’s public life, but they do not amount to independent proof of apparitions. The most careful reading is that Inchdrewer has a well-attested historical tragedy and a later haunting tradition built around it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thetimes.com/travel/destinations/uk-travel/scotland-travel/she-captured-the-castle-fckxbl6r772" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thetimes.com">[thetimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thetimes.com</span><span class="citation-popover-title">she captured the castle fckxbl6r772</span><span class="citation-popover-snippet">The TimesShe captured the castle9 Mar 2014 — Three ghosts are said to haunt the fort: George Ogilvy, the 3rd Lord Banff, who was murdered...</span></span></span>
@@ -346,89 +347,89 @@ It is also a good example of why historic county haunting pages need careful geo
 The lasting image is not simply a ghost in a window. It is the castle itself as a witness: a tower house that outlived its owners, was remembered for a death “never fully explained”, and later became a screen for firelight, white-dog sightings and stories of a murdered lord still tied to the stones. That is why Inchdrewer remains one of Banffshire’s most memorable murder-haunting traditions.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Is Inchdrewer Castle Said To Be Haunted?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Is Inchdrewer Castle Said To Be Haunted?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+castles+of+Scotland+Martin+Coventry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The castles of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4285020-M.jpg" alt="Cover for The castles of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+castles+of+Scotland+Martin+Coventry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The castles of Scotland">The castles of Scotland</a>
-        </h4>
-        <p class="fr-book-author">By Martin Coventry, MARTIN COVENTRY</p>
-
-        <p class="fr-book-desc">Places Inchdrewer within Scotland&#x27;s wider castle history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+castles+of+Scotland+Martin+Coventry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+castles+of+Scotland+Martin+Coventry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The castles of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4285020-M.jpg" alt="Cover for The castles of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+castles+of+Scotland+Martin+Coventry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The castles of Scotland">The castles of Scotland</a>
+</h4>
+<p class="fr-book-author">By Martin Coventry, MARTIN COVENTRY</p>
+        
+<p class="fr-book-desc">Places Inchdrewer within Scotland&#x27;s wider castle history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+castles+of+Scotland+Martin+Coventry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10804655-M.jpg" alt="Cover for Scottish Ghost Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Ghost Stories">Scottish Ghost Stories</a>
-        </h4>
-        <p class="fr-book-author">By Robertson, James</p>
-
-        <p class="fr-book-desc">Strong match for readers interested in haunted Scottish castles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10804655-M.jpg" alt="Cover for Scottish Ghost Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Ghost Stories">Scottish Ghost Stories</a>
+</h4>
+<p class="fr-book-author">By Robertson, James</p>
+        
+<p class="fr-book-desc">Strong match for readers interested in haunted Scottish castles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The secret commonwealth of elves, fauns, and fairies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14849505-M.jpg" alt="Cover for The secret commonwealth of elves, fauns, and fairies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret commonwealth of elves, fauns, and fairies">The secret commonwealth of elves, fauns, and fairies</a>
-        </h4>
-        <p class="fr-book-author">By Kirk, Robert</p>
-
-        <p class="fr-book-desc">Expands readers&#x27; understanding of Scottish supernatural traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The secret commonwealth of elves, fauns, and fairies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14849505-M.jpg" alt="Cover for The secret commonwealth of elves, fauns, and fairies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret commonwealth of elves, fauns, and fairies">The secret commonwealth of elves, fauns, and fairies</a>
+</h4>
+<p class="fr-book-author">By Kirk, Robert</p>
+        
+<p class="fr-book-desc">Expands readers&#x27; understanding of Scottish supernatural traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lm35Hwa9DNEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lore of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland">The Lore of Scotland</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Westwood, Sophia Kingshill</p>
-
-        <p class="fr-book-desc">Provides context for murder legends and hauntings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Lore of Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=lm35Hwa9DNEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Lore of Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lore of Scotland">The Lore of Scotland</a>
+</h4>
+<p class="fr-book-author">By Jennifer Westwood, Sophia Kingshill</p>
+        
+<p class="fr-book-desc">Provides context for murder legends and hauntings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Lore+of+Scotland+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+castles+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The castles of Scotland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Ghost Stories</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret commonwealth of elves, fauns, and fairies</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+castles+of+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The castles of Scotland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Ghost Stories</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret commonwealth of elves, fauns, and fairies</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

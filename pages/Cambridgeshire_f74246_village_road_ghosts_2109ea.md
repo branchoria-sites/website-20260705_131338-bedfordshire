@@ -328,7 +328,8 @@ Moco Farm is not a White Lady road ghost, but it belongs on this page because it
 
 <img src="{{ "/assets/images/Cambridgeshire_f74246_village_road_ghosts_2109ea-Illustration-3-dark.svg" | relative_url }}" alt="Road Ghosts illustration 3" data-theme-src-dark="{{ "/assets/images/Cambridgeshire_f74246_village_road_ghosts_2109ea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Cambridgeshire_f74246_village_road_ghosts_2109ea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Evidence and embellishment around Road Ghosts
+## How credible are these stories?
+
 The most credible part of Cambridgeshire’s village ghost lore is not the supernatural claim itself. It is the evidence that such stories were locally told, collected and attached to named places. Harston’s White Lady is stronger than many ghost-list entries because it has a 1935 village collection point and a named preservation route through Enid Porter’s work. Moco Farm is stronger still as a social-memory case because it combines an 18th-century murder tradition, a parish burial memory, a 1901 newspaper report and later family retelling.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://capturingcambridge.org/places-in-south-cambridgeshire/harston/queens-head-harston/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: capturingcambridge.org">[Capturing Cambridge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">capturingcambridge.org</span><span class="citation-popover-title">Capturing Cambridge Queen&#x27;s Head, Harston</span><span class="citation-popover-snippet">Capturing Cambridge Queen&#x27;s Head, Harston</span></span></span>
 
 The weaker parts are the usual ones. Witnesses are often unnamed. Exact dates of apparitional sightings are vague. Later websites can repeat older stories without adding sources. Some modern accounts increase drama by turning a quiet parish tradition into a more cinematic haunting. In the case of Nun’s Bridge, the story’s modern “Cambridgeshire” label can obscure its Huntingdonshire setting, and the legend’s elements — forbidden nun, monk lover, bridge, apparition startling drivers — are familiar motifs found in many British haunting traditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cambridge-news.co.uk/news/history/ghost-vengeful-huntingdon-nun-whose-23592674" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cambridge-news.co.uk">[Cambridge News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cambridge-news.co.uk</span><span class="citation-popover-snippet">Open source on cambridge-news.co.uk.</span></span></span>
@@ -349,89 +350,89 @@ That is why village roads keep their ghosts. Roads are where the living repeated
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Do Village Roads Keep Their Ghosts?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Village Roads Keep Their Ghosts?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of the land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/106638-M.jpg" alt="Cover for The lore of the land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
-        </h4>
-        <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-
-        <p class="fr-book-desc">Explores roadside legends, white ladies and place-based folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lore of the land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/106638-M.jpg" alt="Cover for The lore of the land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
+</h4>
+<p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
+        
+<p class="fr-book-desc">Explores roadside legends, white ladies and place-based folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Guide to the Superstitions of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/104941-M.jpg" alt="Cover for The Penguin Guide to the Superstitions of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Roud</p>
-
-        <p class="fr-book-desc">Explains traditional beliefs behind village ghost stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Guide to the Superstitions of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/104941-M.jpg" alt="Cover for The Penguin Guide to the Superstitions of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
+</h4>
+<p class="fr-book-author">By Stephen Roud</p>
+        
+<p class="fr-book-desc">Explains traditional beliefs behind village ghost stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12177061-M.jpg" alt="Cover for Ghosts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts">Ghosts</a>
-        </h4>
-        <p class="fr-book-author">By Lisa Morton</p>
-
-        <p class="fr-book-desc">First published 2015. Subjects: Ghosts, History, BODY, MIND &amp; SPIRIT, Parapsychology, General.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12177061-M.jpg" alt="Cover for Ghosts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts">Ghosts</a>
+</h4>
+<p class="fr-book-author">By Lisa Morton</p>
+        
+<p class="fr-book-desc">First published 2015. Subjects: Ghosts, History, BODY, MIND &amp; SPIRIT, Parapsychology, General.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghosts+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+folklore+of+Discworld+Terry+Pratchett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The folklore of Discworld on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14648041-M.jpg" alt="Cover for The folklore of Discworld" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+folklore+of+Discworld+Terry+Pratchett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of Discworld">The folklore of Discworld</a>
-        </h4>
-        <p class="fr-book-author">By Terry Pratchett, Jacqueline Simpson</p>
-
-        <p class="fr-book-desc">First published 2008. Subjects: Themes, motives, Discworld (Imaginary place), Folklore in literature, Discworld (imaginary place), fictio...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+folklore+of+Discworld+Terry+Pratchett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+folklore+of+Discworld+Terry+Pratchett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The folklore of Discworld on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14648041-M.jpg" alt="Cover for The folklore of Discworld" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+folklore+of+Discworld+Terry+Pratchett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of Discworld">The folklore of Discworld</a>
+</h4>
+<p class="fr-book-author">By Terry Pratchett, Jacqueline Simpson</p>
+        
+<p class="fr-book-desc">First published 2008. Subjects: Themes, motives, Discworld (Imaginary place), Folklore in literature, Discworld (imaginary place), fictio...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+folklore+of+Discworld+Terry+Pratchett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+the+land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of the land</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+to+the+Superstitions+of+Britain+and+Ireland+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin to the Superstitions of Britain and Ireland books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosts</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lore+of+the+land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lore of the land</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+to+the+Superstitions+of+Britain+and+Ireland+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin to the Superstitions of Britain and Ireland books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosts</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -324,7 +324,8 @@ This context makes several readings plausible without making any of them certain
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gu7aF2VEbCw" title="Doctor Who Film Project - Auton Attack 2 @ Llanelly House (18.10.18)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gu7aF2VEbCw" target="_blank" rel="noopener noreferrer">Doctor Who Film Project - Auton Attack 2 @ Llanelly House (18.10.18)</a></p><p class="youtube-embed-meta">Channel: Film Skills Wales</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gu7aF2VEbCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gu7aF2VEbCw">Open on YouTube</a></p></div></div></div>
 
-## How firmly the stories about Llanelly House are grounded
+## How credible is the haunting tradition?
+
 The historical death is much stronger than the supernatural claim. Mira Turner appears in local-history retellings linked to census, burial, registry, and newspaper-inquest material. The key points — her age, employment as a servant, burial in August 1851, and death by laudanum under a temporary-insanity verdict — are repeatedly preserved in local accounts.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://sirgarblog.blogspot.com/2011/08/llanelly-house-ghost-picture-hoax.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sirgarblog.blogspot.com">[Sir Gar Blog]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sirgarblog.blogspot.com</span><span class="citation-popover-title">Sir Gar Blog Llanelly House &#x27;ghost&#x27; picture hoax</span><span class="citation-popover-snippet">Sir Gar Blog Llanelly House &#x27;ghost&#x27; picture hoax</span></span></span>
 
 The haunting evidence is much softer. It consists of visitor anecdotes, local oral tradition, ghost-tour interpretation, paranormal listings, and occasional modern media attention. These are important as folklore and tourism history, but they do not prove that an apparition exists. They show that Llanelly House has become a place where people expect the past to feel present, especially around the servants’ quarters, stairways, and inquest narrative.
@@ -357,89 +358,89 @@ That is why Llanelly House remains one of Carmarthenshire’s most memorable hau
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Does Mira Turner&#x27;s Ghost Remember?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Does Mira Turner&#x27;s Ghost Remember?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosts of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14324797-M.jpg" alt="Cover for Ghosts of Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Wales">Ghosts of Wales</a>
-        </h4>
-        <p class="fr-book-author">By Mark Rees</p>
-
-        <p class="fr-book-desc">Supports the wider haunted-house tradition in Wales.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosts of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14324797-M.jpg" alt="Cover for Ghosts of Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Wales">Ghosts of Wales</a>
+</h4>
+<p class="fr-book-author">By Mark Rees</p>
+        
+<p class="fr-book-desc">Supports the wider haunted-house tradition in Wales.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+To+Be+A+Victorian+Ruth+Goodman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How To Be A Victorian on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7706116-M.jpg" alt="Cover for How To Be A Victorian" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+To+Be+A+Victorian+Ruth+Goodman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How To Be A Victorian">How To Be A Victorian</a>
-        </h4>
-        <p class="fr-book-author">By Ruth Goodman</p>
-
-        <p class="fr-book-desc">Explains Victorian domestic service and social expectations central to Mira Turner&#x27;s story.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+To+Be+A+Victorian+Ruth+Goodman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+To+Be+A+Victorian+Ruth+Goodman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How To Be A Victorian on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7706116-M.jpg" alt="Cover for How To Be A Victorian" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+To+Be+A+Victorian+Ruth+Goodman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How To Be A Victorian">How To Be A Victorian</a>
+</h4>
+<p class="fr-book-author">By Ruth Goodman</p>
+        
+<p class="fr-book-desc">Explains Victorian domestic service and social expectations central to Mira Turner&#x27;s story.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+To+Be+A+Victorian+Ruth+Goodman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Below+Stairs+Margaret+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Below Stairs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9401071-M.jpg" alt="Cover for Below Stairs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Below+Stairs+Margaret+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Below Stairs">Below Stairs</a>
-        </h4>
-        <p class="fr-book-author">By Margaret Powell</p>
-
-        <p class="fr-book-desc">Illuminates servant life reflected in the haunting narrative.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Below+Stairs+Margaret+Powell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Below+Stairs+Margaret+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Below Stairs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9401071-M.jpg" alt="Cover for Below Stairs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Below+Stairs+Margaret+Powell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Below Stairs">Below Stairs</a>
+</h4>
+<p class="fr-book-author">By Margaret Powell</p>
+        
+<p class="fr-book-desc">Illuminates servant life reflected in the haunting narrative.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Below+Stairs+Margaret+Powell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Little+Book+of+Welsh+Ghost+Stories+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Little Book of Welsh Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Little+Book+of+Welsh+Ghost+Stories+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of Welsh Ghost Stories">The Little Book of Welsh Ghost Stories</a>
-        </h4>
-        <p class="fr-book-author">By Mark Rees</p>
-
-        <p class="fr-book-desc">Provides Welsh ghost-story context for Llanelly House.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Little+Book+of+Welsh+Ghost+Stories+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Little+Book+of+Welsh+Ghost+Stories+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Little Book of Welsh Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Little+Book+of+Welsh+Ghost+Stories+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of Welsh Ghost Stories">The Little Book of Welsh Ghost Stories</a>
+</h4>
+<p class="fr-book-author">By Mark Rees</p>
+        
+<p class="fr-book-desc">Provides Welsh ghost-story context for Llanelly House.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Little+Book+of+Welsh+Ghost+Stories+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosts+of+Wales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosts of Wales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+To+Be+A+Victorian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How To Be A Victorian</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Below+Stairs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Below Stairs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosts+of+Wales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosts of Wales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+To+Be+A+Victorian&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How To Be A Victorian</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Below+Stairs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Below Stairs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

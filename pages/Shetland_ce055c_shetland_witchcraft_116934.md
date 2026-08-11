@@ -377,89 +377,89 @@ In Shetland, the answer is stark. People feared the sea taking men without warni
 That makes Shetland’s witchcraft traditions more than a sidebar to ghost tourism. They are part of the emotional map of the islands: a reminder that some of the darkest hauntings are not apparitions at all, but memories of what fear can make a community do.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Witchcraft Fear Shaped Shetland&#x27;s Dark Folklore. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Witchcraft Fear Shaped Shetland&#x27;s Dark Folklore. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch-Hunters+J.+Goodare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Witches and Witch-Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9373676-M.jpg" alt="Cover for Scottish Witches and Witch-Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch-Hunters+J.+Goodare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Witches and Witch-Hunters">Scottish Witches and Witch-Hunters</a>
-        </h4>
-        <p class="fr-book-author">By J. Goodare</p>
-
-        <p class="fr-book-desc">Provides the essential context for Shetland&#x27;s witch trials and beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch-Hunters+J.+Goodare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch-Hunters+J.+Goodare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Witches and Witch-Hunters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9373676-M.jpg" alt="Cover for Scottish Witches and Witch-Hunters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch-Hunters+J.+Goodare&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Witches and Witch-Hunters">Scottish Witches and Witch-Hunters</a>
+</h4>
+<p class="fr-book-author">By J. Goodare</p>
+        
+<p class="fr-book-desc">Provides the essential context for Shetland&#x27;s witch trials and beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch-Hunters+J.+Goodare&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+visions+of+Isobel+Gowdie+Emma+Wilby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The visions of Isobel Gowdie on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13219303-M.jpg" alt="Cover for The visions of Isobel Gowdie" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+visions+of+Isobel+Gowdie+Emma+Wilby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The visions of Isobel Gowdie">The visions of Isobel Gowdie</a>
-        </h4>
-        <p class="fr-book-author">By Emma Wilby</p>
-
-        <p class="fr-book-desc">Explores Scottish witch beliefs, fairy encounters and early modern culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+visions+of+Isobel+Gowdie+Emma+Wilby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+visions+of+Isobel+Gowdie+Emma+Wilby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The visions of Isobel Gowdie on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13219303-M.jpg" alt="Cover for The visions of Isobel Gowdie" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+visions+of+Isobel+Gowdie+Emma+Wilby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The visions of Isobel Gowdie">The visions of Isobel Gowdie</a>
+</h4>
+<p class="fr-book-author">By Emma Wilby</p>
+        
+<p class="fr-book-desc">Explores Scottish witch beliefs, fairy encounters and early modern culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+visions+of+Isobel+Gowdie+Emma+Wilby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin book of witches on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9896119-M.jpg" alt="Cover for The Penguin book of witches" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
-        </h4>
-        <p class="fr-book-author">By Katherine Howe</p>
-
-        <p class="fr-book-desc">Offers wider historical context for European witchcraft beliefs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin book of witches on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9896119-M.jpg" alt="Cover for The Penguin book of witches" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
+</h4>
+<p class="fr-book-author">By Katherine Howe</p>
+        
+<p class="fr-book-desc">Offers wider historical context for European witchcraft beliefs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Shetland+Folk+Tales+Lawrence+Tulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shetland Folk Tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7556974-M.jpg" alt="Cover for Shetland Folk Tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Shetland+Folk+Tales+Lawrence+Tulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shetland Folk Tales">Shetland Folk Tales</a>
-        </h4>
-        <p class="fr-book-author">By Lawrence Tulloch</p>
-
-        <p class="fr-book-desc">First published 2014. Subjects: Tales, Tales, scotland.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Shetland+Folk+Tales+Lawrence+Tulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Shetland+Folk+Tales+Lawrence+Tulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shetland Folk Tales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7556974-M.jpg" alt="Cover for Shetland Folk Tales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Shetland+Folk+Tales+Lawrence+Tulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shetland Folk Tales">Shetland Folk Tales</a>
+</h4>
+<p class="fr-book-author">By Lawrence Tulloch</p>
+        
+<p class="fr-book-desc">First published 2014. Subjects: Tales, Tales, scotland.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Shetland+Folk+Tales+Lawrence+Tulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Witches and Witch Hunters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+visions+of+Isobel+Gowdie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The visions of Isobel Gowdie</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin book of witches</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Witches+and+Witch+Hunters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Witches and Witch Hunters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+visions+of+Isobel+Gowdie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The visions of Isobel Gowdie</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Penguin+book+of+witches&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Penguin book of witches</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

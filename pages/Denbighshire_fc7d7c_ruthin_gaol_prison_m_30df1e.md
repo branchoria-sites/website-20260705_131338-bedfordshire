@@ -341,7 +341,8 @@ The wartime reuse of the building complicates the atmosphere further. Cadw recor
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oEADoLGV_sY" title="Ruthin Gaol - Denbighshire Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oEADoLGV_sY" target="_blank" rel="noopener noreferrer">Ruthin Gaol - Denbighshire Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿</a></p><p class="youtube-embed-meta">Channel: The Kernow Kids</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oEADoLGV_sY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oEADoLGV_sY">Open on YouTube</a></p></div></div></div>
 
-## How firmly the stories about Ruthin Gaol are grounded
+## How credible are the hauntings?
+
 The historical framework of Ruthin Gaol is strong. The building’s prison function, its preserved spaces, its use as a heritage attraction, the story of William Hughes, the condemned cell and the site’s listed-building status are all supported by official, heritage or local-history sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.denbighshire.gov.uk/en/leisure-and-tourism/museums-and-historic-houses/ruthin-gaol.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: denbighshire.gov.uk">[Denbighshire County Council]</a><span class="citation-popover" role="note"><span class="citation-popover-source">denbighshire.gov.uk</span><span class="citation-popover-snippet">Ruthin Gaol &#124; Denbighshire County Council...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.peoplescollection.wales/items/7746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: peoplescollection.wales">[People&#x27;s Collection Wales]</a><span class="citation-popover" role="note"><span class="citation-popover-source">peoplescollection.wales</span><span class="citation-popover-snippet">Open source on peoplescollection.wales.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://cadw.gov.wales/about-us/news/9-listed-buildings-helped-britains-wartime-efforts-wales" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cadw.gov.wales">[Cadw]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cadw.gov.wales</span><span class="citation-popover-title">Cadw9 listed buildings that helped Britain’s wartime efforts in Wales &#124; Cadw</span><span class="citation-popover-snippet">Cadw9 listed buildings that helped Britain’s wartime efforts in Wales &#124; Cadw</span></span></span>
 
 The ghost claims are weaker as evidence. Most published accounts of the haunting come from paranormal event organisers, haunted-location websites, tourism features and local newspaper reports. These sources preserve what people say they have experienced, but they rarely provide the kind of detail needed to test an event: exact time, number of witnesses, environmental conditions, maintenance records, independent corroboration, or alternative explanations.
@@ -374,89 +375,89 @@ That is why the gaol is one of Denbighshire’s most unsettling haunted sites. I
 For readers exploring haunted Denbighshire, Ruthin Gaol is best understood as a prison-memory site before it is treated as a paranormal case. The stories of William Hughes, strange sounds, unseen presences and restless corridors matter because they show how a real institution of punishment becomes a place where the past is felt as atmosphere. Whether one reads the reports as ghosts, suggestion, theatre, building noise or folklore, the result is the same: Ruthin Gaol makes Denbighshire’s haunted history feel close, confined and uncomfortably human.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Does Ruthin Gaol Feel Haunted?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Does Ruthin Gaol Feel Haunted?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosts of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14324797-M.jpg" alt="Cover for Ghosts of Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Wales">Ghosts of Wales</a>
-        </h4>
-        <p class="fr-book-author">By Mark Rees</p>
-
-        <p class="fr-book-desc">Places prison hauntings within Welsh ghost traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosts of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14324797-M.jpg" alt="Cover for Ghosts of Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Wales">Ghosts of Wales</a>
+</h4>
+<p class="fr-book-author">By Mark Rees</p>
+        
+<p class="fr-book-desc">Places prison hauntings within Welsh ghost traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Suspicions of Mr. Whicher on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10302466-M.jpg" alt="Cover for The Suspicions of Mr. Whicher" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Suspicions of Mr. Whicher">The Suspicions of Mr. Whicher</a>
-        </h4>
-        <p class="fr-book-author">By Kate Summerscale</p>
-
-        <p class="fr-book-desc">Provides context on Victorian justice and punishment.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Suspicions of Mr. Whicher on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10302466-M.jpg" alt="Cover for The Suspicions of Mr. Whicher" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Suspicions of Mr. Whicher">The Suspicions of Mr. Whicher</a>
+</h4>
+<p class="fr-book-author">By Kate Summerscale</p>
+        
+<p class="fr-book-desc">Provides context on Victorian justice and punishment.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher+Kate+Summerscale&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Newgate%3A+London%27s+Prototype+of+Hell+Stephen+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Newgate: London&#x27;s Prototype of Hell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5503510-M.jpg" alt="Cover for Newgate: London&#x27;s Prototype of Hell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Newgate%3A+London%27s+Prototype+of+Hell+Stephen+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Newgate: London&#x27;s Prototype of Hell">Newgate: London&#x27;s Prototype of Hell</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Halliday, STEPHEN HALLIDAY</p>
-
-        <p class="fr-book-desc">Explains punishment, prisons and execution culture relevant to Ruthin Gaol.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Newgate%3A+London%27s+Prototype+of+Hell+Stephen+Halliday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Newgate%3A+London%27s+Prototype+of+Hell+Stephen+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Newgate: London&#x27;s Prototype of Hell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5503510-M.jpg" alt="Cover for Newgate: London&#x27;s Prototype of Hell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Newgate%3A+London%27s+Prototype+of+Hell+Stephen+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Newgate: London&#x27;s Prototype of Hell">Newgate: London&#x27;s Prototype of Hell</a>
+</h4>
+<p class="fr-book-author">By Stephen Halliday, STEPHEN HALLIDAY</p>
+        
+<p class="fr-book-desc">Explains punishment, prisons and execution culture relevant to Ruthin Gaol.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Newgate%3A+London%27s+Prototype+of+Hell+Stephen+Halliday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Wales%3A+A+Guide+to+Welsh+Ghostlore+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Wales: A Guide to Welsh Ghostlore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2022843-M.jpg" alt="Cover for Haunted Wales: A Guide to Welsh Ghostlore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Haunted+Wales%3A+A+Guide+to+Welsh+Ghostlore+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Wales: A Guide to Welsh Ghostlore">Haunted Wales: A Guide to Welsh Ghostlore</a>
-        </h4>
-        <p class="fr-book-author">By Richard Holland</p>
-
-        <p class="fr-book-desc">Relevant companion to Welsh prison ghost stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Haunted+Wales%3A+A+Guide+to+Welsh+Ghostlore+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Wales%3A+A+Guide+to+Welsh+Ghostlore+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Wales: A Guide to Welsh Ghostlore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2022843-M.jpg" alt="Cover for Haunted Wales: A Guide to Welsh Ghostlore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Haunted+Wales%3A+A+Guide+to+Welsh+Ghostlore+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Wales: A Guide to Welsh Ghostlore">Haunted Wales: A Guide to Welsh Ghostlore</a>
+</h4>
+<p class="fr-book-author">By Richard Holland</p>
+        
+<p class="fr-book-desc">Relevant companion to Welsh prison ghost stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Haunted+Wales%3A+A+Guide+to+Welsh+Ghostlore+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosts+of+Wales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosts of Wales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Suspicions of Mr. Whicher</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Newgate%3A+London%27s+Prototype+of+Hell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Newgate: London&#x27;s Prototype of Hell</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosts+of+Wales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosts of Wales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Suspicions+of+Mr.+Whicher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Suspicions of Mr. Whicher</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Newgate%3A+London%27s+Prototype+of+Hell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Newgate: London&#x27;s Prototype of Hell</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

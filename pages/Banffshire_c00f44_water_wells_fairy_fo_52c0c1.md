@@ -312,7 +312,8 @@ Fairies also belonged to work, food and sound. Gregor says that if a spinning-wh
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tm-GWTum7kc" title="Scottish St Bride’s Day Folklore (Imbolc) | Holy Wells &amp; the White Serpent | Sleep Story (ASMR)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tm-GWTum7kc" target="_blank" rel="noopener noreferrer">Scottish St Bride’s Day Folklore (Imbolc) | Holy Wells &amp; the White Serpent | Sleep Story (ASMR)</a></p><p class="youtube-embed-meta">Channel: Caledonia Sleeps</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tm-GWTum7kc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tm-GWTum7kc">Open on YouTube</a></p></div></div></div>
 
-## Testing the claims attached to Old Folklore
+## How credible are these stories?
+
 The fairest answer is that Banffshire’s water spirits, wells and fairies are credible as folklore, not as proven hauntings. Gregor was a serious nineteenth-century collector, and his importance to north-east folklore is widely recognised; he was born near Keith in Banffshire, worked in Macduff, became minister at Pitsligo, and published extensively on north-east traditions. But his material is still made of remembered tales, customary practice, reported beliefs and local sayings, not controlled evidence of supernatural events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Walter_Gregor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Walter Gregor</span><span class="citation-popover-snippet">Walter Gregor</span></span></span>
 
 That does not make the stories worthless. On the contrary, their value is that they preserve how people once mapped danger, illness, childbirth, water supply and moral behaviour onto familiar places. A kelpie explains why children and travellers should fear dark pools. A healing well offers hope when formal medicine was limited or distant. A fairy changeling gives a terrible story-shape to childhood wasting illness. A saint’s well contested by church authorities shows the friction between popular practice and official religion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://electricscotland.com/history/men/notesonfolklore.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: electricscotland.com">[Electric Scotland]</a><span class="citation-popover" role="note"><span class="citation-popover-source">electricscotland.com</span><span class="citation-popover-title">Electric Scotland Notes on the folk-lore of the north-east of Scotland</span><span class="citation-popover-snippet">Electric Scotland Notes on the folk-lore of the north-east of Scotland</span></span></span>
@@ -333,89 +334,89 @@ Beyond Banffshire’s castles, the older folklore points to a county where water
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Lurks Beyond Banffshire&#x27;s Castles?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Lurks Beyond Banffshire&#x27;s Castles?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The secret commonwealth of elves, fauns, and fairies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14849505-M.jpg" alt="Cover for The secret commonwealth of elves, fauns, and fairies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret commonwealth of elves, fauns, and fairies">The secret commonwealth of elves, fauns, and fairies</a>
-        </h4>
-        <p class="fr-book-author">By Kirk, Robert</p>
-
-        <p class="fr-book-desc">Directly explores fairy beliefs central to the page&#x27;s themes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The secret commonwealth of elves, fauns, and fairies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14849505-M.jpg" alt="Cover for The secret commonwealth of elves, fauns, and fairies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret commonwealth of elves, fauns, and fairies">The secret commonwealth of elves, fauns, and fairies</a>
+</h4>
+<p class="fr-book-author">By Kirk, Robert</p>
+        
+<p class="fr-book-desc">Directly explores fairy beliefs central to the page&#x27;s themes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fairy-faith in Celtic countries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5776907-M.jpg" alt="Cover for The fairy-faith in Celtic countries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fairy-faith in Celtic countries">The fairy-faith in Celtic countries</a>
-        </h4>
-        <p class="fr-book-author">By W. Y. Evans-Wentz</p>
-
-        <p class="fr-book-desc">Provides rich background on fairy belief across Celtic regions including Scotland.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The fairy-faith in Celtic countries on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5776907-M.jpg" alt="Cover for The fairy-faith in Celtic countries" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fairy-faith in Celtic countries">The fairy-faith in Celtic countries</a>
+</h4>
+<p class="fr-book-author">By W. Y. Evans-Wentz</p>
+        
+<p class="fr-book-desc">Provides rich background on fairy belief across Celtic regions including Scotland.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10804655-M.jpg" alt="Cover for Scottish Ghost Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Ghost Stories">Scottish Ghost Stories</a>
-        </h4>
-        <p class="fr-book-author">By Robertson, James</p>
-
-        <p class="fr-book-desc">Appeals to readers exploring Scottish supernatural traditions beyond castles.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scottish Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10804655-M.jpg" alt="Cover for Scottish Ghost Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scottish Ghost Stories">Scottish Ghost Stories</a>
+</h4>
+<p class="fr-book-author">By Robertson, James</p>
+        
+<p class="fr-book-desc">Appeals to readers exploring Scottish supernatural traditions beyond castles.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Scottish+Ghost+Stories+Robertson%2C+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14625316-M.jpg" alt="Cover for The Penguin Book of Ghost Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Ghost Stories">The Penguin Book of Ghost Stories</a>
-        </h4>
-        <p class="fr-book-author">By Michael Newton, Michael Newton et al.</p>
-
-        <p class="fr-book-desc">Extends interest into wider supernatural reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14625316-M.jpg" alt="Cover for The Penguin Book of Ghost Stories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Ghost Stories">The Penguin Book of Ghost Stories</a>
+</h4>
+<p class="fr-book-author">By Michael Newton, Michael Newton et al.</p>
+        
+<p class="fr-book-desc">Extends interest into wider supernatural reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret commonwealth of elves, fauns, and fairies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fairy+faith+in+Celtic+countries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fairy faith in Celtic countries</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Ghost Stories</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The secret commonwealth of elves, fauns, and fairies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+fairy+faith+in+Celtic+countries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The fairy faith in Celtic countries</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scottish+Ghost+Stories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scottish Ghost Stories</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

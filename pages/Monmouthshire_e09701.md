@@ -108,13 +108,13 @@ description: 'Monmouthshire’s haunted reputation is built less on one famous �
 hero_summary: 'Monmouthshire’s haunted reputation is built less on one famous “county ghost” than on a chain of atmospheric places: border castles, old courtrooms, coaching inns, ruined abbeys, mountain paths and river valleys where history already feels close to the surface.'
 layout: default
 permalink: /why-does-monmouthshire-feel-so-haunted/
-nav_short_title: "Where History and Haunting Meet in Monmouthshire"
-title: "Where History and Haunting Meet in Monmouthshire"
-title_full: "Where History and Haunting Meet in Monmouthshire"
-display_title_short: "Where History and Haunting Meet in Monmouthshire"
-display_title: "Where History and Haunting Meet in Monmouthshire"
-heading_title: "Where History and Haunting Meet in Monmouthshire"
-page_heading_title: "Where History and Haunting Meet in Monmouthshire"
+nav_short_title: Why Does Monmouthshire Feel So Haunted?
+title: Why Does Monmouthshire Feel So Haunted?
+title_full: Why Does Monmouthshire Feel So Haunted?
+display_title_short: Why Does Monmouthshire Feel So Haunted?
+display_title: Why Does Monmouthshire Feel So Haunted?
+heading_title: Why Does Monmouthshire Feel So Haunted?
+page_heading_title: Why Does Monmouthshire Feel So Haunted?
 source_count: 171
 infographic_count: 3
 page_website_name: Haunted Monmouthshire
@@ -787,89 +787,89 @@ The most trustworthy approach is to enjoy the atmosphere without flattening the 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Does Monmouthshire Feel So Haunted?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Does Monmouthshire Feel So Haunted?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open British Goblins on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10295061-M.jpg" alt="Cover for British Goblins" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="British Goblins">British Goblins</a>
-        </h4>
-        <p class="fr-book-author">By Wirt Sikes</p>
-
-        <p class="fr-book-desc">Foundational reading on Welsh supernatural traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open British Goblins on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10295061-M.jpg" alt="Cover for British Goblins" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="British Goblins">British Goblins</a>
+</h4>
+<p class="fr-book-author">By Wirt Sikes</p>
+        
+<p class="fr-book-desc">Foundational reading on Welsh supernatural traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=British+Goblins+Wirt+Sikes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Welsh fairy book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/313219-M.jpg" alt="Cover for The Welsh fairy book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Welsh fairy book">The Welsh fairy book</a>
-        </h4>
-        <p class="fr-book-author">By W. Jenkyn Thomas</p>
-
-        <p class="fr-book-desc">Accessible companion volume.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Welsh fairy book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/313219-M.jpg" alt="Cover for The Welsh fairy book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Welsh fairy book">The Welsh fairy book</a>
+</h4>
+<p class="fr-book-author">By W. Jenkyn Thomas</p>
+        
+<p class="fr-book-desc">Accessible companion volume.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Welsh+fairy+book+W.+Jenkyn+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mabinogion+Sioned+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mabinogion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12182212-M.jpg" alt="Cover for The Mabinogion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mabinogion+Sioned+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mabinogion">The Mabinogion</a>
-        </h4>
-        <p class="fr-book-author">By Sioned Davies</p>
-
-        <p class="fr-book-desc">Mythological background for the region.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mabinogion+Sioned+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mabinogion+Sioned+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mabinogion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12182212-M.jpg" alt="Cover for The Mabinogion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mabinogion+Sioned+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mabinogion">The Mabinogion</a>
+</h4>
+<p class="fr-book-author">By Sioned Davies</p>
+        
+<p class="fr-book-desc">Mythological background for the region.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mabinogion+Sioned+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2022843-M.jpg" alt="Cover for Haunted Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Wales">Haunted Wales</a>
-        </h4>
-        <p class="fr-book-author">By Richard Holland</p>
-
-        <p class="fr-book-desc">Broad coverage of Welsh hauntings including Monmouthshire.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2022843-M.jpg" alt="Cover for Haunted Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Wales">Haunted Wales</a>
+</h4>
+<p class="fr-book-author">By Richard Holland</p>
+        
+<p class="fr-book-desc">Broad coverage of Welsh hauntings including Monmouthshire.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=British+Goblins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">British Goblins</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Welsh+fairy+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Welsh fairy book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mabinogion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mabinogion</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=British+Goblins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">British Goblins</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Welsh+fairy+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Welsh fairy book</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mabinogion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mabinogion</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

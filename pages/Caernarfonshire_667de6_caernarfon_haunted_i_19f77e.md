@@ -312,7 +312,8 @@ That does not make the stories false in a simple sense, nor does it make them hi
 
 <img src="{{ "/assets/images/Caernarfonshire_667de6_caernarfon_haunted_i_19f77e-Illustration-3-dark.svg" | relative_url }}" alt="Haunted Inns illustration 3" data-theme-src-dark="{{ "/assets/images/Caernarfonshire_667de6_caernarfon_haunted_i_19f77e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Caernarfonshire_667de6_caernarfon_haunted_i_19f77e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What can be verified about Haunted Inns
+## How Credible Are the Stories?
+
 The most credible parts of Caernarfon’s haunted-inn landscape are the physical and historical anchors. The Black Boy Inn is a listed historic building in the walled town, with seventeenth-century fabric and early interior details. The Anglesey Arms has a documented earlier life as a Custom House beside the quay. The town walls survive almost complete. The Hanging Tower is locally and historically identified as an execution site beside the former jail. Those points can be separated from belief in apparitions and checked against heritage sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://britishlistedbuildings.co.uk/300003905-black-boy-inn-caernarfon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: britishlistedbuildings.co.uk">[britishlistedbuildings.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">britishlistedbuildings.co.uk</span><span class="citation-popover-title">British Listed Buildings Black Boy Inn, Caernarfon, Gwynedd</span><span class="citation-popover-snippet">British Listed Buildings Black Boy Inn, Caernarfon, Gwynedd</span></span></span>
 
 The apparitions themselves are thinner evidence. The Black Boy Inn’s ghosts are preserved mainly through the inn’s own storytelling, ghost-tour material, travel writing and tourism accounts. That does not make them worthless; it tells us how the stories circulate. But it does mean they should be presented as claims, traditions and experiences, not as established events. The nun story is a good example: it is memorable and widely repeated, yet the inn’s own history notes the lack of evidence for the supposed nunnery behind it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.black-boy-inn.com/the-black-boy-inn/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: black-boy-inn.com">[black-boy-inn.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">black-boy-inn.com</span><span class="citation-popover-snippet">Open source on black-boy-inn.com.</span></span></span>
@@ -328,89 +329,89 @@ The Anglesey Arms and Hanging Tower story has a stronger historical spine becaus
 Caernarfon’s haunted inns endure because they turn the old town into a walkable map of memory. The Black Boy Inn gives the tradition intimacy: voices, pressure on the throat, a nun crossing through the building, a child who seems to respond to comfort. The Anglesey Arms and Hanging Tower give it public gravity: condemned prisoners, the former jail, the movement of execution from open land to enclosed tower, and the later reuse of penal space. Together they show how [Caernarfonshire]({{ 'where-do-caernarfonshires-ghost-stories/' | relative_url }})’s haunted history is often less about remote ruins than about ordinary places where people still eat, drink, sleep and pass by without quite escaping what the stones remember.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Are Caernarfon&#x27;s Old Inns So Haunted?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Are Caernarfon&#x27;s Old Inns So Haunted?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Haunted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4989341-M.jpg" alt="Cover for The Haunted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Haunted">The Haunted</a>
-        </h4>
-        <p class="fr-book-author">By Robert Curran</p>
-
-        <p class="fr-book-desc">Relevant to haunted inns and North Wales folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Haunted on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4989341-M.jpg" alt="Cover for The Haunted" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Haunted">The Haunted</a>
+</h4>
+<p class="fr-book-author">By Robert Curran</p>
+        
+<p class="fr-book-desc">Relevant to haunted inns and North Wales folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Haunted+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosts of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14324797-M.jpg" alt="Cover for Ghosts of Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Wales">Ghosts of Wales</a>
-        </h4>
-        <p class="fr-book-author">By Mark Rees</p>
-
-        <p class="fr-book-desc">Includes ghost traditions linked to Welsh inns and historic towns.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosts of Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14324797-M.jpg" alt="Cover for Ghosts of Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of Wales">Ghosts of Wales</a>
+</h4>
+<p class="fr-book-author">By Mark Rees</p>
+        
+<p class="fr-book-desc">Includes ghost traditions linked to Welsh inns and historic towns.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghosts+of+Wales+Mark+Rees&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Inns+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Inns of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10027366-M.jpg" alt="Cover for Haunted Inns of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Haunted+Inns+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Inns of Britain and Ireland">Haunted Inns of Britain and Ireland</a>
-        </h4>
-        <p class="fr-book-author">By Richard Jones</p>
-
-        <p class="fr-book-desc">First published 2004. Subjects: Guidebooks, Haunted hotels.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Haunted+Inns+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Inns+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Inns of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10027366-M.jpg" alt="Cover for Haunted Inns of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Haunted+Inns+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Inns of Britain and Ireland">Haunted Inns of Britain and Ireland</a>
+</h4>
+<p class="fr-book-author">By Richard Jones</p>
+        
+<p class="fr-book-desc">First published 2004. Subjects: Guidebooks, Haunted hotels.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Haunted+Inns+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2022843-M.jpg" alt="Cover for Haunted Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Wales">Haunted Wales</a>
-        </h4>
-        <p class="fr-book-author">By Richard Holland</p>
-
-        <p class="fr-book-desc">First published 2005.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Wales on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2022843-M.jpg" alt="Cover for Haunted Wales" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Wales">Haunted Wales</a>
+</h4>
+<p class="fr-book-author">By Richard Holland</p>
+        
+<p class="fr-book-desc">First published 2005.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Haunted+Wales+Richard+Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Haunted&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Haunted</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosts+of+Wales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosts of Wales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Haunted+Inns+of+Britain+and+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Haunted Inns of Britain and Ireland</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Haunted&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Haunted</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosts+of+Wales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosts of Wales</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Haunted+Inns+of+Britain+and+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Haunted Inns of Britain and Ireland</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

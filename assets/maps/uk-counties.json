@@ -8,7 +8,9 @@
   "dataAsset": "uk-counties.json",
   "mapLabel": "UFO and UAP historic UK counties map",
   "fallbackSummary": "Open this historic UK county file from the map.",
-  "panelCopy": "Use the map to jump into a historic UK county file, or browse the full county list below.",
+  "panelTitle": "Explore UK UFO reports",
+  "panelCopy": "Use the map to explore a historic UK county file, or browse the full county list.",
+  "browseLabel": "Browse all counties",
   "items": [
     {
       "id": "UK-HC-BUTESHIRE",
@@ -1282,7 +1284,7 @@
         "uk-hc-ayrshire",
         "ayrshire"
       ],
-      "title": "Why Ayrshire's Ghost Stories Endure",
+      "title": "Why Does Ayrshire Feel So Haunted?",
       "summary": "Ayrshire’s haunted reputation rests on an unusually strong mix of literary fame, castle folklore, witch-trial memory and coastal ruin.",
       "url": "why-does-ayrshire-feel-so-haunted/",
       "image": "assets/images/Ayrshire_8acdee-overview-social.jpg",
@@ -1301,7 +1303,7 @@
         "uk-hc-caithness",
         "caithness"
       ],
-      "title": "Inside Caithness' Haunted History",
+      "title": "Why Does Caithness Feel So Haunted?",
       "summary": "Caithness is one of Scotland’s most atmospheric haunted-history landscapes: a far northern historic county of sea-cliffs, ruined castles, brochs, graveyards,...",
       "url": "why-does-caithness-feel-so-haunted/",
       "image": "assets/images/Caithness_d273a3-overview-social.jpg",
@@ -1339,7 +1341,7 @@
         "uk-hc-devon",
         "devon"
       ],
-      "title": "Devon: Ghosts, Legends and Haunted Places",
+      "title": "Why Does Devon Feel So Haunted?",
       "summary": "Devon’s haunted reputation rests on a unusually rich mix of ruined castles, sea-facing manor houses, old inns, Dartmoor roads, monastic buildings, and...",
       "url": "why-does-devon-feel-so-haunted/",
       "image": "assets/images/Devon_a55796-overview-social.jpg",
@@ -1358,7 +1360,7 @@
         "uk-hc-fife",
         "fife"
       ],
-      "title": "The Stories Behind Fife's Haunted Reputation",
+      "title": "Why Does Fife Feel So Haunted?",
       "summary": "Fife’s haunted reputation is built less on one spectacular “most haunted” claim than on a chain of atmospheric places: ruined church towers at St Andrews,...",
       "url": "why-does-fife-feel-so-haunted/",
       "image": "assets/images/Fife_ef689b-overview-social.jpg",
@@ -1377,7 +1379,7 @@
         "uk-hc-hertfordshire",
         "hertfordshire"
       ],
-      "title": "Hertfordshire: Ghosts, Legends and Haunted Places",
+      "title": "Why Does Hertfordshire Feel So Haunted?",
       "summary": "Hertfordshire’s haunted reputation is not built around one single castle or one neatly proved “most haunted” site.",
       "url": "why-does-hertfordshire-feel-so-haunted/",
       "image": "assets/images/Hertfordshire_38dc7a-overview-social.jpg",
@@ -1396,7 +1398,7 @@
         "uk-hc-inverness-shire",
         "inverness shire"
       ],
-      "title": "Inside Inverness shire's Haunted History",
+      "title": "Why Does Inverness shire Feel So Haunted?",
       "summary": "Inverness-shire is one of the richest haunted-history landscapes in Scotland, but its stories are not evenly spread.",
       "url": "why-does-inverness-shire-feel-so-haunted/",
       "image": "assets/images/Inverness-shire_f61896-overview-social.jpg",
@@ -1434,7 +1436,7 @@
         "uk-hc-lanarkshire",
         "lanarkshire"
       ],
-      "title": "Where History and Haunting Meet in Lanarkshire",
+      "title": "Why Does Lanarkshire Feel So Haunted?",
       "summary": "Lanarkshire’s haunted reputation is not built around one grand “most haunted” site so much as a chain of older stories clinging to the Clyde valley: a...",
       "url": "why-does-lanarkshire-feel-so-haunted/",
       "image": "assets/images/Lanarkshire_60db75-overview-social.jpg",
@@ -1453,7 +1455,7 @@
         "uk-hc-lancashire",
         "lancashire"
       ],
-      "title": "Why Lancashire's Ghost Stories Endure",
+      "title": "Why Does Lancashire Feel So Haunted?",
       "summary": "Lancashire’s haunted reputation rests on three overlapping traditions: old houses with family legends, trial-and-prison sites tied to the 1612 Lancashire...",
       "url": "why-does-lancashire-feel-so-haunted/",
       "image": "assets/images/Lancashire_07656d-overview-social.jpg",
@@ -1472,7 +1474,7 @@
         "uk-hc-monmouthshire",
         "monmouthshire"
       ],
-      "title": "Where History and Haunting Meet in Monmouthshire",
+      "title": "Why Does Monmouthshire Feel So Haunted?",
       "summary": "Monmouthshire’s haunted reputation is built less on one famous “county ghost” than on a chain of atmospheric places: border castles, old courtrooms, coaching...",
       "url": "why-does-monmouthshire-feel-so-haunted/",
       "image": "assets/images/Monmouthshire_e09701-overview-social.jpg",
@@ -1510,7 +1512,7 @@
         "uk-hc-northumberland",
         "northumberland"
       ],
-      "title": "Why Northumberland's Ghost Stories Endure",
+      "title": "Why Does Northumberland Feel So Haunted?",
       "summary": "Northumberland’s haunted reputation grows naturally out of its landscape: border castles, lonely moorland, tidal islands, ruined abbeys, old roads and...",
       "url": "why-does-northumberland-feel-so-haunted/",
       "image": "assets/images/Northumberland_98885a-overview-social.jpg",
@@ -1529,7 +1531,7 @@
         "uk-hc-nottinghamshire",
         "nottinghamshire"
       ],
-      "title": "Inside Nottinghamshire's Haunted History",
+      "title": "Why Does Nottinghamshire Feel So Haunted?",
       "summary": "Nottinghamshire’s haunted reputation rests less on one single famous ghost than on a dense cluster of places where history already feels close to the...",
       "url": "why-does-nottinghamshire-feel-so-haunted/",
       "image": "assets/images/Nottinghamshire_a5a895-overview-social.jpg",
@@ -1586,7 +1588,7 @@
         "uk-hc-selkirkshire",
         "selkirkshire"
       ],
-      "title": "Tracing the Hauntings of Selkirkshire",
+      "title": "Why Does Selkirkshire Feel So Haunted?",
       "summary": "Selkirkshire’s haunted history is quieter than the headline-grabbing ghost tourism of Edinburgh or the great castles of the Highlands, but it is unusually...",
       "url": "why-does-selkirkshire-feel-so-haunted/",
       "image": "assets/images/Selkirkshire_8fd2aa-overview-social.jpg",
@@ -1605,7 +1607,7 @@
         "uk-hc-shropshire",
         "shropshire"
       ],
-      "title": "Shropshire: Ghosts, Legends and Haunted Places",
+      "title": "Why Does Shropshire Feel So Haunted?",
       "summary": "Shropshire’s haunted reputation comes from the way its ghost stories cling to very specific places: a ruined castle above Ludlow, a burned town hall at Wem,...",
       "url": "why-does-shropshire-feel-so-haunted/",
       "image": "assets/images/Shropshire_83e582-overview-social.jpg",
@@ -1645,7 +1647,7 @@
         "west sussex",
         "sussex"
       ],
-      "title": "Why Sussex's Ghost Stories Endure",
+      "title": "Why Does Sussex Feel So Haunted?",
       "summary": "Sussex has one of the richest haunted landscapes in southern England because its ghost stories cling to places that already feel historically charged: a...",
       "url": "why-does-sussex-feel-so-haunted/",
       "image": "assets/images/Sussex_0f32ec-overview-social.jpg",
@@ -1683,7 +1685,7 @@
         "uk-hc-wiltshire",
         "wiltshire"
       ],
-      "title": "Why Wiltshire's Ghost Stories Endure",
+      "title": "Why Does Wiltshire Feel So Haunted?",
       "summary": "Wiltshire’s haunted reputation rests on an unusually strong mix of ancient landscape, Civil War memory, ruined castles, old inns, empty roads and villages...",
       "url": "why-does-wiltshire-feel-so-haunted/",
       "image": "assets/images/Wiltshire_7b9f94-overview-social.jpg",

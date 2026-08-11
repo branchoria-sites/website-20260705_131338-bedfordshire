@@ -340,7 +340,8 @@ These three models also help explain why some Surrey haunted places become touri
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/M0CMOzx5Koc" title="THE GHOST TOUR OF GUILDFORD - That&#x27;s TV (Surrey) (19th July 2019)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=M0CMOzx5Koc" target="_blank" rel="noopener noreferrer">THE GHOST TOUR OF GUILDFORD - That&#x27;s TV (Surrey) (19th July 2019)</a></p><p class="youtube-embed-meta">Channel: GuildfordGhost</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=M0CMOzx5Koc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=M0CMOzx5Koc">Open on YouTube</a></p></div></div></div>
 
-## Evidence and embellishment around Ruins & Houses
+## How credible are the stories?
+
 The safest answer is mixed. The buildings and ruins are historically real and well documented; the hauntings are traditions, reports and interpretations rather than verified facts. That distinction should not be treated as a disappointment. In haunted history, the question is rarely just “is the ghost real?” It is also “why did this particular place attract this particular story?”
 
 For Guildford Castle, the strongest evidence is architectural and civic: the castle’s Norman development, later uses and public opening are supported by official and heritage sources. The ghostly material is mostly modern tour culture and local paranormal retelling. For Newark Priory, the medieval history is strong, while the monk apparitions are folkloric and depend on later collections and reported experiences. For Ham House, the haunting tradition is better developed in print and visitor culture, with 19th-century literary reference and later investigation, but it still remains a set of claims rather than proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://historicengland.org.uk/listing/the-list/list-entry/1012340" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicengland.org.uk">[historicengland.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicengland.org.uk</span><span class="citation-popover-title">Historic England Guildford Castle, Non Civil Parish</span><span class="citation-popover-snippet">Historic England Guildford Castle, Non Civil Parish</span></span></span>
@@ -355,89 +356,89 @@ The real value of these Surrey places is that they let readers hold both ideas a
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Which Haunted Surrey Places Still Stand?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Which Haunted Surrey Places Still Stand?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Haunted+Surrey+David+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Surrey on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Haunted+Surrey+David+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Surrey">Haunted Surrey</a>
-        </h4>
-        <p class="fr-book-author">By David Rose</p>
-
-        <p class="fr-book-desc">Focuses on haunted sites such as castles, houses and ruins.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Haunted+Surrey+David+Rose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Haunted+Surrey+David+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Surrey on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Haunted+Surrey+David+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Surrey">Haunted Surrey</a>
+</h4>
+<p class="fr-book-author">By David Rose</p>
+        
+<p class="fr-book-desc">Focuses on haunted sites such as castles, houses and ruins.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Haunted+Surrey+David+Rose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Little+Book+of+Surrey+Martin+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Little Book of Surrey on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Little+Book+of+Surrey+Martin+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of Surrey">The Little Book of Surrey</a>
-        </h4>
-        <p class="fr-book-author">By Martin Andrew</p>
-
-        <p class="fr-book-desc">Adds historical background to Surrey landmarks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Little+Book+of+Surrey+Martin+Andrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Little+Book+of+Surrey+Martin+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Little Book of Surrey on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Little+Book+of+Surrey+Martin+Andrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of Surrey">The Little Book of Surrey</a>
+</h4>
+<p class="fr-book-author">By Martin Andrew</p>
+        
+<p class="fr-book-desc">Adds historical background to Surrey landmarks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Little+Book+of+Surrey+Martin+Andrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Folklore+of+Surrey+Janet+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Folklore of Surrey on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Folklore+of+Surrey+Janet+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Folklore of Surrey">The Folklore of Surrey</a>
-        </h4>
-        <p class="fr-book-author">By Janet Dowling</p>
-
-        <p class="fr-book-desc">Explains traditions behind reputedly haunted places.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Folklore+of+Surrey+Janet+Dowling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Folklore+of+Surrey+Janet+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Folklore of Surrey on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Folklore+of+Surrey+Janet+Dowling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Folklore of Surrey">The Folklore of Surrey</a>
+</h4>
+<p class="fr-book-author">By Janet Dowling</p>
+        
+<p class="fr-book-desc">Explains traditions behind reputedly haunted places.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Folklore+of+Surrey+Janet+Dowling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
-        </h4>
-        <p class="fr-book-author">By Jan Harold Brunvand</p>
-
-        <p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vanishing hitchhiker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4614126-M.jpg" alt="Cover for The vanishing hitchhiker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
+</h4>
+<p class="fr-book-author">By Jan Harold Brunvand</p>
+        
+<p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Haunted+Surrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Haunted Surrey</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Little+Book+of+Surrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Little Book of Surrey</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Folklore+of+Surrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Folklore of Surrey</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Haunted+Surrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Haunted Surrey</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Little+Book+of+Surrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Little Book of Surrey</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Folklore+of+Surrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Folklore of Surrey</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

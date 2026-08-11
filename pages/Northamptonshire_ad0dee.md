@@ -792,89 +792,89 @@ Northamptonshire’s haunted character is quieter and more historically rooted t
 The result is an eerie but grounded county folklore. Northamptonshire’s ghosts are not best approached as confirmed supernatural beings. They are local ways of remembering execution, battle, religious change, aristocratic houses, dangerous roads and the strangeness of old buildings after dark. That is why the stories continue to work: they turn history into atmosphere, and atmosphere into a question the county never quite answers.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Northamptonshire Feels So Haunted. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Northamptonshire Feels So Haunted. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Castles of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/891835-M.jpg" alt="Cover for Haunted Castles of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Castles of Britain and Ireland">Haunted Castles of Britain and Ireland</a>
-        </h4>
-        <p class="fr-book-author">By Richard Jones</p>
-
-        <p class="fr-book-desc">Relevant to the county&#x27;s castles, abbeys and historic houses.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Castles of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/891835-M.jpg" alt="Cover for Haunted Castles of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Castles of Britain and Ireland">Haunted Castles of Britain and Ireland</a>
+</h4>
+<p class="fr-book-author">By Richard Jones</p>
+        
+<p class="fr-book-desc">Relevant to the county&#x27;s castles, abbeys and historic houses.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland+Richard+Jones&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosts%3A+A+History+of+Phantoms%2C+Ghouls+and+Other+Spirits+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosts: A History of Phantoms, Ghouls and Other Spirits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12177061-M.jpg" alt="Cover for Ghosts: A History of Phantoms, Ghouls and Other Spirits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghosts%3A+A+History+of+Phantoms%2C+Ghouls+and+Other+Spirits+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts: A History of Phantoms, Ghouls and Other Spirits">Ghosts: A History of Phantoms, Ghouls and Other Spirits</a>
-        </h4>
-        <p class="fr-book-author">By Lisa Morton</p>
-
-        <p class="fr-book-desc">Introduces the folklore themes found across Northamptonshire.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghosts%3A+A+History+of+Phantoms%2C+Ghouls+and+Other+Spirits+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghosts%3A+A+History+of+Phantoms%2C+Ghouls+and+Other+Spirits+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghosts: A History of Phantoms, Ghouls and Other Spirits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12177061-M.jpg" alt="Cover for Ghosts: A History of Phantoms, Ghouls and Other Spirits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghosts%3A+A+History+of+Phantoms%2C+Ghouls+and+Other+Spirits+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts: A History of Phantoms, Ghouls and Other Spirits">Ghosts: A History of Phantoms, Ghouls and Other Spirits</a>
+</h4>
+<p class="fr-book-author">By Lisa Morton</p>
+        
+<p class="fr-book-desc">Introduces the folklore themes found across Northamptonshire.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghosts%3A+A+History+of+Phantoms%2C+Ghouls+and+Other+Spirits+Lisa+Morton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=haunted+britain+antony+d.+hippisley+coxe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open haunted britain on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=haunted+britain+antony+d.+hippisley+coxe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="haunted britain">haunted britain</a>
-        </h4>
-        <p class="fr-book-author">By antony d. hippisley coxe</p>
-
-        <p class="fr-book-desc">Fits readers exploring haunted counties and heritage sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=haunted+britain+antony+d.+hippisley+coxe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=haunted+britain+antony+d.+hippisley+coxe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open haunted britain on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=haunted+britain+antony+d.+hippisley+coxe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="haunted britain">haunted britain</a>
+</h4>
+<p class="fr-book-author">By antony d. hippisley coxe</p>
+        
+<p class="fr-book-desc">Fits readers exploring haunted counties and heritage sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=haunted+britain+antony+d.+hippisley+coxe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+World%27s+Greatest+Ghosts+Roger+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World&#x27;s Greatest Ghosts on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World%27s+Greatest+Ghosts+Roger+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s Greatest Ghosts">The World&#x27;s Greatest Ghosts</a>
-        </h4>
-        <p class="fr-book-author">By Roger Clarke</p>
-
-        <p class="fr-book-desc">Places local legends within Britain&#x27;s wider ghost tradition.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World%27s+Greatest+Ghosts+Roger+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+World%27s+Greatest+Ghosts+Roger+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World&#x27;s Greatest Ghosts on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World%27s+Greatest+Ghosts+Roger+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s Greatest Ghosts">The World&#x27;s Greatest Ghosts</a>
+</h4>
+<p class="fr-book-author">By Roger Clarke</p>
+        
+<p class="fr-book-desc">Places local legends within Britain&#x27;s wider ghost tradition.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World%27s+Greatest+Ghosts+Roger+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Haunted Castles of Britain and Ireland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosts%3A+A+History+of+Phantoms%2C+Ghouls+and+Other+Spirits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosts: A History of Phantoms, Ghouls and Other Spirits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=haunted+britain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">haunted britain</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Haunted+Castles+of+Britain+and+Ireland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Haunted Castles of Britain and Ireland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghosts%3A+A+History+of+Phantoms%2C+Ghouls+and+Other+Spirits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghosts: A History of Phantoms, Ghouls and Other Spirits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=haunted+britain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">haunted britain</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

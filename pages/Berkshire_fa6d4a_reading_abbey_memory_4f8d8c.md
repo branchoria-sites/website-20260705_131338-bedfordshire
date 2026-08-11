@@ -335,7 +335,8 @@ The best way to understand Reading Abbey’s haunting is therefore to walk it as
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uFqyvvXdlj0" title="Bl. Hugh Faringdon (14 November): Butler&#x27;s Lives of the Saints" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uFqyvvXdlj0" target="_blank" rel="noopener noreferrer">Bl. Hugh Faringdon (14 November): Butler&#x27;s Lives of the Saints</a></p><p class="youtube-embed-meta">Channel: Sensus Fidelium</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uFqyvvXdlj0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uFqyvvXdlj0">Open on YouTube</a></p></div></div></div>
 
-## Evidence and embellishment around Reading Abbey
+## How credible is the haunting tradition?
+
 As a supernatural claim, Reading Abbey’s haunting should be treated as weakly evidenced. The available public record supports atmosphere, local unease and modern haunted-place association more strongly than it supports a specific recurring ghost. There is no need to dismiss visitors who find the ruins eerie, but there is also no good reason to present apparitions as established fact.
 
 As haunted history, however, the site is highly credible. The violence attached to Hugh Faringdon is documented by Reading Museum; the Dissolution damage and stripped ruins are described by Reading Museum and Historic England; the royal burial and unresolved archaeology are recorded by Reading Borough Council and the Hidden Abbey Project material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.readingmuseum.org.uk/blog/last-abbot-reading" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: readingmuseum.org.uk">[readingmuseum.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">readingmuseum.org.uk</span><span class="citation-popover-title">Reading Museum The last Abbot of Reading &#124; Reading Museum</span><span class="citation-popover-snippet">Reading Museum The last Abbot of Reading &#124; Reading Museum</span></span></span>
@@ -350,89 +351,89 @@ Within Berkshire’s wider haunted landscape, Reading Abbey therefore belongs be
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Reading Abbey Haunted by History Itself?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Is Reading Abbey Haunted by History Itself?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+stripping+of+the+altars+Eamon+Duffy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The stripping of the altars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4009451-M.jpg" alt="Cover for The stripping of the altars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+stripping+of+the+altars+Eamon+Duffy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The stripping of the altars">The stripping of the altars</a>
-        </h4>
-        <p class="fr-book-author">By Eamon Duffy</p>
-
-        <p class="fr-book-desc">Explains the world destroyed by the Dissolution that shaped Reading Abbey.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+stripping+of+the+altars+Eamon+Duffy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+stripping+of+the+altars+Eamon+Duffy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The stripping of the altars on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4009451-M.jpg" alt="Cover for The stripping of the altars" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+stripping+of+the+altars+Eamon+Duffy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The stripping of the altars">The stripping of the altars</a>
+</h4>
+<p class="fr-book-author">By Eamon Duffy</p>
+        
+<p class="fr-book-desc">Explains the world destroyed by the Dissolution that shaped Reading Abbey.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+stripping+of+the+altars+Eamon+Duffy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Haunted%3A+A+Social+History+of+Ghosts+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Haunted: A Social History of Ghosts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4989341-M.jpg" alt="Cover for The Haunted: A Social History of Ghosts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Haunted%3A+A+Social+History+of+Ghosts+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Haunted: A Social History of Ghosts">The Haunted: A Social History of Ghosts</a>
-        </h4>
-        <p class="fr-book-author">By Robert Curran</p>
-
-        <p class="fr-book-desc">Supports interpretation of haunted historic sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Haunted%3A+A+Social+History+of+Ghosts+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Haunted%3A+A+Social+History+of+Ghosts+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Haunted: A Social History of Ghosts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4989341-M.jpg" alt="Cover for The Haunted: A Social History of Ghosts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Haunted%3A+A+Social+History+of+Ghosts+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Haunted: A Social History of Ghosts">The Haunted: A Social History of Ghosts</a>
+</h4>
+<p class="fr-book-author">By Robert Curran</p>
+        
+<p class="fr-book-desc">Supports interpretation of haunted historic sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Haunted%3A+A+Social+History+of+Ghosts+Robert+Curran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland: In Search of a Haunted Country on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10456761-M.jpg" alt="Cover for Ghostland: In Search of a Haunted Country" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland: In Search of a Haunted Country">Ghostland: In Search of a Haunted Country</a>
-        </h4>
-        <p class="fr-book-author">By Edward Parnell</p>
-
-        <p class="fr-book-desc">Fits the page&#x27;s emphasis on memory rather than apparitions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland: In Search of a Haunted Country on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10456761-M.jpg" alt="Cover for Ghostland: In Search of a Haunted Country" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland: In Search of a Haunted Country">Ghostland: In Search of a Haunted Country</a>
+</h4>
+<p class="fr-book-author">By Edward Parnell</p>
+        
+<p class="fr-book-desc">Fits the page&#x27;s emphasis on memory rather than apparitions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Guide to the Superstitions of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/104941-M.jpg" alt="Cover for The Penguin Guide to the Superstitions of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
-        </h4>
-        <p class="fr-book-author">By Stephen Roud</p>
-
-        <p class="fr-book-desc">Provides background on beliefs surrounding ruins and ghosts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Guide to the Superstitions of Britain and Ireland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/104941-M.jpg" alt="Cover for The Penguin Guide to the Superstitions of Britain and Ireland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
+</h4>
+<p class="fr-book-author">By Stephen Roud</p>
+        
+<p class="fr-book-desc">Provides background on beliefs surrounding ruins and ghosts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+stripping+of+the+altars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The stripping of the altars</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Haunted%3A+A+Social+History+of+Ghosts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Haunted: A Social History of Ghosts</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland: In Search of a Haunted Country</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+stripping+of+the+altars&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The stripping of the altars</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Haunted%3A+A+Social+History+of+Ghosts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Haunted: A Social History of Ghosts</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland%3A+In+Search+of+a+Haunted+Country&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland: In Search of a Haunted Country</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

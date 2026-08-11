@@ -364,7 +364,7 @@ That is why the curse remains more compelling than many country-house legends. I
 <a href="https://www.amazon.com/s?k=The+folklore+of+Sussex+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The folklore of Sussex">The folklore of Sussex</a>
 </h4>
 <p class="fr-book-author">By Jacqueline Simpson</p>
-
+        
 <p class="fr-book-desc">First published 1973. Subjects: Folklore, Social life and customs, Sussex, England, Folklore, great britain.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+folklore+of+Sussex+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ That is why the curse remains more compelling than many country-house legends. I
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
 </h4>
 <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-
+        
 <p class="fr-book-desc">First published 2005. Subjects: Tales, Legends, British Mythology, Legends, great britain.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ That is why the curse remains more compelling than many country-house legends. I
 <a href="https://www.amazon.com/s?k=The+Little+Book+of+Sussex+David+Arscott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Little Book of Sussex">The Little Book of Sussex</a>
 </h4>
 <p class="fr-book-author">By David Arscott</p>
-
+        
 <p class="fr-book-desc">First published 2011. Subjects: Sussex (england), history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Little+Book+of+Sussex+David+Arscott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ That is why the curse remains more compelling than many country-house legends. I
 <a href="https://www.amazon.com/s?k=Haunted+Sussex+David+Arscott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Sussex">Haunted Sussex</a>
 </h4>
 <p class="fr-book-author">By David Arscott</p>
-
+        
 <p class="fr-book-desc">Covers famous Sussex legends including ruined houses.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Haunted+Sussex+David+Arscott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
