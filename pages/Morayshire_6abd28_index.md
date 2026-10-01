@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /morayshire-6abd28-index/
 description: Focused pages that expand on Where Morayshire's Ghost Stories Still....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Morayshire_6abd28
 parent_title: Where Morayshire's Ghost Stories Still...

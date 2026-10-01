@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-05 13:03:04'
+last_modified_at: '2026-07-05 13:03:04'
 parent_title: Haunted Glamorgan
 parent_permalink: /where-glamorgans-ghost-stories-still/
 parent_nav_short_title: Haunted Glamorgan

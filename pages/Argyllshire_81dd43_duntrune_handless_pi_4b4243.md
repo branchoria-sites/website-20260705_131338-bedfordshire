@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-04 14:18:37'
+last_modified_at: '2026-07-04 14:18:37'
 parent_title: Argyllshire Hauntings
 parent_permalink: /why-does-argyllshire-feel-so-haunted/
 parent_nav_short_title: Argyllshire Hauntings

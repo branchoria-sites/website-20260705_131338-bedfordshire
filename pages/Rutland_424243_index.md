@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rutland-424243-index/
 description: Focused pages that expand on Where Does Rutland Hide Its Ghosts?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rutland_424243
 parent_title: Where Does Rutland Hide Its Ghosts?

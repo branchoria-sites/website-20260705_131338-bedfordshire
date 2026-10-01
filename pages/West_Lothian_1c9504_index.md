@@ -8,6 +8,7 @@ permalink: /west-lothian-1c9504-index/
 description: Focused pages that expand on Where West Lothian's Ghost Stories Take
   Hold.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: West_Lothian_1c9504
 parent_title: Where West Lothian's Ghost Stories Take Hold

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /warwickshire-17be07-index/
 description: Focused pages that expand on Where Do Warwickshire's Ghost Stories Begin?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Warwickshire_17be07
 parent_title: Where Do Warwickshire's Ghost Stories Begin?

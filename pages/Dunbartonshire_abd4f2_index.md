@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /dunbartonshire-abd4f2-index/
 description: Focused pages that expand on Where Dunbartonshire's Dark Stories Gather.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Dunbartonshire_abd4f2
 parent_title: Where Dunbartonshire's Dark Stories Gather

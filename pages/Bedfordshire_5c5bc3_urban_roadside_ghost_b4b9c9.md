@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-04 03:00:47'
+last_modified_at: '2026-07-04 03:00:47'
 parent_title: Haunted Bedfordshire
 parent_permalink: /where-bedfordshires-ghost-stories-gather/
 parent_nav_short_title: Haunted Bedfordshire

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kent-4e168a-index/
 description: Focused pages that expand on Why Do Kent's Ghost Stories Still Linger?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kent_4e168a
 parent_title: Why Do Kent's Ghost Stories Still Linger?

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /dumfriesshire-3b4eaf-index/
 description: Focused pages that expand on Where Does Dumfriesshire Feel Most Haunted?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Dumfriesshire_3b4eaf
 parent_title: Where Does Dumfriesshire Feel Most Haunted?

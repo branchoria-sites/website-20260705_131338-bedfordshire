@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /peeblesshire-4beb86-index/
 description: Focused pages that expand on Where Peeblesshire's Ghost Stories Still....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Peeblesshire_4beb86
 parent_title: Where Peeblesshire's Ghost Stories Still...

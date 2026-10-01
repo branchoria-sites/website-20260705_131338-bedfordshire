@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /argyllshire-81dd43-index/
 description: Focused pages that expand on Why Does Argyllshire Feel So Haunted?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Argyllshire_81dd43
 parent_title: Why Does Argyllshire Feel So Haunted?

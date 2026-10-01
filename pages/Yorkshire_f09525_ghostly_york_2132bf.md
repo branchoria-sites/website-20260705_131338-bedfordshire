@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-04 13:31:15'
+last_modified_at: '2026-07-04 13:31:15'
 parent_title: Haunted Yorkshire
 parent_permalink: /why-is-yorkshire-so-full-of-ghosts/
 parent_nav_short_title: Haunted Yorkshire

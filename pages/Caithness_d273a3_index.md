@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /caithness-d273a3-index/
 description: Focused pages that expand on Why Does Caithness Feel So Haunted?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Caithness_d273a3
 parent_title: Why Does Caithness Feel So Haunted?

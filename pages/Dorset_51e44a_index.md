@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /dorset-51e44a-index/
 description: Focused pages that expand on Why Dorset Feels So Haunted.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Dorset_51e44a
 parent_title: Why Dorset Feels So Haunted

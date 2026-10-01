@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /carmarthenshire-0d1a35-index/
 description: Focused pages that expand on What Haunts Carmarthenshire's Oldest Places?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Carmarthenshire_0d1a35
 parent_title: What Haunts Carmarthenshire's Oldest Places?

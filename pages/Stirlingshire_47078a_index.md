@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /stirlingshire-47078a-index/
 description: Focused pages that expand on Where Does Stirlingshire Feel Most Haunted?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Stirlingshire_47078a
 parent_title: Where Does Stirlingshire Feel Most Haunted?

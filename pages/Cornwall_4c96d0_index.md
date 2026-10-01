@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cornwall-4c96d0-index/
 description: Focused pages that expand on Where Cornwall's Ghost Stories Meet History.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Cornwall_4c96d0
 parent_title: Where Cornwall's Ghost Stories Meet History
