@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /somerset-24710f-index/
 description: Focused pages that expand on Where Somerset Keeps Its Ghost Stories.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Somerset_24710f
 parent_title: Where Somerset Keeps Its Ghost Stories

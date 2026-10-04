@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /essex-17957d-index/
 description: Focused pages that expand on What Haunts Essex's Old Roads and Ruins?.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Essex_17957d
 parent_title: What Haunts Essex's Old Roads and Ruins?

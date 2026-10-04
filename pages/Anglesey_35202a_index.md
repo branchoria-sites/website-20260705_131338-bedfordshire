@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /anglesey-35202a-index/
 description: Focused pages that expand on Why Does Anglesey Feel So Haunted?.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Anglesey_35202a
 parent_title: Why Does Anglesey Feel So Haunted?

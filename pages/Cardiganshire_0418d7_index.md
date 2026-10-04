@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /cardiganshire-0418d7-index/
 description: Focused pages that expand on Where Does Cardiganshire's Haunted Story....
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Cardiganshire_0418d7
 parent_title: Where Does Cardiganshire's Haunted Story...

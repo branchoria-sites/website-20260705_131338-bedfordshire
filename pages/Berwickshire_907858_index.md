@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /berwickshire-907858-index/
 description: Focused pages that expand on Where Berwickshire's Ghost Stories Still....
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Berwickshire_907858
 parent_title: Where Berwickshire's Ghost Stories Still...

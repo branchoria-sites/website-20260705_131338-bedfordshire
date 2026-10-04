@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /yorkshire-f09525-index/
 description: Focused pages that expand on Why Is Yorkshire So Full of Ghosts?.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Yorkshire_f09525
 parent_title: Why Is Yorkshire So Full of Ghosts?

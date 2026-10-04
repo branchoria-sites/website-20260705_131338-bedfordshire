@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /angus-34ab6d-index/
 description: Focused pages that expand on Why Angus Haunts Its Old Places.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Angus_34ab6d
 parent_title: Why Angus Haunts Its Old Places

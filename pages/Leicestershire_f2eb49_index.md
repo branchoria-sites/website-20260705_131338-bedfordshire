@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /leicestershire-f2eb49-index/
 description: Focused pages that expand on Where Does Leicestershire Feel Most Haunted?.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Leicestershire_f2eb49
 parent_title: Where Does Leicestershire Feel Most Haunted?
