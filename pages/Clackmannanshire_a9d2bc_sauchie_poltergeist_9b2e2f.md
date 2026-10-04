@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-04 16:42:03'
+last_modified_at: '2026-07-04 16:42:03'
 parent_title: Haunted Clackmannanshire
 parent_permalink: /clackmannanshire/
 parent_nav_short_title: Haunted Clackmannanshire

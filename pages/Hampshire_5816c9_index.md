@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /hampshire-5816c9-index/
 description: Focused pages that expand on Where Hampshire's Ghost Stories Still Gather.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Hampshire_5816c9
 parent_title: Where Hampshire's Ghost Stories Still Gather

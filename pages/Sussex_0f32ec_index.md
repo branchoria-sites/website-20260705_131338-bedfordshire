@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /sussex-0f32ec-index/
 description: Focused pages that expand on Why Does Sussex Feel So Haunted?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Sussex_0f32ec
 parent_title: Why Does Sussex Feel So Haunted?

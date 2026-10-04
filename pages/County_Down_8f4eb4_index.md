@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /county-down-8f4eb4-index/
 description: Focused pages that expand on Where County Down Keeps Its Ghosts.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: County_Down_8f4eb4
 parent_title: Where County Down Keeps Its Ghosts

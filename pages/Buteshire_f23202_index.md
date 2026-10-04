@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /buteshire-f23202-index/
 description: Focused pages that expand on What Haunts Buteshire's Island Castles?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Buteshire_f23202
 parent_title: What Haunts Buteshire's Island Castles?

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /wigtownshire-1186ed-index/
 description: Focused pages that expand on Where Does Wigtownshire Feel Most Haunted?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Wigtownshire_1186ed
 parent_title: Where Does Wigtownshire Feel Most Haunted?

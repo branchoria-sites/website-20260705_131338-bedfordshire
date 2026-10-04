@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-04 10:07:58'
+last_modified_at: '2026-07-04 10:07:58'
 parent_title: Haunted Shropshire
 parent_permalink: /why-does-shropshire-feel-so-haunted/
 parent_nav_short_title: Haunted Shropshire

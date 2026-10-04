@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /east-lothian-a7dd3d-index/
 description: Focused pages that expand on Where East Lothian Feels Most Haunted.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: East_Lothian_a7dd3d
 parent_title: Where East Lothian Feels Most Haunted

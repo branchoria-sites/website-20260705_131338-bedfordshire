@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /sutherland-6dbe51-index/
 description: Focused pages that expand on Why Does Sutherland Feel So Haunted?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Sutherland_6dbe51
 parent_title: Why Does Sutherland Feel So Haunted?

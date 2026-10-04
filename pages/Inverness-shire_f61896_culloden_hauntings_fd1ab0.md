@@ -198,6 +198,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-07-05 13:02:15'
+last_modified_at: '2026-07-05 13:02:15'
 parent_title: Haunted Inverness shire
 parent_permalink: /why-does-inverness-shire-feel-so-haunted/
 parent_nav_short_title: Haunted Inverness shire

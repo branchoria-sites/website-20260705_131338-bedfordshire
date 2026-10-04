@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ross-shire-c9caea-index/
 description: Focused pages that expand on Where Do Ross shire's Ghost Stories Gather?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Ross-shire_c9caea
 parent_title: Where Do Ross shire's Ghost Stories Gather?

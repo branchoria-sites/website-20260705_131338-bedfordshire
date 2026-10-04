@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kinross-shire-c6236f-index/
 description: Focused pages that expand on Why Does Kinross shire Feel So Haunted?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kinross-shire_c6236f
 parent_title: Why Does Kinross shire Feel So Haunted?

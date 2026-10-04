@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /orkney-9ae683-index/
 description: Focused pages that expand on Why Does Orkney Feel So Haunted?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Orkney_9ae683
 parent_title: Why Does Orkney Feel So Haunted?

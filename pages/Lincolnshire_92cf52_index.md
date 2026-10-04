@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /lincolnshire-92cf52-index/
 description: Focused pages that expand on Where Do Lincolnshire's Ghost Stories....
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Lincolnshire_92cf52
 parent_title: Where Do Lincolnshire's Ghost Stories...

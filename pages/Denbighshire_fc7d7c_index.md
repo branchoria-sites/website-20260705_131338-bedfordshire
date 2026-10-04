@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /denbighshire-fc7d7c-index/
 description: Focused pages that expand on Where Does Haunted Denbighshire Begin?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Denbighshire_fc7d7c
 parent_title: Where Does Haunted Denbighshire Begin?

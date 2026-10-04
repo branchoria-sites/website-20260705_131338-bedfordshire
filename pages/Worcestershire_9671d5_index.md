@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /worcestershire-9671d5-index/
 description: Focused pages that expand on Where Does Worcestershire Keep Its Ghosts?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Worcestershire_9671d5
 parent_title: Where Does Worcestershire Keep Its Ghosts?

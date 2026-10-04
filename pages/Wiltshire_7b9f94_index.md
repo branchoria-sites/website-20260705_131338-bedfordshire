@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /wiltshire-7b9f94-index/
 description: Focused pages that expand on Why Does Wiltshire Feel So Haunted?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Wiltshire_7b9f94
 parent_title: Why Does Wiltshire Feel So Haunted?

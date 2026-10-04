@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /glamorgan-7b8978-index/
 description: Focused pages that expand on Where Glamorgan's Ghost Stories Still Gather.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Glamorgan_7b8978
 parent_title: Where Glamorgan's Ghost Stories Still Gather

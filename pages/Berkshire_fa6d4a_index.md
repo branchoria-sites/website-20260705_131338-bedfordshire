@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /berkshire-fa6d4a-index/
 description: Focused pages that expand on Where Berkshire's Ghost Stories Still Linger.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Berkshire_fa6d4a
 parent_title: Where Berkshire's Ghost Stories Still Linger

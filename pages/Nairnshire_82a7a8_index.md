@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /nairnshire-82a7a8-index/
 description: Focused pages that expand on Where Do Nairnshire's Ghost Stories Begin?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Nairnshire_82a7a8
 parent_title: Where Do Nairnshire's Ghost Stories Begin?
