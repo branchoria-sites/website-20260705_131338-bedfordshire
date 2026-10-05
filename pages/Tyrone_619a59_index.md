@@ -6,8 +6,8 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /tyrone-619a59-index/
 description: Focused pages that expand on Where Tyrone's Ghost Stories Still Gather.
-date: '2026'
-last_modified_at: '2026'
+date: '2026-01-01 00:00:00'
+last_modified_at: '2026-01-01 00:00:00'
 layout: default
 parent_basename: Tyrone_619a59
 parent_title: Where Tyrone's Ghost Stories Still Gather
