@@ -210,7 +210,7 @@ site_image_description: A moonlit old road passes between a ruined castle, a chu
 <span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>
 </div>
 <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
-<img src="{{ '/assets/images/Suffolk_831058-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
+<img src="{{ '/assets/images/Suffolk_831058-overview-social.jpg' | relative_url }}" alt="{{ site.title | escape }} overview image" loading="eager" decoding="async" fetchpriority="high">
 <span class="interactive-map-preview-meta uap-world-map-preview-meta">
 <button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="england" data-uap-world-map-region-focus="england" aria-label="Focus map on England">England</button>
 <span class="interactive-map-preview-count uap-world-map-preview-count">4 pages</span>
