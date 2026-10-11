@@ -923,7 +923,7 @@ The most honest conclusion is also the most interesting one. These jails do not 
 40.<a id="endnote-40"></a>
    Source: businessinsider.com  
    Title: peterhead prison riot photos sas made public for first time 2017 9  
-   Link:<a href="https://www.businessinsider.com/peterhead-prison-riot-photos-sas-made-public-for-first-time" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/peterhead-prison-riot-photos-sas-made-public-for-first-time</a>  
+   Link:https://www.businessinsider.com/peterhead-prison-riot-photos-sas-made-public-for-first-time  
 
 41.<a id="endnote-41"></a>
    Source: peterheadtrail.co.uk  
@@ -962,7 +962,7 @@ The most honest conclusion is also the most interesting one. These jails do not 
 
 49.<a id="endnote-49"></a>
    Source: prisonsinspectoratescotland.gov.uk  
-   Link:<a href="https://prisonsinspectoratescotland.gov.uk/publications/hm-chief-inspector-prisons-scotland-annual-report" target="_blank" rel="noopener noreferrer nofollow">https://prisonsinspectoratescotland.gov.uk/publications/hm-chief-inspector-prisons-scotland-annual-report</a>  
+   Link:https://prisonsinspectoratescotland.gov.uk/publications/hm-chief-inspector-prisons-scotland-annual-report  
 
 50.<a id="endnote-50"></a>
    Source: facebook.com  
