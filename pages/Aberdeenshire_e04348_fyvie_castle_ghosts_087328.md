@@ -915,7 +915,6 @@ The best way to understand Fyvie, then, is not to ask whether every reported col
 
 40.<a id="endnote-40"></a>
    Source: douglashistory.co.uk  
-   Link:https://www.douglashistory.co.uk/famgen2/familygroup.php?familyID=F6035&amp;tree=One  
 
 41.<a id="endnote-41"></a>
    Source: aboutaberdeen.com  
